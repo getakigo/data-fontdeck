@@ -1,0 +1,28 @@
+{
+  "name": "data-fontdeck",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Webfont data from Fontdeck.com",
+  "main": "index.js",
+  "scripts": {
+    "pull": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/getakigo/data-fontdeck.git"
+  },
+  "author": "Alistair Brown <npm@alistairjcbrown.com> (http://alistairjcbrown.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/getakigo/data-fontdeck/issues"
+  },
+  "homepage": "https://github.com/getakigo/data-fontdeck#readme",
+  "dependencies": {
+    "cheerio": "~0.19.0",
+    "css": "~2.2.1",
+    "lodash": "~3.10.0",
+    "mkdirp": "~0.5.1",
+    "q": "~1.4.1",
+    "request": "~2.58.0"
+  }
+}
