@@ -27,7 +27,7 @@ var requestBatch = function(deferred, fontList) {
   var timer = +new Date();
 
   var requestPromises = fontsToPopulate.map(function(font) {
-    return request(config.fontData.urlPrefix + font.url);
+    return request(config.fontData.baseURL + font.url);
   });
 
   Q.all(requestPromises).done(function(requestResponses) {
@@ -39,9 +39,10 @@ var requestBatch = function(deferred, fontList) {
         return deferred.reject(new Error('Unknown status code', response.statusCode));
       }
 
-      var fontData = getDataFromPage(body, response.req.path);
-      deferred.notify({ type: 'font-data', value: fontData });
-      allFontData.push(fontData);
+      getDataFromPage(body, response).done(function(fontData) {
+        deferred.notify({ type: 'font-data', value: fontData });
+        allFontData.push(fontData);
+      });
     });
 
     deferred.notify({ type: 'end-batch', duration: ((+new Date() - timer) / 1000) });
@@ -59,13 +60,15 @@ var requestBatch = function(deferred, fontList) {
  *  getDataFromPage
  *
  */
-var getDataFromPage = function(body, path) {
-  $ = cheerio.load(body);
+var getDataFromPage = function(body, response) {
+  var deferred = Q.defer();
+  var $ = cheerio.load(body);
 
   var fontData = utils.getFontDataPlaceholder();
   fontData.name = utils.textFor($('.content .typeface h1').first());
-  fontData.url = path;
+  fontData.url = config.fontData.baseURL + response.req.path;
   fontData.language.push('latin');
+  fontData.fontdeck = utils.getFontProviderPlaceholder();
 
   var metaTable = $('.meta tr');
   metaTable.each(function() {
@@ -98,12 +101,11 @@ var getDataFromPage = function(body, path) {
 
     var fontVariationData = utils.getFontVariationDataPlaceholder();
     fontVariationData.name = utils.normaliseVariationName(utils.textFor(fontLink).replace(new RegExp(fontData.name + '\\s+'), ''));
-    fontVariationData.url = fontLink.attr('href');
-    fontVariationData.fontdeck = {
-      id: fontDeckId,
-      price: utils.textFor(price),
-      slug: fontSlugs[3]
-    };
+    fontVariationData.url = config.fontData.baseURL + fontLink.attr('href');
+    fontVariationData.fontdeck = utils.getFontProviderPlaceholder();
+    fontVariationData.fontdeck.id = fontDeckId;
+    fontVariationData.fontdeck.slug = fontSlugs[3];
+    fontVariationData.fontdeck.price = utils.textFor(price);
 
     fontRule.declarations.forEach(function(declaration) {
       if (declaration.type !== 'declaration') return;
@@ -115,6 +117,7 @@ var getDataFromPage = function(body, path) {
     fontVariationData.description = fontVariationData.css['font-style'][0] + fontVariationData.css['font-weight'][0];
 
     fontData.slug = fontSlugs[2];
+    fontData.fontdeck.slug = fontSlugs[2];
     fontData.variations.push(fontVariationData);
   });
 
@@ -128,14 +131,21 @@ var getDataFromPage = function(body, path) {
     }
   ]);
 
-  // Remove null values
-  fontData = _.pick(fontData, function(value) {
-    return !_.isNull(value);
+  Q.all([ getFontUse(fontData.variations[0]), getFontDeckId(fontData)])
+  .done(function(requestResponses) {
+    fontData.use = requestResponses[0];
+    fontData.fontdeck.id = requestResponses[1];
+    fontData.generatedAt = +new Date();
+
+    // Remove null values
+    fontData = _.pick(fontData, function(value) {
+      return !_.isNull(value);
+    });
+
+    deferred.resolve(fontData);
   });
 
-  fontData.generatedAt = +new Date();
-
-  return fontData;
+  return deferred.promise;
 };
 
 /*
@@ -143,13 +153,64 @@ var getDataFromPage = function(body, path) {
  *
  */
 var getFontStyleDataFromPage = function(body) {
-  $ = cheerio.load(body);
+  var $ = cheerio.load(body);
   var fontStyleData = utils.textFor($('head style').last());
   var styleObj = css.parse(fontStyleData);
 
   return _.filter(styleObj.stylesheet.rules, function(rule) {
     return rule.type === 'rule';
   });
+};
+
+/*
+ *  getFontDeckId
+ *
+ */
+var getFontDeckId = function(fontData) {
+  var deferred = Q.defer();
+
+  var url = config.fontData.baseURL + config.fontData.additionalSources.search.replace('{name}', fontData.name.replace(/\s+/g, '+'));
+  request(url).done(function(requestResponse) {
+    var response = requestResponse[0];
+    var body = requestResponse[1];
+
+    if (response.statusCode !== 200) {
+      return deferred.reject(new Error('Unknown status code', response.statusCode));
+    }
+
+    var searchResults = JSON.parse(body);
+    var matchingResult = _.find(searchResults.results.typeface, function(result) {
+      return result.url === fontData.url.replace(config.fontData.baseURL, '');
+    });
+
+    deferred.resolve(matchingResult.id);
+  });
+
+  return deferred.promise;
+};
+
+/*
+ *  getFontUse
+ *
+ */
+var getFontUse = function(variation) {
+  var deferred = Q.defer();
+
+  request(variation.url).done(function(requestResponse) {
+    var response = requestResponse[0];
+    var body = requestResponse[1];
+
+    if (response.statusCode !== 200) {
+      return deferred.reject(new Error('Unknown status code', response.statusCode));
+    }
+
+    var $ = cheerio.load(body);
+    var fontUse = $('#show-smaller').length === 0 ? 'body' : 'heading';
+
+    deferred.resolve(fontUse);
+  });
+
+  return deferred.promise;
 };
 
 // ---

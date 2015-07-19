@@ -7,9 +7,12 @@ module.exports = {
     cacheLocation: 'data/src/font-list.json'
   },
   fontData: {
-    batchSize: 10,
+    batchSize: 5,
     cacheLocation: 'data/src/',
-    urlPrefix: 'http://fontdeck.com'
+    baseURL: 'http://fontdeck.com',
+    additionalSources: {
+      search: '/quicksearch_xhr?q={name}'
+    }
   },
   smear: {
     delay: 7000,

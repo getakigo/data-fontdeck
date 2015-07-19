@@ -62,7 +62,7 @@ var requestBatch = function(deferred) {
  *
  */
 var getFontsFromPage = function(body) {
-  $ = cheerio.load(body);
+  var $ = cheerio.load(body);
   var fontItems = $('.font-item');
   var listOfFonts = [];
 

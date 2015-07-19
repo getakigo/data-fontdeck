@@ -67,6 +67,13 @@ module.exports = {
     };
   },
 
+  getFontProviderPlaceholder: function() {
+    return {
+      id: null,
+      slug: null
+    };
+  },
+
   normaliseCssDeclaration: function(declaration) {
     if (declaration.property === 'font-weight') {
       if (declaration.value === 'normal') {
