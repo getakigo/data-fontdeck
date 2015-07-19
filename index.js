@@ -62,7 +62,7 @@ var retrieveFontData = function(fonts) {
         var cacheDirectory = config.fontData.cacheLocation + notification.value.name.toLowerCase()[0];
         var cacheLocation = cacheDirectory + '/' + notification.value.slug + '.json';
         utils.writeJSON(cacheLocation, notification.value).done(function() {
-          logger.cacheWritten(cacheLocation);
+          //logger.cacheWritten(cacheLocation);
         });
         break;
     }

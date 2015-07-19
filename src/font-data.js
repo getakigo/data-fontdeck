@@ -34,8 +34,7 @@ var requestBatch = function(deferred, fontList) {
     deferred.notify({ type: 'end-batch', duration: ((+new Date() - timer) / 1000) });
 
     if (fontList.length === 0) {
-      // TODO: Sort font data by font name alhpabetically
-      return deferred.resolve(allFontData);
+      return deferred.resolve(_.sortBy(allFontData, 'name'));
     }
 
     var smear = utils.getInconsistentSmear();
@@ -56,66 +55,21 @@ var getDataFromPage = function(response, body) {
 
   var fontData = utils.getFontDataPlaceholder();
   fontData.name = utils.textFor($('.content .typeface h1').first());
+  fontData.slug = response.req.path.split('/')[2];
   fontData.url = config.fontData.baseURL + response.req.path;
   fontData.language.push('latin');
   fontData.fontdeck = utils.getFontProviderPlaceholder();
+  fontData.fontdeck.slug = fontData.slug;
 
-  var metaTable = $('.meta tr');
-  metaTable.each(function() {
-    var metaProperty = utils.textFor($(this).find('th').first()).toLowerCase();
-    var languageClassification = false;
-    var metaValue = _.reduce($(this).find('td a'), function(list, link) {
-      var value = utils.textFor($(link));
-      if (metaProperty === 'classification' && value === 'Non-Latin') {
-        languageClassification = true;
-      } else if (languageClassification) {
-        languageClassification = false;
-        fontData.language.push(value.toLowerCase());
-      } else {
-        list.push(value);
-      }
-      return list;
-    }, []);
-    fontData[metaProperty] = metaValue;
-  });
+  var metaData = getFontMetaData($);
+  fontData.language = fontData.language.concat(metaData.language);
+  delete metaData.language;
+  _.assign(fontData, metaData);
 
-  if (_.isArray(fontData.foundry)) {
-    fontData.foundry = fontData.foundry[0];
-  }
-
-  if (_.isArray(fontData.superfamily)) {
-    fontData.superfamily = fontData.superfamily[0];
-  }
-
-  var fontRules = getFontStyleDataFromPage(body);
+  var fontRules = getFontStyleData($);
   fontRules.forEach(function(fontRule) {
     var fontItem = $(fontRule.selectors[0]).parents('.font-item');
-    var fontLink = fontItem.find('.font-name a').first();
-    var licenseLink = fontItem.find('.add-to-website-link').first();
-    var price = fontItem.find('.font-price strong').first();
-
-    var fontSlugs = fontLink.attr('href').split('/');
-    var fontDeckId = licenseLink.attr('href').split('/')[2]
-
-    var fontVariationData = utils.getFontVariationDataPlaceholder();
-    fontVariationData.name = utils.normaliseVariationName(utils.textFor(fontLink).replace(new RegExp(fontData.name + '\\s+'), ''));
-    fontVariationData.url = config.fontData.baseURL + fontLink.attr('href');
-    fontVariationData.fontdeck = utils.getFontProviderPlaceholder();
-    fontVariationData.fontdeck.id = fontDeckId;
-    fontVariationData.fontdeck.slug = fontSlugs[3];
-    fontVariationData.fontdeck.price = utils.textFor(price);
-
-    fontRule.declarations.forEach(function(declaration) {
-      if (declaration.type !== 'declaration') return;
-
-      var normalisedDeclaration = utils.normaliseCssDeclaration(declaration);
-      fontVariationData.css[normalisedDeclaration.property] = normalisedDeclaration.value;
-    });
-
-    fontVariationData.description = fontVariationData.css['font-style'][0] + fontVariationData.css['font-weight'][0];
-
-    fontData.slug = fontSlugs[2];
-    fontData.fontdeck.slug = fontSlugs[2];
+    var fontVariationData = getFontVariationData(fontItem, fontData, fontRule.declarations);
     fontData.variations.push(fontVariationData);
   });
 
@@ -129,7 +83,7 @@ var getDataFromPage = function(response, body) {
     }
   ]);
 
-  Q.all([ getFontUse(fontData.variations[0]), getFontDeckId(fontData)])
+  Q.all([getFontUse(fontData.variations[0]), getFontDeckId(fontData)])
   .done(function(requestResponses) {
     fontData.use = requestResponses[0];
     fontData.fontdeck.id = requestResponses[1];
@@ -147,17 +101,89 @@ var getDataFromPage = function(response, body) {
 };
 
 /*
- *  getFontStyleDataFromPage
+ *  getFontStyleData
  *
  */
-var getFontStyleDataFromPage = function(body) {
-  var $ = cheerio.load(body);
+var getFontStyleData = function($) {
   var fontStyleData = utils.textFor($('head style').last());
   var styleObj = css.parse(fontStyleData);
 
   return _.filter(styleObj.stylesheet.rules, function(rule) {
     return rule.type === 'rule';
   });
+};
+
+/*
+ *  getFontMetaData
+ *
+ */
+var getFontMetaData = function($) {
+  var metaData = {
+    language: []
+  };
+
+  var metaTable = $('.meta tr');
+  metaTable.each(function() {
+    var metaProperty = utils.textFor($(this).find('th').first()).toLowerCase();
+    var languageClassification = false;
+    var metaValue = _.reduce($(this).find('td a'), function(list, link) {
+      var value = utils.textFor($(link));
+      if (metaProperty === 'classification' && value === 'Non-Latin') {
+        languageClassification = true;
+      } else if (languageClassification) {
+        languageClassification = false;
+        metaData.language.push(value.toLowerCase());
+      } else {
+        list.push(value);
+      }
+      return list;
+    }, []);
+    metaData[metaProperty] = metaValue;
+  });
+
+  if (_.isArray(metaData.foundry)) {
+    metaData.foundry = metaData.foundry[0];
+  }
+
+  if (_.isArray(metaData.superfamily)) {
+    metaData.superfamily = metaData.superfamily[0];
+  }
+
+  return metaData;
+};
+
+var getFontVariationData = function(fontItem, fontData, cssDeclarations) {
+    var fontLink = fontItem.find('.font-name a').first();
+    var fontSlugs = fontLink.attr('href').split('/');
+    var licenseLink = fontItem.find('.add-to-website-link').first();
+    var fontDeckId = licenseLink.attr('href').split('/')[2]
+    var price = fontItem.find('.font-price strong').first();
+
+    var fontVariationData = utils.getFontVariationDataPlaceholder();
+    fontVariationData.name = utils.normaliseVariationName(utils.textFor(fontLink).replace(new RegExp(fontData.name + '\\s+'), ''));
+    fontVariationData.url = config.fontData.baseURL + fontLink.attr('href');
+    fontVariationData.css = getFontVariationCssData(cssDeclarations);
+    fontVariationData.description = fontVariationData.css['font-style'][0] + fontVariationData.css['font-weight'][0];
+
+    fontVariationData.fontdeck = utils.getFontProviderPlaceholder();
+    fontVariationData.fontdeck.id = fontDeckId;
+    fontVariationData.fontdeck.slug = fontSlugs[3];
+    fontVariationData.fontdeck.price = utils.textFor(price);
+
+    return fontVariationData;
+};
+
+var getFontVariationCssData = function(declarations) {
+  var cssData = {};
+
+  declarations.forEach(function(declaration) {
+    if (declaration.type !== 'declaration') return;
+
+    var normalisedDeclaration = utils.normaliseCssDeclaration(declaration);
+    cssData[normalisedDeclaration.property] = normalisedDeclaration.value;
+  });
+
+  return cssData;
 };
 
 /*
