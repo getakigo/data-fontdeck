@@ -4,7 +4,7 @@ var cheerio = require('cheerio');
 var css = require('css');
 
 var request = Q.denodeify(require('request'));
-var utils = require('./utils/common');
+var utils = require('./common/utils');
 var config = require('./config');
 
 var allFontData = [];
@@ -20,6 +20,7 @@ var requestBatch = function(deferred, fontList) {
   var fontsToPopulate = fontList.splice(0, config.fontData.batchSize)
 
   if (fontsToPopulate.length === 0) {
+    // TODO: Sort font data by font name alhpabetically
     return deferred.resolve(allFontData);
   }
 
@@ -175,26 +176,14 @@ var getFontStyleDataFromPage = function(body) {
  *
  */
 var getFontDeckId = function(fontData) {
-  var deferred = Q.defer();
-
   var url = config.fontData.baseURL + config.fontData.additionalSources.search.replace('{name}', fontData.name.replace(/\s+/g, '+'));
-  request(url).done(function(requestResponse) {
-    var response = requestResponse[0];
-    var body = requestResponse[1];
-
-    if (response.statusCode !== 200) {
-      return deferred.reject(new Error('Unknown status code', response.statusCode));
-    }
-
+  return utils.makeRequest(url, function(response, body) {
     var searchResults = JSON.parse(body);
     var matchingResult = _.find(searchResults.results.typeface, function(result) {
       return result.url === fontData.url.replace(config.fontData.baseURL, '');
     });
-
-    deferred.resolve(matchingResult.id);
+    return matchingResult.id;
   });
-
-  return deferred.promise;
 };
 
 /*
@@ -202,23 +191,10 @@ var getFontDeckId = function(fontData) {
  *
  */
 var getFontUse = function(variation) {
-  var deferred = Q.defer();
-
-  request(variation.url).done(function(requestResponse) {
-    var response = requestResponse[0];
-    var body = requestResponse[1];
-
-    if (response.statusCode !== 200) {
-      return deferred.reject(new Error('Unknown status code', response.statusCode));
-    }
-
+  return utils.makeRequest(variation.url, function(response, body) {
     var $ = cheerio.load(body);
-    var fontUse = $('#show-smaller').length === 0 ? 'body' : 'heading';
-
-    deferred.resolve(fontUse);
+    return $('#show-smaller').length === 0 ? 'body' : 'heading';
   });
-
-  return deferred.promise;
 };
 
 // ---

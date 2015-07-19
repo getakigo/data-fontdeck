@@ -1,9 +1,7 @@
-var fs = require('fs');
 var Q = require('q');
-var mkdirp = Q.denodeify(require('mkdirp'));
-var writeFile = Q.denodeify(fs.writeFile);
 var config = require('./src/config');
-var logger = require('./src/utils/logger');
+var logger = require('./src/common/logger');
+var utils = require('./src/common/utils');
 var fontList = require('./src/font-list');
 var fontData = require('./src/font-data');
 
@@ -31,7 +29,7 @@ var retrieveFontList = function() {
   })
   .done(function(listOfFonts) {
     logger.finish('Found ' + listOfFonts.length + ' fonts in total');
-    writeFile(config.fontList.cacheLocation, JSON.stringify(listOfFonts, null, 4)).done(function() {
+    utils.writeJSON(config.cacheLocation, listOfFonts).done(function() {
       logger.cacheWritten(config.fontList.cacheLocation);
       deferred.resolve(listOfFonts);
     });
@@ -63,12 +61,7 @@ var retrieveFontData = function(fonts) {
       case 'font-data':
         var cacheDirectory = config.fontData.cacheLocation + notification.value.name.toLowerCase()[0];
         var cacheLocation = cacheDirectory + '/' + notification.value.slug + '.json';
-
-        mkdirp(cacheDirectory)
-        .then(function() {
-          return writeFile(cacheLocation, JSON.stringify(notification.value, null, 4));
-        })
-        .done(function() {
+        utils.writeJSON(cacheLocation, notification.value).done(function() {
           logger.cacheWritten(cacheLocation);
         });
         break;
@@ -90,8 +83,8 @@ var retrieveFontData = function(fonts) {
     return retrieveFontData(fonts);
   }).done(function(fontData) {
     logger.out('Data generation complete, outputting final file...');
-    writeFile(config.fontList.outputLocation, JSON.stringify(fontData, null, 4)).done(function() {
-      logger.out('Data saved to ' + config.fontList.outputLocation);
+    utils.writeJSON(config.outputLocation, fontData).done(function() {
+      logger.out('Data saved to ' + config.outputLocation);
     });
   });
 })();

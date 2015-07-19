@@ -1,4 +1,12 @@
+var fs = require('fs');
+var path = require('path');
+var Q = require('q');
 var _ = require('lodash');
+
+var request = Q.denodeify(require('request'));
+var mkdirp = Q.denodeify(require('mkdirp'));
+var writeFile = Q.denodeify(fs.writeFile);
+
 var config = require('../config');
 
 var fontStyles = [
@@ -135,5 +143,33 @@ module.exports = {
 
   textFor: function(element) {
     return element.text().trim();
+  },
+
+  makeRequest: function(url, action) {
+    var deferred = Q.defer();
+
+    request(url).done(function(requestResponse) {
+      var response = requestResponse[0];
+      var body = requestResponse[1];
+
+      if (response.statusCode !== 200) {
+        return deferred.reject(new Error('Unknown status code', response.statusCode));
+      }
+
+      deferred.resolve(action(response, body));
+    });
+
+    return deferred.promise;
+  },
+
+  writeJSON: function(filePath, data) {
+    var deferred = Q.defer();
+    var directory = path.dirname(filePath);
+
+    mkdirp(directory).then(function() {
+      return writeFile(filePath, JSON.stringify(data, null, 4));
+    }).done(deferred.resolve);
+
+    return deferred.promise;
   }
 }
