@@ -1,5 +1,5 @@
 var _ = require('lodash');
-var config = require('./config');
+var config = require('../config');
 
 var fontStyles = [
   'normal',
@@ -28,8 +28,8 @@ var fontWeights = [
 
 var fontWeightsMapping = {};
 
-_.assign(fontWeightsMapping, _.reduce(fontWeights, function(mapping, variation) {
-  mapping[variation.replace('-', '').toLowerCase()] = variation;
+_.assign(fontWeightsMapping, _.reduce(fontWeights, function(mapping, weight) {
+  mapping[weight.replace('-', '').toLowerCase()] = weight;
   return mapping;
 }, {}));
 
@@ -46,13 +46,13 @@ module.exports = {
       name: null,
       url: null,
       slug: null,
+      superfamily: null,
+      use: null,
       classification: [],
       foundry: null,
       designer: null,
       opentype: null,
-      superfamily: null,
       language: [],
-      use: null,
       tags: [],
       variations: []
     };
@@ -99,7 +99,6 @@ module.exports = {
     if (containsItalic === 0 || containsOblique === 0) {
       return 'Regular ' + variationName;
     }
-
 
     var normalisedVariationName = variationName.replace(/italic/i, '').replace(/oblique/i, '').trim();
 

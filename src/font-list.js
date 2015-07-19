@@ -2,7 +2,7 @@ var Q = require('q');
 var _ = require('lodash');
 var cheerio = require('cheerio');
 var request = Q.denodeify(require('request'));
-var utils = require('./utils');
+var utils = require('./utils/common');
 var config = require('./config');
 
 var listOfFonts = [];

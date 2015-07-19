@@ -3,7 +3,7 @@ var Q = require('q');
 var mkdirp = Q.denodeify(require('mkdirp'));
 var writeFile = Q.denodeify(fs.writeFile);
 var config = require('./src/config');
-
+var logger = require('./src/utils/logger');
 var fontList = require('./src/font-list');
 var fontData = require('./src/font-data');
 
@@ -13,34 +13,26 @@ var fontData = require('./src/font-data');
  */
 var retrieveFontList = function() {
   var deferred = Q.defer();
-
-  var startTime = new Date();
-  console.log('Retriving list of fonts from ' + config.provider);
-  console.log('Start time: ' + startTime);
-  console.log('---------------------------------------------------\n');
+  logger.start('Retriving list of fonts from ' + config.provider);
 
   fontList.retrieve()
   .progress(function(notification) {
     switch (notification.type) {
       case 'start-batch':
-        console.log('Requesting batch ' + notification.iteration + ' [' + notification.start + ' - ' + notification.end + '] ...');
+        logger.batchStart(notification);
         break;
       case 'end-batch':
-        console.log('Completed after ' + notification.duration + ' seconds\n');
+        logger.batchEnd(notification);
         break;
       case 'delay-batch':
-        console.log('Delaying next batch by ' + notification.smear + ' seconds\n');
+        logger.batchDelay(notification);
         break;
     }
   })
   .done(function(listOfFonts) {
-    var endTime = new Date();
-    console.log('---------------------------------------------------');
-    console.log('End time: ' + endTime);
-    console.log('Duration: ' + (endTime - startTime) / 1000 + ' seconds')
-    console.log('Found ' + listOfFonts.length + ' fonts in total');
+    logger.finish('Found ' + listOfFonts.length + ' fonts in total');
     writeFile(config.fontList.cacheLocation, JSON.stringify(listOfFonts, null, 4)).done(function() {
-      console.log('Output cached to ' + config.fontList.cacheLocation);
+      logger.cacheWritten(config.fontList.cacheLocation);
       deferred.resolve(listOfFonts);
     });
   });
@@ -54,23 +46,19 @@ var retrieveFontList = function() {
  */
 var retrieveFontData = function(fonts) {
   var deferred = Q.defer();
-
-  var startTime = new Date();
-  console.log('Retriving font data for ' + config.provider);
-  console.log('Start time: ' + startTime);
-  console.log('---------------------------------------------------\n');
+  logger.start('Retriving font data for ' + config.provider);
 
   fontData.retrieve(fonts)
   .progress(function(notification) {
     switch (notification.type) {
       case 'start-batch':
-        console.log('Requesting batch ' + notification.iteration + ' [' + notification.start + ' - ' + notification.end + '] ...');
+        logger.batchStart(notification);
         break;
       case 'end-batch':
-        console.log('Completed after ' + notification.duration + ' seconds\n');
+        logger.batchEnd(notification);
         break;
       case 'delay-batch':
-        console.log('Delaying next batch by ' + notification.smear + ' seconds\n');
+        logger.batchDelay(notification);
         break;
       case 'font-data':
         var cacheDirectory = config.fontData.cacheLocation + notification.value.name.toLowerCase()[0];
@@ -81,16 +69,13 @@ var retrieveFontData = function(fonts) {
           return writeFile(cacheLocation, JSON.stringify(notification.value, null, 4));
         })
         .done(function() {
-          console.log('Output cached to ' + cacheLocation);
+          logger.cacheWritten(cacheLocation);
         });
         break;
     }
   })
   .done(function(fontData) {
-    var endTime = new Date();
-    console.log('---------------------------------------------------');
-    console.log('End time: ' + endTime);
-    console.log('Duration: ' + (endTime - startTime) / 1000 + ' seconds')
+    logger.finish();
     deferred.resolve(fontData);
   });
 
@@ -101,12 +86,12 @@ var retrieveFontData = function(fonts) {
 
 (function() {
   retrieveFontList().then(function(fonts) {
-    console.log('\n');
+    logger.spacer();
     return retrieveFontData(fonts);
   }).done(function(fontData) {
-    console.log('Data generation complete, outputting final file...');
+    logger.out('Data generation complete, outputting final file...');
     writeFile(config.fontList.outputLocation, JSON.stringify(fontData, null, 4)).done(function() {
-      console.log('Data saved to ' + config.fontList.outputLocation);
+      logger.out('Data saved to ' + config.fontList.outputLocation);
     });
   });
 })();

@@ -4,7 +4,7 @@ var cheerio = require('cheerio');
 var css = require('css');
 
 var request = Q.denodeify(require('request'));
-var utils = require('./utils');
+var utils = require('./utils/common');
 var config = require('./config');
 
 var allFontData = [];
@@ -88,6 +88,14 @@ var getDataFromPage = function(body, response) {
     }, []);
     fontData[metaProperty] = metaValue;
   });
+
+  if (_.isArray(fontData.foundry)) {
+    fontData.foundry = fontData.foundry[0];
+  }
+
+  if (_.isArray(fontData.superfamily)) {
+    fontData.superfamily = fontData.superfamily[0];
+  }
 
   var fontRules = getFontStyleDataFromPage(body);
   fontRules.forEach(function(fontRule) {
