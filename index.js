@@ -29,7 +29,7 @@ var retrieveFontList = function() {
   })
   .done(function(listOfFonts) {
     logger.finish('Found ' + listOfFonts.length + ' fonts in total');
-    utils.writeJSON(config.cacheLocation, listOfFonts).done(function() {
+    utils.writeJSON(config.fontList.cacheLocation, listOfFonts).done(function() {
       logger.cacheWritten(config.fontList.cacheLocation);
       deferred.resolve(listOfFonts);
     });

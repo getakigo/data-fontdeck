@@ -6,48 +6,31 @@ var utils = require('./common/utils');
 var config = require('./config');
 
 var listOfFonts = [];
-var batchIterations = 0;
+var batchIteration = 0;
 
 /*
  *  requestBatch
  *
  */
 var requestBatch = function(deferred) {
-  var startPage = batchIterations * config.fontList.batchSize + 1;
+  var startPage = batchIteration * config.fontList.batchSize + 1;
   var endPage = startPage + config.fontList.batchSize;
+  batchIteration++;
 
-  deferred.notify({ type: 'start-batch', iteration: batchIterations+1, start: startPage, end: endPage-1 });
+  deferred.notify({ type: 'start-batch', iteration: batchIteration, start: startPage, end: endPage-1 });
   var timer = +new Date();
 
   var requestPromises = _.range(startPage, endPage).map(function(page) {
-    return request(config.fontList.baseURL.replace('{n}', page));
+    return utils.makeRequest(config.fontList.baseURL.replace('{n}', page), getDataFromPage);
   });
 
   Q.all(requestPromises).done(function(requestResponses) {
-    var endOfPages = false;
-
-    requestResponses.forEach(function(requestResponse) {
-      var response = requestResponse[0];
-      var body = requestResponse[1];
-
-      if (response.statusCode !== 200) {
-        return deferred.reject(new Error('Unknown status code', response.statusCode));
-      }
-
-      var newFonts = getFontsFromPage(body);
-      listOfFonts = listOfFonts.concat(newFonts);
-      if (newFonts.length === 0) {
-        endOfPages = true;
-      }
-    });
-
+    listOfFonts = listOfFonts.concat(_.flatten(requestResponses));
     deferred.notify({ type: 'end-batch', duration: ((+new Date() - timer) / 1000) });
 
-    if (endOfPages) {
+    if (requestResponses[requestResponses.length-1].length === 0) {
       return deferred.resolve(listOfFonts);
     }
-
-    batchIterations++;
 
     var smear = utils.getInconsistentSmear();
     deferred.notify({ type: 'delay-batch', smear: (smear / 1000) });
@@ -58,29 +41,33 @@ var requestBatch = function(deferred) {
 };
 
 /*
- *  getFontsFromPage
+ *  getDataFromPage
  *
  */
-var getFontsFromPage = function(body) {
+var getDataFromPage = function(response, body) {
+  var deferred = Q.defer();
   var $ = cheerio.load(body);
+
   var fontItems = $('.font-item');
-  var listOfFonts = [];
+  var fontsOnPage = [];
 
   fontItems.each(function() {
     var fontLink = $(this).find('.font-name a').first();
-    var fontName = fontLink.html();
+    var fontName = fontLink.text();
 
-    if (_.isNull(fontName)) {
+    if (_.isEmpty(fontName)) {
       return;
     }
 
-    listOfFonts.push({
+    fontsOnPage.push({
       name: fontName,
       url: fontLink.attr('href')
     });
   });
 
-  return listOfFonts;
+  deferred.resolve(fontsOnPage);
+
+  return deferred.promise;
 };
 
 // ---

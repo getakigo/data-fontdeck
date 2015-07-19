@@ -115,7 +115,7 @@ module.exports = {
     }
 
     if (_.isUndefined(normalisedVariationName)) {
-      throw new Error("Unsupported variation: " + variationName);
+      return variationName;
     }
 
     if (containsItalic > 0) normalisedVariationName += ' Italic';
@@ -127,7 +127,7 @@ module.exports = {
   fontStylePriority: function(fontStyle) {
     var index = fontStyles.indexOf(fontStyle);
     if (index < 0) {
-      throw new Error("Unsupported font style: " + fontStyle);
+      index = fontStyles.length;
     }
     return index+1;
   },
@@ -136,7 +136,7 @@ module.exports = {
     var variationWeight = variationName.replace(/italic/i, '').replace(/oblique/i, '').trim();
     var index = fontWeights.indexOf(variationWeight);
     if (index < 0) {
-      throw new Error("Unsupported font weight: " + variationWeight);
+      index = fontWeights.length;
     }
     return index+1;
   },
@@ -156,7 +156,7 @@ module.exports = {
         return deferred.reject(new Error('Unknown status code', response.statusCode));
       }
 
-      deferred.resolve(action(response, body));
+      Q.when(action(response, body)).done(deferred.resolve);
     });
 
     return deferred.promise;

@@ -2,7 +2,6 @@ var Q = require('q');
 var _ = require('lodash');
 var cheerio = require('cheerio');
 var css = require('css');
-
 var request = Q.denodeify(require('request'));
 var utils = require('./common/utils');
 var config = require('./config');
@@ -16,38 +15,28 @@ var batchIterations = 0;
  */
 var requestBatch = function(deferred, fontList) {
   var start = batchIterations * config.fontData.batchSize + 1;
-  var end = start + config.fontData.batchSize;
   var fontsToPopulate = fontList.splice(0, config.fontData.batchSize)
+  batchIterations++;
 
-  if (fontsToPopulate.length === 0) {
-    // TODO: Sort font data by font name alhpabetically
-    return deferred.resolve(allFontData);
-  }
-
-  deferred.notify({ type: 'start-batch', iteration: batchIterations+1, start: start, end: end-1 });
+  deferred.notify({ type: 'start-batch', iteration: batchIterations, start: start, end: start + config.fontData.batchSize - 1 });
   var timer = +new Date();
 
   var requestPromises = fontsToPopulate.map(function(font) {
-    return request(config.fontData.baseURL + font.url);
+    return utils.makeRequest(config.fontData.baseURL + font.url, getDataFromPage);
   });
 
   Q.all(requestPromises).done(function(requestResponses) {
-    requestResponses.forEach(function(requestResponse) {
-      var response = requestResponse[0];
-      var body = requestResponse[1];
-
-      if (response.statusCode !== 200) {
-        return deferred.reject(new Error('Unknown status code', response.statusCode));
-      }
-
-      getDataFromPage(body, response).done(function(fontData) {
-        deferred.notify({ type: 'font-data', value: fontData });
-        allFontData.push(fontData);
-      });
+    requestResponses.forEach(function(fontData) {
+      deferred.notify({ type: 'font-data', value: fontData });
     });
 
+    allFontData = allFontData.concat(_.flatten(requestResponses));
     deferred.notify({ type: 'end-batch', duration: ((+new Date() - timer) / 1000) });
-    batchIterations++;
+
+    if (fontList.length === 0) {
+      // TODO: Sort font data by font name alhpabetically
+      return deferred.resolve(allFontData);
+    }
 
     var smear = utils.getInconsistentSmear();
     deferred.notify({ type: 'delay-batch', smear: (smear / 1000) });
@@ -61,7 +50,7 @@ var requestBatch = function(deferred, fontList) {
  *  getDataFromPage
  *
  */
-var getDataFromPage = function(body, response) {
+var getDataFromPage = function(response, body) {
   var deferred = Q.defer();
   var $ = cheerio.load(body);
 
