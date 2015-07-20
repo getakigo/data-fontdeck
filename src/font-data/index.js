@@ -18,6 +18,7 @@ let requestBatch = (deferred, fontList) => {
   let { batchSize, baseURL } = config.fontData;
   let start = batchIterations * batchSize + 1;
   let fontsToPopulate = fontList.splice(0, batchSize);
+  let timer = +new Date();
   batchIterations++;
 
   deferred.notify({
@@ -27,7 +28,6 @@ let requestBatch = (deferred, fontList) => {
     end: start + batchSize - 1,
     pending: Math.ceil(fontList.length / batchSize)
   });
-  let timer = +new Date();
 
   let requestPromises = fontsToPopulate.map((font) => utils.makeRequest(baseURL + font.url, getDataFromPage));
 
@@ -187,6 +187,9 @@ let getFontVariationCssData = (declarations) => {
  */
 let getFontDeckId = ({ name, url }) => {
   let { baseURL, additionalSources } = config.fontData;
+  if (name.length < 3) {
+    name = `${name}__`.slice(0, 3);
+  }
   let requestUrl = baseURL + additionalSources.search.replace('{name}', name.replace(/\s+/g, '+'));
   return utils.makeRequest(requestUrl, (response, body) => {
     let { results: { typeface } } = JSON.parse(body);

@@ -11,19 +11,17 @@ X What happens if multiple requests are required to create the object?
 X why is feno080203 in the '0' directory?
 
 
-search request can be iffy
- - http://fontdeck.com/quicksearch_xhr?q=avenyt
- - http://fontdeck.com/quicksearch_xhr?q=fm
+X search request can be iffy
+ X http://fontdeck.com/quicksearch_xhr?q=avenyt
+ X http://fontdeck.com/quicksearch_xhr?q=fm
 
-
-look for timer util?
 
 clean up code
  X make generic
  X es6 features
- - tests
- - linting
  - task runner
+ - linting
+ - tests
  - think about how this can be used for the next source!
  - think about how much can be pulled out into util and how much can be made into a template
 
