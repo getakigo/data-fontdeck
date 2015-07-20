@@ -1,5 +1,5 @@
 import Q from 'q';
-import config from './config';
+import config from '../config/fontdeck';
 import logger from './common/logger';
 import utils from './common/utils';
 import fontList from './font-list';

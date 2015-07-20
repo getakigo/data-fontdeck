@@ -4,7 +4,6 @@ import Q from 'q';
 import _ from 'lodash';
 import requestLib from 'request';
 import mkdirpLib from 'mkdirp';
-import config from '../config';
 
 let request = Q.denodeify(requestLib);
 let mkdirp = Q.denodeify(mkdirpLib);
@@ -43,8 +42,7 @@ _.assign(fontWeightsMapping, _.reduce(fontWeights, (mapping, weight) => {
 }, {}));
 
 export default {
-  getInconsistentSmear() {
-    let { skew, delay } = config.smear;
+  getInconsistentSmear({ skew, delay }) {
     let percentageChange = Math.random() * skew / 100;
     let additiveOrSubtractive = Math.random() < 0.5 ? -1 : 1;
     let smear = delay + (delay * percentageChange * additiveOrSubtractive);

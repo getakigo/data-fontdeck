@@ -2,11 +2,9 @@ import Q from 'q';
 import _ from 'lodash';
 import cheerio from 'cheerio';
 import css from 'css';
-import requestLib from 'request';
 import utils from '../common/utils';
-import config from '../config';
+import config from '../../config/fontdeck';
 
-let request = Q.denodeify(requestLib);
 let allFontData = [];
 let batchIterations = 0;
 
@@ -16,7 +14,7 @@ let batchIterations = 0;
  */
 let requestBatch = (deferred, fontList) => {
   let { batchSize, baseURL } = config.fontData;
-  let start = batchIterations * batchSize + 1;
+  let startCount = batchIterations * batchSize + 1;
   let fontsToPopulate = fontList.splice(0, batchSize);
   let timer = +new Date();
   batchIterations++;
@@ -24,8 +22,8 @@ let requestBatch = (deferred, fontList) => {
   deferred.notify({
     type: 'start-batch',
     iteration: batchIterations,
-    start: start,
-    end: start + batchSize - 1,
+    start: startCount,
+    end: startCount + batchSize - 1,
     pending: Math.ceil(fontList.length / batchSize)
   });
 
@@ -43,7 +41,7 @@ let requestBatch = (deferred, fontList) => {
       return deferred.resolve(_.sortBy(allFontData, 'name'));
     }
 
-    let smear = utils.getInconsistentSmear();
+    let smear = utils.getInconsistentSmear(config.smear);
     deferred.notify({ type: 'delay-batch', smear: (smear / 1000) });
     setTimeout(() => requestBatch(deferred, fontList), smear);
   });
@@ -149,7 +147,7 @@ let getFontVariationData = (fontItem, fontData, cssDeclarations) => {
     let fontLink = fontItem.find('.font-name a').first();
     let fontSlugs = fontLink.attr('href').split('/');
     let licenseLink = fontItem.find('.add-to-website-link').first();
-    let fontDeckId = licenseLink.attr('href').split('/')[2]
+    let fontDeckId = licenseLink.attr('href').split('/')[2];
     let price = fontItem.find('.font-price strong').first();
 
     let fontVariationData = utils.getFontVariationDataPlaceholder();

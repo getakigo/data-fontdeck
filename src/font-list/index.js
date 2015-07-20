@@ -1,11 +1,9 @@
 import Q from 'q';
 import _ from 'lodash';
 import cheerio from 'cheerio';
-import requestLib from 'request';
 import utils from '../common/utils';
-import config from '../config';
+import config from '../../config/fontdeck';
 
-let request = Q.denodeify(requestLib);
 let listOfFonts = [];
 let batchIteration = 0;
 
@@ -33,7 +31,7 @@ let requestBatch = (deferred) => {
       return deferred.resolve(listOfFonts);
     }
 
-    let smear = utils.getInconsistentSmear();
+    let smear = utils.getInconsistentSmear(config.smear);
     deferred.notify({ type: 'delay-batch', smear: (smear / 1000) });
     setTimeout(() => requestBatch(deferred), smear);
   });
