@@ -1,21 +1,22 @@
-var _ = require('lodash');
-var startTime;
+import _ from 'lodash';
 
-module.exports = {
-  start: function(startMessage) {
+let startTime;
+
+export default {
+  start(startMessage) {
     startTime = new Date();
     if (!_.isUndefined(startMessage)) {
       this.out(startMessage);
     }
-    this.out('Start time: ' + startTime);
+    this.out(`Start time: ${startTime}`);
     this.out('---------------------------------------------------\n');
   },
 
-  finish: function(finishMessage) {
-    var endTime = new Date();
+  finish(finishMessage) {
+    let endTime = new Date();
     this.out('---------------------------------------------------');
-    this.out('End time: ' + endTime);
-    this.out('Duration: ' + (endTime - startTime) / 1000 + ' seconds');
+    this.out(`End time: ${endTime}`);
+    this.out(`Duration: ${(endTime - startTime) / 1000} seconds`);
     if (!_.isUndefined(finishMessage)) {
       this.out(finishMessage);
     }
@@ -24,23 +25,31 @@ module.exports = {
 
   out: console.log,
 
-  spacer: function() {
+  spacer() {
     this.out('\n');
   },
 
-  batchStart: function(notification) {
-    this.out('Requesting batch ' + notification.iteration + ' [' + notification.start + ' - ' + notification.end + '] ...');
+  batchStart({ iteration, start, end, pending }) {
+    let request = `Requesting batch ${iteration}`;
+    let remaining = ''
+    let range = ` [${start} - ${end}] ...`;
+
+    if (!_.isUndefined(pending)) {
+      remaining = ` (${pending} left)`;
+    }
+
+    this.out(`${request}${remaining}${range}`);
   },
 
-  batchEnd: function(notification) {
-    this.out('Completed after ' + notification.duration + ' seconds\n');
+  batchEnd({ duration }) {
+    this.out(`Completed after ${duration} seconds\n`);
   },
 
-  batchDelay: function(notification) {
-    this.out('Delaying next batch by ' + notification.smear + ' seconds\n');
+  batchDelay({ smear }) {
+    this.out(`Delaying next batch by ${smear} seconds\n`);
   },
 
-  cacheWritten: function(location) {
-    this.out('Output cached to ' + location);
+  cacheWritten(location) {
+    this.out(`Output cached to ${location}`);
   }
 }

@@ -1,0 +1,39 @@
+X Pull out language information
+X standardise variation names
+X sorting based on styles
+X remove null values
+X Spit font data into named directories inside of src
+X check for any other TODOs
+X What happens if multiple requests are required to create the object?
+ X The seach id might be a good way to architect for this!
+ X "Use" - means opening each variation page to set 'body' or 'headline'
+
+X why is feno080203 in the '0' directory?
+
+
+search request can be iffy
+ - http://fontdeck.com/quicksearch_xhr?q=avenyt
+ - http://fontdeck.com/quicksearch_xhr?q=fm
+
+
+look for timer util?
+
+clean up code
+ X make generic
+ X es6 features
+ - tests
+ - linting
+ - task runner
+ - think about how this can be used for the next source!
+ - think about how much can be pulled out into util and how much can be made into a template
+
+font data writes are async, and so can happen once everything else has finished - have the final output wait for these writes to finish
+
+Add in common mappings, eg. Demi Bold => Semi-Bold
+
+Different variations can have different uses - update use to pull each page instead of sampling one?
+
+possible to resume if script fails? eg. check json files for timestamp and if within certain period, don't re-request data
+
+Validation script to confirm that no required keys are missing from each of the JSON objects?
+ -- Separate repo so it can be pulled into all

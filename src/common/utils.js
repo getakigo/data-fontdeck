@@ -1,21 +1,22 @@
-var fs = require('fs');
-var path = require('path');
-var Q = require('q');
-var _ = require('lodash');
+import fs from 'fs';
+import path from 'path';
+import Q from 'q';
+import _ from 'lodash';
+import requestLib from 'request';
+import mkdirpLib from 'mkdirp';
+import config from '../config';
 
-var request = Q.denodeify(require('request'));
-var mkdirp = Q.denodeify(require('mkdirp'));
-var writeFile = Q.denodeify(fs.writeFile);
+let request = Q.denodeify(requestLib);
+let mkdirp = Q.denodeify(mkdirpLib);
+let writeFile = Q.denodeify(fs.writeFile);
 
-var config = require('../config');
-
-var fontStyles = [
+let fontStyles = [
   'normal',
   'italic',
   'oblique'
 ];
 
-var fontWeights = [
+let fontWeights = [
   'Hairline',
   'Extra-thin',
   'Thin',
@@ -34,22 +35,23 @@ var fontWeights = [
   'Ultra-black'
 ];
 
-var fontWeightsMapping = {};
+let fontWeightsMapping = {};
 
-_.assign(fontWeightsMapping, _.reduce(fontWeights, function(mapping, weight) {
+_.assign(fontWeightsMapping, _.reduce(fontWeights, (mapping, weight) => {
   mapping[weight.replace('-', '').toLowerCase()] = weight;
   return mapping;
 }, {}));
 
-module.exports = {
-  getInconsistentSmear: function() {
-    var percentageChange = Math.random() * config.smear.skew / 100;
-    var additiveOrSubtractive = Math.random() < 0.5 ? -1 : 1;
-    var smear = config.smear.delay + (config.smear.delay * percentageChange * additiveOrSubtractive);
+export default {
+  getInconsistentSmear() {
+    let { skew, delay } = config.smear;
+    let percentageChange = Math.random() * skew / 100;
+    let additiveOrSubtractive = Math.random() < 0.5 ? -1 : 1;
+    let smear = delay + (delay * percentageChange * additiveOrSubtractive);
     return parseInt(smear, 10);
   },
 
-  getFontDataPlaceholder: function() {
+  getFontDataPlaceholder() {
     return {
       name: null,
       url: null,
@@ -66,7 +68,7 @@ module.exports = {
     };
   },
 
-  getFontVariationDataPlaceholder: function() {
+  getFontVariationDataPlaceholder() {
     return {
       name: null,
       description: null,
@@ -75,14 +77,14 @@ module.exports = {
     };
   },
 
-  getFontProviderPlaceholder: function() {
+  getFontProviderPlaceholder() {
     return {
       id: null,
       slug: null
     };
   },
 
-  normaliseCssDeclaration: function(declaration) {
+  normaliseCssDeclaration(declaration) {
     if (declaration.property === 'font-weight') {
       if (declaration.value === 'normal') {
         declaration.value = '400';
@@ -93,22 +95,22 @@ module.exports = {
     }
 
     if (declaration.property === 'font-family') {
-      var value = declaration.value.split(',')[0];
+      let value = declaration.value.split(',')[0];
       declaration.value = value.replace(/['"]/g, '');
     }
 
     return declaration;
   },
 
-  normaliseVariationName: function(variationName) {
-    var containsItalic = variationName.toLowerCase().indexOf('italic');
-    var containsOblique = variationName.toLowerCase().indexOf('oblique');
+  normaliseVariationName(variationName) {
+    let containsItalic = variationName.toLowerCase().indexOf('italic');
+    let containsOblique = variationName.toLowerCase().indexOf('oblique');
 
     if (containsItalic === 0 || containsOblique === 0) {
       return 'Regular ' + variationName;
     }
 
-    var normalisedVariationName = variationName.replace(/italic/i, '').replace(/oblique/i, '').trim();
+    let normalisedVariationName = variationName.replace(/italic/i, '').replace(/oblique/i, '').trim();
 
     if (fontWeights.indexOf(normalisedVariationName) === -1) {
       normalisedVariationName = fontWeightsMapping[normalisedVariationName.replace(/\s+/g, '').toLowerCase()];
@@ -124,34 +126,31 @@ module.exports = {
     return normalisedVariationName;
   },
 
-  fontStylePriority: function(fontStyle) {
-    var index = fontStyles.indexOf(fontStyle);
+  fontStylePriority(fontStyle) {
+    let index = fontStyles.indexOf(fontStyle);
     if (index < 0) {
       index = fontStyles.length;
     }
     return index+1;
   },
 
-  fontWeightPriority: function(variationName) {
-    var variationWeight = variationName.replace(/italic/i, '').replace(/oblique/i, '').trim();
-    var index = fontWeights.indexOf(variationWeight);
+  fontWeightPriority(variationName) {
+    let variationWeight = variationName.replace(/italic/i, '').replace(/oblique/i, '').trim();
+    let index = fontWeights.indexOf(variationWeight);
     if (index < 0) {
       index = fontWeights.length;
     }
     return index+1;
   },
 
-  textFor: function(element) {
+  textFor(element) {
     return element.text().trim();
   },
 
-  makeRequest: function(url, action) {
-    var deferred = Q.defer();
+  makeRequest(url, action) {
+    let deferred = Q.defer();
 
-    request(url).done(function(requestResponse) {
-      var response = requestResponse[0];
-      var body = requestResponse[1];
-
+    request(url).done(([ response, body ]) => {
       if (response.statusCode !== 200) {
         return deferred.reject(new Error('Unknown status code', response.statusCode));
       }
@@ -162,11 +161,11 @@ module.exports = {
     return deferred.promise;
   },
 
-  writeJSON: function(filePath, data) {
-    var deferred = Q.defer();
-    var directory = path.dirname(filePath);
+  writeJSON(filePath, data) {
+    let deferred = Q.defer();
+    let directory = path.dirname(filePath);
 
-    mkdirp(directory).then(function() {
+    mkdirp(directory).then(() => {
       return writeFile(filePath, JSON.stringify(data, null, 4));
     }).done(deferred.resolve);
 
