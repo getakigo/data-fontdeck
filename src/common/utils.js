@@ -5,17 +5,17 @@ import _ from 'lodash';
 import requestLib from 'request';
 import mkdirpLib from 'mkdirp';
 
-let request = Q.denodeify(requestLib);
-let mkdirp = Q.denodeify(mkdirpLib);
-let writeFile = Q.denodeify(fs.writeFile);
+const request = Q.denodeify(requestLib);
+const mkdirp = Q.denodeify(mkdirpLib);
+const writeFile = Q.denodeify(fs.writeFile);
 
-let fontStyles = [
+const fontStyles = [
   'normal',
   'italic',
   'oblique'
 ];
 
-let fontWeights = [
+const fontWeights = [
   'Hairline',
   'Extra-thin',
   'Thin',
@@ -34,7 +34,7 @@ let fontWeights = [
   'Ultra-black'
 ];
 
-let fontWeightsMapping = {};
+const fontWeightsMapping = {};
 
 _.assign(fontWeightsMapping, _.reduce(fontWeights, (mapping, weight) => {
   mapping[weight.replace('-', '').toLowerCase()] = weight;
@@ -43,9 +43,9 @@ _.assign(fontWeightsMapping, _.reduce(fontWeights, (mapping, weight) => {
 
 export default {
   getInconsistentSmear({ skew, delay }) {
-    let percentageChange = Math.random() * skew / 100;
-    let additiveOrSubtractive = Math.random() < 0.5 ? -1 : 1;
-    let smear = delay + (delay * percentageChange * additiveOrSubtractive);
+    const percentageChange = Math.random() * skew / 100;
+    const additiveOrSubtractive = Math.random() < 0.5 ? -1 : 1;
+    const smear = delay + delay * percentageChange * additiveOrSubtractive;
     return parseInt(smear, 10);
   },
 
@@ -93,7 +93,7 @@ export default {
     }
 
     if (declaration.property === 'font-family') {
-      let value = declaration.value.split(',')[0];
+      const value = declaration.value.split(',')[0];
       declaration.value = value.replace(/['"]/g, '');
     }
 
@@ -101,27 +101,32 @@ export default {
   },
 
   normaliseVariationName(variationName) {
-    let containsItalic = variationName.toLowerCase().indexOf('italic');
-    let containsOblique = variationName.toLowerCase().indexOf('oblique');
+    const containsItalic = variationName.toLowerCase().indexOf('italic');
+    const containsOblique = variationName.toLowerCase().indexOf('oblique');
+    let normalisedName = variationName.replace(/italic/i, '').replace(/oblique/i, '').trim();
 
     if (containsItalic === 0 || containsOblique === 0) {
       return 'Regular ' + variationName;
     }
 
-    let normalisedVariationName = variationName.replace(/italic/i, '').replace(/oblique/i, '').trim();
 
-    if (fontWeights.indexOf(normalisedVariationName) === -1) {
-      normalisedVariationName = fontWeightsMapping[normalisedVariationName.replace(/\s+/g, '').toLowerCase()];
+    if (fontWeights.indexOf(normalisedName) === -1) {
+      normalisedName = fontWeightsMapping[normalisedName.replace(/\s+/g, '').toLowerCase()];
     }
 
-    if (_.isUndefined(normalisedVariationName)) {
+    if (_.isUndefined(normalisedName)) {
       return variationName;
     }
 
-    if (containsItalic > 0) normalisedVariationName += ' Italic';
-    if (containsOblique > 0) normalisedVariationName += ' Oblique';
+    if (containsItalic > 0) {
+      normalisedName += ' Italic';
+    }
 
-    return normalisedVariationName;
+    if (containsOblique > 0) {
+      normalisedName += ' Oblique';
+    }
+
+    return normalisedName;
   },
 
   fontStylePriority(fontStyle) {
@@ -129,16 +134,16 @@ export default {
     if (index < 0) {
       index = fontStyles.length;
     }
-    return index+1;
+    return index + 1;
   },
 
   fontWeightPriority(variationName) {
-    let variationWeight = variationName.replace(/italic/i, '').replace(/oblique/i, '').trim();
+    const variationWeight = variationName.replace(/italic/i, '').replace(/oblique/i, '').trim();
     let index = fontWeights.indexOf(variationWeight);
     if (index < 0) {
       index = fontWeights.length;
     }
-    return index+1;
+    return index + 1;
   },
 
   textFor(element) {
@@ -146,7 +151,7 @@ export default {
   },
 
   makeRequest(url, action) {
-    let deferred = Q.defer();
+    const deferred = Q.defer();
 
     request(url).done(([ response, body ]) => {
       if (response.statusCode !== 200) {
@@ -160,8 +165,8 @@ export default {
   },
 
   writeJSON(filePath, data) {
-    let deferred = Q.defer();
-    let directory = path.dirname(filePath);
+    const deferred = Q.defer();
+    const directory = path.dirname(filePath);
 
     mkdirp(directory).then(() => {
       return writeFile(filePath, JSON.stringify(data, null, 4));
@@ -169,4 +174,4 @@ export default {
 
     return deferred.promise;
   }
-}
+};

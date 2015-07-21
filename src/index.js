@@ -9,8 +9,8 @@ import fontData from './font-data';
  *  retrieveFontList
  *
  */
-let retrieveFontList = () => {
-  let deferred = Q.defer();
+const retrieveFontList = () => {
+  const deferred = Q.defer();
   logger.start(`Retriving list of fonts from ${config.provider}`);
 
   fontList.retrieve()
@@ -24,6 +24,8 @@ let retrieveFontList = () => {
         break;
       case 'delay-batch':
         logger.batchDelay(notification);
+        break;
+      default:
         break;
     }
   })
@@ -42,13 +44,13 @@ let retrieveFontList = () => {
  *  retrieveFontData
  *
  */
-let retrieveFontData = (fonts) => {
-  let deferred = Q.defer();
+const retrieveFontData = (fonts) => {
+  const deferred = Q.defer();
   logger.start(`Retriving font data for ${config.provider}`);
 
   fontData.retrieve(fonts)
   .progress((notification) => {
-    var { type, value} = notification;
+    const { type, value } = notification;
     switch (type) {
       case 'start-batch':
         logger.batchStart(notification);
@@ -60,17 +62,19 @@ let retrieveFontData = (fonts) => {
         logger.batchDelay(notification);
         break;
       case 'font-data':
-        let cacheDirectory = config.fontData.cacheLocation + value.name.toLowerCase()[0];
-        let cacheLocation = `${cacheDirectory}/${value.slug}.json`;
+        const cacheDirectory = config.fontData.cacheLocation + value.name.toLowerCase()[0];
+        const cacheLocation = `${cacheDirectory}/${value.slug}.json`;
         utils.writeJSON(cacheLocation, value).done(() => {
           //logger.cacheWritten(cacheLocation);
         });
         break;
+      default:
+        break;
     }
   })
-  .done((fontData) => {
+  .done((data) => {
     logger.finish();
-    deferred.resolve(fontData);
+    deferred.resolve(data);
   });
 
   return deferred.promise;
@@ -83,11 +87,11 @@ export default {
     retrieveFontList().then((fonts) => {
       logger.spacer();
       return retrieveFontData(fonts);
-    }).done((fontData) => {
+    }).done((data) => {
       logger.out('Data generation complete, outputting final file...');
-      utils.writeJSON(config.outputLocation, fontData).done(() => {
+      utils.writeJSON(config.outputLocation, data).done(() => {
         logger.out(`Data saved to ${config.outputLocation}`);
       });
     });
   }
-}
+};

@@ -13,7 +13,7 @@ export default {
   },
 
   finish(finishMessage) {
-    let endTime = new Date();
+    const endTime = new Date();
     this.out('---------------------------------------------------');
     this.out(`End time: ${endTime}`);
     this.out(`Duration: ${(endTime - startTime) / 1000} seconds`);
@@ -30,9 +30,9 @@ export default {
   },
 
   batchStart({ iteration, start, end, pending }) {
-    let request = `Requesting batch ${iteration}`;
-    let remaining = ''
-    let range = ` [${start} - ${end}] ...`;
+    const request = `Requesting batch ${iteration}`;
+    const range = ` [${start} - ${end}] ...`;
+    let remaining = '';
 
     if (!_.isUndefined(pending)) {
       remaining = ` (${pending} left)`;
@@ -52,4 +52,4 @@ export default {
   cacheWritten(location) {
     this.out(`Output cached to ${location}`);
   }
-}
+};

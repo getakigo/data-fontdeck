@@ -19,8 +19,8 @@ X search request can be iffy
 clean up code
  X make generic
  X es6 features
- - task runner
- - linting
+ X task runner
+ X linting
  - tests
  - think about how this can be used for the next source!
  - think about how much can be pulled out into util and how much can be made into a template

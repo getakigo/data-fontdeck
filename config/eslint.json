@@ -7,7 +7,7 @@
   "globals": {},
   "rules": {
     "accessor-pairs": [2, { "getWithoutSet": true }],
-    "array-bracket-spacing": [2, "never"],
+    "array-bracket-spacing": [2, "always"],
     "brace-style": 2,
     "consistent-return": 2,
     "comma-style": [2, "last"],

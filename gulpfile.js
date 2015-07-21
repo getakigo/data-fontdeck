@@ -19,7 +19,9 @@ var filePathLintConfig = require('./config/filepath-lint');
 // ---
 
 gulp.task('clean-data', function () {
-  return gulp.src([ './data/cache/*.json', './data/dist/*.json' ])
+  return gulp.src([ './data/cache/**', '!./data/cache', '!./data/cache/.gitkeep',
+                    './data/dist/**',  '!./data/dist',  '!./data/dist/.gitkeep' ],
+                  { read: false })
     .pipe(plugin.plumber())
     .pipe(vinylPaths(del))
 });
