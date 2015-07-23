@@ -1,0 +1,102 @@
+{
+    "name": "Yodo",
+    "url": "http://fontdeck.com/typeface/yodo",
+    "slug": "yodo",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Experimental",
+        "Display",
+        "Futuristic",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "The Northern Block",
+    "designer": [
+        "Jonathan Hill"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "architectural",
+        "title",
+        "techno",
+        "technical",
+        "geometric",
+        "avant garde",
+        "linear",
+        "nightclub",
+        "balanced",
+        "contemporary",
+        "magazine",
+        "poster",
+        "angular",
+        "modern",
+        "minimalism",
+        "elegant",
+        "cool",
+        "digital",
+        "fashionable",
+        "light",
+        "delicate",
+        "linear sans",
+        "headline",
+        "futuristic",
+        "clean",
+        "display",
+        "disco"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/yodo/light",
+            "css": {
+                "font-family": "Yodo Light",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2436",
+                "slug": "light",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/yodo/regular",
+            "css": {
+                "font-family": "Yodo Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2437",
+                "slug": "regular",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/yodo/bold",
+            "css": {
+                "font-family": "Yodo Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2439",
+                "slug": "bold",
+                "price": "$9.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "592",
+        "slug": "yodo"
+    },
+    "generatedAt": 1437609520393
+}

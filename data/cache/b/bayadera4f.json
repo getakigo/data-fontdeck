@@ -1,0 +1,85 @@
+{
+    "name": "Bayadera 4F",
+    "url": "http://fontdeck.com/typeface/bayadera4f",
+    "slug": "bayadera4f",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "4th february",
+    "designer": [
+        "Sergiy S. Tkachenko"
+    ],
+    "language": [
+        "latin",
+        "cyrillic"
+    ],
+    "tags": [
+        "eau de parfum",
+        "eau de toilette",
+        "female",
+        "feminine",
+        "sans-serif",
+        "cosmetics",
+        "monoline",
+        "accents",
+        "curls",
+        "fragrance",
+        "magazine",
+        "woman",
+        "upright script",
+        "women",
+        "style",
+        "swashes",
+        "curly",
+        "beautiful",
+        "beauty",
+        "fashion",
+        "luxury",
+        "unique",
+        "delicate",
+        "editorial",
+        "swash",
+        "girly",
+        "aroma",
+        "wedding"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/bayadera4f/light",
+            "css": {
+                "font-family": "Bayadera 4F Light",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3855",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/bayadera4f/regular",
+            "css": {
+                "font-family": "Bayadera 4F Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3575",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "861",
+        "slug": "bayadera4f"
+    },
+    "generatedAt": 1437610023975
+}

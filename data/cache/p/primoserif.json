@@ -1,0 +1,100 @@
+{
+    "name": "Primo Serif",
+    "url": "http://fontdeck.com/typeface/primoserif",
+    "slug": "primoserif",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Garalde"
+    ],
+    "foundry": "Playtype",
+    "designer": [
+        "Jonas Hecksher"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/primoserif/regular",
+            "css": {
+                "font-family": "Primo Serif Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5337",
+                "slug": "regular",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/primoserif/italic",
+            "css": {
+                "font-family": "Primo Serif Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5341",
+                "slug": "italic",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/primoserif/bold",
+            "css": {
+                "font-family": "Primo Serif Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5338",
+                "slug": "bold",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Demi Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/primoserif/demibold",
+            "css": {
+                "font-family": "Primo Serif Demi Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5340",
+                "slug": "demibold",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Caps",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/primoserif/caps",
+            "css": {
+                "font-family": "Primo Serif Caps",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5339",
+                "slug": "caps",
+                "price": "$40.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1211",
+        "slug": "primoserif"
+    },
+    "generatedAt": 1437610559306
+}

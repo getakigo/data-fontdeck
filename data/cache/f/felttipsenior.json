@@ -1,0 +1,51 @@
+{
+    "name": "Felt Tip Senior",
+    "url": "http://fontdeck.com/typeface/felttipsenior",
+    "slug": "felttipsenior",
+    "superfamily": "Felt Tip",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Handwritten"
+    ],
+    "foundry": "Mark Simonson Studio",
+    "designer": [
+        "Mark Simonson"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "script",
+        "handwriting",
+        "felt tip",
+        "informal",
+        "fun",
+        "pen",
+        "superfamily",
+        "organic",
+        "wide"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/felttipsenior/regular",
+            "css": {
+                "font-family": "Felt Tip Senior Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1280",
+                "slug": "regular",
+                "price": "$9.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "349",
+        "slug": "felttipsenior"
+    },
+    "generatedAt": 1437609204441
+}

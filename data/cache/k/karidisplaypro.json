@@ -1,0 +1,64 @@
+{
+    "name": "Kari Display Pro",
+    "url": "http://fontdeck.com/typeface/karidisplaypro",
+    "slug": "karidisplaypro",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Handwritten",
+        "Display",
+        "Script"
+    ],
+    "foundry": "Positype",
+    "designer": [
+        "Neil Summerour"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "script",
+        "bold",
+        "swashes",
+        "swash",
+        "display",
+        "high-contrast"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/karidisplaypro/regular",
+            "css": {
+                "font-family": "Kari Display Pro Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3508",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/karidisplaypro/italic",
+            "css": {
+                "font-family": "Kari Display Pro Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3509",
+                "slug": "italic",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "853",
+        "slug": "karidisplaypro"
+    },
+    "generatedAt": 1437609995242
+}

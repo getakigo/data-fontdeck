@@ -1,0 +1,74 @@
+{
+    "name": "Blitzplakat",
+    "url": "http://fontdeck.com/typeface/blitzplakat",
+    "slug": "blitzplakat",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "All caps",
+        "Display",
+        "Grunge",
+        "Display",
+        "Poster"
+    ],
+    "foundry": "FaceType",
+    "designer": [
+        "Marcus Sterz"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "expressive",
+        "1920s",
+        "plakat",
+        "personal",
+        "sans-serif",
+        "dynamic",
+        "europe",
+        "fat",
+        "child",
+        "scrapbook",
+        "impulsive",
+        "bauhaus",
+        "poster",
+        "decorative",
+        "authentic",
+        "1930s",
+        "funny",
+        "creative",
+        "old",
+        "retro",
+        "vienna",
+        "lively",
+        "headline",
+        "heavy",
+        "german",
+        "display",
+        "kid",
+        "primitive",
+        "letraset"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/blitzplakat/regular",
+            "css": {
+                "font-family": "Blitzplakat Regular",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5117",
+                "slug": "regular",
+                "price": "$5.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1216",
+        "slug": "blitzplakat"
+    },
+    "generatedAt": 1437610614029
+}

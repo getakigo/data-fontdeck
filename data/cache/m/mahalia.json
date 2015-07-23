@@ -1,0 +1,63 @@
+{
+    "name": "Mahalia",
+    "url": "http://fontdeck.com/typeface/mahalia",
+    "slug": "mahalia",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Casual"
+    ],
+    "foundry": "Insigne",
+    "designer": [
+        "Jeremy Dooley"
+    ],
+    "opentype": [
+        "liga"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "1960s",
+        "1940s",
+        "opentype",
+        "1920s"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/mahalia/regular",
+            "css": {
+                "font-family": "Mahalia Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "630",
+                "slug": "regular",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/mahalia/bold",
+            "css": {
+                "font-family": "Mahalia Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "631",
+                "slug": "bold",
+                "price": "$7.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "215",
+        "slug": "mahalia"
+    },
+    "generatedAt": 1437609026283
+}

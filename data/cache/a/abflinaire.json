@@ -1,0 +1,123 @@
+{
+    "name": "ABF Linéaire",
+    "url": "http://fontdeck.com/typeface/abflinaire",
+    "slug": "abflinaire",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Stencil"
+    ],
+    "foundry": "Nouvelle Noire",
+    "designer": [
+        "Philippe Apeloig"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "modern",
+        "abstract",
+        "modern font",
+        "stencil",
+        "modernism",
+        "bibliothèque",
+        "led"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/abflinaire/thin",
+            "css": {
+                "font-family": "ABF Linéaire Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7665",
+                "slug": "thin",
+                "price": "$25.00"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/abflinaire/light",
+            "css": {
+                "font-family": "ABF Linéaire Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7666",
+                "slug": "light",
+                "price": "$25.00"
+            }
+        },
+        {
+            "name": "Book",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/abflinaire/book",
+            "css": {
+                "font-family": "ABF Linéaire Book",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7667",
+                "slug": "book",
+                "price": "$25.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/abflinaire/regular",
+            "css": {
+                "font-family": "ABF Linéaire Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7668",
+                "slug": "regular",
+                "price": "$25.00"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/abflinaire/medium",
+            "css": {
+                "font-family": "ABF Linéaire Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7669",
+                "slug": "medium",
+                "price": "$25.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/abflinaire/bold",
+            "css": {
+                "font-family": "ABF Linéaire Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7670",
+                "slug": "bold",
+                "price": "$25.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1765",
+        "slug": "abflinaire"
+    },
+    "generatedAt": 1437611222324
+}

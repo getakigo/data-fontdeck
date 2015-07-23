@@ -1,0 +1,59 @@
+{
+    "name": "Gordon",
+    "url": "http://fontdeck.com/typeface/gordon",
+    "slug": "gordon",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "All caps",
+        "Display",
+        "Sans serif"
+    ],
+    "foundry": "Letterbox",
+    "designer": [
+        "Lan Huang"
+    ],
+    "opentype": [
+        "ss01",
+        "ss02",
+        "ss03",
+        "ss04",
+        "ss05",
+        "ss06",
+        "ss07",
+        "ss08"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "all caps",
+        "opentype",
+        "titling",
+        "headline",
+        "display",
+        "black"
+    ],
+    "variations": [
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/gordon/bold",
+            "css": {
+                "font-family": "Gordon Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5443",
+                "slug": "bold",
+                "price": "$18.69"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1280",
+        "slug": "gordon"
+    },
+    "generatedAt": 1437610660225
+}

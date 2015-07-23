@@ -1,0 +1,196 @@
+{
+    "name": "Klassika",
+    "url": "http://fontdeck.com/typeface/klassika",
+    "slug": "klassika",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Hybrid"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Hellmut G. Bomm"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "elegant",
+        "2000s",
+        "german",
+        "sans-serif",
+        "legible"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/klassika/light",
+            "css": {
+                "font-family": "Klassika Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1552",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/klassika/lightitalic",
+            "css": {
+                "font-family": "Klassika Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1553",
+                "slug": "lightitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Book",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/klassika/book",
+            "css": {
+                "font-family": "Klassika Book",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1549",
+                "slug": "book",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Book Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/klassika/bookitalic",
+            "css": {
+                "font-family": "Klassika Book Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1550",
+                "slug": "bookitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/klassika/medium",
+            "css": {
+                "font-family": "Klassika Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1554",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/klassika/mediumitalic",
+            "css": {
+                "font-family": "Klassika Medium Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1555",
+                "slug": "mediumitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/klassika/bold",
+            "css": {
+                "font-family": "Klassika Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1547",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/klassika/bolditalic",
+            "css": {
+                "font-family": "Klassika Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1548",
+                "slug": "bolditalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/klassika/black",
+            "css": {
+                "font-family": "Klassika Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1545",
+                "slug": "black",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/klassika/blackitalic",
+            "css": {
+                "font-family": "Klassika Black Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1546",
+                "slug": "blackitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bronze",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/klassika/bronze",
+            "css": {
+                "font-family": "Klassika Bronze",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1551",
+                "slug": "bronze",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "414",
+        "slug": "klassika"
+    },
+    "generatedAt": 1437609302264
+}

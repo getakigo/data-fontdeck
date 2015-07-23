@@ -1,0 +1,96 @@
+{
+    "name": "FS Pele Web",
+    "url": "http://fontdeck.com/typeface/fspeleweb",
+    "slug": "fspeleweb",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Futuristic",
+        "Display",
+        "Poster"
+    ],
+    "foundry": "Fontsmith",
+    "designer": [
+        "Phil Garnham"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "album cover",
+        "music",
+        "masthead",
+        "unique",
+        "strong",
+        "headline",
+        "black",
+        "poster"
+    ],
+    "variations": [
+        {
+            "name": "Two",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/fspeleweb/two",
+            "css": {
+                "font-family": "FS Pele Web Two",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4618",
+                "slug": "two",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "One",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/fspeleweb/one",
+            "css": {
+                "font-family": "FS Pele Web One",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4616",
+                "slug": "one",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Two Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/fspeleweb/twoitalic",
+            "css": {
+                "font-family": "FS Pele Web Two Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4617",
+                "slug": "twoitalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "One Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/fspeleweb/oneitalic",
+            "css": {
+                "font-family": "FS Pele Web One Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4615",
+                "slug": "oneitalic",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1081",
+        "slug": "fspeleweb"
+    },
+    "generatedAt": 1437610392672
+}

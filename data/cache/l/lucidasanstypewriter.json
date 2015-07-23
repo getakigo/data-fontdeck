@@ -1,0 +1,91 @@
+{
+    "name": "Lucida Sans Typewriter",
+    "url": "http://fontdeck.com/typeface/lucidasanstypewriter",
+    "slug": "lucidasanstypewriter",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Monospaced"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Kris Holmes",
+        "Charles Bigelow"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "american",
+        "1990s",
+        "monospace",
+        "sans-serif"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/lucidasanstypewriter/regular",
+            "css": {
+                "font-family": "Lucida Sans Typewriter Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2601",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Oblique",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/lucidasanstypewriter/oblique",
+            "css": {
+                "font-family": "Lucida Sans Typewriter Oblique",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2603",
+                "slug": "oblique",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/lucidasanstypewriter/bold",
+            "css": {
+                "font-family": "Lucida Sans Typewriter Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2602",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Oblique",
+            "description": "o7",
+            "url": "http://fontdeck.com/font/lucidasanstypewriter/boldoblique",
+            "css": {
+                "font-family": "LucidaSansTypewriterBoldOblique",
+                "font-weight": "700",
+                "font-style": "oblique"
+            },
+            "fontdeck": {
+                "id": "2604",
+                "slug": "boldoblique",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "629",
+        "slug": "lucidasanstypewriter"
+    },
+    "generatedAt": 1437609593795
+}

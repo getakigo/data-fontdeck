@@ -1,0 +1,111 @@
+{
+    "name": "Mr Moustache",
+    "url": "http://fontdeck.com/typeface/mrmoustache",
+    "slug": "mrmoustache",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Comic Strip Lettering",
+        "Display",
+        "Sans serif"
+    ],
+    "foundry": "FaceType",
+    "designer": [
+        "Georg Herold-Wildfellner"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "sketch",
+        "written",
+        "narrow",
+        "condensed",
+        "ornaments",
+        "fancy",
+        "handwritten",
+        "writing",
+        "drawn",
+        "decorative",
+        "hand",
+        "handdrawn",
+        "handwriting",
+        "hand-drawn",
+        "hand-writing",
+        "doodles",
+        "retro",
+        "light",
+        "kids",
+        "frames",
+        "thin",
+        "hand-written",
+        "display"
+    ],
+    "variations": [
+        {
+            "name": "Text Unicase",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/mrmoustache/textunicase",
+            "css": {
+                "font-family": "Mr Moustache Text Unicase",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5104",
+                "slug": "textunicase",
+                "price": "$7.25"
+            }
+        },
+        {
+            "name": "Text",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/mrmoustache/text",
+            "css": {
+                "font-family": "Mr Moustache Text",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5103",
+                "slug": "text",
+                "price": "$7.25"
+            }
+        },
+        {
+            "name": "Display Unicase",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/mrmoustache/displayunicase",
+            "css": {
+                "font-family": "Mr Moustache Display Unicase",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5106",
+                "slug": "displayunicase",
+                "price": "$7.25"
+            }
+        },
+        {
+            "name": "Display",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/mrmoustache/display",
+            "css": {
+                "font-family": "Mr Moustache Display",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5105",
+                "slug": "display",
+                "price": "$7.25"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1201",
+        "slug": "mrmoustache"
+    },
+    "generatedAt": 1437610614108
+}

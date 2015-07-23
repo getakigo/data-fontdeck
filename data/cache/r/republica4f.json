@@ -1,0 +1,121 @@
+{
+    "name": "Republica 4F",
+    "url": "http://fontdeck.com/typeface/republica4f",
+    "slug": "republica4f",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif"
+    ],
+    "foundry": "4th february",
+    "designer": [
+        "Sergiy S. Tkachenko"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "informal",
+        "headline",
+        "heavy",
+        "poster",
+        "grotesque"
+    ],
+    "variations": [
+        {
+            "name": "Black",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/republica4f/black",
+            "css": {
+                "font-family": "Republica 4F Black",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3813",
+                "slug": "black",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/republica4f/blackitalic",
+            "css": {
+                "font-family": "Republica 4F Black Italic",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3812",
+                "slug": "blackitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Condensed Black",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/republica4f/condensedblack",
+            "css": {
+                "font-family": "Republica 4F Condensed Black",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3815",
+                "slug": "condensedblack",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Wide Black",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/republica4f/wideblack",
+            "css": {
+                "font-family": "Republica 4F Wide Black",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3817",
+                "slug": "wideblack",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Condensed Black Italic",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/republica4f/condensedblackitalic",
+            "css": {
+                "font-family": "Republica4FCondensedBlackItalic",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3814",
+                "slug": "condensedblackitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Wide Black Italic",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/republica4f/wideblackitalic",
+            "css": {
+                "font-family": "Republica 4F Wide Black Italic",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3816",
+                "slug": "wideblackitalic",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "904",
+        "slug": "republica4f"
+    },
+    "generatedAt": 1437610092229
+}

@@ -1,0 +1,66 @@
+{
+    "name": "Cinnamon Roll",
+    "url": "http://fontdeck.com/typeface/cinnamonroll",
+    "slug": "cinnamonroll",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Serif",
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "Veer",
+    "designer": [
+        "Jason Walcott"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "decorative",
+        "1970s",
+        "swashes",
+        "swirl",
+        "swash",
+        "curls",
+        "display",
+        "swash capitals"
+    ],
+    "variations": [
+        {
+            "name": "Plain",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/cinnamonroll/plain",
+            "css": {
+                "font-family": "Cinnamon Roll Plain",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5078",
+                "slug": "plain",
+                "price": "$13.44"
+            }
+        },
+        {
+            "name": "Frosted",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/cinnamonroll/frosted",
+            "css": {
+                "font-family": "Cinnamon Roll Frosted",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5079",
+                "slug": "frosted",
+                "price": "$13.44"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1196",
+        "slug": "cinnamonroll"
+    },
+    "generatedAt": 1437610539143
+}

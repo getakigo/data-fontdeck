@@ -1,0 +1,91 @@
+{
+    "name": "Grotesque 6",
+    "url": "http://fontdeck.com/typeface/grotesque6",
+    "slug": "grotesque6",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Grotesque"
+    ],
+    "foundry": "A is for…",
+    "designer": [
+        "Émilie Rigaud"
+    ],
+    "opentype": [
+        "liga",
+        "lnum",
+        "onum",
+        "pnum",
+        "smcp",
+        "tnum"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "opentype",
+        "sheffield",
+        "english",
+        "revival",
+        "legible",
+        "friendly",
+        "magazine",
+        "industrial",
+        "grotesk",
+        "british",
+        "stephenson blake",
+        "industrial sans"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/grotesque6/regular",
+            "css": {
+                "font-family": "Grotesque 6 Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7927",
+                "slug": "regular",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/grotesque6/bold",
+            "css": {
+                "font-family": "Grotesque 6 Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7928",
+                "slug": "bold",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/grotesque6/black",
+            "css": {
+                "font-family": "Grotesque 6 Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7929",
+                "slug": "black",
+                "price": "$15.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1821",
+        "slug": "grotesque6"
+    },
+    "generatedAt": 1437611343773
+}

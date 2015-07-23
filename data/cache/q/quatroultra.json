@@ -1,0 +1,65 @@
+{
+    "name": "Quatro Ultra",
+    "url": "http://fontdeck.com/typeface/quatroultra",
+    "slug": "quatroultra",
+    "superfamily": "Quatro",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Display",
+        "Poster"
+    ],
+    "foundry": "p.s.type",
+    "designer": [
+        "Mark Caneso"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "identity",
+        "advertising",
+        "editorial",
+        "ultra black",
+        "quatro",
+        "poster"
+    ],
+    "variations": [
+        {
+            "name": "Black",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/quatroultra/black",
+            "css": {
+                "font-family": "Quatro Ultra Black",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "677",
+                "slug": "black",
+                "price": "$8.99"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/quatroultra/blackitalic",
+            "css": {
+                "font-family": "Quatro Ultra Black Italic",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "678",
+                "slug": "blackitalic",
+                "price": "$8.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "225",
+        "slug": "quatroultra"
+    },
+    "generatedAt": 1437609036011
+}

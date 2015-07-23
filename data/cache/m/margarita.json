@@ -1,0 +1,118 @@
+{
+    "name": "Margarita",
+    "url": "http://fontdeck.com/typeface/margarita",
+    "slug": "margarita",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Fat Face",
+        "Display",
+        "Poster"
+    ],
+    "foundry": "PampaType",
+    "designer": [
+        "Alejandro Lo Celso"
+    ],
+    "opentype": [
+        "dlig",
+        "liga"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "opentype",
+        "bodoni",
+        "titling",
+        "ornaments",
+        "openface",
+        "logo",
+        "hollow",
+        "neoclassical",
+        "didone",
+        "magazine",
+        "poster",
+        "high-contrast",
+        "decorative",
+        "sensual",
+        "elegant",
+        "fashion",
+        "curvy",
+        "tipos latinos",
+        "extreme contrast",
+        "delicate",
+        "sexy",
+        "display",
+        "fat face",
+        "heading",
+        "lo celso",
+        "big"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/margarita/regular",
+            "css": {
+                "font-family": "Margarita Regular",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8917",
+                "slug": "regular",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Luce",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/margarita/luce",
+            "css": {
+                "font-family": "Margarita Luce",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8919",
+                "slug": "luce",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Regular Italica",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/margarita/regularitalica",
+            "css": {
+                "font-family": "Margarita Regular Italica",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8918",
+                "slug": "regularitalica",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Luce Italica",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/margarita/luceitalica",
+            "css": {
+                "font-family": "Margarita Luce Italica",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8920",
+                "slug": "luceitalica",
+                "price": "$15.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1993",
+        "slug": "margarita"
+    },
+    "generatedAt": 1437611610535
+}

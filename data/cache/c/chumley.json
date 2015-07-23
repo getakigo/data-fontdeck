@@ -1,0 +1,58 @@
+{
+    "name": "Chumley",
+    "url": "http://fontdeck.com/typeface/chumley",
+    "slug": "chumley",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Comic Strip Lettering"
+    ],
+    "foundry": "Chank Co",
+    "designer": [
+        "Chank Diesel"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "handwriting",
+        "kids fonts"
+    ],
+    "variations": [
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/chumley/medium",
+            "css": {
+                "font-family": "Chumley Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "462",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Fatty",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/chumley/fatty",
+            "css": {
+                "font-family": "Chumley Fatty",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "461",
+                "slug": "fatty",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "184",
+        "slug": "chumley"
+    },
+    "generatedAt": 1437608971312
+}

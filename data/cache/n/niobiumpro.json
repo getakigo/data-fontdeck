@@ -1,0 +1,45 @@
+{
+    "name": "Niobium Pro",
+    "url": "http://fontdeck.com/typeface/niobiumpro",
+    "slug": "niobiumpro",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Poster"
+    ],
+    "foundry": "CheapProFonts",
+    "designer": [
+        "Levente Halmos"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "lively",
+        "black",
+        "organic",
+        "africa"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/niobiumpro/regular",
+            "css": {
+                "font-family": "Niobium Pro Regular",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4755",
+                "slug": "regular",
+                "price": "$9.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1103",
+        "slug": "niobiumpro"
+    },
+    "generatedAt": 1437610424605
+}

@@ -1,0 +1,193 @@
+{
+    "name": "FS Joey Cyrillic",
+    "url": "http://fontdeck.com/typeface/fsjoeycyrillic",
+    "slug": "fsjoeycyrillic",
+    "superfamily": "Fs Joey",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "Fontsmith",
+    "designer": [
+        "Jason Smith",
+        "Fernando Mello"
+    ],
+    "opentype": [
+        "liga"
+    ],
+    "language": [
+        "latin",
+        "cyrillic"
+    ],
+    "tags": [
+        "opentype",
+        "warm",
+        "geometric",
+        "fresh",
+        "branding",
+        "corporate",
+        "distinctive",
+        "casual",
+        "superfamily"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/fsjoeycyrillic/light",
+            "css": {
+                "font-family": "FS Joey Cyrillic Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6135",
+                "slug": "light",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/fsjoeycyrillic/lightitalic",
+            "css": {
+                "font-family": "FS Joey Cyrillic Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6134",
+                "slug": "lightitalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/fsjoeycyrillic/regular",
+            "css": {
+                "font-family": "FS Joey Cyrillic Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6138",
+                "slug": "regular",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/fsjoeycyrillic/italic",
+            "css": {
+                "font-family": "FS Joey Cyrillic Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6133",
+                "slug": "italic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/fsjoeycyrillic/medium",
+            "css": {
+                "font-family": "FS Joey Cyrillic Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6137",
+                "slug": "medium",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/fsjoeycyrillic/mediumitalic",
+            "css": {
+                "font-family": "FS Joey Cyrillic Medium Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6136",
+                "slug": "mediumitalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/fsjoeycyrillic/bold",
+            "css": {
+                "font-family": "FS Joey Cyrillic Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6130",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/fsjoeycyrillic/bolditalic",
+            "css": {
+                "font-family": "FS Joey Cyrillic Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6129",
+                "slug": "bolditalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/fsjoeycyrillic/heavy",
+            "css": {
+                "font-family": "FS Joey Cyrillic Heavy",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6132",
+                "slug": "heavy",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Heavy Italic",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/fsjoeycyrillic/heavyitalic",
+            "css": {
+                "font-family": "FS Joey Cyrillic Heavy Italic",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6131",
+                "slug": "heavyitalic",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1419",
+        "slug": "fsjoeycyrillic"
+    },
+    "generatedAt": 1437610813452
+}

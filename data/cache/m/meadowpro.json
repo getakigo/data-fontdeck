@@ -1,0 +1,327 @@
+{
+    "name": "Meadow Pro",
+    "url": "http://fontdeck.com/typeface/meadowpro",
+    "slug": "meadowpro",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Hybrid"
+    ],
+    "foundry": "Letters from Sweden",
+    "designer": [
+        "Göran Söderström"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "ligatures"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/meadowpro/light",
+            "css": {
+                "font-family": "Meadow Pro Light",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5421",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/meadowpro/lightitalic",
+            "css": {
+                "font-family": "Meadow Pro Light Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5422",
+                "slug": "lightitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/meadowpro/regular",
+            "css": {
+                "font-family": "Meadow Pro Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5425",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/meadowpro/italic",
+            "css": {
+                "font-family": "Meadow Pro Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5420",
+                "slug": "italic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/meadowpro/medium",
+            "css": {
+                "font-family": "Meadow Pro Medium",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5423",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/meadowpro/mediumitalic",
+            "css": {
+                "font-family": "Meadow Pro Medium Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5424",
+                "slug": "mediumitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/meadowpro/bold",
+            "css": {
+                "font-family": "Meadow Pro Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5408",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/meadowpro/bolditalic",
+            "css": {
+                "font-family": "Meadow Pro Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5409",
+                "slug": "bolditalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/meadowpro/black",
+            "css": {
+                "font-family": "Meadow Pro Black",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5406",
+                "slug": "black",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/meadowpro/blackitalic",
+            "css": {
+                "font-family": "Meadow Pro Black Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5407",
+                "slug": "blackitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Condensed Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/meadowpro/condensedbold",
+            "css": {
+                "font-family": "Meadow Pro Condensed Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5412",
+                "slug": "condensedbold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Condensed",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/meadowpro/condensed",
+            "css": {
+                "font-family": "Meadow Pro Condensed",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5414",
+                "slug": "condensed",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Condensed Light",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/meadowpro/condensedlight",
+            "css": {
+                "font-family": "Meadow Pro Condensed Light",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5416",
+                "slug": "condensedlight",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Condensed Black",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/meadowpro/condensedblack",
+            "css": {
+                "font-family": "Meadow Pro Condensed Black",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5410",
+                "slug": "condensedblack",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Condensed Medium",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/meadowpro/condensedmedium",
+            "css": {
+                "font-family": "Meadow Pro Condensed Medium",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5418",
+                "slug": "condensedmedium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Condensed Light Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/meadowpro/condensedlightitalic",
+            "css": {
+                "font-family": "MeadowProCondensedLightItalic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5417",
+                "slug": "condensedlightitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Condensed Black Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/meadowpro/condensedblackitalic",
+            "css": {
+                "font-family": "MeadowProCondensedBlackItalic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5411",
+                "slug": "condensedblackitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Condensed Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/meadowpro/condenseditalic",
+            "css": {
+                "font-family": "Meadow Pro Condensed Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5415",
+                "slug": "condenseditalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Condensed Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/meadowpro/condensedbolditalic",
+            "css": {
+                "font-family": "MeadowProCondensedBoldItalic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5413",
+                "slug": "condensedbolditalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Condensed Medium Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/meadowpro/condensedmediumitalic",
+            "css": {
+                "font-family": "MeadowProCondensedMediumItalic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5419",
+                "slug": "condensedmediumitalic",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1271",
+        "slug": "meadowpro"
+    },
+    "generatedAt": 1437610689423
+}

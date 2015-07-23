@@ -1,0 +1,97 @@
+{
+    "name": "Cubic",
+    "url": "http://fontdeck.com/typeface/cubic",
+    "slug": "cubic",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Experimental"
+    ],
+    "foundry": "Fontfabric",
+    "designer": [
+        "Svetoslav Simov"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "build",
+        "techno",
+        "engraving",
+        "geometric",
+        "fancy",
+        "mechanical",
+        "american",
+        "idiosyncratic",
+        "constructed",
+        "poster",
+        "facet",
+        "decorative",
+        "minimalism",
+        "cool",
+        "block",
+        "creative",
+        "box",
+        "net",
+        "masculine",
+        "retro",
+        "signage",
+        "blocks",
+        "mesh",
+        "square",
+        "unusual",
+        "blocky"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/cubic/thin",
+            "css": {
+                "font-family": "Cubic Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2993",
+                "slug": "thin",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/cubic/light",
+            "css": {
+                "font-family": "Cubic Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2991",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/cubic/regular",
+            "css": {
+                "font-family": "Cubic Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2992",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "696",
+        "slug": "cubic"
+    },
+    "generatedAt": 1437609742862
+}

@@ -1,0 +1,93 @@
+{
+    "name": "Morice",
+    "url": "http://fontdeck.com/typeface/morice",
+    "slug": "morice",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Experimental",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "Letterbox",
+    "designer": [
+        "Morice Kastoun"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "modern",
+        "architectural",
+        "monoline",
+        "neon",
+        "thin"
+    ],
+    "variations": [
+        {
+            "name": "Straight Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/morice/straightbold",
+            "css": {
+                "font-family": "Morice Straight Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5437",
+                "slug": "straightbold",
+                "price": "$18.69"
+            }
+        },
+        {
+            "name": "Straight Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/morice/straightregular",
+            "css": {
+                "font-family": "Morice Straight Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5436",
+                "slug": "straightregular",
+                "price": "$18.69"
+            }
+        },
+        {
+            "name": "Rounded Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/morice/roundedbold",
+            "css": {
+                "font-family": "Morice Rounded Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5435",
+                "slug": "roundedbold",
+                "price": "$18.69"
+            }
+        },
+        {
+            "name": "Rounded Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/morice/roundedregular",
+            "css": {
+                "font-family": "Morice Rounded Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5434",
+                "slug": "roundedregular",
+                "price": "$18.69"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1276",
+        "slug": "morice"
+    },
+    "generatedAt": 1437610650413
+}

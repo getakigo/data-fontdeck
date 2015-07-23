@@ -1,0 +1,76 @@
+{
+    "name": "Rotate Klassik",
+    "url": "http://fontdeck.com/typeface/rotateklassik",
+    "slug": "rotateklassik",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Hellmut G. Bomm"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "decorative",
+        "2000s",
+        "german",
+        "revival",
+        "dynamic"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/rotateklassik/regular",
+            "css": {
+                "font-family": "Rotate Klassik Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1565",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/rotateklassik/medium",
+            "css": {
+                "font-family": "Rotate Klassik Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1564",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/rotateklassik/bold",
+            "css": {
+                "font-family": "Rotate Klassik Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1563",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "417",
+        "slug": "rotateklassik"
+    },
+    "generatedAt": 1437609311467
+}

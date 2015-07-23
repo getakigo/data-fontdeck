@@ -1,0 +1,204 @@
+{
+    "name": "Brokman",
+    "url": "http://fontdeck.com/typeface/brokman",
+    "slug": "brokman",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "The Northern Block",
+    "designer": [
+        "Jonathan Hill"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "true italic",
+        "sans-serif",
+        "geometric",
+        "text",
+        "legible",
+        "brochure",
+        "balanced",
+        "contemporary",
+        "news",
+        "poster",
+        "modern",
+        "business",
+        "neutral",
+        "commercial",
+        "swiss",
+        "humanistic sans",
+        "identity",
+        "european",
+        "light",
+        "signage",
+        "editorial",
+        "sansserif",
+        "branding",
+        "headline",
+        "linear sans",
+        "sans serif",
+        "clean",
+        "information"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/brokman/thin",
+            "css": {
+                "font-family": "Brokman Thin",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3962",
+                "slug": "thin",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/brokman/light",
+            "css": {
+                "font-family": "Brokman Light",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3963",
+                "slug": "light",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/brokman/italic",
+            "css": {
+                "font-family": "Brokman Italic",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3971",
+                "slug": "italic",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/brokman/regular",
+            "css": {
+                "font-family": "Brokman Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3964",
+                "slug": "regular",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/brokman/medium",
+            "css": {
+                "font-family": "Brokman Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3965",
+                "slug": "medium",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/brokman/bold",
+            "css": {
+                "font-family": "Brokman Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3967",
+                "slug": "bold",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/brokman/extrabold",
+            "css": {
+                "font-family": "Brokman ExtraBold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3968",
+                "slug": "extrabold",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/brokman/heavy",
+            "css": {
+                "font-family": "Brokman Heavy",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3969",
+                "slug": "heavy",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/brokman/black",
+            "css": {
+                "font-family": "Brokman Black",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3970",
+                "slug": "black",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "DemiBold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/brokman/demibold",
+            "css": {
+                "font-family": "Brokman DemiBold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3966",
+                "slug": "demibold",
+                "price": "$9.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "934",
+        "slug": "brokman"
+    },
+    "generatedAt": 1437610140351
+}

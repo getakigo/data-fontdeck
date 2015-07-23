@@ -1,0 +1,335 @@
+{
+    "name": "NuOrder",
+    "url": "http://fontdeck.com/typeface/nuorder",
+    "slug": "nuorder",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Grotesque",
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "The Northern Block",
+    "designer": [
+        "Jonathan Hill"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "advertising",
+        "geometric",
+        "logo",
+        "linear",
+        "balanced",
+        "humanist",
+        "contemporary",
+        "magazine",
+        "economical",
+        "modern",
+        "1950s",
+        "1960s",
+        "branding",
+        "headline",
+        "information",
+        "books",
+        "architectural",
+        "sans-serif",
+        "avant garde",
+        "legible",
+        "brochure",
+        "poster",
+        "futura",
+        "neutral",
+        "minimalism",
+        "elegant",
+        "swiss",
+        "grotesque",
+        "identity",
+        "light",
+        "sansserif",
+        "corporate",
+        "sans serif",
+        "german",
+        "annual reports",
+        "1980s",
+        "clean"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/nuorder/thin",
+            "css": {
+                "font-family": "NuOrder Thin",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2453",
+                "slug": "thin",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Thin Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/nuorder/thinitalic",
+            "css": {
+                "font-family": "NuOrder Thin Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2458",
+                "slug": "thinitalic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/nuorder/light",
+            "css": {
+                "font-family": "NuOrder Light",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2454",
+                "slug": "light",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i3",
+            "url": "http://fontdeck.com/font/nuorder/lightitalic",
+            "css": {
+                "font-family": "NuOrder Light Italic",
+                "font-weight": "300",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2459",
+                "slug": "lightitalic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/nuorder/regular",
+            "css": {
+                "font-family": "NuOrder Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2455",
+                "slug": "regular",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/nuorder/italic",
+            "css": {
+                "font-family": "NuOrder Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2460",
+                "slug": "italic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/nuorder/medium",
+            "css": {
+                "font-family": "NuOrder Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2456",
+                "slug": "medium",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/nuorder/mediumitalic",
+            "css": {
+                "font-family": "NuOrder Medium Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2461",
+                "slug": "mediumitalic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/nuorder/bold",
+            "css": {
+                "font-family": "NuOrder Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2457",
+                "slug": "bold",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/nuorder/bolditalic",
+            "css": {
+                "font-family": "NuOrder Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2462",
+                "slug": "bolditalic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Extra-bold Italic",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/nuorder/extrabolditalic",
+            "css": {
+                "font-family": "NuOrder ExtraBold Italic",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5276",
+                "slug": "extrabolditalic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/nuorder/extrabold",
+            "css": {
+                "font-family": "NuOrder ExtraBold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5275",
+                "slug": "extrabold",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Heavy Italic",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/nuorder/heavyitalic",
+            "css": {
+                "font-family": "NuOrder Heavy Italic",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5278",
+                "slug": "heavyitalic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/nuorder/heavy",
+            "css": {
+                "font-family": "NuOrder Heavy",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5277",
+                "slug": "heavy",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/nuorder/black",
+            "css": {
+                "font-family": "NuOrder Black",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5279",
+                "slug": "black",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/nuorder/blackitalic",
+            "css": {
+                "font-family": "NuOrder Black Italic",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5280",
+                "slug": "blackitalic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "DemiBold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/nuorder/demibold",
+            "css": {
+                "font-family": "NuOrder DemiBold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5273",
+                "slug": "demibold",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "DemiBold Italic",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/nuorder/demibolditalic",
+            "css": {
+                "font-family": "NuOrder DemiBold Italic",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5274",
+                "slug": "demibolditalic",
+                "price": "$7.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "599",
+        "slug": "nuorder"
+    },
+    "generatedAt": 1437609536955
+}

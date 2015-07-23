@@ -1,0 +1,130 @@
+{
+    "name": "Arcle",
+    "url": "http://fontdeck.com/typeface/arcle",
+    "slug": "arcle",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Geometric",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "The Northern Block",
+    "designer": [
+        "Jonathan Hill"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "advertising",
+        "technical",
+        "geometric",
+        "dynamic",
+        "linear",
+        "legible",
+        "monoline",
+        "architecture",
+        "balanced",
+        "contemporary",
+        "magazine",
+        "modern",
+        "minimalism",
+        "neutral",
+        "cool",
+        "digital",
+        "round",
+        "fashionable",
+        "identity",
+        "european",
+        "light",
+        "modular",
+        "branding",
+        "headline",
+        "linear sans",
+        "clean",
+        "display"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/arcle/light",
+            "css": {
+                "font-family": "Arcle Light",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2378",
+                "slug": "light",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/arcle/regular",
+            "css": {
+                "font-family": "Arcle Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2379",
+                "slug": "regular",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/arcle/italic",
+            "css": {
+                "font-family": "Arcle Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2380",
+                "slug": "italic",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/arcle/medium",
+            "css": {
+                "font-family": "Arcle Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2381",
+                "slug": "medium",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/arcle/bold",
+            "css": {
+                "font-family": "Arcle Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2382",
+                "slug": "bold",
+                "price": "$9.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "578",
+        "slug": "arcle"
+    },
+    "generatedAt": 1437609487155
+}

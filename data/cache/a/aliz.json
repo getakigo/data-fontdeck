@@ -1,0 +1,90 @@
+{
+    "name": "Alizé",
+    "url": "http://fontdeck.com/typeface/aliz",
+    "slug": "aliz",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Garalde"
+    ],
+    "foundry": "TypeTogether",
+    "designer": [
+        "Tom Grace"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "serif",
+        "venetian",
+        "legible",
+        "writing",
+        "rhythm",
+        "vibrant",
+        "script",
+        "french",
+        "1600s",
+        "elegant",
+        "fluid",
+        "poetic",
+        "calligraphic",
+        "chancery",
+        "love",
+        "lively",
+        "flowing",
+        "italic",
+        "swash"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/aliz/regular",
+            "css": {
+                "font-family": "Alizé Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1348",
+                "slug": "regular",
+                "price": "$11.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/aliz/bold",
+            "css": {
+                "font-family": "Alizé Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1350",
+                "slug": "bold",
+                "price": "$11.99"
+            }
+        },
+        {
+            "name": "Demi",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/aliz/demi",
+            "css": {
+                "font-family": "Alizé Demi",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1349",
+                "slug": "demi",
+                "price": "$11.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "372",
+        "slug": "aliz"
+    },
+    "generatedAt": 1437609250479
+}

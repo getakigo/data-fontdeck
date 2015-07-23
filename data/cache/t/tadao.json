@@ -1,0 +1,153 @@
+{
+    "name": "Tadao",
+    "url": "http://fontdeck.com/typeface/tadao",
+    "slug": "tadao",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "The Northern Block",
+    "designer": [
+        "Jonathan Hill"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "simple",
+        "technical",
+        "round text",
+        "geometric",
+        "linear",
+        "din",
+        "contemporary",
+        "magazine",
+        "economical",
+        "brand identity",
+        "minimal",
+        "modern",
+        "icons",
+        "round",
+        "fashionable",
+        "smooth",
+        "european",
+        "headline",
+        "display",
+        "information",
+        "architectural",
+        "designers republic",
+        "circular",
+        "sans-serif",
+        "legible",
+        "architecture",
+        "brochure",
+        "rounded",
+        "poster",
+        "neutral",
+        "graphic",
+        "swiss",
+        "identity",
+        "grid",
+        "german",
+        "futuristic",
+        "clean"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/tadao/light",
+            "css": {
+                "font-family": "Tadao Light",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4573",
+                "slug": "light",
+                "price": "$5.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/tadao/italic",
+            "css": {
+                "font-family": "Tadao Italic",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4575",
+                "slug": "italic",
+                "price": "$5.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/tadao/regular",
+            "css": {
+                "font-family": "Tadao Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4574",
+                "slug": "regular",
+                "price": "$5.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/tadao/medium",
+            "css": {
+                "font-family": "Tadao Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4576",
+                "slug": "medium",
+                "price": "$5.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/tadao/bold",
+            "css": {
+                "font-family": "Tadao Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4577",
+                "slug": "bold",
+                "price": "$5.50"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/tadao/extrabold",
+            "css": {
+                "font-family": "Tadao ExtraBold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4578",
+                "slug": "extrabold",
+                "price": "$5.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1075",
+        "slug": "tadao"
+    },
+    "generatedAt": 1437610383060
+}

@@ -1,0 +1,48 @@
+{
+    "name": "Raspberry Jam",
+    "url": "http://fontdeck.com/typeface/raspberryjam",
+    "slug": "raspberryjam",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Handwritten"
+    ],
+    "foundry": "CounterPoint Type Studio",
+    "designer": [
+        "Jason Walcott"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "decorative",
+        "handwritten",
+        "script",
+        "fun",
+        "whimsical",
+        "calligraphy",
+        "light hearted"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/raspberryjam/regular",
+            "css": {
+                "font-family": "Raspberry Jam Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7318",
+                "slug": "regular",
+                "price": "$9.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1720",
+        "slug": "raspberryjam"
+    },
+    "generatedAt": 1437611222154
+}

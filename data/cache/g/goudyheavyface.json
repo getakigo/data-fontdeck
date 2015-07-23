@@ -1,0 +1,80 @@
+{
+    "name": "Goudy Heavyface",
+    "url": "http://fontdeck.com/typeface/goudyheavyface",
+    "slug": "goudyheavyface",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Serif"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "URW Studio"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "feminine",
+        "1920s",
+        "round",
+        "soft",
+        "american",
+        "outline",
+        "transitional",
+        "natural",
+        "black"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/goudyheavyface/regular",
+            "css": {
+                "font-family": "Goudy Heavyface Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "895",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Outline",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/goudyheavyface/outline",
+            "css": {
+                "font-family": "Goudy Heavyface Outline",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "894",
+                "slug": "outline",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Condensed",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/goudyheavyface/condensed",
+            "css": {
+                "font-family": "Goudy Heavyface Condensed",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "893",
+                "slug": "condensed",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "268",
+        "slug": "goudyheavyface"
+    },
+    "generatedAt": 1437609111686
+}

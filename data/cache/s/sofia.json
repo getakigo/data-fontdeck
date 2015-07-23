@@ -1,0 +1,218 @@
+{
+    "name": "Sofia",
+    "url": "http://fontdeck.com/typeface/sofia",
+    "slug": "sofia",
+    "superfamily": "Sofia",
+    "use": "body",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Sans Serif",
+        "Geometric",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "Mostardesign Studio",
+    "designer": [
+        "Olivier Gourvat"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "geometric",
+        "circular",
+        "avant garde",
+        "romantic",
+        "super family",
+        "valentine",
+        "sans serif"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/sofia/thin",
+            "css": {
+                "font-family": "Sofia Thin",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2688",
+                "slug": "thin",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Thin Italic",
+            "description": "i3",
+            "url": "http://fontdeck.com/font/sofia/thinitalic",
+            "css": {
+                "font-family": "Sofia Thin Italic",
+                "font-weight": "300",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2687",
+                "slug": "thinitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-light",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/sofia/extralight",
+            "css": {
+                "font-family": "Sofia ExtraLight",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2680",
+                "slug": "extralight",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-light Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/sofia/extralightitalic",
+            "css": {
+                "font-family": "Sofia ExtraLight Italic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2679",
+                "slug": "extralightitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/sofia/lightitalic",
+            "css": {
+                "font-family": "Sofia Light Italic",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2681",
+                "slug": "lightitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/sofia/light",
+            "css": {
+                "font-family": "Sofia Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2682",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/sofia/regular",
+            "css": {
+                "font-family": "Sofia Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2686",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/sofia/italic",
+            "css": {
+                "font-family": "Sofia Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2685",
+                "slug": "italic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/sofia/medium",
+            "css": {
+                "font-family": "Sofia Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2684",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/sofia/mediumitalic",
+            "css": {
+                "font-family": "Sofia Medium Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2683",
+                "slug": "mediumitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/sofia/bold",
+            "css": {
+                "font-family": "Sofia Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2678",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/sofia/bolditalic",
+            "css": {
+                "font-family": "Sofia Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2677",
+                "slug": "bolditalic",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "648",
+        "slug": "sofia"
+    },
+    "generatedAt": 1437609634407
+}

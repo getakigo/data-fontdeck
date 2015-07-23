@@ -1,0 +1,81 @@
+{
+    "name": "Contribute",
+    "url": "http://fontdeck.com/typeface/contribute",
+    "slug": "contribute",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Neo-Grotesk",
+        "Display",
+        "Poster",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "Playtype",
+    "designer": [
+        "Jens Kajus"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "compact",
+        "heavy",
+        "square",
+        "squarish",
+        "sans-serif",
+        "black"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/contribute/regular",
+            "css": {
+                "font-family": "Contribute Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7453",
+                "slug": "regular",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/contribute/bold",
+            "css": {
+                "font-family": "Contribute Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7454",
+                "slug": "bold",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/contribute/heavy",
+            "css": {
+                "font-family": "Contribute Heavy",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7455",
+                "slug": "heavy",
+                "price": "$45.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1734",
+        "slug": "contribute"
+    },
+    "generatedAt": 1437611156108
+}

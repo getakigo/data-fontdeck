@@ -1,0 +1,117 @@
+{
+    "name": "Economica Pro",
+    "url": "http://fontdeck.com/typeface/economicapro",
+    "slug": "economicapro",
+    "use": "body",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "TipoType",
+    "designer": [
+        "Vicente Lamónaca"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "ink trap",
+        "narrow",
+        "condensed",
+        "press",
+        "very small",
+        "workhorse",
+        "sans-serif",
+        "dynamic",
+        "little",
+        "offset",
+        "squarish",
+        "newspaper",
+        "magazine",
+        "news",
+        "versatile",
+        "economical",
+        "economic",
+        "modern",
+        "small",
+        "latin american",
+        "book",
+        "identity",
+        "space-saving",
+        "european",
+        "editorial",
+        "uruguay",
+        "corporate",
+        "heavy",
+        "pro"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/economicapro/regular",
+            "css": {
+                "font-family": "Economica Pro Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8833",
+                "slug": "regular",
+                "price": "$11.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/economicapro/italic",
+            "css": {
+                "font-family": "Economica Pro Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8832",
+                "slug": "italic",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/economicapro/bold",
+            "css": {
+                "font-family": "Economica Pro Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8830",
+                "slug": "bold",
+                "price": "$11.00"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/economicapro/bolditalic",
+            "css": {
+                "font-family": "Economica Pro Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8831",
+                "slug": "bolditalic",
+                "price": "$9.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1981",
+        "slug": "economicapro"
+    },
+    "generatedAt": 1437611567032
+}

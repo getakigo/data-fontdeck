@@ -1,0 +1,48 @@
+{
+    "name": "Pastel",
+    "url": "http://fontdeck.com/typeface/pastel",
+    "slug": "pastel",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "Fontfabric",
+    "designer": [
+        "Svetoslav Simov"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "grunge",
+        "rough",
+        "ink",
+        "brush-drawn",
+        "paint",
+        "handmade",
+        "brush"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/pastel/regular",
+            "css": {
+                "font-family": "Pastel Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3019",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "704",
+        "slug": "pastel"
+    },
+    "generatedAt": 1437609752840
+}

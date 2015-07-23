@@ -1,0 +1,127 @@
+{
+    "name": "Prored",
+    "url": "http://fontdeck.com/typeface/prored",
+    "slug": "prored",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Hybrid"
+    ],
+    "foundry": "Tour de Force",
+    "designer": [
+        "Slobodan Jelesijević"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "narrow",
+        "title",
+        "glyphic",
+        "workhorse",
+        "sans-serif",
+        "text",
+        "avant garde",
+        "catchy",
+        "contemporary",
+        "magazine",
+        "versatile",
+        "sans",
+        "compact",
+        "neutral",
+        "curved terminals",
+        "logotype",
+        "fashionable",
+        "rational",
+        "identity",
+        "branding",
+        "editorial",
+        "corporate",
+        "sans serif",
+        "readable",
+        "clean",
+        "charming"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/prored/light",
+            "css": {
+                "font-family": "Prored Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5392",
+                "slug": "light",
+                "price": "$7.49"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/prored/regular",
+            "css": {
+                "font-family": "Prored Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5393",
+                "slug": "regular",
+                "price": "$7.49"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/prored/bold",
+            "css": {
+                "font-family": "Prored Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5389",
+                "slug": "bold",
+                "price": "$7.49"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/prored/extrabold",
+            "css": {
+                "font-family": "Prored Extra Bold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5391",
+                "slug": "extrabold",
+                "price": "$7.49"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/prored/black",
+            "css": {
+                "font-family": "Prored Black",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5390",
+                "slug": "black",
+                "price": "$7.49"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1268",
+        "slug": "prored"
+    },
+    "generatedAt": 1437610603364
+}

@@ -1,0 +1,137 @@
+{
+    "name": "Banque Gothique",
+    "url": "http://fontdeck.com/typeface/banquegothique",
+    "slug": "banquegothique",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "All caps"
+    ],
+    "foundry": "Red Rooster Collection",
+    "designer": [
+        "Morris Fuller Benton",
+        "Steve Jackaman"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "formal",
+        "bank gothic",
+        "geometric",
+        "mechanical",
+        "comercial",
+        "cap",
+        "shortcaps",
+        "magazine",
+        "minimal",
+        "flair",
+        "modern",
+        "grotesk",
+        "1950s",
+        "1940s",
+        "menus",
+        "commercial",
+        "fashionable",
+        "art deco",
+        "television",
+        "1960s",
+        "narrow",
+        "invitation",
+        "techno",
+        "engraving",
+        "legible",
+        "american",
+        "sturdy",
+        "constructed",
+        "2000s",
+        "modest",
+        "poster",
+        "all caps",
+        "decorative",
+        "1930s",
+        "cool",
+        "plain",
+        "block",
+        "clena",
+        "vintage",
+        "retro",
+        "masculine",
+        "signage",
+        "corporate",
+        "lettering",
+        "square",
+        "futuristic",
+        "sport",
+        "conservative",
+        "clean",
+        "wide"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/banquegothique/light",
+            "css": {
+                "font-family": "Banque Gothique Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4243",
+                "slug": "light",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/banquegothique/bold",
+            "css": {
+                "font-family": "Banque Gothique Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4241",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/banquegothique/extrabold",
+            "css": {
+                "font-family": "Banque Gothique Extra Bold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4242",
+                "slug": "extrabold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Silhouette Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/banquegothique/silhouetteregular",
+            "css": {
+                "font-family": "BanqueGothiqueSilhouetteRegular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4244",
+                "slug": "silhouetteregular",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "996",
+        "slug": "banquegothique"
+    },
+    "generatedAt": 1437610270674
+}

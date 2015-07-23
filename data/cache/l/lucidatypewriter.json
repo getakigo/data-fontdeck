@@ -1,0 +1,60 @@
+{
+    "name": "Lucida Typewriter",
+    "url": "http://fontdeck.com/typeface/lucidatypewriter",
+    "slug": "lucidatypewriter",
+    "use": "body",
+    "classification": [
+        "Slab Serif",
+        "Monospaced"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Kris Holmes",
+        "Charles Bigelow"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "1990s",
+        "monospace",
+        "legible"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/lucidatypewriter/regular",
+            "css": {
+                "font-family": "Lucida Typewriter Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2605",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/lucidatypewriter/bold",
+            "css": {
+                "font-family": "Lucida Typewriter Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2606",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "630",
+        "slug": "lucidatypewriter"
+    },
+    "generatedAt": 1437609594285
+}

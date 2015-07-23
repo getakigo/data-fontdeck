@@ -1,0 +1,96 @@
+{
+    "name": "Muscle",
+    "url": "http://fontdeck.com/typeface/muscle",
+    "slug": "muscle",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Poster"
+    ],
+    "foundry": "Positype",
+    "designer": [
+        "Neil Summerour"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "headlines",
+        "unicase",
+        "ultra bold",
+        "headline",
+        "ultra black",
+        "heavy",
+        "display",
+        "sport",
+        "packaging",
+        "wide"
+    ],
+    "variations": [
+        {
+            "name": "Wide",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/muscle/wide",
+            "css": {
+                "font-family": "Muscle Wide",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3502",
+                "slug": "wide",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Narrow",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/muscle/narrow",
+            "css": {
+                "font-family": "Muscle Narrow",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3500",
+                "slug": "narrow",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Narrow Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/muscle/narrowitalic",
+            "css": {
+                "font-family": "Muscle Narrow Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3501",
+                "slug": "narrowitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Wide Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/muscle/wideitalic",
+            "css": {
+                "font-family": "Muscle Wide Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3503",
+                "slug": "wideitalic",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "851",
+        "slug": "muscle"
+    },
+    "generatedAt": 1437609996103
+}

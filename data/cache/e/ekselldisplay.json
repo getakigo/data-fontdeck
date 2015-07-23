@@ -1,0 +1,98 @@
+{
+    "name": "Eksell Display",
+    "url": "http://fontdeck.com/typeface/ekselldisplay",
+    "slug": "ekselldisplay",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Serif"
+    ],
+    "foundry": "Letters from Sweden",
+    "designer": [
+        "Olle Eksell",
+        "Göran Söderström"
+    ],
+    "opentype": [
+        "liga",
+        "salt",
+        "ss01"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "headlines",
+        "advertising",
+        "serif",
+        "60s",
+        "display type",
+        "swedish"
+    ],
+    "variations": [
+        {
+            "name": "Medium",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/ekselldisplay/medium",
+            "css": {
+                "font-family": "Eksell Display Medium",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "9033",
+                "slug": "medium",
+                "price": "$17.50"
+            }
+        },
+        {
+            "name": "Stencil",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/ekselldisplay/stencil",
+            "css": {
+                "font-family": "Eksell Display Stencil",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "9031",
+                "slug": "stencil",
+                "price": "$17.50"
+            }
+        },
+        {
+            "name": "Small",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/ekselldisplay/small",
+            "css": {
+                "font-family": "Eksell Display Small",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "9034",
+                "slug": "small",
+                "price": "$17.50"
+            }
+        },
+        {
+            "name": "Large",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/ekselldisplay/large",
+            "css": {
+                "font-family": "Eksell Display Large",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "9032",
+                "slug": "large",
+                "price": "$17.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "2020",
+        "slug": "ekselldisplay"
+    },
+    "generatedAt": 1437611624569
+}

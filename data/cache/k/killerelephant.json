@@ -1,0 +1,52 @@
+{
+    "name": "Killer Elephant",
+    "url": "http://fontdeck.com/typeface/killerelephant",
+    "slug": "killerelephant",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "All caps",
+        "Display",
+        "Comic Strip Lettering",
+        "Display",
+        "Grunge"
+    ],
+    "foundry": "Fenotype",
+    "designer": [
+        "Emil Bertell"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "hand drawn",
+        "romantic",
+        "all caps",
+        "valentine",
+        "heavy",
+        "poster",
+        "comic"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/killerelephant/regular",
+            "css": {
+                "font-family": "Killer Elephant Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2355",
+                "slug": "regular",
+                "price": "$8.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "572",
+        "slug": "killerelephant"
+    },
+    "generatedAt": 1437609472663
+}

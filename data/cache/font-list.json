@@ -1,0 +1,5210 @@
+[
+    {
+        "name": "Reader",
+        "url": "/typeface/reader"
+    },
+    {
+        "name": "Montefiore",
+        "url": "/typeface/montefiore"
+    },
+    {
+        "name": "Anivers",
+        "url": "/typeface/anivers"
+    },
+    {
+        "name": "Fontin Sans",
+        "url": "/typeface/fontinsans"
+    },
+    {
+        "name": "Diavlo",
+        "url": "/typeface/diavlo"
+    },
+    {
+        "name": "Museo",
+        "url": "/typeface/museo"
+    },
+    {
+        "name": "Museo Sans",
+        "url": "/typeface/museosans"
+    },
+    {
+        "name": "Tallys",
+        "url": "/typeface/tallys"
+    },
+    {
+        "name": "Fertigo Pro",
+        "url": "/typeface/fertigopro"
+    },
+    {
+        "name": "Calluna",
+        "url": "/typeface/calluna"
+    },
+    {
+        "name": "Linear Narrow",
+        "url": "/typeface/linearnarrow"
+    },
+    {
+        "name": "Egyptienne URW Extra Wide",
+        "url": "/typeface/egyptienneurwextrawide"
+    },
+    {
+        "name": "Linear",
+        "url": "/typeface/linear"
+    },
+    {
+        "name": "Linear Wide",
+        "url": "/typeface/linearwide"
+    },
+    {
+        "name": "Clarendon URW Narrow",
+        "url": "/typeface/clarendonurwnarrow"
+    },
+    {
+        "name": "Clarendon URW",
+        "url": "/typeface/clarendonurw"
+    },
+    {
+        "name": "Raldo",
+        "url": "/typeface/raldo"
+    },
+    {
+        "name": "Linear Extra Narrow",
+        "url": "/typeface/linearextranarrow"
+    },
+    {
+        "name": "Lucida Condensed",
+        "url": "/typeface/lucidacondensed"
+    },
+    {
+        "name": "Transport",
+        "url": "/typeface/transport"
+    },
+    {
+        "name": "Linear Extra Wide",
+        "url": "/typeface/linearextrawide"
+    },
+    {
+        "name": "Egyptienne URW Wide",
+        "url": "/typeface/egyptienneurwwide"
+    },
+    {
+        "name": "Egyptienne URW Extra Narrow",
+        "url": "/typeface/egyptienneurwextranarrow"
+    },
+    {
+        "name": "Clarendon URW Wide",
+        "url": "/typeface/clarendonurwwide"
+    },
+    {
+        "name": "Clarendon URW Extra Narrow",
+        "url": "/typeface/clarendonurwextranarrow"
+    },
+    {
+        "name": "Egyptienne URW Narrow",
+        "url": "/typeface/egyptienneurwnarrow"
+    },
+    {
+        "name": "Classico",
+        "url": "/typeface/classico"
+    },
+    {
+        "name": "Egyptienne URW",
+        "url": "/typeface/egyptienneurw"
+    },
+    {
+        "name": "Lucida",
+        "url": "/typeface/lucida"
+    },
+    {
+        "name": "Alpha",
+        "url": "/typeface/alpha"
+    },
+    {
+        "name": "Raldo Mediaevel",
+        "url": "/typeface/raldomediaevel"
+    },
+    {
+        "name": "Futura",
+        "url": "/typeface/futura"
+    },
+    {
+        "name": "Nimbus Sans Latin",
+        "url": "/typeface/nimbussanslatin"
+    },
+    {
+        "name": "Allise",
+        "url": "/typeface/allise"
+    },
+    {
+        "name": "John Doe",
+        "url": "/typeface/johndoe"
+    },
+    {
+        "name": "Clickbits",
+        "url": "/typeface/clickbits"
+    },
+    {
+        "name": "GoodDog",
+        "url": "/typeface/gooddog"
+    },
+    {
+        "name": "Drawzing",
+        "url": "/typeface/drawzing"
+    },
+    {
+        "name": "Infobits",
+        "url": "/typeface/infobits"
+    },
+    {
+        "name": "Assembler",
+        "url": "/typeface/assembler"
+    },
+    {
+        "name": "Isotext Pro",
+        "url": "/typeface/isotextpro"
+    },
+    {
+        "name": "Centro Serif Pro",
+        "url": "/typeface/centroserifpro"
+    },
+    {
+        "name": "Handbook Pro",
+        "url": "/typeface/handbookpro"
+    },
+    {
+        "name": "Square Sans Pro",
+        "url": "/typeface/squaresanspro"
+    },
+    {
+        "name": "Museo Slab",
+        "url": "/typeface/museoslab"
+    },
+    {
+        "name": "Newercastle",
+        "url": "/typeface/newercastle"
+    },
+    {
+        "name": "Brubecks Cube",
+        "url": "/typeface/brubeckscube"
+    },
+    {
+        "name": "Chaloops",
+        "url": "/typeface/chaloops"
+    },
+    {
+        "name": "Chumley",
+        "url": "/typeface/chumley"
+    },
+    {
+        "name": "Drunk Cowboy",
+        "url": "/typeface/drunkcowboy"
+    },
+    {
+        "name": "Harvester",
+        "url": "/typeface/harvester"
+    },
+    {
+        "name": "Kegger",
+        "url": "/typeface/kegger"
+    },
+    {
+        "name": "Kegger Collegiate",
+        "url": "/typeface/keggercollegiate"
+    },
+    {
+        "name": "Nicotine",
+        "url": "/typeface/nicotine"
+    },
+    {
+        "name": "Ollivette",
+        "url": "/typeface/ollivette"
+    },
+    {
+        "name": "Soccerboy",
+        "url": "/typeface/soccerboy"
+    },
+    {
+        "name": "Swingdancer",
+        "url": "/typeface/swingdancer"
+    },
+    {
+        "name": "Swister",
+        "url": "/typeface/swister"
+    },
+    {
+        "name": "Aviano",
+        "url": "/typeface/aviano"
+    },
+    {
+        "name": "Bookman",
+        "url": "/typeface/bookman"
+    },
+    {
+        "name": "Aviano Didone",
+        "url": "/typeface/avianodidone"
+    },
+    {
+        "name": "Aviano Sans",
+        "url": "/typeface/avianosans"
+    },
+    {
+        "name": "Aviano Flare",
+        "url": "/typeface/avianoflare"
+    },
+    {
+        "name": "Aviano Serif",
+        "url": "/typeface/avianoserif"
+    },
+    {
+        "name": "Blue Goblet",
+        "url": "/typeface/bluegoblet"
+    },
+    {
+        "name": "Blue Goblet Alt One",
+        "url": "/typeface/bluegobletaltone"
+    },
+    {
+        "name": "Carta Marina",
+        "url": "/typeface/cartamarina"
+    },
+    {
+        "name": "Chennai",
+        "url": "/typeface/chennai"
+    },
+    {
+        "name": "Sommet Rounded",
+        "url": "/typeface/sommetrounded"
+    },
+    {
+        "name": "Fertigo Script",
+        "url": "/typeface/fertigoscript"
+    },
+    {
+        "name": "Sommet Slab",
+        "url": "/typeface/sommetslab"
+    },
+    {
+        "name": "Chennai Slab",
+        "url": "/typeface/chennaislab"
+    },
+    {
+        "name": "Eigerdals",
+        "url": "/typeface/eigerdals"
+    },
+    {
+        "name": "Le Havre",
+        "url": "/typeface/lehavre"
+    },
+    {
+        "name": "Le Havre Rounded",
+        "url": "/typeface/lehavrerounded"
+    },
+    {
+        "name": "Mahalia",
+        "url": "/typeface/mahalia"
+    },
+    {
+        "name": "Montag",
+        "url": "/typeface/montag"
+    },
+    {
+        "name": "Mynaruse",
+        "url": "/typeface/mynaruse"
+    },
+    {
+        "name": "Natalya",
+        "url": "/typeface/natalya"
+    },
+    {
+        "name": "Olidia",
+        "url": "/typeface/olidia"
+    },
+    {
+        "name": "Pauline",
+        "url": "/typeface/pauline"
+    },
+    {
+        "name": "Rennie Mackintosh Glasgow",
+        "url": "/typeface/renniemackintoshglasgow"
+    },
+    {
+        "name": "Centro Slab Pro",
+        "url": "/typeface/centroslabpro"
+    },
+    {
+        "name": "Alternate Gothic",
+        "url": "/typeface/alternategothic"
+    },
+    {
+        "name": "Quatro Ultra",
+        "url": "/typeface/quatroultra"
+    },
+    {
+        "name": "Quatro Slab Ultra",
+        "url": "/typeface/quatroslabultra"
+    },
+    {
+        "name": "Fontin",
+        "url": "/typeface/fontin"
+    },
+    {
+        "name": "Cargo",
+        "url": "/typeface/cargo"
+    },
+    {
+        "name": "Americana",
+        "url": "/typeface/americana"
+    },
+    {
+        "name": "Amsterdamer Garamont",
+        "url": "/typeface/amsterdamergaramont"
+    },
+    {
+        "name": "Aster",
+        "url": "/typeface/aster"
+    },
+    {
+        "name": "Atlantic Sans",
+        "url": "/typeface/atlanticsans"
+    },
+    {
+        "name": "Bauer Bodoni",
+        "url": "/typeface/bauerbodoni"
+    },
+    {
+        "name": "Bee",
+        "url": "/typeface/bee"
+    },
+    {
+        "name": "Futura Condensed",
+        "url": "/typeface/futuracondensed"
+    },
+    {
+        "name": "VAG Rundschrift",
+        "url": "/typeface/vagrundschrift"
+    },
+    {
+        "name": "Beton",
+        "url": "/typeface/beton"
+    },
+    {
+        "name": "Franklin Gothic URW",
+        "url": "/typeface/franklingothicurw"
+    },
+    {
+        "name": "Garamond",
+        "url": "/typeface/garamond"
+    },
+    {
+        "name": "Garamond Extra Narrow",
+        "url": "/typeface/garamondextranarrow"
+    },
+    {
+        "name": "Garamond Extra Wide",
+        "url": "/typeface/garamondextrawide"
+    },
+    {
+        "name": "Garamond Narrow",
+        "url": "/typeface/garamondnarrow"
+    },
+    {
+        "name": "Garamond Wide",
+        "url": "/typeface/garamondwide"
+    },
+    {
+        "name": "Garamond Condensed",
+        "url": "/typeface/garamondcondensed"
+    },
+    {
+        "name": "Eurostile",
+        "url": "/typeface/eurostile"
+    },
+    {
+        "name": "Eurostile Condensed",
+        "url": "/typeface/eurostilecondensed"
+    },
+    {
+        "name": "Eurostile Extended",
+        "url": "/typeface/eurostileextended"
+    },
+    {
+        "name": "Eurostile Relief",
+        "url": "/typeface/eurostilerelief"
+    },
+    {
+        "name": "News Gothic",
+        "url": "/typeface/newsgothic"
+    },
+    {
+        "name": "DIN 1451",
+        "url": "/typeface/din1451"
+    },
+    {
+        "name": "Goudy Old Style",
+        "url": "/typeface/goudyoldstyle"
+    },
+    {
+        "name": "Palladio",
+        "url": "/typeface/palladio"
+    },
+    {
+        "name": "Cochin",
+        "url": "/typeface/cochin"
+    },
+    {
+        "name": "Latino",
+        "url": "/typeface/latino"
+    },
+    {
+        "name": "Lucida Sans",
+        "url": "/typeface/lucidasans"
+    },
+    {
+        "name": "Cooper Black",
+        "url": "/typeface/cooperblack"
+    },
+    {
+        "name": "Danmark URW",
+        "url": "/typeface/danmarkurw"
+    },
+    {
+        "name": "Janson",
+        "url": "/typeface/janson"
+    },
+    {
+        "name": "Fontin Sans Cyrillic",
+        "url": "/typeface/fontinsanscyrillic"
+    },
+    {
+        "name": "Ratio Display",
+        "url": "/typeface/ratiodisplay"
+    },
+    {
+        "name": "Goudy Heavyface",
+        "url": "/typeface/goudyheavyface"
+    },
+    {
+        "name": "Impressum",
+        "url": "/typeface/impressum"
+    },
+    {
+        "name": "Worcester Round",
+        "url": "/typeface/worcesterround"
+    },
+    {
+        "name": "Veltro",
+        "url": "/typeface/veltro"
+    },
+    {
+        "name": "Volta",
+        "url": "/typeface/volta"
+    },
+    {
+        "name": "PT Sans",
+        "url": "/typeface/ptsans"
+    },
+    {
+        "name": "Apercu",
+        "url": "/typeface/apercu"
+    },
+    {
+        "name": "Apercu Mono",
+        "url": "/typeface/apercumono"
+    },
+    {
+        "name": "PT Sans Latin CE",
+        "url": "/typeface/ptsanslatince"
+    },
+    {
+        "name": "Bodoni Antiqua",
+        "url": "/typeface/bodoniantiqua"
+    },
+    {
+        "name": "Britannic",
+        "url": "/typeface/britannic"
+    },
+    {
+        "name": "Broadway",
+        "url": "/typeface/broadway"
+    },
+    {
+        "name": "Brody",
+        "url": "/typeface/brody"
+    },
+    {
+        "name": "Candida",
+        "url": "/typeface/candida"
+    },
+    {
+        "name": "Baskerville",
+        "url": "/typeface/baskerville"
+    },
+    {
+        "name": "Belco",
+        "url": "/typeface/belco"
+    },
+    {
+        "name": "Belco Slab Serif",
+        "url": "/typeface/belcoslabserif"
+    },
+    {
+        "name": "Proxima Nova",
+        "url": "/typeface/proximanova"
+    },
+    {
+        "name": "Proxima Nova Condensed",
+        "url": "/typeface/proximanovacondensed"
+    },
+    {
+        "name": "Proxima Nova Extra Condensed",
+        "url": "/typeface/proximanovaextracondensed"
+    },
+    {
+        "name": "Coquette",
+        "url": "/typeface/coquette"
+    },
+    {
+        "name": "Blakely",
+        "url": "/typeface/blakely"
+    },
+    {
+        "name": "Bree",
+        "url": "/typeface/bree"
+    },
+    {
+        "name": "Grip SB",
+        "url": "/typeface/gripsb"
+    },
+    {
+        "name": "Sharktooth",
+        "url": "/typeface/sharktooth"
+    },
+    {
+        "name": "Syntax",
+        "url": "/typeface/syntax"
+    },
+    {
+        "name": "Caslon Antique",
+        "url": "/typeface/caslonantique"
+    },
+    {
+        "name": "Folio",
+        "url": "/typeface/folio"
+    },
+    {
+        "name": "Folio Condensed",
+        "url": "/typeface/foliocondensed"
+    },
+    {
+        "name": "Francesco",
+        "url": "/typeface/francesco"
+    },
+    {
+        "name": "Acier BAT Display",
+        "url": "/typeface/acierbatdisplay"
+    },
+    {
+        "name": "Acier BAT Text",
+        "url": "/typeface/acierbattext"
+    },
+    {
+        "name": "Adelle",
+        "url": "/typeface/adelle"
+    },
+    {
+        "name": "Athelas",
+        "url": "/typeface/athelas"
+    },
+    {
+        "name": "Cora",
+        "url": "/typeface/cora"
+    },
+    {
+        "name": "Enforcer",
+        "url": "/typeface/enforcer"
+    },
+    {
+        "name": "Oblik",
+        "url": "/typeface/oblik"
+    },
+    {
+        "name": "Oblik Serif",
+        "url": "/typeface/oblikserif"
+    },
+    {
+        "name": "Horrorama",
+        "url": "/typeface/horrorama"
+    },
+    {
+        "name": "Qiltray",
+        "url": "/typeface/qiltray"
+    },
+    {
+        "name": "Demis",
+        "url": "/typeface/demis"
+    },
+    {
+        "name": "Rough the Type",
+        "url": "/typeface/roughthetype"
+    },
+    {
+        "name": "Sensor",
+        "url": "/typeface/sensor"
+    },
+    {
+        "name": "Edita",
+        "url": "/typeface/edita"
+    },
+    {
+        "name": "Karmina",
+        "url": "/typeface/karmina"
+    },
+    {
+        "name": "Givry",
+        "url": "/typeface/givry"
+    },
+    {
+        "name": "Changeling Neo",
+        "url": "/typeface/changelingneo"
+    },
+    {
+        "name": "Felt Tip Roman",
+        "url": "/typeface/felttiproman"
+    },
+    {
+        "name": "Felt Tip Senior",
+        "url": "/typeface/felttipsenior"
+    },
+    {
+        "name": "Felt Tip Woman",
+        "url": "/typeface/felttipwoman"
+    },
+    {
+        "name": "Grad",
+        "url": "/typeface/grad"
+    },
+    {
+        "name": "Kandal",
+        "url": "/typeface/kandal"
+    },
+    {
+        "name": "Metallophile Sp 8",
+        "url": "/typeface/metallophilesp8"
+    },
+    {
+        "name": "Mostra Nuova",
+        "url": "/typeface/mostranuova"
+    },
+    {
+        "name": "Refrigerator Deluxe",
+        "url": "/typeface/refrigeratordeluxe"
+    },
+    {
+        "name": "Snicker",
+        "url": "/typeface/snicker"
+    },
+    {
+        "name": "Byte SB",
+        "url": "/typeface/bytesb"
+    },
+    {
+        "name": "Censor SB",
+        "url": "/typeface/censorsb"
+    },
+    {
+        "name": "Degenerate SB",
+        "url": "/typeface/degeneratesb"
+    },
+    {
+        "name": "Expo SB",
+        "url": "/typeface/exposb"
+    },
+    {
+        "name": "Liquid SB",
+        "url": "/typeface/liquidsb"
+    },
+    {
+        "name": "Message SB",
+        "url": "/typeface/messagesb"
+    },
+    {
+        "name": "Modem SB",
+        "url": "/typeface/modemsb"
+    },
+    {
+        "name": "Navigator SB",
+        "url": "/typeface/navigatorsb"
+    },
+    {
+        "name": "Superbloc SB",
+        "url": "/typeface/superblocsb"
+    },
+    {
+        "name": "Tokyo SB",
+        "url": "/typeface/tokyosb"
+    },
+    {
+        "name": "Vibe SB",
+        "url": "/typeface/vibesb"
+    },
+    {
+        "name": "Websnap SB",
+        "url": "/typeface/websnapsb"
+    },
+    {
+        "name": "Bliss",
+        "url": "/typeface/bliss"
+    },
+    {
+        "name": "Calypso E",
+        "url": "/typeface/calypsoe"
+    },
+    {
+        "name": "Century Old Style",
+        "url": "/typeface/centuryoldstyle"
+    },
+    {
+        "name": "Alizé",
+        "url": "/typeface/aliz"
+    },
+    {
+        "name": "Crete",
+        "url": "/typeface/crete"
+    },
+    {
+        "name": "Ronnia",
+        "url": "/typeface/ronnia"
+    },
+    {
+        "name": "Karmina Sans",
+        "url": "/typeface/karminasans"
+    },
+    {
+        "name": "Lagoon",
+        "url": "/typeface/lagoon"
+    },
+    {
+        "name": "LFT Etica",
+        "url": "/typeface/lftetica"
+    },
+    {
+        "name": "Ronnia Condensed",
+        "url": "/typeface/ronniacondensed"
+    },
+    {
+        "name": "Maiola",
+        "url": "/typeface/maiola"
+    },
+    {
+        "name": "Oblik Classic",
+        "url": "/typeface/oblikclassic"
+    },
+    {
+        "name": "Beau Sans Pro",
+        "url": "/typeface/beausanspro"
+    },
+    {
+        "name": "Century Schoolbook",
+        "url": "/typeface/centuryschoolbook"
+    },
+    {
+        "name": "Cheltenham Old Style",
+        "url": "/typeface/cheltenhamoldstyle"
+    },
+    {
+        "name": "Chevalier",
+        "url": "/typeface/chevalier"
+    },
+    {
+        "name": "Clearface Gothic",
+        "url": "/typeface/clearfacegothic"
+    },
+    {
+        "name": "Congress",
+        "url": "/typeface/congress"
+    },
+    {
+        "name": "Copperplate",
+        "url": "/typeface/copperplate"
+    },
+    {
+        "name": "DTC Hermes",
+        "url": "/typeface/dtchermes"
+    },
+    {
+        "name": "Fette Fraktur",
+        "url": "/typeface/fettefraktur"
+    },
+    {
+        "name": "Fette Gotisch",
+        "url": "/typeface/fettegotisch"
+    },
+    {
+        "name": "Flamenco",
+        "url": "/typeface/flamenco"
+    },
+    {
+        "name": "Altrincham",
+        "url": "/typeface/altrincham"
+    },
+    {
+        "name": "Altrincham Condensed",
+        "url": "/typeface/altrinchamcondensed"
+    },
+    {
+        "name": "Altrincham Wide",
+        "url": "/typeface/altrinchamwide"
+    },
+    {
+        "name": "Bardi",
+        "url": "/typeface/bardi"
+    },
+    {
+        "name": "Bohemian",
+        "url": "/typeface/bohemian"
+    },
+    {
+        "name": "Serifa",
+        "url": "/typeface/serifa"
+    },
+    {
+        "name": "Casanova",
+        "url": "/typeface/casanova"
+    },
+    {
+        "name": "Serifa Condensed",
+        "url": "/typeface/serifacondensed"
+    },
+    {
+        "name": "Klassika",
+        "url": "/typeface/klassika"
+    },
+    {
+        "name": "Marin",
+        "url": "/typeface/marin"
+    },
+    {
+        "name": "Parametra",
+        "url": "/typeface/parametra"
+    },
+    {
+        "name": "Rotate Klassik",
+        "url": "/typeface/rotateklassik"
+    },
+    {
+        "name": "Rotate Modern",
+        "url": "/typeface/rotatemodern"
+    },
+    {
+        "name": "Rotate Nouveau",
+        "url": "/typeface/rotatenouveau"
+    },
+    {
+        "name": "Scylla",
+        "url": "/typeface/scylla"
+    },
+    {
+        "name": "Seed",
+        "url": "/typeface/seed"
+    },
+    {
+        "name": "Sepultura",
+        "url": "/typeface/sepultura"
+    },
+    {
+        "name": "Sirius",
+        "url": "/typeface/sirius"
+    },
+    {
+        "name": "Spielhaus",
+        "url": "/typeface/spielhaus"
+    },
+    {
+        "name": "Kabarett",
+        "url": "/typeface/kabarett"
+    },
+    {
+        "name": "Vinkel",
+        "url": "/typeface/vinkel"
+    },
+    {
+        "name": "Din Display Pro",
+        "url": "/typeface/dindisplaypro"
+    },
+    {
+        "name": "Memphis",
+        "url": "/typeface/memphis"
+    },
+    {
+        "name": "The Shire Types",
+        "url": "/typeface/theshiretypes"
+    },
+    {
+        "name": "Din Stencil",
+        "url": "/typeface/dinstencil"
+    },
+    {
+        "name": "Din Monospace",
+        "url": "/typeface/dinmonospace"
+    },
+    {
+        "name": "Aspect",
+        "url": "/typeface/aspect"
+    },
+    {
+        "name": "Alchemy Midas",
+        "url": "/typeface/alchemymidas"
+    },
+    {
+        "name": "Enigma",
+        "url": "/typeface/enigma"
+    },
+    {
+        "name": "Kingfisher",
+        "url": "/typeface/kingfisher"
+    },
+    {
+        "name": "Shaker Wide",
+        "url": "/typeface/shakerwide"
+    },
+    {
+        "name": "Shaker Condensed",
+        "url": "/typeface/shakercondensed"
+    },
+    {
+        "name": "Shaker",
+        "url": "/typeface/shaker"
+    },
+    {
+        "name": "Wayfarer",
+        "url": "/typeface/wayfarer"
+    },
+    {
+        "name": "Trilogy Egyptian",
+        "url": "/typeface/trilogyegyptian"
+    },
+    {
+        "name": "Trilogy Egyptian Wide",
+        "url": "/typeface/trilogyegyptianwide"
+    },
+    {
+        "name": "Trilogy Egyptian Expanded",
+        "url": "/typeface/trilogyegyptianexpanded"
+    },
+    {
+        "name": "Trilogy Fatface",
+        "url": "/typeface/trilogyfatface"
+    },
+    {
+        "name": "Trilogy Sans",
+        "url": "/typeface/trilogysans"
+    },
+    {
+        "name": "Trilogy Sans Compressed",
+        "url": "/typeface/trilogysanscompressed"
+    },
+    {
+        "name": "Trilogy Sans Condensed",
+        "url": "/typeface/trilogysanscondensed"
+    },
+    {
+        "name": "Trilogy Sans Expanded",
+        "url": "/typeface/trilogysansexpanded"
+    },
+    {
+        "name": "Trilogy Sans Wide",
+        "url": "/typeface/trilogysanswide"
+    },
+    {
+        "name": "Glaser Stencil",
+        "url": "/typeface/glaserstencil"
+    },
+    {
+        "name": "Goudy Catalogue",
+        "url": "/typeface/goudycatalogue"
+    },
+    {
+        "name": "Goudy Handtooled",
+        "url": "/typeface/goudyhandtooled"
+    },
+    {
+        "name": "Stencil",
+        "url": "/typeface/stencil"
+    },
+    {
+        "name": "Latienne",
+        "url": "/typeface/latienne"
+    },
+    {
+        "name": "Sirba",
+        "url": "/typeface/sirba"
+    },
+    {
+        "name": "Majestic Mishmash",
+        "url": "/typeface/majesticmishmash"
+    },
+    {
+        "name": "Billboard",
+        "url": "/typeface/billboard"
+    },
+    {
+        "name": "Malamondo",
+        "url": "/typeface/malamondo"
+    },
+    {
+        "name": "Mrs Lolita",
+        "url": "/typeface/mrslolita"
+    },
+    {
+        "name": "Squarendon",
+        "url": "/typeface/squarendon"
+    },
+    {
+        "name": "10.12",
+        "url": "/typeface/feno1012"
+    },
+    {
+        "name": "Funghi Mania",
+        "url": "/typeface/funghimania"
+    },
+    {
+        "name": "Motel Xenia",
+        "url": "/typeface/motelxenia"
+    },
+    {
+        "name": "3 The Hard Way RMX",
+        "url": "/typeface/feno3thehardwayrmx"
+    },
+    {
+        "name": "080203",
+        "url": "/typeface/feno080203"
+    },
+    {
+        "name": "Biscuits and Gravy",
+        "url": "/typeface/biscuitsandgravy"
+    },
+    {
+        "name": "Bouncer",
+        "url": "/typeface/bouncer"
+    },
+    {
+        "name": "Darlington",
+        "url": "/typeface/darlington"
+    },
+    {
+        "name": "EB Base Mono",
+        "url": "/typeface/ebbasemono"
+    },
+    {
+        "name": "EB Bellissimo Display",
+        "url": "/typeface/ebbellissimodisplay"
+    },
+    {
+        "name": "EB Boogie Monster",
+        "url": "/typeface/ebboogiemonster"
+    },
+    {
+        "name": "Cordial Pro",
+        "url": "/typeface/cordialpro"
+    },
+    {
+        "name": "Tanger Serif Medium",
+        "url": "/typeface/tangerserifmedium"
+    },
+    {
+        "name": "Redisturbed",
+        "url": "/typeface/redisturbed"
+    },
+    {
+        "name": "Tanger Serif Narrow",
+        "url": "/typeface/tangerserifnarrow"
+    },
+    {
+        "name": "Tanger Serif Wide",
+        "url": "/typeface/tangerserifwide"
+    },
+    {
+        "name": "Cordial Pro Extended",
+        "url": "/typeface/cordialproextended"
+    },
+    {
+        "name": "Cordial Pro Rounded",
+        "url": "/typeface/cordialprorounded"
+    },
+    {
+        "name": "Unicod Sans",
+        "url": "/typeface/unicodsans"
+    },
+    {
+        "name": "Passage",
+        "url": "/typeface/passage"
+    },
+    {
+        "name": "Cobol",
+        "url": "/typeface/cobol"
+    },
+    {
+        "name": "IceCream Soda",
+        "url": "/typeface/icecreamsoda"
+    },
+    {
+        "name": "Futuresque",
+        "url": "/typeface/futuresque"
+    },
+    {
+        "name": "Brevier",
+        "url": "/typeface/brevier"
+    },
+    {
+        "name": "Knul",
+        "url": "/typeface/knul"
+    },
+    {
+        "name": "Hoxton",
+        "url": "/typeface/hoxton"
+    },
+    {
+        "name": "Lintel",
+        "url": "/typeface/lintel"
+    },
+    {
+        "name": "Planer",
+        "url": "/typeface/planer"
+    },
+    {
+        "name": "Intropol",
+        "url": "/typeface/intropol"
+    },
+    {
+        "name": "Killer Elephant",
+        "url": "/typeface/killerelephant"
+    },
+    {
+        "name": "Linguine",
+        "url": "/typeface/linguine"
+    },
+    {
+        "name": "Linja",
+        "url": "/typeface/linja"
+    },
+    {
+        "name": "Adso",
+        "url": "/typeface/adso"
+    },
+    {
+        "name": "Arcle",
+        "url": "/typeface/arcle"
+    },
+    {
+        "name": "Dohrma",
+        "url": "/typeface/dohrma"
+    },
+    {
+        "name": "MarkusLow",
+        "url": "/typeface/markuslow"
+    },
+    {
+        "name": "Mekon",
+        "url": "/typeface/mekon"
+    },
+    {
+        "name": "Signor",
+        "url": "/typeface/signor"
+    },
+    {
+        "name": "Olympik",
+        "url": "/typeface/olympik"
+    },
+    {
+        "name": "Teletex",
+        "url": "/typeface/teletex"
+    },
+    {
+        "name": "Rikos",
+        "url": "/typeface/rikos"
+    },
+    {
+        "name": "DyeLine",
+        "url": "/typeface/dyeline"
+    },
+    {
+        "name": "DraftWerk",
+        "url": "/typeface/draftwerk"
+    },
+    {
+        "name": "Otomo",
+        "url": "/typeface/otomo"
+    },
+    {
+        "name": "FT Mammoth",
+        "url": "/typeface/ftmammoth"
+    },
+    {
+        "name": "Punavuori",
+        "url": "/typeface/punavuori"
+    },
+    {
+        "name": "Kaine",
+        "url": "/typeface/kaine"
+    },
+    {
+        "name": "Yodo",
+        "url": "/typeface/yodo"
+    },
+    {
+        "name": "Brion",
+        "url": "/typeface/brion"
+    },
+    {
+        "name": "November Script",
+        "url": "/typeface/novemberscript"
+    },
+    {
+        "name": "Telegraph",
+        "url": "/typeface/telegraph"
+    },
+    {
+        "name": "FT Moonshine Script",
+        "url": "/typeface/ftmoonshinescript"
+    },
+    {
+        "name": "FT Dead Mans Diary",
+        "url": "/typeface/ftdeadmansdiary"
+    },
+    {
+        "name": "EB Futuretro",
+        "url": "/typeface/ebfuturetro"
+    },
+    {
+        "name": "NuOrder",
+        "url": "/typeface/nuorder"
+    },
+    {
+        "name": "Scriber",
+        "url": "/typeface/scriber"
+    },
+    {
+        "name": "Tengu",
+        "url": "/typeface/tengu"
+    },
+    {
+        "name": "ProtoFet",
+        "url": "/typeface/protofet"
+    },
+    {
+        "name": "Zaius",
+        "url": "/typeface/zaius"
+    },
+    {
+        "name": "Unicod Sans Condensed",
+        "url": "/typeface/unicodsanscondensed"
+    },
+    {
+        "name": "Graficz",
+        "url": "/typeface/graficz"
+    },
+    {
+        "name": "Luminance",
+        "url": "/typeface/luminance"
+    },
+    {
+        "name": "Lunda",
+        "url": "/typeface/lunda"
+    },
+    {
+        "name": "Oxtail",
+        "url": "/typeface/oxtail"
+    },
+    {
+        "name": "Remontoire",
+        "url": "/typeface/remontoire"
+    },
+    {
+        "name": "Sophisto",
+        "url": "/typeface/sophisto"
+    },
+    {
+        "name": "Tarocco",
+        "url": "/typeface/tarocco"
+    },
+    {
+        "name": "Surrey",
+        "url": "/typeface/surrey"
+    },
+    {
+        "name": "Calligraphia Latina",
+        "url": "/typeface/calligraphialatina"
+    },
+    {
+        "name": "Indenture English Penman",
+        "url": "/typeface/indentureenglishpenman"
+    },
+    {
+        "name": "Norpeth",
+        "url": "/typeface/norpeth"
+    },
+    {
+        "name": "Cordial Pro Cherry",
+        "url": "/typeface/cordialprocherry"
+    },
+    {
+        "name": "Cordial Pro Inline",
+        "url": "/typeface/cordialproinline"
+    },
+    {
+        "name": "Old English",
+        "url": "/typeface/oldenglish"
+    },
+    {
+        "name": "Adroit URW",
+        "url": "/typeface/adroiturw"
+    },
+    {
+        "name": "Latienne Swash",
+        "url": "/typeface/latienneswash"
+    },
+    {
+        "name": "Lamont Pro",
+        "url": "/typeface/lamontpro"
+    },
+    {
+        "name": "Maxima",
+        "url": "/typeface/maxima"
+    },
+    {
+        "name": "Didoni",
+        "url": "/typeface/didoni"
+    },
+    {
+        "name": "Florentine",
+        "url": "/typeface/florentine"
+    },
+    {
+        "name": "Venus",
+        "url": "/typeface/venus"
+    },
+    {
+        "name": "Lucida Sans Narrow",
+        "url": "/typeface/lucidasansnarrow"
+    },
+    {
+        "name": "Lucida Sans Typewriter",
+        "url": "/typeface/lucidasanstypewriter"
+    },
+    {
+        "name": "Lucida Typewriter",
+        "url": "/typeface/lucidatypewriter"
+    },
+    {
+        "name": "Agenda",
+        "url": "/typeface/agenda"
+    },
+    {
+        "name": "Amber",
+        "url": "/typeface/amber"
+    },
+    {
+        "name": "Annual",
+        "url": "/typeface/annual"
+    },
+    {
+        "name": "Baucher Gothic",
+        "url": "/typeface/bauchergothic"
+    },
+    {
+        "name": "Bosko",
+        "url": "/typeface/bosko"
+    },
+    {
+        "name": "Cartel",
+        "url": "/typeface/cartel"
+    },
+    {
+        "name": "Continental",
+        "url": "/typeface/continental"
+    },
+    {
+        "name": "Fat Face",
+        "url": "/typeface/fatface"
+    },
+    {
+        "name": "Interval",
+        "url": "/typeface/interval"
+    },
+    {
+        "name": "Interval Condensed",
+        "url": "/typeface/intervalcondensed"
+    },
+    {
+        "name": "Quentin",
+        "url": "/typeface/quentin"
+    },
+    {
+        "name": "Renault",
+        "url": "/typeface/renault"
+    },
+    {
+        "name": "Roman Script",
+        "url": "/typeface/romanscript"
+    },
+    {
+        "name": "Agua",
+        "url": "/typeface/agua"
+    },
+    {
+        "name": "Supermarket",
+        "url": "/typeface/supermarket"
+    },
+    {
+        "name": "Visoko",
+        "url": "/typeface/visoko"
+    },
+    {
+        "name": "Sofia",
+        "url": "/typeface/sofia"
+    },
+    {
+        "name": "Woolworth",
+        "url": "/typeface/woolworth"
+    },
+    {
+        "name": "Grotesk URW",
+        "url": "/typeface/groteskurw"
+    },
+    {
+        "name": "Grotesk Condensed URW",
+        "url": "/typeface/groteskcondensedurw"
+    },
+    {
+        "name": "Grotesk Extra Narrow URW",
+        "url": "/typeface/groteskextranarrowurw"
+    },
+    {
+        "name": "Grotesk Narrow URW",
+        "url": "/typeface/grotesknarrowurw"
+    },
+    {
+        "name": "Grotesk Wide URW",
+        "url": "/typeface/groteskwideurw"
+    },
+    {
+        "name": "Grotesk Extra Wide URW",
+        "url": "/typeface/groteskextrawideurw"
+    },
+    {
+        "name": "Square Sans Cyrillic",
+        "url": "/typeface/squaresanscyrillic"
+    },
+    {
+        "name": "Maiola Cyrillic",
+        "url": "/typeface/maiolacyrillic"
+    },
+    {
+        "name": "Maiola Greek",
+        "url": "/typeface/maiolagreek"
+    },
+    {
+        "name": "Gabriel Sans",
+        "url": "/typeface/gabrielsans"
+    },
+    {
+        "name": "Harry Pro",
+        "url": "/typeface/harrypro"
+    },
+    {
+        "name": "Harry Pro Squeezed",
+        "url": "/typeface/harryprosqueezed"
+    },
+    {
+        "name": "Karnak Pro",
+        "url": "/typeface/karnakpro"
+    },
+    {
+        "name": "Karnak Pro Condensed",
+        "url": "/typeface/karnakprocondensed"
+    },
+    {
+        "name": "Pencraft",
+        "url": "/typeface/pencraft"
+    },
+    {
+        "name": "Spencerian Palmer Penmanship",
+        "url": "/typeface/spencerianpalmerpenmanship"
+    },
+    {
+        "name": "Decadence Avec Elegance",
+        "url": "/typeface/decadenceavecelegance"
+    },
+    {
+        "name": "Solomon",
+        "url": "/typeface/solomon"
+    },
+    {
+        "name": "Calluna Sans",
+        "url": "/typeface/callunasans"
+    },
+    {
+        "name": "Baskerville Extra Narrow",
+        "url": "/typeface/baskervilleextranarrow"
+    },
+    {
+        "name": "Baskerville Narrow",
+        "url": "/typeface/baskervillenarrow"
+    },
+    {
+        "name": "Baskerville Wide",
+        "url": "/typeface/baskervillewide"
+    },
+    {
+        "name": "Baskerville Extra Wide",
+        "url": "/typeface/baskervilleextrawide"
+    },
+    {
+        "name": "Uni Sans",
+        "url": "/typeface/unisans"
+    },
+    {
+        "name": "Clarendon URW Extra Wide",
+        "url": "/typeface/clarendonurwextrawide"
+    },
+    {
+        "name": "Bloco",
+        "url": "/typeface/bloco"
+    },
+    {
+        "name": "Geometry Script Pro",
+        "url": "/typeface/geometryscriptpro"
+    },
+    {
+        "name": "Geometry Soft Pro",
+        "url": "/typeface/geometrysoftpro"
+    },
+    {
+        "name": "Matrise Pro",
+        "url": "/typeface/matrisepro"
+    },
+    {
+        "name": "Matrise Text Pro",
+        "url": "/typeface/matrisetextpro"
+    },
+    {
+        "name": "Din Text Pro",
+        "url": "/typeface/dintextpro"
+    },
+    {
+        "name": "Black Jack Pro",
+        "url": "/typeface/blackjackpro"
+    },
+    {
+        "name": "Typekeys Pro",
+        "url": "/typeface/typekeyspro"
+    },
+    {
+        "name": "Aston",
+        "url": "/typeface/aston"
+    },
+    {
+        "name": "Stone Hinge Pro",
+        "url": "/typeface/stonehingepro"
+    },
+    {
+        "name": "Reader FF",
+        "url": "/typeface/readerff"
+    },
+    {
+        "name": "Aquarius",
+        "url": "/typeface/aquarius"
+    },
+    {
+        "name": "Badger Pro",
+        "url": "/typeface/badgerpro"
+    },
+    {
+        "name": "Zag",
+        "url": "/typeface/zag"
+    },
+    {
+        "name": "Blou",
+        "url": "/typeface/blou"
+    },
+    {
+        "name": "Clou",
+        "url": "/typeface/clou"
+    },
+    {
+        "name": "Creighton",
+        "url": "/typeface/creighton"
+    },
+    {
+        "name": "Colo Pro",
+        "url": "/typeface/colopro"
+    },
+    {
+        "name": "Cubic",
+        "url": "/typeface/cubic"
+    },
+    {
+        "name": "Dan Pro",
+        "url": "/typeface/danpro"
+    },
+    {
+        "name": "Dovde",
+        "url": "/typeface/dovde"
+    },
+    {
+        "name": "Dox",
+        "url": "/typeface/dox"
+    },
+    {
+        "name": "Duplex",
+        "url": "/typeface/duplex"
+    },
+    {
+        "name": "Kare",
+        "url": "/typeface/kare"
+    },
+    {
+        "name": "Kvant",
+        "url": "/typeface/kvant"
+    },
+    {
+        "name": "Oval",
+        "url": "/typeface/oval"
+    },
+    {
+        "name": "Pastel",
+        "url": "/typeface/pastel"
+    },
+    {
+        "name": "Rolka",
+        "url": "/typeface/rolka"
+    },
+    {
+        "name": "Sudoku",
+        "url": "/typeface/sudoku"
+    },
+    {
+        "name": "Wigan",
+        "url": "/typeface/wigan"
+    },
+    {
+        "name": "Solomon Deco",
+        "url": "/typeface/solomondeco"
+    },
+    {
+        "name": "Boogie Nights Pro",
+        "url": "/typeface/boogienightspro"
+    },
+    {
+        "name": "Hamburger Heaven Pro",
+        "url": "/typeface/hamburgerheavenpro"
+    },
+    {
+        "name": "Fontleroy Pro",
+        "url": "/typeface/fontleroypro"
+    },
+    {
+        "name": "Dekal",
+        "url": "/typeface/dekal"
+    },
+    {
+        "name": "FS Albert Web",
+        "url": "/typeface/fsalbertweb"
+    },
+    {
+        "name": "FS Joey Web",
+        "url": "/typeface/fsjoeyweb"
+    },
+    {
+        "name": "FS Lola Web",
+        "url": "/typeface/fslolaweb"
+    },
+    {
+        "name": "FS Me Web",
+        "url": "/typeface/fsmeweb"
+    },
+    {
+        "name": "FS Sally Web",
+        "url": "/typeface/fssallyweb"
+    },
+    {
+        "name": "FS Sinclair Web",
+        "url": "/typeface/fssinclairweb"
+    },
+    {
+        "name": "Dark Wood",
+        "url": "/typeface/darkwood"
+    },
+    {
+        "name": "Jeeves",
+        "url": "/typeface/jeeves"
+    },
+    {
+        "name": "Copasetic Pro",
+        "url": "/typeface/copaseticpro"
+    },
+    {
+        "name": "Coventry Garden Pro",
+        "url": "/typeface/coventrygardenpro"
+    },
+    {
+        "name": "Monterey Popsicle Pro",
+        "url": "/typeface/montereypopsiclepro"
+    },
+    {
+        "name": "Rivanna Pro",
+        "url": "/typeface/rivannapro"
+    },
+    {
+        "name": "Wooden Nickel Pro",
+        "url": "/typeface/woodennickelpro"
+    },
+    {
+        "name": "Pollen",
+        "url": "/typeface/pollen"
+    },
+    {
+        "name": "NeoGram",
+        "url": "/typeface/neogram"
+    },
+    {
+        "name": "NeoGram Extended",
+        "url": "/typeface/neogramextended"
+    },
+    {
+        "name": "NeoGram Condensed",
+        "url": "/typeface/neogramcondensed"
+    },
+    {
+        "name": "Alphabet Soup Pro",
+        "url": "/typeface/alphabetsouppro"
+    },
+    {
+        "name": "Megaphone Pro",
+        "url": "/typeface/megaphonepro"
+    },
+    {
+        "name": "Wurlitzer Pro",
+        "url": "/typeface/wurlitzerpro"
+    },
+    {
+        "name": "Elston Pro",
+        "url": "/typeface/elstonpro"
+    },
+    {
+        "name": "Pickworth Old Style Pro",
+        "url": "/typeface/pickwortholdstylepro"
+    },
+    {
+        "name": "Shamus Pro",
+        "url": "/typeface/shamuspro"
+    },
+    {
+        "name": "Wells Grotesque Pro",
+        "url": "/typeface/wellsgrotesquepro"
+    },
+    {
+        "name": "Glasgow Pro",
+        "url": "/typeface/glasgowpro"
+    },
+    {
+        "name": "Eden Pro",
+        "url": "/typeface/edenpro"
+    },
+    {
+        "name": "Ryder Gothic Pro",
+        "url": "/typeface/rydergothicpro"
+    },
+    {
+        "name": "Motorcross Pro",
+        "url": "/typeface/motorcrosspro"
+    },
+    {
+        "name": "Carlingtown Pro",
+        "url": "/typeface/carlingtownpro"
+    },
+    {
+        "name": "Hemingway Pro",
+        "url": "/typeface/hemingwaypro"
+    },
+    {
+        "name": "Skolar Latin",
+        "url": "/typeface/skolarlatin"
+    },
+    {
+        "name": "Skolar Cyrillic",
+        "url": "/typeface/skolarcyrillic"
+    },
+    {
+        "name": "Los Alamos Pro",
+        "url": "/typeface/losalamospro"
+    },
+    {
+        "name": "Ronsard Crystal",
+        "url": "/typeface/ronsardcrystal"
+    },
+    {
+        "name": "Clark",
+        "url": "/typeface/clark"
+    },
+    {
+        "name": "Phosphate Pro",
+        "url": "/typeface/phosphatepro"
+    },
+    {
+        "name": "Connemara Old Style Pro",
+        "url": "/typeface/connemaraoldstylepro"
+    },
+    {
+        "name": "Flexion Pro",
+        "url": "/typeface/flexionpro"
+    },
+    {
+        "name": "Overtime LCD",
+        "url": "/typeface/overtimelcd"
+    },
+    {
+        "name": "Encore Sans Pro",
+        "url": "/typeface/encoresanspro"
+    },
+    {
+        "name": "Age",
+        "url": "/typeface/age"
+    },
+    {
+        "name": "Code",
+        "url": "/typeface/code"
+    },
+    {
+        "name": "Dekar",
+        "url": "/typeface/dekar"
+    },
+    {
+        "name": "Facet",
+        "url": "/typeface/facet"
+    },
+    {
+        "name": "File",
+        "url": "/typeface/file"
+    },
+    {
+        "name": "Gota",
+        "url": "/typeface/gota"
+    },
+    {
+        "name": "Hero",
+        "url": "/typeface/hero"
+    },
+    {
+        "name": "Lot",
+        "url": "/typeface/lot"
+    },
+    {
+        "name": "Mod",
+        "url": "/typeface/mod"
+    },
+    {
+        "name": "Null",
+        "url": "/typeface/null"
+    },
+    {
+        "name": "Portal",
+        "url": "/typeface/portal"
+    },
+    {
+        "name": "Quad",
+        "url": "/typeface/quad"
+    },
+    {
+        "name": "Saf",
+        "url": "/typeface/saf"
+    },
+    {
+        "name": "Val",
+        "url": "/typeface/val"
+    },
+    {
+        "name": "Museo Sans Rounded",
+        "url": "/typeface/museosansrounded"
+    },
+    {
+        "name": "King Cool KC Pro",
+        "url": "/typeface/kingcoolkcpro"
+    },
+    {
+        "name": "Celebrate The Day Pro",
+        "url": "/typeface/celebratethedaypro"
+    },
+    {
+        "name": "Burst My Bubble Pro",
+        "url": "/typeface/burstmybubblepro"
+    },
+    {
+        "name": "Complete In Him Pro",
+        "url": "/typeface/completeinhimpro"
+    },
+    {
+        "name": "You Are Loved Pro",
+        "url": "/typeface/youarelovedpro"
+    },
+    {
+        "name": "It Aint Rocket Science Pro",
+        "url": "/typeface/itaintrocketsciencepro"
+    },
+    {
+        "name": "Joyful Juliana Pro",
+        "url": "/typeface/joyfuljulianapro"
+    },
+    {
+        "name": "Airplanes In The Night Sky Pro",
+        "url": "/typeface/airplanesinthenightskypro"
+    },
+    {
+        "name": "Bastard ",
+        "url": "/typeface/bastard"
+    },
+    {
+        "name": "Bourgeois Condensed  Alternate",
+        "url": "/typeface/bourgeoiscondensedalternate"
+    },
+    {
+        "name": "Bourgeois Alternate",
+        "url": "/typeface/bourgeoisalternate"
+    },
+    {
+        "name": "Bourgeois",
+        "url": "/typeface/bourgeois"
+    },
+    {
+        "name": "Bourgeois Condensed",
+        "url": "/typeface/bourgeoiscondensed"
+    },
+    {
+        "name": "Coma",
+        "url": "/typeface/coma"
+    },
+    {
+        "name": "Delux",
+        "url": "/typeface/delux"
+    },
+    {
+        "name": "DoubleThink",
+        "url": "/typeface/doublethink"
+    },
+    {
+        "name": "Drone",
+        "url": "/typeface/drone"
+    },
+    {
+        "name": "Echelon",
+        "url": "/typeface/echelon"
+    },
+    {
+        "name": "Expletive Script",
+        "url": "/typeface/expletivescript"
+    },
+    {
+        "name": "False Idol",
+        "url": "/typeface/falseidol"
+    },
+    {
+        "name": "Reminder Pro",
+        "url": "/typeface/reminderpro"
+    },
+    {
+        "name": "Hopeless Diamond",
+        "url": "/typeface/hopelessdiamond"
+    },
+    {
+        "name": "Bodoni Script Pro",
+        "url": "/typeface/bodoniscriptpro"
+    },
+    {
+        "name": "Infidel",
+        "url": "/typeface/infidel"
+    },
+    {
+        "name": "Melancholia",
+        "url": "/typeface/melancholia"
+    },
+    {
+        "name": "Moron",
+        "url": "/typeface/moron"
+    },
+    {
+        "name": "Newspeak",
+        "url": "/typeface/newspeak"
+    },
+    {
+        "name": "NixonScript",
+        "url": "/typeface/nixonscript"
+    },
+    {
+        "name": "Bodoni Script Pro Greek",
+        "url": "/typeface/bodoniscriptprogreek"
+    },
+    {
+        "name": "Nylon & Draylon",
+        "url": "/typeface/nylondraylon"
+    },
+    {
+        "name": "Reminder Pro Greek",
+        "url": "/typeface/reminderprogreek"
+    },
+    {
+        "name": "Reminder Pro Cyrillic",
+        "url": "/typeface/reminderprocyrillic"
+    },
+    {
+        "name": "Patriot",
+        "url": "/typeface/patriot"
+    },
+    {
+        "name": "Prototype",
+        "url": "/typeface/prototype"
+    },
+    {
+        "name": "Prozac",
+        "url": "/typeface/prozac"
+    },
+    {
+        "name": "Sarcastic",
+        "url": "/typeface/sarcastic"
+    },
+    {
+        "name": "Shock & Awe",
+        "url": "/typeface/shockawe"
+    },
+    {
+        "name": "State Machine",
+        "url": "/typeface/statemachine"
+    },
+    {
+        "name": "Tourette",
+        "url": "/typeface/tourette"
+    },
+    {
+        "name": "Regime",
+        "url": "/typeface/regime"
+    },
+    {
+        "name": "Monosten",
+        "url": "/typeface/monosten"
+    },
+    {
+        "name": "Humboldt",
+        "url": "/typeface/humboldt"
+    },
+    {
+        "name": "Martin",
+        "url": "/typeface/martin"
+    },
+    {
+        "name": "Balladeer",
+        "url": "/typeface/balladeer"
+    },
+    {
+        "name": "Anonymous Pro",
+        "url": "/typeface/anonymouspro"
+    },
+    {
+        "name": "Charade",
+        "url": "/typeface/charade"
+    },
+    {
+        "name": "EuroSans Pro",
+        "url": "/typeface/eurosanspro"
+    },
+    {
+        "name": "EuroSans Pro Condensed",
+        "url": "/typeface/eurosansprocondensed"
+    },
+    {
+        "name": "EuroSans Pro Extended",
+        "url": "/typeface/eurosansproextended"
+    },
+    {
+        "name": "Akagi",
+        "url": "/typeface/akagi"
+    },
+    {
+        "name": "Angel Script",
+        "url": "/typeface/angelscript"
+    },
+    {
+        "name": "Baka Expert",
+        "url": "/typeface/bakaexpert"
+    },
+    {
+        "name": "Fugu",
+        "url": "/typeface/fugu"
+    },
+    {
+        "name": "Nori",
+        "url": "/typeface/nori"
+    },
+    {
+        "name": "Muscle",
+        "url": "/typeface/muscle"
+    },
+    {
+        "name": "Kari Pro",
+        "url": "/typeface/karipro"
+    },
+    {
+        "name": "Kari Display Pro",
+        "url": "/typeface/karidisplaypro"
+    },
+    {
+        "name": "Wasabi",
+        "url": "/typeface/wasabi"
+    },
+    {
+        "name": "Wasabi Condensed",
+        "url": "/typeface/wasabicondensed"
+    },
+    {
+        "name": "Magneta",
+        "url": "/typeface/magneta"
+    },
+    {
+        "name": "Magneta Condensed",
+        "url": "/typeface/magnetacondensed"
+    },
+    {
+        "name": "FS Jack Web",
+        "url": "/typeface/fsjackweb"
+    },
+    {
+        "name": "Juhl",
+        "url": "/typeface/juhl"
+    },
+    {
+        "name": "Bayadera 4F",
+        "url": "/typeface/bayadera4f"
+    },
+    {
+        "name": "Febrotesk 4F",
+        "url": "/typeface/febrotesk4f"
+    },
+    {
+        "name": "Grotesqa 4F",
+        "url": "/typeface/grotesqa4f"
+    },
+    {
+        "name": "FS Clerkenwell Web",
+        "url": "/typeface/fsclerkenwellweb"
+    },
+    {
+        "name": "Millar",
+        "url": "/typeface/millar"
+    },
+    {
+        "name": "Accelerator",
+        "url": "/typeface/accelerator"
+    },
+    {
+        "name": "Ballet Mechanique",
+        "url": "/typeface/balletmechanique"
+    },
+    {
+        "name": "The Shire Types Greek",
+        "url": "/typeface/theshiretypesgreek"
+    },
+    {
+        "name": "The Shire Types Cyrillic",
+        "url": "/typeface/theshiretypescyrillic"
+    },
+    {
+        "name": "Alber New Web",
+        "url": "/typeface/albernewweb"
+    },
+    {
+        "name": "Alwyn New Web",
+        "url": "/typeface/alwynnewweb"
+    },
+    {
+        "name": "Depot New Web",
+        "url": "/typeface/depotnewweb"
+    },
+    {
+        "name": "Depot New Condensed Web",
+        "url": "/typeface/depotnewcondensedweb"
+    },
+    {
+        "name": "Faricy New Web",
+        "url": "/typeface/faricynewweb"
+    },
+    {
+        "name": "Hedley New Web",
+        "url": "/typeface/hedleynewweb"
+    },
+    {
+        "name": "Mic 32 New Web",
+        "url": "/typeface/mic32newweb"
+    },
+    {
+        "name": "Regime Alt",
+        "url": "/typeface/regimealt"
+    },
+    {
+        "name": "Antiqua URW",
+        "url": "/typeface/antiquaurw"
+    },
+    {
+        "name": "Altis",
+        "url": "/typeface/altis"
+    },
+    {
+        "name": "Antiqua URW Extra Wide",
+        "url": "/typeface/antiquaurwextrawide"
+    },
+    {
+        "name": "Antiqua URW Extra Narrow",
+        "url": "/typeface/antiquaurwextranarrow"
+    },
+    {
+        "name": "Antiqua URW Wide",
+        "url": "/typeface/antiquaurwwide"
+    },
+    {
+        "name": "Antiqua URW Narrow",
+        "url": "/typeface/antiquaurwnarrow"
+    },
+    {
+        "name": "Nimbus Sans Extended",
+        "url": "/typeface/nimbussansextended"
+    },
+    {
+        "name": "Nimbus Sans Latin Condensed",
+        "url": "/typeface/nimbussanslatincondensed"
+    },
+    {
+        "name": "Nimbus Roman No. 9",
+        "url": "/typeface/nimbusromanno9"
+    },
+    {
+        "name": "Nimbus Roman No. 9 Condensed",
+        "url": "/typeface/nimbusromanno9condensed"
+    },
+    {
+        "name": "Xtra Sans",
+        "url": "/typeface/xtrasans"
+    },
+    {
+        "name": "Gelder Sans",
+        "url": "/typeface/geldersans"
+    },
+    {
+        "name": "PT Serif",
+        "url": "/typeface/ptserif"
+    },
+    {
+        "name": "Graffiti",
+        "url": "/typeface/graffiti"
+    },
+    {
+        "name": "Mustang",
+        "url": "/typeface/mustang"
+    },
+    {
+        "name": "Streetbrush",
+        "url": "/typeface/streetbrush"
+    },
+    {
+        "name": "Saxophone",
+        "url": "/typeface/saxophone"
+    },
+    {
+        "name": "Tondu",
+        "url": "/typeface/tondu"
+    },
+    {
+        "name": "Boldesqo Serif 4F",
+        "url": "/typeface/boldesqoserif4f"
+    },
+    {
+        "name": "Fatquad 4F",
+        "url": "/typeface/fatquad4f"
+    },
+    {
+        "name": "Perfopunto 4F",
+        "url": "/typeface/perfopunto4f"
+    },
+    {
+        "name": "Republica 4F",
+        "url": "/typeface/republica4f"
+    },
+    {
+        "name": "Rodeqa Slab 4F",
+        "url": "/typeface/rodeqaslab4f"
+    },
+    {
+        "name": "Banzai Bros",
+        "url": "/typeface/banzaibros"
+    },
+    {
+        "name": "Sofia Condensed",
+        "url": "/typeface/sofiacondensed"
+    },
+    {
+        "name": "Sofia Extended",
+        "url": "/typeface/sofiaextended"
+    },
+    {
+        "name": "Pepito",
+        "url": "/typeface/pepito"
+    },
+    {
+        "name": "Barber",
+        "url": "/typeface/barber"
+    },
+    {
+        "name": "Cranked Pipe 2D",
+        "url": "/typeface/crankedpipe2d"
+    },
+    {
+        "name": "Bladi One Slab 4F",
+        "url": "/typeface/bladioneslab4f"
+    },
+    {
+        "name": "Fabryka 4F",
+        "url": "/typeface/fabryka4f"
+    },
+    {
+        "name": "Stenciliqo 4F",
+        "url": "/typeface/stenciliqo4f"
+    },
+    {
+        "name": "Lavina 4F",
+        "url": "/typeface/lavina4f"
+    },
+    {
+        "name": "Bladi Two 4F",
+        "url": "/typeface/bladitwo4f"
+    },
+    {
+        "name": "Bladi One 4F",
+        "url": "/typeface/bladione4f"
+    },
+    {
+        "name": "Wrongo 4F",
+        "url": "/typeface/wrongo4f"
+    },
+    {
+        "name": "Abia 4F",
+        "url": "/typeface/abia4f"
+    },
+    {
+        "name": "Ola Script 4F",
+        "url": "/typeface/olascript4f"
+    },
+    {
+        "name": "Laftatic 4F",
+        "url": "/typeface/laftatic4f"
+    },
+    {
+        "name": "Nut Kit 4F",
+        "url": "/typeface/nutkit4f"
+    },
+    {
+        "name": "Rezzzistor 4F",
+        "url": "/typeface/rezzzistor4f"
+    },
+    {
+        "name": "Tovstun 4F",
+        "url": "/typeface/tovstun4f"
+    },
+    {
+        "name": "Ascetic 2D",
+        "url": "/typeface/ascetic2d"
+    },
+    {
+        "name": "Modularico 4F",
+        "url": "/typeface/modularico4f"
+    },
+    {
+        "name": "FS Ingrid Web",
+        "url": "/typeface/fsingridweb"
+    },
+    {
+        "name": "Brokman",
+        "url": "/typeface/brokman"
+    },
+    {
+        "name": "Insider",
+        "url": "/typeface/insider"
+    },
+    {
+        "name": "Fusion Sans Pro",
+        "url": "/typeface/fusionsanspro"
+    },
+    {
+        "name": "Adamant Pro",
+        "url": "/typeface/adamantpro"
+    },
+    {
+        "name": "Fusion Sans Pro Cyrillic",
+        "url": "/typeface/fusionsansprocyrillic"
+    },
+    {
+        "name": "Fusion Sans Pro Greek",
+        "url": "/typeface/fusionsansprogreek"
+    },
+    {
+        "name": "Grave Ornamental",
+        "url": "/typeface/graveornamental"
+    },
+    {
+        "name": "Volitiva",
+        "url": "/typeface/volitiva"
+    },
+    {
+        "name": "Gavinha",
+        "url": "/typeface/gavinha"
+    },
+    {
+        "name": "Siruca",
+        "url": "/typeface/siruca"
+    },
+    {
+        "name": "Clobber Grotesk",
+        "url": "/typeface/clobbergrotesk"
+    },
+    {
+        "name": "Clobber Stencil",
+        "url": "/typeface/clobberstencil"
+    },
+    {
+        "name": "Cooper Fullface",
+        "url": "/typeface/cooperfullface"
+    },
+    {
+        "name": "Ukraintica 4F",
+        "url": "/typeface/ukraintica4f"
+    },
+    {
+        "name": "CENTRAL ave",
+        "url": "/typeface/centralave"
+    },
+    {
+        "name": "Cooper Black WS",
+        "url": "/typeface/cooperblackws"
+    },
+    {
+        "name": "Centim",
+        "url": "/typeface/centim"
+    },
+    {
+        "name": "CP Company",
+        "url": "/typeface/cpcompany"
+    },
+    {
+        "name": "Digohweli",
+        "url": "/typeface/digohweli"
+    },
+    {
+        "name": "Interno",
+        "url": "/typeface/interno"
+    },
+    {
+        "name": "Black-Out",
+        "url": "/typeface/blackout"
+    },
+    {
+        "name": "Boul Mich",
+        "url": "/typeface/boulmich"
+    },
+    {
+        "name": "Cruller",
+        "url": "/typeface/cruller"
+    },
+    {
+        "name": "Vitro",
+        "url": "/typeface/vitro"
+    },
+    {
+        "name": "Bliss Cyrillic",
+        "url": "/typeface/blisscyrillic"
+    },
+    {
+        "name": "Bliss Greek",
+        "url": "/typeface/blissgreek"
+    },
+    {
+        "name": "Franklin Gothic Extra Compressed URW",
+        "url": "/typeface/franklingothicextracompressedurw"
+    },
+    {
+        "name": "Franklin Gothic Compressed URW",
+        "url": "/typeface/franklingothiccompressedurw"
+    },
+    {
+        "name": "Franklin Gothic Condensed URW",
+        "url": "/typeface/franklingothiccondensedurw"
+    },
+    {
+        "name": "Beval",
+        "url": "/typeface/beval"
+    },
+    {
+        "name": "Magneta Expert Subset",
+        "url": "/typeface/magnetaexpertsubset"
+    },
+    {
+        "name": "Clarenta 4F",
+        "url": "/typeface/clarenta4f"
+    },
+    {
+        "name": "Block Gothic Condensed",
+        "url": "/typeface/blockgothiccondensed"
+    },
+    {
+        "name": "Block Gothic Extra Condensed",
+        "url": "/typeface/blockgothicextracondensed"
+    },
+    {
+        "name": "FS Pimlico Web",
+        "url": "/typeface/fspimlicoweb"
+    },
+    {
+        "name": "FS Sophie Web",
+        "url": "/typeface/fssophieweb"
+    },
+    {
+        "name": "FS Rufus Web",
+        "url": "/typeface/fsrufusweb"
+    },
+    {
+        "name": "Extension",
+        "url": "/typeface/extension"
+    },
+    {
+        "name": "Claremont",
+        "url": "/typeface/claremont"
+    },
+    {
+        "name": "Dundee",
+        "url": "/typeface/dundee"
+    },
+    {
+        "name": "Dundee Condensed",
+        "url": "/typeface/dundeecondensed"
+    },
+    {
+        "name": "Canterbury Old Style",
+        "url": "/typeface/canterburyoldstyle"
+    },
+    {
+        "name": "Byron",
+        "url": "/typeface/byron"
+    },
+    {
+        "name": "Alexon",
+        "url": "/typeface/alexon"
+    },
+    {
+        "name": "Steelplate Gothic",
+        "url": "/typeface/steelplategothic"
+    },
+    {
+        "name": "Canterbury Sans",
+        "url": "/typeface/canterburysans"
+    },
+    {
+        "name": "Square Sans Greek",
+        "url": "/typeface/squaresansgreek"
+    },
+    {
+        "name": "Kirimomi Swash",
+        "url": "/typeface/kirimomiswash"
+    },
+    {
+        "name": "Kirimomi Geometric Sans",
+        "url": "/typeface/kirimomigeometricsans"
+    },
+    {
+        "name": "Sys",
+        "url": "/typeface/sys"
+    },
+    {
+        "name": "Pragmata Pro",
+        "url": "/typeface/pragmatapro"
+    },
+    {
+        "name": "Bodoni Condensed",
+        "url": "/typeface/bodonicondensed"
+    },
+    {
+        "name": "Bodoni Campanile",
+        "url": "/typeface/bodonicampanile"
+    },
+    {
+        "name": "Xctasy Sans",
+        "url": "/typeface/xctasysans"
+    },
+    {
+        "name": "Garamond Ludlow",
+        "url": "/typeface/garamondludlow"
+    },
+    {
+        "name": "Banque Gothique",
+        "url": "/typeface/banquegothique"
+    },
+    {
+        "name": "Banque Gothique Condensed",
+        "url": "/typeface/banquegothiquecondensed"
+    },
+    {
+        "name": "Equestrienne",
+        "url": "/typeface/equestrienne"
+    },
+    {
+        "name": "Grove Script",
+        "url": "/typeface/grovescript"
+    },
+    {
+        "name": "Squartiqa 4F",
+        "url": "/typeface/squartiqa4f"
+    },
+    {
+        "name": "Waverly",
+        "url": "/typeface/waverly"
+    },
+    {
+        "name": "Waverly Condensed",
+        "url": "/typeface/waverlycondensed"
+    },
+    {
+        "name": "Sycamore",
+        "url": "/typeface/sycamore"
+    },
+    {
+        "name": "Schindler",
+        "url": "/typeface/schindler"
+    },
+    {
+        "name": "Neultica 4F",
+        "url": "/typeface/neultica4f"
+    },
+    {
+        "name": "Siri Core",
+        "url": "/typeface/siricore"
+    },
+    {
+        "name": "Siri Core Expert Subset",
+        "url": "/typeface/siricoreexpertsubset"
+    },
+    {
+        "name": "Nurom",
+        "url": "/typeface/nurom"
+    },
+    {
+        "name": "Abril Display",
+        "url": "/typeface/abrildisplay"
+    },
+    {
+        "name": "Abril Text",
+        "url": "/typeface/abriltext"
+    },
+    {
+        "name": "Siri",
+        "url": "/typeface/siri"
+    },
+    {
+        "name": "Alghera",
+        "url": "/typeface/alghera"
+    },
+    {
+        "name": "Nassim Latin",
+        "url": "/typeface/nassimlatin"
+    },
+    {
+        "name": "Aisha Latin",
+        "url": "/typeface/aishalatin"
+    },
+    {
+        "name": "Siri Expert Subset",
+        "url": "/typeface/siriexpertsubset"
+    },
+    {
+        "name": "Kuro",
+        "url": "/typeface/kuro"
+    },
+    {
+        "name": "FS Alvar",
+        "url": "/typeface/fsalvar"
+    },
+    {
+        "name": "FS Blake",
+        "url": "/typeface/fsblake"
+    },
+    {
+        "name": "Kyrial Display Pro",
+        "url": "/typeface/kyrialdisplaypro"
+    },
+    {
+        "name": "FS Dillon",
+        "url": "/typeface/fsdillon"
+    },
+    {
+        "name": "FS Rome",
+        "url": "/typeface/fsrome"
+    },
+    {
+        "name": "FS Sammy",
+        "url": "/typeface/fssammy"
+    },
+    {
+        "name": "Qargotesk 4F",
+        "url": "/typeface/qargotesk4f"
+    },
+    {
+        "name": "Alys",
+        "url": "/typeface/alys"
+    },
+    {
+        "name": "Amanet",
+        "url": "/typeface/amanet"
+    },
+    {
+        "name": "Amsterdam Old Style",
+        "url": "/typeface/amsterdamoldstyle"
+    },
+    {
+        "name": "Appleyard",
+        "url": "/typeface/appleyard"
+    },
+    {
+        "name": "Siri Core Schoolbook",
+        "url": "/typeface/siricoreschoolbook"
+    },
+    {
+        "name": "Transcript",
+        "url": "/typeface/transcript"
+    },
+    {
+        "name": "Relative",
+        "url": "/typeface/relative"
+    },
+    {
+        "name": "Relative Monospaced",
+        "url": "/typeface/relativemonospaced"
+    },
+    {
+        "name": "Eco",
+        "url": "/typeface/eco"
+    },
+    {
+        "name": "Virna",
+        "url": "/typeface/virna"
+    },
+    {
+        "name": "Trilogy Fatface Expert Subset",
+        "url": "/typeface/trilogyfatfaceexpertsubset"
+    },
+    {
+        "name": "Bree Expert Subset",
+        "url": "/typeface/breeexpertsubset"
+    },
+    {
+        "name": "FS Pimlico Web Expert Subset",
+        "url": "/typeface/fspimlicowebexpertsubset"
+    },
+    {
+        "name": "Monsal",
+        "url": "/typeface/monsal"
+    },
+    {
+        "name": "Dinesqo 4F",
+        "url": "/typeface/dinesqo4f"
+    },
+    {
+        "name": "Din Text Cyrillic",
+        "url": "/typeface/dintextcyrillic"
+    },
+    {
+        "name": "FS Albert Greek Web",
+        "url": "/typeface/fsalbertgreekweb"
+    },
+    {
+        "name": "FS Albert Cyrillic Web",
+        "url": "/typeface/fsalbertcyrillicweb"
+    },
+    {
+        "name": "Argus",
+        "url": "/typeface/argus"
+    },
+    {
+        "name": "Tadao",
+        "url": "/typeface/tadao"
+    },
+    {
+        "name": "FS Albert Narrow Cyrillic",
+        "url": "/typeface/fsalbertnarrowcyrillic"
+    },
+    {
+        "name": "FS Albert Narrow Greek",
+        "url": "/typeface/fsalbertnarrowgreek"
+    },
+    {
+        "name": "FS Albert Narrow Web",
+        "url": "/typeface/fsalbertnarrowweb"
+    },
+    {
+        "name": "FS Kitty Web",
+        "url": "/typeface/fskittyweb"
+    },
+    {
+        "name": "FS Pele Web",
+        "url": "/typeface/fspeleweb"
+    },
+    {
+        "name": "Familiar Pro",
+        "url": "/typeface/familiarpro"
+    },
+    {
+        "name": "Justus Pro",
+        "url": "/typeface/justuspro"
+    },
+    {
+        "name": "Raisonne",
+        "url": "/typeface/raisonne"
+    },
+    {
+        "name": "Anabolic Spheroid Pro",
+        "url": "/typeface/anabolicspheroidpro"
+    },
+    {
+        "name": "Din Display Cyrillic",
+        "url": "/typeface/dindisplaycyrillic"
+    },
+    {
+        "name": "Danube Pro",
+        "url": "/typeface/danubepro"
+    },
+    {
+        "name": "Bookmania",
+        "url": "/typeface/bookmania"
+    },
+    {
+        "name": "Heltar",
+        "url": "/typeface/heltar"
+    },
+    {
+        "name": "Tarocco Expert Subset",
+        "url": "/typeface/taroccoexpertsubset"
+    },
+    {
+        "name": "Celtic Garamond Pro",
+        "url": "/typeface/celticgaramondpro"
+    },
+    {
+        "name": "Laramie Pro",
+        "url": "/typeface/laramiepro"
+    },
+    {
+        "name": "Bitsumishi Pro",
+        "url": "/typeface/bitsumishipro"
+    },
+    {
+        "name": "Helldorado Pro",
+        "url": "/typeface/helldoradopro"
+    },
+    {
+        "name": "Pirates Gold Pro",
+        "url": "/typeface/piratesgoldpro"
+    },
+    {
+        "name": "Niobium Pro",
+        "url": "/typeface/niobiumpro"
+    },
+    {
+        "name": "Nordic Pro",
+        "url": "/typeface/nordicpro"
+    },
+    {
+        "name": "Krizi Amo Pro",
+        "url": "/typeface/kriziamopro"
+    },
+    {
+        "name": "Kremlin II Pro",
+        "url": "/typeface/kremliniipro"
+    },
+    {
+        "name": "Edo Pro",
+        "url": "/typeface/edopro"
+    },
+    {
+        "name": "Armalite Rifle Pro",
+        "url": "/typeface/armaliteriflepro"
+    },
+    {
+        "name": "Siamese Katsong Pro",
+        "url": "/typeface/siamesekatsongpro"
+    },
+    {
+        "name": "Nassim Arabic",
+        "url": "/typeface/nassimarabic"
+    },
+    {
+        "name": "Peggs",
+        "url": "/typeface/peggs"
+    },
+    {
+        "name": "Effete",
+        "url": "/typeface/effete"
+    },
+    {
+        "name": "Ensenada",
+        "url": "/typeface/ensenada"
+    },
+    {
+        "name": "Maat",
+        "url": "/typeface/maat"
+    },
+    {
+        "name": "Pompeian Cursive",
+        "url": "/typeface/pompeiancursive"
+    },
+    {
+        "name": "Rubber Vloeren",
+        "url": "/typeface/rubbervloeren"
+    },
+    {
+        "name": "Kyrial Sans Pro",
+        "url": "/typeface/kyrialsanspro"
+    },
+    {
+        "name": "Kyrial Sans Pro Condensed",
+        "url": "/typeface/kyrialsansprocondensed"
+    },
+    {
+        "name": "Adriane Lux",
+        "url": "/typeface/adrianelux"
+    },
+    {
+        "name": "Adriane Text",
+        "url": "/typeface/adrianetext"
+    },
+    {
+        "name": "Borda",
+        "url": "/typeface/borda"
+    },
+    {
+        "name": "Boxer Script",
+        "url": "/typeface/boxerscript"
+    },
+    {
+        "name": "Premiera",
+        "url": "/typeface/premiera"
+    },
+    {
+        "name": "Aniuk",
+        "url": "/typeface/aniuk"
+    },
+    {
+        "name": "Ingeborg",
+        "url": "/typeface/ingeborg"
+    },
+    {
+        "name": "Ingeborg Block",
+        "url": "/typeface/ingeborgblock"
+    },
+    {
+        "name": "Republic",
+        "url": "/typeface/republic"
+    },
+    {
+        "name": "Acroterion",
+        "url": "/typeface/acroterion"
+    },
+    {
+        "name": "Adage Script",
+        "url": "/typeface/adagescript"
+    },
+    {
+        "name": "Alpengeist",
+        "url": "/typeface/alpengeist"
+    },
+    {
+        "name": "Anaheim Script",
+        "url": "/typeface/anaheimscript"
+    },
+    {
+        "name": "Andantino",
+        "url": "/typeface/andantino"
+    },
+    {
+        "name": "Annabelle",
+        "url": "/typeface/annabelle"
+    },
+    {
+        "name": "Baileywick Curly",
+        "url": "/typeface/baileywickcurly"
+    },
+    {
+        "name": "Baileywick Festive",
+        "url": "/typeface/baileywickfestive"
+    },
+    {
+        "name": "Baileywick Gothic",
+        "url": "/typeface/baileywickgothic"
+    },
+    {
+        "name": "Buena Park",
+        "url": "/typeface/buenapark"
+    },
+    {
+        "name": "Hooligan",
+        "url": "/typeface/hooligan"
+    },
+    {
+        "name": "Peachy Keen",
+        "url": "/typeface/peachykeen"
+    },
+    {
+        "name": "Sansational",
+        "url": "/typeface/sansational"
+    },
+    {
+        "name": "Silver Thread",
+        "url": "/typeface/silverthread"
+    },
+    {
+        "name": "Tin Roof",
+        "url": "/typeface/tinroof"
+    },
+    {
+        "name": "Torino Display",
+        "url": "/typeface/torinodisplay"
+    },
+    {
+        "name": "Wesley",
+        "url": "/typeface/wesley"
+    },
+    {
+        "name": "Walcott Gothic",
+        "url": "/typeface/walcottgothic"
+    },
+    {
+        "name": "Twister",
+        "url": "/typeface/twister"
+    },
+    {
+        "name": "Technobaby",
+        "url": "/typeface/technobaby"
+    },
+    {
+        "name": "Southland",
+        "url": "/typeface/southland"
+    },
+    {
+        "name": "Saharan",
+        "url": "/typeface/saharan"
+    },
+    {
+        "name": "Quasar",
+        "url": "/typeface/quasar"
+    },
+    {
+        "name": "Pumpkin",
+        "url": "/typeface/pumpkin"
+    },
+    {
+        "name": "Polynesian",
+        "url": "/typeface/polynesian"
+    },
+    {
+        "name": "Periwinkle",
+        "url": "/typeface/periwinkle"
+    },
+    {
+        "name": "Martian Text",
+        "url": "/typeface/martiantext"
+    },
+    {
+        "name": "Baroque Text",
+        "url": "/typeface/baroquetext"
+    },
+    {
+        "name": "Beignet",
+        "url": "/typeface/beignet"
+    },
+    {
+        "name": "Block Party",
+        "url": "/typeface/blockparty"
+    },
+    {
+        "name": "Bronson Gothic",
+        "url": "/typeface/bronsongothic"
+    },
+    {
+        "name": "Cabernet",
+        "url": "/typeface/cabernet"
+    },
+    {
+        "name": "Candy Apple",
+        "url": "/typeface/candyapple"
+    },
+    {
+        "name": "Cathexis",
+        "url": "/typeface/cathexis"
+    },
+    {
+        "name": "Cavetto",
+        "url": "/typeface/cavetto"
+    },
+    {
+        "name": "Cinnamon Roll",
+        "url": "/typeface/cinnamonroll"
+    },
+    {
+        "name": "Concrete Salsa",
+        "url": "/typeface/concretesalsa"
+    },
+    {
+        "name": "Confectioner",
+        "url": "/typeface/confectioner"
+    },
+    {
+        "name": "Proxima Nova Alt",
+        "url": "/typeface/proximanovaalt"
+    },
+    {
+        "name": "Fenland",
+        "url": "/typeface/fenland"
+    },
+    {
+        "name": "Apercu Pro",
+        "url": "/typeface/apercupro"
+    },
+    {
+        "name": "Savile",
+        "url": "/typeface/savile"
+    },
+    {
+        "name": "The Wave",
+        "url": "/typeface/thewave"
+    },
+    {
+        "name": "ID00 Serif",
+        "url": "/typeface/id00serif"
+    },
+    {
+        "name": "ID00 Serif Round",
+        "url": "/typeface/id00serifround"
+    },
+    {
+        "name": "Primo Serif",
+        "url": "/typeface/primoserif"
+    },
+    {
+        "name": "Italian Plate Mono",
+        "url": "/typeface/italianplatemono"
+    },
+    {
+        "name": "Darjeeling",
+        "url": "/typeface/darjeeling"
+    },
+    {
+        "name": "Debelly",
+        "url": "/typeface/debelly"
+    },
+    {
+        "name": "Regan Slab",
+        "url": "/typeface/reganslab"
+    },
+    {
+        "name": "Apercu Mono Pro",
+        "url": "/typeface/apercumonopro"
+    },
+    {
+        "name": "ID00 Sans",
+        "url": "/typeface/id00sans"
+    },
+    {
+        "name": "ID00 Sans Round",
+        "url": "/typeface/id00sansround"
+    },
+    {
+        "name": "Home Display",
+        "url": "/typeface/homedisplay"
+    },
+    {
+        "name": "Home Text",
+        "url": "/typeface/hometext"
+    },
+    {
+        "name": "Abidale",
+        "url": "/typeface/abidale"
+    },
+    {
+        "name": "Hill",
+        "url": "/typeface/hill"
+    },
+    {
+        "name": "Strangelove Next",
+        "url": "/typeface/strangelovenext"
+    },
+    {
+        "name": "Trim",
+        "url": "/typeface/trim"
+    },
+    {
+        "name": "Good Wood",
+        "url": "/typeface/goodwood"
+    },
+    {
+        "name": "Good Wood Display",
+        "url": "/typeface/goodwooddisplay"
+    },
+    {
+        "name": "Metral",
+        "url": "/typeface/metral"
+    },
+    {
+        "name": "Rekja",
+        "url": "/typeface/rekja"
+    },
+    {
+        "name": "Refren",
+        "url": "/typeface/refren"
+    },
+    {
+        "name": "Prored",
+        "url": "/typeface/prored"
+    },
+    {
+        "name": "Epitet",
+        "url": "/typeface/epitet"
+    },
+    {
+        "name": "Mr Moustache",
+        "url": "/typeface/mrmoustache"
+    },
+    {
+        "name": "Stanzer",
+        "url": "/typeface/stanzer"
+    },
+    {
+        "name": "Aeronaut",
+        "url": "/typeface/aeronaut"
+    },
+    {
+        "name": "Blitzplakat",
+        "url": "/typeface/blitzplakat"
+    },
+    {
+        "name": "Brilliant",
+        "url": "/typeface/brilliant"
+    },
+    {
+        "name": "Doll",
+        "url": "/typeface/doll"
+    },
+    {
+        "name": "Ivory",
+        "url": "/typeface/ivory"
+    },
+    {
+        "name": "Letterpress",
+        "url": "/typeface/letterpress"
+    },
+    {
+        "name": "Lignette",
+        "url": "/typeface/lignette"
+    },
+    {
+        "name": "Marlowe",
+        "url": "/typeface/marlowe"
+    },
+    {
+        "name": "Moki",
+        "url": "/typeface/moki"
+    },
+    {
+        "name": "Pinback",
+        "url": "/typeface/pinback"
+    },
+    {
+        "name": "Scrap Outline",
+        "url": "/typeface/scrapoutline"
+    },
+    {
+        "name": "Slug",
+        "url": "/typeface/slug"
+    },
+    {
+        "name": "Weingut",
+        "url": "/typeface/weingut"
+    },
+    {
+        "name": "Flint",
+        "url": "/typeface/flint"
+    },
+    {
+        "name": "Palma",
+        "url": "/typeface/palma"
+    },
+    {
+        "name": "Trim Stencil",
+        "url": "/typeface/trimstencil"
+    },
+    {
+        "name": "Runda",
+        "url": "/typeface/runda"
+    },
+    {
+        "name": "Maza",
+        "url": "/typeface/maza"
+    },
+    {
+        "name": "Berber",
+        "url": "/typeface/berber"
+    },
+    {
+        "name": "Kevlar",
+        "url": "/typeface/kevlar"
+    },
+    {
+        "name": "Terital United",
+        "url": "/typeface/teritalunited"
+    },
+    {
+        "name": "Morice",
+        "url": "/typeface/morice"
+    },
+    {
+        "name": "Bisque",
+        "url": "/typeface/bisque"
+    },
+    {
+        "name": "League",
+        "url": "/typeface/league"
+    },
+    {
+        "name": "Brunswick",
+        "url": "/typeface/brunswick"
+    },
+    {
+        "name": "Gordon",
+        "url": "/typeface/gordon"
+    },
+    {
+        "name": "Adelle Sans",
+        "url": "/typeface/adellesans"
+    },
+    {
+        "name": "Regan",
+        "url": "/typeface/regan"
+    },
+    {
+        "name": "Medien",
+        "url": "/typeface/medien"
+    },
+    {
+        "name": "ERNESTO",
+        "url": "/typeface/ernesto"
+    },
+    {
+        "name": "Coranto 2",
+        "url": "/typeface/coranto2"
+    },
+    {
+        "name": "FS Olivia Web",
+        "url": "/typeface/fsoliviaweb"
+    },
+    {
+        "name": "FS Olivia Web Greek",
+        "url": "/typeface/fsoliviawebgreek"
+    },
+    {
+        "name": "FS Olivia Web Cyrillic",
+        "url": "/typeface/fsoliviawebcyrillic"
+    },
+    {
+        "name": "FS Elliot Web",
+        "url": "/typeface/fselliotweb"
+    },
+    {
+        "name": "FS Elliot Web Greek",
+        "url": "/typeface/fselliotwebgreek"
+    },
+    {
+        "name": "FS Elliot Web Cyrillic",
+        "url": "/typeface/fselliotwebcyrillic"
+    },
+    {
+        "name": "FS Truman Web",
+        "url": "/typeface/fstrumanweb"
+    },
+    {
+        "name": "Proxima Nova Basic",
+        "url": "/typeface/proximanovabasic"
+    },
+    {
+        "name": "Akzentica 4F",
+        "url": "/typeface/akzentica4f"
+    },
+    {
+        "name": "Nordic Narrow",
+        "url": "/typeface/nordicnarrow"
+    },
+    {
+        "name": "Meadow Pro",
+        "url": "/typeface/meadowpro"
+    },
+    {
+        "name": "Uniman",
+        "url": "/typeface/uniman"
+    },
+    {
+        "name": "Satura Text",
+        "url": "/typeface/saturatext"
+    },
+    {
+        "name": "Satura",
+        "url": "/typeface/satura"
+    },
+    {
+        "name": "Satura Parts",
+        "url": "/typeface/saturaparts"
+    },
+    {
+        "name": "Satura Core",
+        "url": "/typeface/saturacore"
+    },
+    {
+        "name": "Flieger",
+        "url": "/typeface/flieger"
+    },
+    {
+        "name": "Heroine",
+        "url": "/typeface/heroine"
+    },
+    {
+        "name": "Anziano Pro",
+        "url": "/typeface/anzianopro"
+    },
+    {
+        "name": "Delicato Pro",
+        "url": "/typeface/delicatopro"
+    },
+    {
+        "name": "Stalemate",
+        "url": "/typeface/stalemate"
+    },
+    {
+        "name": "Maison",
+        "url": "/typeface/maison"
+    },
+    {
+        "name": "Chapeau",
+        "url": "/typeface/chapeau"
+    },
+    {
+        "name": "Boutique",
+        "url": "/typeface/boutique"
+    },
+    {
+        "name": "Generika",
+        "url": "/typeface/generika"
+    },
+    {
+        "name": "Lacrima",
+        "url": "/typeface/lacrima"
+    },
+    {
+        "name": "Lacrima Senza",
+        "url": "/typeface/lacrimasenza"
+    },
+    {
+        "name": "Lacrima Serif",
+        "url": "/typeface/lacrimaserif"
+    },
+    {
+        "name": "Brezel Grotesk",
+        "url": "/typeface/brezelgrotesk"
+    },
+    {
+        "name": "Maison Mono",
+        "url": "/typeface/maisonmono"
+    },
+    {
+        "name": "Noir Text",
+        "url": "/typeface/noirtext"
+    },
+    {
+        "name": "VentiQuattro",
+        "url": "/typeface/ventiquattro"
+    },
+    {
+        "name": "Access Code PRO",
+        "url": "/typeface/accesscodepro"
+    },
+    {
+        "name": "Access Code",
+        "url": "/typeface/accesscode"
+    },
+    {
+        "name": "Access",
+        "url": "/typeface/access"
+    },
+    {
+        "name": "BT1",
+        "url": "/typeface/bt1"
+    },
+    {
+        "name": "La Fabrique",
+        "url": "/typeface/lafabrique"
+    },
+    {
+        "name": "Kobern",
+        "url": "/typeface/kobern"
+    },
+    {
+        "name": "Crack",
+        "url": "/typeface/crack"
+    },
+    {
+        "name": "Hammer",
+        "url": "/typeface/hammer"
+    },
+    {
+        "name": "Copy",
+        "url": "/typeface/copy"
+    },
+    {
+        "name": "Maison Neue",
+        "url": "/typeface/maisonneue"
+    },
+    {
+        "name": "Regan Alt",
+        "url": "/typeface/reganalt"
+    },
+    {
+        "name": "Bliss Basic",
+        "url": "/typeface/blissbasic"
+    },
+    {
+        "name": "Logotypia Pro",
+        "url": "/typeface/logotypiapro"
+    },
+    {
+        "name": "FDI Tierra Nueva",
+        "url": "/typeface/fditierranueva"
+    },
+    {
+        "name": "Iwan Reschniev",
+        "url": "/typeface/iwanreschniev"
+    },
+    {
+        "name": "Wayfinding Sans Pro",
+        "url": "/typeface/wayfindingsanspro"
+    },
+    {
+        "name": "Wayfinding Sans Pro Condensed ",
+        "url": "/typeface/wayfindingsansprocondensed"
+    },
+    {
+        "name": "Wayfinding Sans Pro Extended",
+        "url": "/typeface/wayfindingsansproextended"
+    },
+    {
+        "name": "Graublau Sans Pro Display",
+        "url": "/typeface/graublausansprodisplay"
+    },
+    {
+        "name": "Graublau Slab Pro",
+        "url": "/typeface/graublauslabpro"
+    },
+    {
+        "name": "Graublau Sans Pro",
+        "url": "/typeface/graublausanspro"
+    },
+    {
+        "name": "Fleurie",
+        "url": "/typeface/fleurie"
+    },
+    {
+        "name": "Canontire",
+        "url": "/typeface/canontire"
+    },
+    {
+        "name": "Mayence",
+        "url": "/typeface/mayence"
+    },
+    {
+        "name": "Monarcha",
+        "url": "/typeface/monarcha"
+    },
+    {
+        "name": "Exemplar",
+        "url": "/typeface/exemplar"
+    },
+    {
+        "name": "Taiga",
+        "url": "/typeface/taiga"
+    },
+    {
+        "name": "Hackman",
+        "url": "/typeface/hackman"
+    },
+    {
+        "name": "Geomanticus",
+        "url": "/typeface/geomanticus"
+    },
+    {
+        "name": "De Archie",
+        "url": "/typeface/dearchie"
+    },
+    {
+        "name": "De Archie Display",
+        "url": "/typeface/dearchiedisplay"
+    },
+    {
+        "name": "Fontatica 4F",
+        "url": "/typeface/fontatica4f"
+    },
+    {
+        "name": "Synthese",
+        "url": "/typeface/synthese"
+    },
+    {
+        "name": "Instant",
+        "url": "/typeface/instant"
+    },
+    {
+        "name": "Academy Serif",
+        "url": "/typeface/academyserif"
+    },
+    {
+        "name": "Cedra 4F",
+        "url": "/typeface/cedra4f"
+    },
+    {
+        "name": "Basset",
+        "url": "/typeface/basset"
+    },
+    {
+        "name": "Fortescue",
+        "url": "/typeface/fortescue"
+    },
+    {
+        "name": "FS Joey Greek",
+        "url": "/typeface/fsjoeygreek"
+    },
+    {
+        "name": "FS Joey Cyrillic",
+        "url": "/typeface/fsjoeycyrillic"
+    },
+    {
+        "name": "Baufra",
+        "url": "/typeface/baufra"
+    },
+    {
+        "name": "Centro Sans Pro",
+        "url": "/typeface/centrosanspro"
+    },
+    {
+        "name": "Reznik",
+        "url": "/typeface/reznik"
+    },
+    {
+        "name": "Trim Poster",
+        "url": "/typeface/trimposter"
+    },
+    {
+        "name": "Waldemar 4F",
+        "url": "/typeface/waldemar4f"
+    },
+    {
+        "name": "Lavigne Text",
+        "url": "/typeface/lavignetext"
+    },
+    {
+        "name": "Lavigne Display",
+        "url": "/typeface/lavignedisplay"
+    },
+    {
+        "name": "Kurversbrug",
+        "url": "/typeface/kurversbrug"
+    },
+    {
+        "name": "Bellucci",
+        "url": "/typeface/bellucci"
+    },
+    {
+        "name": "Lasagna",
+        "url": "/typeface/lasagna"
+    },
+    {
+        "name": "Barbieri",
+        "url": "/typeface/barbieri"
+    },
+    {
+        "name": "Battersea SLAB",
+        "url": "/typeface/batterseaslab"
+    },
+    {
+        "name": "Scripto",
+        "url": "/typeface/scripto"
+    },
+    {
+        "name": "Kumla",
+        "url": "/typeface/kumla"
+    },
+    {
+        "name": "Neusa",
+        "url": "/typeface/neusa"
+    },
+    {
+        "name": "FS Me Web Greek",
+        "url": "/typeface/fsmewebgreek"
+    },
+    {
+        "name": "FS Me Cyrillic",
+        "url": "/typeface/fsmecyrillic"
+    },
+    {
+        "name": "Eskapade Fraktur",
+        "url": "/typeface/eskapadefraktur"
+    },
+    {
+        "name": "Eskapade",
+        "url": "/typeface/eskapade"
+    },
+    {
+        "name": "Eund",
+        "url": "/typeface/eund"
+    },
+    {
+        "name": "Aubaine",
+        "url": "/typeface/aubaine"
+    },
+    {
+        "name": "Winco",
+        "url": "/typeface/winco"
+    },
+    {
+        "name": "Dulcinea",
+        "url": "/typeface/dulcinea"
+    },
+    {
+        "name": "Krul",
+        "url": "/typeface/krul"
+    },
+    {
+        "name": "Targo 4F",
+        "url": "/typeface/targo4f"
+    },
+    {
+        "name": "Agita",
+        "url": "/typeface/agita"
+    },
+    {
+        "name": "Quatro Sans",
+        "url": "/typeface/quatrosans"
+    },
+    {
+        "name": "Value Serif",
+        "url": "/typeface/valueserif"
+    },
+    {
+        "name": "Tablet Gothic Narrow",
+        "url": "/typeface/tabletgothicnarrow"
+    },
+    {
+        "name": "Tablet Gothic Condensed",
+        "url": "/typeface/tabletgothiccondensed"
+    },
+    {
+        "name": "A2 Beckett",
+        "url": "/typeface/a2beckett"
+    },
+    {
+        "name": "Battersea",
+        "url": "/typeface/battersea"
+    },
+    {
+        "name": "Corbert",
+        "url": "/typeface/corbert"
+    },
+    {
+        "name": "Grot10",
+        "url": "/typeface/grot10"
+    },
+    {
+        "name": "Medusa",
+        "url": "/typeface/medusa"
+    },
+    {
+        "name": "Academy Sans",
+        "url": "/typeface/academysans"
+    },
+    {
+        "name": "Antwerp",
+        "url": "/typeface/antwerp"
+    },
+    {
+        "name": "New Rail Alphabet",
+        "url": "/typeface/newrailalphabet"
+    },
+    {
+        "name": "Typewriter",
+        "url": "/typeface/typewriter"
+    },
+    {
+        "name": "A2 Regular",
+        "url": "/typeface/a2regular"
+    },
+    {
+        "name": "Outsiders",
+        "url": "/typeface/outsiders"
+    },
+    {
+        "name": "Vogue Floral",
+        "url": "/typeface/voguefloral"
+    },
+    {
+        "name": "Signature",
+        "url": "/typeface/signature"
+    },
+    {
+        "name": "Residence",
+        "url": "/typeface/residence"
+    },
+    {
+        "name": "Recognition",
+        "url": "/typeface/recognition"
+    },
+    {
+        "name": "New Grotesk",
+        "url": "/typeface/newgrotesk"
+    },
+    {
+        "name": "Italian Sans",
+        "url": "/typeface/italiansans"
+    },
+    {
+        "name": "Impacto",
+        "url": "/typeface/impacto"
+    },
+    {
+        "name": "Boing",
+        "url": "/typeface/boing"
+    },
+    {
+        "name": "Danmark",
+        "url": "/typeface/danmark"
+    },
+    {
+        "name": "Test",
+        "url": "/typeface/test"
+    },
+    {
+        "name": "Dane",
+        "url": "/typeface/dane"
+    },
+    {
+        "name": "London",
+        "url": "/typeface/london"
+    },
+    {
+        "name": "FM",
+        "url": "/typeface/fm"
+    },
+    {
+        "name": "Flavin",
+        "url": "/typeface/flavin"
+    },
+    {
+        "name": "Aveny-T",
+        "url": "/typeface/avenyt"
+    },
+    {
+        "name": "Kade",
+        "url": "/typeface/kade"
+    },
+    {
+        "name": "Vogue Paris",
+        "url": "/typeface/vogueparis"
+    },
+    {
+        "name": "Cubitt",
+        "url": "/typeface/cubitt"
+    },
+    {
+        "name": "Copenhagen",
+        "url": "/typeface/copenhagen"
+    },
+    {
+        "name": "Basic",
+        "url": "/typeface/basic"
+    },
+    {
+        "name": "A2 60 Display",
+        "url": "/typeface/a260display"
+    },
+    {
+        "name": "Canape Serif",
+        "url": "/typeface/canapeserif"
+    },
+    {
+        "name": "Quatro Slab",
+        "url": "/typeface/quatroslab"
+    },
+    {
+        "name": "Tomate",
+        "url": "/typeface/tomate"
+    },
+    {
+        "name": "Q",
+        "url": "/typeface/q"
+    },
+    {
+        "name": "FS Emeric",
+        "url": "/typeface/fsemeric"
+    },
+    {
+        "name": "Kunstuff",
+        "url": "/typeface/kunstuff"
+    },
+    {
+        "name": "Stat Text Pro",
+        "url": "/typeface/stattextpro"
+    },
+    {
+        "name": "Stat Display Pro",
+        "url": "/typeface/statdisplaypro"
+    },
+    {
+        "name": "Sutturah Latin",
+        "url": "/typeface/sutturahlatin"
+    },
+    {
+        "name": "Arek Armenian",
+        "url": "/typeface/arekarmenian"
+    },
+    {
+        "name": "Arek Latin",
+        "url": "/typeface/areklatin"
+    },
+    {
+        "name": "Neuvos",
+        "url": "/typeface/neuvos"
+    },
+    {
+        "name": "Nuber",
+        "url": "/typeface/nuber"
+    },
+    {
+        "name": "Brisko Sans",
+        "url": "/typeface/briskosans"
+    },
+    {
+        "name": "Wigrum",
+        "url": "/typeface/wigrum"
+    },
+    {
+        "name": "Geometric Pro",
+        "url": "/typeface/geometricpro"
+    },
+    {
+        "name": "Zetta Round",
+        "url": "/typeface/zettaround"
+    },
+    {
+        "name": "Kingthings Lickorishe Pro",
+        "url": "/typeface/kingthingslickorishepro"
+    },
+    {
+        "name": " Kingthings Lupine Pro",
+        "url": "/typeface/kingthingslupinepro"
+    },
+    {
+        "name": "Kingthings Lupineless Pro",
+        "url": "/typeface/kingthingslupinelesspro"
+    },
+    {
+        "name": "Petrock Pro",
+        "url": "/typeface/petrockpro"
+    },
+    {
+        "name": " Kingthings Scrybble Pro",
+        "url": "/typeface/kingthingsscrybblepro"
+    },
+    {
+        "name": "Kingthings Scrybbledot Pro",
+        "url": "/typeface/kingthingsscrybbledotpro"
+    },
+    {
+        "name": "Kingthings Serifique Pro",
+        "url": "/typeface/kingthingsserifiquepro"
+    },
+    {
+        "name": "Kingthings Spike Pro",
+        "url": "/typeface/kingthingsspikepro"
+    },
+    {
+        "name": "Kingthings Spikeless Pro",
+        "url": "/typeface/kingthingsspikelesspro"
+    },
+    {
+        "name": "Kingthings Trypewriter Pro",
+        "url": "/typeface/kingthingstrypewriterpro"
+    },
+    {
+        "name": "Kingthings Willow Pro",
+        "url": "/typeface/kingthingswillowpro"
+    },
+    {
+        "name": " Kingthings Willowless Pro",
+        "url": "/typeface/kingthingswillowlesspro"
+    },
+    {
+        "name": "Safety",
+        "url": "/typeface/safety"
+    },
+    {
+        "name": "Safety Text",
+        "url": "/typeface/safetytext"
+    },
+    {
+        "name": "JP Special Sans",
+        "url": "/typeface/jpspecialsans"
+    },
+    {
+        "name": "JP Special Serif",
+        "url": "/typeface/jpspecialserif"
+    },
+    {
+        "name": "Academy Sans Stencil",
+        "url": "/typeface/academysansstencil"
+    },
+    {
+        "name": "27 Sans",
+        "url": "/typeface/play27sans"
+    },
+    {
+        "name": "EmBauhaus",
+        "url": "/typeface/embauhaus"
+    },
+    {
+        "name": "Embossanova",
+        "url": "/typeface/embossanova"
+    },
+    {
+        "name": "Babalon",
+        "url": "/typeface/babalon"
+    },
+    {
+        "name": "Chubbét",
+        "url": "/typeface/chubbt"
+    },
+    {
+        "name": "DNA",
+        "url": "/typeface/dna"
+    },
+    {
+        "name": "Chubbét Distended",
+        "url": "/typeface/chubbtdistended"
+    },
+    {
+        "name": "Crossell",
+        "url": "/typeface/crossell"
+    },
+    {
+        "name": "Draminex",
+        "url": "/typeface/draminex"
+    },
+    {
+        "name": "Elefont Emboss",
+        "url": "/typeface/elefontemboss"
+    },
+    {
+        "name": "Eurydome",
+        "url": "/typeface/eurydome"
+    },
+    {
+        "name": "Eurydome Condensed",
+        "url": "/typeface/eurydomecondensed"
+    },
+    {
+        "name": "Eurydome Extended",
+        "url": "/typeface/eurydomeextended"
+    },
+    {
+        "name": "Oolala",
+        "url": "/typeface/oolala"
+    },
+    {
+        "name": "Phervasans",
+        "url": "/typeface/phervasans"
+    },
+    {
+        "name": "Thai One On",
+        "url": "/typeface/thaioneon"
+    },
+    {
+        "name": "Tobago",
+        "url": "/typeface/tobago"
+    },
+    {
+        "name": "Zyncho",
+        "url": "/typeface/zyncho"
+    },
+    {
+        "name": "BT1 Text",
+        "url": "/typeface/bt1text"
+    },
+    {
+        "name": "Tenso",
+        "url": "/typeface/tenso"
+    },
+    {
+        "name": "Doctrine",
+        "url": "/typeface/doctrine"
+    },
+    {
+        "name": "Doctrine Stencil",
+        "url": "/typeface/doctrinestencil"
+    },
+    {
+        "name": "Capline",
+        "url": "/typeface/capline"
+    },
+    {
+        "name": "Capline Greek",
+        "url": "/typeface/caplinegreek"
+    },
+    {
+        "name": "Capline Cyrillic",
+        "url": "/typeface/caplinecyrillic"
+    },
+    {
+        "name": "Trim Mono",
+        "url": "/typeface/trimmono"
+    },
+    {
+        "name": "Du Nord",
+        "url": "/typeface/dunord"
+    },
+    {
+        "name": "Chevin Pro",
+        "url": "/typeface/chevinpro"
+    },
+    {
+        "name": "Rollerscript",
+        "url": "/typeface/rollerscript"
+    },
+    {
+        "name": "Geetype",
+        "url": "/typeface/geetype"
+    },
+    {
+        "name": "Accent Graphic",
+        "url": "/typeface/accentgraphic"
+    },
+    {
+        "name": "Amulet",
+        "url": "/typeface/amulet"
+    },
+    {
+        "name": "Sovereign",
+        "url": "/typeface/sovereign"
+    },
+    {
+        "name": "Houschka Alt Pro",
+        "url": "/typeface/houschkaaltpro"
+    },
+    {
+        "name": "Chevin Std",
+        "url": "/typeface/chevinstd"
+    },
+    {
+        "name": "Chevin Eco",
+        "url": "/typeface/chevineco"
+    },
+    {
+        "name": "Digitalis",
+        "url": "/typeface/digitalis"
+    },
+    {
+        "name": "Organon Serif",
+        "url": "/typeface/organonserif"
+    },
+    {
+        "name": "Organon Sans",
+        "url": "/typeface/organonsans"
+    },
+    {
+        "name": "Olicana",
+        "url": "/typeface/olicana"
+    },
+    {
+        "name": "Morpeth",
+        "url": "/typeface/morpeth"
+    },
+    {
+        "name": "Houschka Rounded Alt",
+        "url": "/typeface/houschkaroundedalt"
+    },
+    {
+        "name": "Houschka Rounded",
+        "url": "/typeface/houschkarounded"
+    },
+    {
+        "name": "Houschka Pro",
+        "url": "/typeface/houschkapro"
+    },
+    {
+        "name": "Adriane Swash",
+        "url": "/typeface/adrianeswash"
+    },
+    {
+        "name": "Corbert Condensed",
+        "url": "/typeface/corbertcondensed"
+    },
+    {
+        "name": "Gunar",
+        "url": "/typeface/gunar"
+    },
+    {
+        "name": "Joy Rider",
+        "url": "/typeface/joyrider"
+    },
+    {
+        "name": "LineWire",
+        "url": "/typeface/linewire"
+    },
+    {
+        "name": "LoganFive",
+        "url": "/typeface/loganfive"
+    },
+    {
+        "name": "OricNeo",
+        "url": "/typeface/oricneo"
+    },
+    {
+        "name": "PlatformOne",
+        "url": "/typeface/platformone"
+    },
+    {
+        "name": "PyeMan",
+        "url": "/typeface/pyeman"
+    },
+    {
+        "name": "Sylar",
+        "url": "/typeface/sylar"
+    },
+    {
+        "name": "VanBerger",
+        "url": "/typeface/vanberger"
+    },
+    {
+        "name": "EB Martin",
+        "url": "/typeface/ebmartin"
+    },
+    {
+        "name": "EB Neon",
+        "url": "/typeface/ebneon"
+    },
+    {
+        "name": "FT Brush",
+        "url": "/typeface/ftbrush"
+    },
+    {
+        "name": "FT Giorgio",
+        "url": "/typeface/ftgiorgio"
+    },
+    {
+        "name": "FT Industry Machine",
+        "url": "/typeface/ftindustrymachine"
+    },
+    {
+        "name": "Vanyla 4F Unicase",
+        "url": "/typeface/vanyla4funicase"
+    },
+    {
+        "name": "Archive",
+        "url": "/typeface/archive"
+    },
+    {
+        "name": "Archive Pro",
+        "url": "/typeface/archivepro"
+    },
+    {
+        "name": "Mari",
+        "url": "/typeface/mari"
+    },
+    {
+        "name": "Accord Alternate",
+        "url": "/typeface/accordalternate"
+    },
+    {
+        "name": "Accord",
+        "url": "/typeface/accord"
+    },
+    {
+        "name": "Klampenborg",
+        "url": "/typeface/klampenborg"
+    },
+    {
+        "name": "Coperto",
+        "url": "/typeface/coperto"
+    },
+    {
+        "name": "Contribute",
+        "url": "/typeface/contribute"
+    },
+    {
+        "name": "FS Hackney Web",
+        "url": "/typeface/fshackneyweb"
+    },
+    {
+        "name": "FS Maja Web",
+        "url": "/typeface/fsmajaweb"
+    },
+    {
+        "name": "FS Matthew Web",
+        "url": "/typeface/fsmatthewweb"
+    },
+    {
+        "name": "Neuvos Condensed",
+        "url": "/typeface/neuvoscondensed"
+    },
+    {
+        "name": "Line",
+        "url": "/typeface/line"
+    },
+    {
+        "name": "CWM",
+        "url": "/typeface/cwm"
+    },
+    {
+        "name": "Nationale",
+        "url": "/typeface/nationale"
+    },
+    {
+        "name": "Zantiqa 4F",
+        "url": "/typeface/zantiqa4f"
+    },
+    {
+        "name": "Value Sans",
+        "url": "/typeface/valuesans"
+    },
+    {
+        "name": "Soleil",
+        "url": "/typeface/soleil"
+    },
+    {
+        "name": "Bree Serif",
+        "url": "/typeface/breeserif"
+    },
+    {
+        "name": "Condesqa 4F",
+        "url": "/typeface/condesqa4f"
+    },
+    {
+        "name": "Lydia",
+        "url": "/typeface/lydia"
+    },
+    {
+        "name": "Institut",
+        "url": "/typeface/institut"
+    },
+    {
+        "name": "Geometria",
+        "url": "/typeface/geometria"
+    },
+    {
+        "name": "Petala Pro",
+        "url": "/typeface/petalapro"
+    },
+    {
+        "name": "Model 4F",
+        "url": "/typeface/model4f"
+    },
+    {
+        "name": "Voyage",
+        "url": "/typeface/voyage"
+    },
+    {
+        "name": "Alek",
+        "url": "/typeface/alek"
+    },
+    {
+        "name": "ATL Coupe",
+        "url": "/typeface/atlcoupe"
+    },
+    {
+        "name": "Robotesqa 4F",
+        "url": "/typeface/robotesqa4f"
+    },
+    {
+        "name": "ABF Petit",
+        "url": "/typeface/abfpetit"
+    },
+    {
+        "name": "Hazlewood",
+        "url": "/typeface/hazlewood"
+    },
+    {
+        "name": "Califunkia",
+        "url": "/typeface/califunkia"
+    },
+    {
+        "name": "Profiterole",
+        "url": "/typeface/profiterole"
+    },
+    {
+        "name": "Raspberry Jam",
+        "url": "/typeface/raspberryjam"
+    },
+    {
+        "name": "Precious Sans Two",
+        "url": "/typeface/precioussanstwo"
+    },
+    {
+        "name": "ABF Linéaire",
+        "url": "/typeface/abflinaire"
+    },
+    {
+        "name": "ABF Silhouette",
+        "url": "/typeface/abfsilhouette"
+    },
+    {
+        "name": "ATL Izocel",
+        "url": "/typeface/atlizocel"
+    },
+    {
+        "name": "ATL Ndebele",
+        "url": "/typeface/atlndebele"
+    },
+    {
+        "name": "ATL Octobre",
+        "url": "/typeface/atloctobre"
+    },
+    {
+        "name": "ATL Aleph",
+        "url": "/typeface/atlaleph"
+    },
+    {
+        "name": "ATL Ali",
+        "url": "/typeface/atlali"
+    },
+    {
+        "name": "Movie",
+        "url": "/typeface/movie"
+    },
+    {
+        "name": "ATL Poudre",
+        "url": "/typeface/atlpoudre"
+    },
+    {
+        "name": "Aisha Arabic",
+        "url": "/typeface/aishaarabic"
+    },
+    {
+        "name": "Alverata PE",
+        "url": "/typeface/alveratape"
+    },
+    {
+        "name": "Alverata Informal PE",
+        "url": "/typeface/alveratainformalpe"
+    },
+    {
+        "name": "Alverata Irregular PE",
+        "url": "/typeface/alveratairregularpe"
+    },
+    {
+        "name": "Alverata PE Latin",
+        "url": "/typeface/alveratapelatin"
+    },
+    {
+        "name": "Alverata Irregular PE Latin",
+        "url": "/typeface/alveratairregularpelatin"
+    },
+    {
+        "name": "Alverata Informal PE Latin",
+        "url": "/typeface/alveratainformalpelatin"
+    },
+    {
+        "name": "Sutturah Cyrillic",
+        "url": "/typeface/sutturahcyrillic"
+    },
+    {
+        "name": "Huronia Latin",
+        "url": "/typeface/huronialatin"
+    },
+    {
+        "name": "Huronia Inuktitut",
+        "url": "/typeface/huroniainuktitut"
+    },
+    {
+        "name": "Monday",
+        "url": "/typeface/monday"
+    },
+    {
+        "name": "Huronia Latin Min",
+        "url": "/typeface/huronialatinmin"
+    },
+    {
+        "name": "Zetta Sans",
+        "url": "/typeface/zettasans"
+    },
+    {
+        "name": "Zetta Serif",
+        "url": "/typeface/zettaserif"
+    },
+    {
+        "name": "Lisbon",
+        "url": "/typeface/lisbon"
+    },
+    {
+        "name": "Eskorte Latin",
+        "url": "/typeface/eskortelatin"
+    },
+    {
+        "name": "Eskorte Arabic",
+        "url": "/typeface/eskortearabic"
+    },
+    {
+        "name": "Eskorte Latin Min",
+        "url": "/typeface/eskortelatinmin"
+    },
+    {
+        "name": "Neacademia Display",
+        "url": "/typeface/neacademiadisplay"
+    },
+    {
+        "name": "Neacademia Text",
+        "url": "/typeface/neacademiatext"
+    },
+    {
+        "name": "Skolar3 PE",
+        "url": "/typeface/skolar3pe"
+    },
+    {
+        "name": "Skolar3 Latin Min",
+        "url": "/typeface/skolar3latinmin"
+    },
+    {
+        "name": "Skolar3 Latin",
+        "url": "/typeface/skolar3latin"
+    },
+    {
+        "name": "Skolar3 Greek Min",
+        "url": "/typeface/skolar3greekmin"
+    },
+    {
+        "name": "Skolar3 Cyrillic Min",
+        "url": "/typeface/skolar3cyrillicmin"
+    },
+    {
+        "name": "Skolar3 Latin Expert Subset",
+        "url": "/typeface/skolar3latinexpertsubset"
+    },
+    {
+        "name": "Huronia Latin Expert Subset",
+        "url": "/typeface/huronialatinexpertsubset"
+    },
+    {
+        "name": "Neacademia Text Expert Subset",
+        "url": "/typeface/neacademiatextexpertsubset"
+    },
+    {
+        "name": "Neacademia Display Expert Subset",
+        "url": "/typeface/neacademiadisplayexpertsubset"
+    },
+    {
+        "name": "Eskorte Latin Expert Subset",
+        "url": "/typeface/eskortelatinexpertsubset"
+    },
+    {
+        "name": "Cadiz",
+        "url": "/typeface/cadiz"
+    },
+    {
+        "name": "Buenos Aires",
+        "url": "/typeface/buenosaires"
+    },
+    {
+        "name": "Quars",
+        "url": "/typeface/quars"
+    },
+    {
+        "name": "Baldufa",
+        "url": "/typeface/baldufa"
+    },
+    {
+        "name": "Baldufa Arabic Latin",
+        "url": "/typeface/baldufaarabiclatin"
+    },
+    {
+        "name": "Sys2.0",
+        "url": "/typeface/sys20"
+    },
+    {
+        "name": "Laski Slab",
+        "url": "/typeface/laskislab"
+    },
+    {
+        "name": "Ferry",
+        "url": "/typeface/ferry"
+    },
+    {
+        "name": "Laski Slab Stencil",
+        "url": "/typeface/laskislabstencil"
+    },
+    {
+        "name": "Abitare Sans",
+        "url": "/typeface/abitaresans"
+    },
+    {
+        "name": "Sys Falso",
+        "url": "/typeface/sysfalso"
+    },
+    {
+        "name": "Coline Premiere",
+        "url": "/typeface/colinepremiere"
+    },
+    {
+        "name": "Coline Cursive",
+        "url": "/typeface/colinecursive"
+    },
+    {
+        "name": "Coline Extreme",
+        "url": "/typeface/colineextreme"
+    },
+    {
+        "name": "Grotesque 6",
+        "url": "/typeface/grotesque6"
+    },
+    {
+        "name": "Jaakko",
+        "url": "/typeface/jaakko"
+    },
+    {
+        "name": "BTP",
+        "url": "/typeface/btp"
+    },
+    {
+        "name": "Walmer Marker Pro",
+        "url": "/typeface/walmermarkerpro"
+    },
+    {
+        "name": "Walmer Marker Std",
+        "url": "/typeface/walmermarkerstd"
+    },
+    {
+        "name": "Burgess",
+        "url": "/typeface/burgess"
+    },
+    {
+        "name": "Castledown",
+        "url": "/typeface/castledown"
+    },
+    {
+        "name": "Castledown Dotted",
+        "url": "/typeface/castledowndotted"
+    },
+    {
+        "name": "Tablet Gothic",
+        "url": "/typeface/tabletgothic"
+    },
+    {
+        "name": "Tablet Gothic Wide",
+        "url": "/typeface/tabletgothicwide"
+    },
+    {
+        "name": "Tablet Gothic Compressed",
+        "url": "/typeface/tabletgothiccompressed"
+    },
+    {
+        "name": "Tablet Gothic Semi-Condensed",
+        "url": "/typeface/tabletgothicsemicondensed"
+    },
+    {
+        "name": "Patron",
+        "url": "/typeface/patron"
+    },
+    {
+        "name": "Trim Cyrillic",
+        "url": "/typeface/trimcyrillic"
+    },
+    {
+        "name": "Bliss Smallcaps",
+        "url": "/typeface/blisssmallcaps"
+    },
+    {
+        "name": "Meeneralca 4F",
+        "url": "/typeface/meeneralca4f"
+    },
+    {
+        "name": "David",
+        "url": "/typeface/david"
+    },
+    {
+        "name": "Berlingske Sans",
+        "url": "/typeface/berlingskesans"
+    },
+    {
+        "name": "Berlingske Serif",
+        "url": "/typeface/berlingskeserif"
+    },
+    {
+        "name": "Berlingske Sans Condensed",
+        "url": "/typeface/berlingskesanscondensed"
+    },
+    {
+        "name": "Berlingske Sans Extra Condensed",
+        "url": "/typeface/berlingskesansextracondensed"
+    },
+    {
+        "name": "Berlingske Sans Round",
+        "url": "/typeface/berlingskesansround"
+    },
+    {
+        "name": "Berlingske Typewriter",
+        "url": "/typeface/berlingsketypewriter"
+    },
+    {
+        "name": "Berlingske Slab Stencil",
+        "url": "/typeface/berlingskeslabstencil"
+    },
+    {
+        "name": "Berlingske Slab Extra Condensed",
+        "url": "/typeface/berlingskeslabextracondensed"
+    },
+    {
+        "name": "Berlingske Slab Display",
+        "url": "/typeface/berlingskeslabdisplay"
+    },
+    {
+        "name": "Berlingske Slab Condensed",
+        "url": "/typeface/berlingskeslabcondensed"
+    },
+    {
+        "name": "Berlingske Slab",
+        "url": "/typeface/berlingskeslab"
+    },
+    {
+        "name": "Berlingske Serif Stencil",
+        "url": "/typeface/berlingskeserifstencil"
+    },
+    {
+        "name": "Berlingske Serif Extra Condensed",
+        "url": "/typeface/berlingskeserifextracondensed"
+    },
+    {
+        "name": "Berlingske Serif Condensed",
+        "url": "/typeface/berlingskeserifcondensed"
+    },
+    {
+        "name": "Berlingske Serif Text",
+        "url": "/typeface/berlingskeseriftext"
+    },
+    {
+        "name": "Gza",
+        "url": "/typeface/gza"
+    },
+    {
+        "name": "Franchise",
+        "url": "/typeface/franchise"
+    },
+    {
+        "name": "Relax",
+        "url": "/typeface/relax"
+    },
+    {
+        "name": "Nove",
+        "url": "/typeface/nove"
+    },
+    {
+        "name": "Areqo 4F",
+        "url": "/typeface/areqo4f"
+    },
+    {
+        "name": "Pembroke",
+        "url": "/typeface/pembroke"
+    },
+    {
+        "name": "Roboo 4F",
+        "url": "/typeface/roboo4f"
+    },
+    {
+        "name": "Excavate",
+        "url": "/typeface/excavate"
+    },
+    {
+        "name": "Karmina lnum subset",
+        "url": "/typeface/karminalnumsubset"
+    },
+    {
+        "name": "Karmina Sans lnum subset",
+        "url": "/typeface/karminasanslnumsubset"
+    },
+    {
+        "name": "Madre Script",
+        "url": "/typeface/madrescript"
+    },
+    {
+        "name": "Motor 4F",
+        "url": "/typeface/motor4f"
+    },
+    {
+        "name": "Visuelt",
+        "url": "/typeface/visuelt"
+    },
+    {
+        "name": "Marche",
+        "url": "/typeface/marche"
+    },
+    {
+        "name": "Italian Plate No 1",
+        "url": "/typeface/italianplateno1"
+    },
+    {
+        "name": "Italian Plate No 2",
+        "url": "/typeface/italianplateno2"
+    },
+    {
+        "name": "Novecento Sans",
+        "url": "/typeface/novecentosans"
+    },
+    {
+        "name": "Novecento Sans Condensed",
+        "url": "/typeface/novecentosanscondensed"
+    },
+    {
+        "name": "Novecento Sans Wide",
+        "url": "/typeface/novecentosanswide"
+    },
+    {
+        "name": "Novecento Sans Narrow",
+        "url": "/typeface/novecentosansnarrow"
+    },
+    {
+        "name": "Allumi Std",
+        "url": "/typeface/allumistd"
+    },
+    {
+        "name": "Ambroise Std",
+        "url": "/typeface/ambroisestd"
+    },
+    {
+        "name": "Angie Sans Std",
+        "url": "/typeface/angiesansstd"
+    },
+    {
+        "name": "Anisette Std",
+        "url": "/typeface/anisettestd"
+    },
+    {
+        "name": "Anisette Std Petite",
+        "url": "/typeface/anisettestdpetite"
+    },
+    {
+        "name": "Apolline Std",
+        "url": "/typeface/apollinestd"
+    },
+    {
+        "name": "Ardoise Std",
+        "url": "/typeface/ardoisestd"
+    },
+    {
+        "name": "Costa Std",
+        "url": "/typeface/costastd"
+    },
+    {
+        "name": "Le Monde Courrier Std",
+        "url": "/typeface/lemondecourrierstd"
+    },
+    {
+        "name": "Le Monde Journal Std",
+        "url": "/typeface/lemondejournalstd"
+    },
+    {
+        "name": "Le Monde Livre Classic Std",
+        "url": "/typeface/lemondelivreclassicstd"
+    },
+    {
+        "name": "Le Monde Livre Std",
+        "url": "/typeface/lemondelivrestd"
+    },
+    {
+        "name": "Le Monde Sans Std",
+        "url": "/typeface/lemondesansstd"
+    },
+    {
+        "name": "Mislab Std",
+        "url": "/typeface/mislabstd"
+    },
+    {
+        "name": "Parisine Plus Std",
+        "url": "/typeface/parisineplusstd"
+    },
+    {
+        "name": "Parisine Std",
+        "url": "/typeface/parisinestd"
+    },
+    {
+        "name": "Novecento Slab",
+        "url": "/typeface/novecentoslab"
+    },
+    {
+        "name": "Novecento Slab Narrow",
+        "url": "/typeface/novecentoslabnarrow"
+    },
+    {
+        "name": "Novecento Slab Wide",
+        "url": "/typeface/novecentoslabwide"
+    },
+    {
+        "name": "Novecento Slab Condensed",
+        "url": "/typeface/novecentoslabcondensed"
+    },
+    {
+        "name": "Beirut",
+        "url": "/typeface/beirut"
+    },
+    {
+        "name": "Brezel Grotesk 2.0",
+        "url": "/typeface/brezelgrotesk20"
+    },
+    {
+        "name": "Brace",
+        "url": "/typeface/brace"
+    },
+    {
+        "name": "Venti CF",
+        "url": "/typeface/venticf"
+    },
+    {
+        "name": "Kent 4F",
+        "url": "/typeface/kent4f"
+    },
+    {
+        "name": "Visby CF",
+        "url": "/typeface/visbycf"
+    },
+    {
+        "name": "Metro",
+        "url": "/typeface/metro"
+    },
+    {
+        "name": "Manifold CF",
+        "url": "/typeface/manifoldcf"
+    },
+    {
+        "name": "Quincy CF",
+        "url": "/typeface/quincycf"
+    },
+    {
+        "name": "Maison Neue Mono",
+        "url": "/typeface/maisonneuemono"
+    },
+    {
+        "name": "Stacker",
+        "url": "/typeface/stacker"
+    },
+    {
+        "name": "Basis Grotesque Pro",
+        "url": "/typeface/basisgrotesquepro"
+    },
+    {
+        "name": "Basis Grotesque Pro Mono",
+        "url": "/typeface/basisgrotesquepromono"
+    },
+    {
+        "name": "Libertad",
+        "url": "/typeface/libertad"
+    },
+    {
+        "name": "Ardoise Compact Std",
+        "url": "/typeface/ardoisecompactstd"
+    },
+    {
+        "name": "Ardoise Narrow Std",
+        "url": "/typeface/ardoisenarrowstd"
+    },
+    {
+        "name": "Ardoise Tight Std",
+        "url": "/typeface/ardoisetightstd"
+    },
+    {
+        "name": "Allumi Extended Std",
+        "url": "/typeface/allumiextendedstd"
+    },
+    {
+        "name": "Mislab Compact Std",
+        "url": "/typeface/mislabcompactstd"
+    },
+    {
+        "name": "Mislab Narrow Std",
+        "url": "/typeface/mislabnarrowstd"
+    },
+    {
+        "name": "Ambroise Firmin Std",
+        "url": "/typeface/ambroisefirminstd"
+    },
+    {
+        "name": "Ambroise François Std",
+        "url": "/typeface/ambroisefranoisstd"
+    },
+    {
+        "name": "New Transport",
+        "url": "/typeface/newtransport"
+    },
+    {
+        "name": "Amelia",
+        "url": "/typeface/amelia"
+    },
+    {
+        "name": "Amelia Up",
+        "url": "/typeface/ameliaup"
+    },
+    {
+        "name": "Economica Pro",
+        "url": "/typeface/economicapro"
+    },
+    {
+        "name": "Quiroga Serif",
+        "url": "/typeface/quirogaserif"
+    },
+    {
+        "name": "Rambla",
+        "url": "/typeface/rambla"
+    },
+    {
+        "name": "Rambla Alt",
+        "url": "/typeface/ramblaalt"
+    },
+    {
+        "name": "Rufina",
+        "url": "/typeface/rufina"
+    },
+    {
+        "name": "Rufina Alt 02",
+        "url": "/typeface/rufinaalt02"
+    },
+    {
+        "name": "Rufina Alt 01",
+        "url": "/typeface/rufinaalt01"
+    },
+    {
+        "name": "Lab Grotesque",
+        "url": "/typeface/labgrotesque"
+    },
+    {
+        "name": "Amster Versal Iluminada",
+        "url": "/typeface/amsterversaliluminada"
+    },
+    {
+        "name": "Faro",
+        "url": "/typeface/faro"
+    },
+    {
+        "name": "Arlt",
+        "url": "/typeface/arlt"
+    },
+    {
+        "name": "Arlt Titulo",
+        "url": "/typeface/arlttitulo"
+    },
+    {
+        "name": "Quimera",
+        "url": "/typeface/quimera"
+    },
+    {
+        "name": "Rayuela",
+        "url": "/typeface/rayuela"
+    },
+    {
+        "name": "Arlt 7 Locos",
+        "url": "/typeface/arlt7locos"
+    },
+    {
+        "name": "Arlt Deco",
+        "url": "/typeface/arltdeco"
+    },
+    {
+        "name": "Borges Titulo",
+        "url": "/typeface/borgestitulo"
+    },
+    {
+        "name": "Arlt Lanzallamas",
+        "url": "/typeface/arltlanzallamas"
+    },
+    {
+        "name": "Borges Poema",
+        "url": "/typeface/borgespoema"
+    },
+    {
+        "name": "Berenjena Pro",
+        "url": "/typeface/berenjenapro"
+    },
+    {
+        "name": "Amster Pro",
+        "url": "/typeface/amsterpro"
+    },
+    {
+        "name": "Borges",
+        "url": "/typeface/borges"
+    },
+    {
+        "name": "Margarita",
+        "url": "/typeface/margarita"
+    },
+    {
+        "name": "Perec",
+        "url": "/typeface/perec"
+    },
+    {
+        "name": "Perec Ludique",
+        "url": "/typeface/perecludique"
+    },
+    {
+        "name": "Berenjena Std",
+        "url": "/typeface/berenjenastd"
+    },
+    {
+        "name": "Amster Std",
+        "url": "/typeface/amsterstd"
+    },
+    {
+        "name": "Eksell Display",
+        "url": "/typeface/ekselldisplay"
+    },
+    {
+        "name": "Argent CF",
+        "url": "/typeface/argentcf"
+    },
+    {
+        "name": "Dart 4F",
+        "url": "/typeface/dart4f"
+    },
+    {
+        "name": "Proxima Nova Cyrillic",
+        "url": "/typeface/proximanovacyrillic"
+    },
+    {
+        "name": "Messina",
+        "url": "/typeface/messina"
+    },
+    {
+        "name": "Hall",
+        "url": "/typeface/hall"
+    },
+    {
+        "name": "FS Millbank",
+        "url": "/typeface/fsmillbank"
+    },
+    {
+        "name": "FS Shepton",
+        "url": "/typeface/fsshepton"
+    }
+]

@@ -1,0 +1,176 @@
+{
+    "name": "Quatro Sans",
+    "url": "http://fontdeck.com/typeface/quatrosans",
+    "slug": "quatrosans",
+    "superfamily": "Quatro",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Grotesque"
+    ],
+    "foundry": "p.s.type",
+    "designer": [
+        "Mark Caneso"
+    ],
+    "opentype": [
+        "liga"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "modern",
+        "advertising",
+        "opentype",
+        "low contrast",
+        "quatro",
+        "identity",
+        "editorial",
+        "ultra black",
+        "magazine",
+        "superfamily",
+        "poster"
+    ],
+    "variations": [
+        {
+            "name": "Extra-light",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/quatrosans/extralight",
+            "css": {
+                "font-family": "Quatro Sans Extra Light",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6344",
+                "slug": "extralight",
+                "price": "$8.99"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/quatrosans/light",
+            "css": {
+                "font-family": "Quatro Sans Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6345",
+                "slug": "light",
+                "price": "$8.99"
+            }
+        },
+        {
+            "name": "Book",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/quatrosans/book",
+            "css": {
+                "font-family": "Quatro Sans Book",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6343",
+                "slug": "book",
+                "price": "$8.99"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/quatrosans/regular",
+            "css": {
+                "font-family": "Quatro Sans Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6347",
+                "slug": "regular",
+                "price": "$8.99"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/quatrosans/medium",
+            "css": {
+                "font-family": "Quatro Sans Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6346",
+                "slug": "medium",
+                "price": "$8.99"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/quatrosans/semibold",
+            "css": {
+                "font-family": "Quatro Sans Semi Bold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6348",
+                "slug": "semibold",
+                "price": "$8.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/quatrosans/bold",
+            "css": {
+                "font-family": "Quatro Sans Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6342",
+                "slug": "bold",
+                "price": "$8.99"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/quatrosans/black",
+            "css": {
+                "font-family": "Quatro Sans Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6341",
+                "slug": "black",
+                "price": "$8.99"
+            }
+        },
+        {
+            "name": "Ultra-black",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/quatrosans/ultrablack",
+            "css": {
+                "font-family": "Quatro Sans Ultra Black",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6349",
+                "slug": "ultrablack",
+                "price": "$8.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1458",
+        "slug": "quatrosans"
+    },
+    "generatedAt": 1437610885860
+}

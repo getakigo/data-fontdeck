@@ -1,0 +1,66 @@
+{
+    "name": "Laski Slab Stencil",
+    "url": "http://fontdeck.com/typeface/laskislabstencil",
+    "slug": "laskislabstencil",
+    "superfamily": "Laski",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Slab serif"
+    ],
+    "foundry": "ReType",
+    "designer": [
+        "Paula Mastrangelo",
+        "Ramiro Espinoza"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "solid",
+        "magazines",
+        "editorial",
+        "friendly",
+        "contemporary",
+        "readable",
+        "superfamily",
+        "stencil"
+    ],
+    "variations": [
+        {
+            "name": "Black",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/laskislabstencil/black",
+            "css": {
+                "font-family": "Laski Slab Stencil Black",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7886",
+                "slug": "black",
+                "price": "$16.99"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/laskislabstencil/blackitalic",
+            "css": {
+                "font-family": "Laski Slab Stencil Black Italic",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7887",
+                "slug": "blackitalic",
+                "price": "$16.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1815",
+        "slug": "laskislabstencil"
+    },
+    "generatedAt": 1437611323360
+}

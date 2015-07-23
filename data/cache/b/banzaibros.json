@@ -1,0 +1,66 @@
+{
+    "name": "Banzai Bros",
+    "url": "http://fontdeck.com/typeface/banzaibros",
+    "slug": "banzaibros",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "All caps",
+        "Display",
+        "Poster"
+    ],
+    "foundry": "Fenotype",
+    "designer": [
+        "Emil Bertell"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "advertising",
+        "fast",
+        "loose",
+        "robust",
+        "brush",
+        "sans-serif",
+        "informal",
+        "superhero",
+        "american",
+        "flat brush",
+        "rounded",
+        "poster",
+        "comic",
+        "all caps",
+        "1950s",
+        "funny",
+        "super",
+        "round",
+        "sign",
+        "bold",
+        "bouncy",
+        "casual",
+        "cartoon"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/banzaibros/regular",
+            "css": {
+                "font-family": "Banzai Bros Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3839",
+                "slug": "regular",
+                "price": "$7.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "907",
+        "slug": "banzaibros"
+    },
+    "generatedAt": 1437610099555
+}

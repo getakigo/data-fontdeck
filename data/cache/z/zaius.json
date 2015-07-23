@@ -1,0 +1,150 @@
+{
+    "name": "Zaius",
+    "url": "http://fontdeck.com/typeface/zaius",
+    "slug": "zaius",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Display",
+        "Computer-related",
+        "Display",
+        "Geometric",
+        "Display",
+        "Stencil"
+    ],
+    "foundry": "The Northern Block",
+    "designer": [
+        "Jonathan Hill"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "geometric",
+        "dynamic",
+        "logo",
+        "mechanical",
+        "strong",
+        "nightclub",
+        "chunky",
+        "icons",
+        "robot",
+        "movie",
+        "digital",
+        "fashionable",
+        "caps only",
+        "1960s",
+        "bold",
+        "modular",
+        "branding",
+        "headline",
+        "stencil",
+        "street",
+        "headlines",
+        "1970s",
+        "fiction",
+        "techno",
+        "book jacket",
+        "fat",
+        "american",
+        "outline",
+        "industrial",
+        "block",
+        "graphic",
+        "powerful",
+        "computer",
+        "identity",
+        "retro",
+        "electronic",
+        "futurism",
+        "heavy",
+        "futuristic",
+        "grid",
+        "extra wide",
+        "impact",
+        "wide"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/zaius/regular",
+            "css": {
+                "font-family": "Zaius Regular",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2480",
+                "slug": "regular",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/zaius/italic",
+            "css": {
+                "font-family": "Zaius Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2481",
+                "slug": "italic",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Stencil",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/zaius/stencil",
+            "css": {
+                "font-family": "Zaius Stencil",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2483",
+                "slug": "stencil",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Outline",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/zaius/outline",
+            "css": {
+                "font-family": "Zaius Outline",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2482",
+                "slug": "outline",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Block",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/zaius/block",
+            "css": {
+                "font-family": "Zaius Block",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2484",
+                "slug": "block",
+                "price": "$9.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "603",
+        "slug": "zaius"
+    },
+    "generatedAt": 1437609548560
+}

@@ -1,0 +1,49 @@
+{
+    "name": "Black Jack Pro",
+    "url": "http://fontdeck.com/typeface/blackjackpro",
+    "slug": "blackjackpro",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Calligraphic",
+        "Script",
+        "Casual"
+    ],
+    "foundry": "CheapProFonts",
+    "designer": [
+        "Ronna Penner"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "decorative",
+        "script",
+        "soft",
+        "brush",
+        "connected",
+        "calligraphic"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/blackjackpro/regular",
+            "css": {
+                "font-family": "Black Jack Pro Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2951",
+                "slug": "regular",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "683",
+        "slug": "blackjackpro"
+    },
+    "generatedAt": 1437609703751
+}

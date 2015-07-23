@@ -1,0 +1,100 @@
+{
+    "name": "Edita",
+    "url": "http://fontdeck.com/typeface/edita",
+    "slug": "edita",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Garalde"
+    ],
+    "foundry": "TypeTogether",
+    "designer": [
+        "Pilar Cano"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "elegant",
+        "book",
+        "text",
+        "fluid",
+        "wedge serif",
+        "legible",
+        "architecture",
+        "editorial",
+        "fine crafted",
+        "humanist",
+        "graceful",
+        "contemporary",
+        "magazine",
+        "versalitas"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/edita/regular",
+            "css": {
+                "font-family": "Edita Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1144",
+                "slug": "regular",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/edita/italic",
+            "css": {
+                "font-family": "Edita Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1145",
+                "slug": "italic",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/edita/bold",
+            "css": {
+                "font-family": "Edita Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1147",
+                "slug": "bold",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/edita/bolditalic",
+            "css": {
+                "font-family": "Edita Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1146",
+                "slug": "bolditalic",
+                "price": "$15.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "317",
+        "slug": "edita"
+    },
+    "generatedAt": 1437609194150
+}

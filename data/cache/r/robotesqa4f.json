@@ -1,0 +1,159 @@
+{
+    "name": "Robotesqa 4F",
+    "url": "http://fontdeck.com/typeface/robotesqa4f",
+    "slug": "robotesqa4f",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Display",
+        "Futuristic",
+        "Display",
+        "Computer-related",
+        "Display",
+        "Decorative",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "4th february",
+    "designer": [
+        "Sergiy S. Tkachenko"
+    ],
+    "language": [
+        "latin",
+        "cyrillic"
+    ],
+    "tags": [
+        "angular",
+        "space",
+        "aeronaut",
+        "computer"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/robotesqa4f/light",
+            "css": {
+                "font-family": "Robotesqa 4F Light",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7624",
+                "slug": "light",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i3",
+            "url": "http://fontdeck.com/font/robotesqa4f/lightitalic",
+            "css": {
+                "font-family": "Robotesqa 4F Light Italic",
+                "font-weight": "300",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7625",
+                "slug": "lightitalic",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/robotesqa4f/regular",
+            "css": {
+                "font-family": "Robotesqa 4F Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7626",
+                "slug": "regular",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/robotesqa4f/italic",
+            "css": {
+                "font-family": "Robotesqa 4F Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7627",
+                "slug": "italic",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/robotesqa4f/medium",
+            "css": {
+                "font-family": "Robotesqa 4F Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7628",
+                "slug": "medium",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/robotesqa4f/mediumitalic",
+            "css": {
+                "font-family": "Robotesqa 4F Medium Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7629",
+                "slug": "mediumitalic",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/robotesqa4f/bold",
+            "css": {
+                "font-family": "Robotesqa 4F Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7630",
+                "slug": "bold",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/robotesqa4f/bolditalic",
+            "css": {
+                "font-family": "Robotesqa 4F Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7631",
+                "slug": "bolditalic",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1760",
+        "slug": "robotesqa4f"
+    },
+    "generatedAt": 1437611214531
+}

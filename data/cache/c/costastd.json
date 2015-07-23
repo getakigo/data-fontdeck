@@ -1,0 +1,136 @@
+{
+    "name": "Costa Std",
+    "url": "http://fontdeck.com/typeface/costastd",
+    "slug": "costastd",
+    "use": "body",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Sans Serif",
+        "Hybrid",
+        "Script",
+        "Simple",
+        "Script",
+        "Casual"
+    ],
+    "foundry": "Typofonderie",
+    "designer": [
+        "Jean François Porchez"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "italy",
+        "incise",
+        "publishing",
+        "exotic",
+        "design",
+        "identity",
+        "carved lettering",
+        "branding",
+        "garalde",
+        "roman inscriptions",
+        "humanist",
+        "newspaper",
+        "display",
+        "magazine"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/costastd/light",
+            "css": {
+                "font-family": "Costa Std Light",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8707",
+                "slug": "light",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/costastd/regular",
+            "css": {
+                "font-family": "Costa Std Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8708",
+                "slug": "regular",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/costastd/italic",
+            "css": {
+                "font-family": "Costa Std Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8709",
+                "slug": "italic",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/costastd/bold",
+            "css": {
+                "font-family": "Costa Std Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8711",
+                "slug": "bold",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/costastd/extrabold",
+            "css": {
+                "font-family": "Costa Std Extra Bold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8712",
+                "slug": "extrabold",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Demi",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/costastd/demi",
+            "css": {
+                "font-family": "Costa Std Demi",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8710",
+                "slug": "demi",
+                "price": "$26.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1925",
+        "slug": "costastd"
+    },
+    "generatedAt": 1437611464308
+}

@@ -1,0 +1,53 @@
+{
+    "name": "Motorcross Pro",
+    "url": "http://fontdeck.com/typeface/motorcrosspro",
+    "slug": "motorcrosspro",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "All caps",
+        "Display",
+        "Funny",
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "Red Rooster Collection",
+    "designer": [
+        "Steve Jackaman"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "all caps",
+        "1930s",
+        "art deco",
+        "logo",
+        "informal",
+        "sport",
+        "magazine",
+        "impact"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/motorcrosspro/regular",
+            "css": {
+                "font-family": "Motorcross Pro Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3176",
+                "slug": "regular",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "747",
+        "slug": "motorcrosspro"
+    },
+    "generatedAt": 1437609829823
+}

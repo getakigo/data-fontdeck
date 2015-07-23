@@ -1,0 +1,79 @@
+{
+    "name": "Blakely",
+    "url": "http://fontdeck.com/typeface/blakely",
+    "slug": "blakely",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Art Deco"
+    ],
+    "foundry": "Mark Simonson Studio",
+    "designer": [
+        "Mark Simonson"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "all caps",
+        "1930s",
+        "pointed",
+        "narrow",
+        "1920s",
+        "condensed",
+        "geometric",
+        "art deco"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/blakely/light",
+            "css": {
+                "font-family": "Blakely Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1085",
+                "slug": "light",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/blakely/bold",
+            "css": {
+                "font-family": "Blakely Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1084",
+                "slug": "bold",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/blakely/black",
+            "css": {
+                "font-family": "Blakely Black",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1083",
+                "slug": "black",
+                "price": "$9.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "289",
+        "slug": "blakely"
+    },
+    "generatedAt": 1437609155739
+}

@@ -1,0 +1,64 @@
+{
+    "name": "Prozac",
+    "url": "http://fontdeck.com/typeface/prozac",
+    "slug": "prozac",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif"
+    ],
+    "foundry": "VirusFonts",
+    "designer": [
+        "Jonathan Barnbrook"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "experimental",
+        "bold",
+        "simplified",
+        "universal",
+        "utopian",
+        "headline",
+        "rounded",
+        "poster"
+    ],
+    "variations": [
+        {
+            "name": "Lite",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/prozac/lite",
+            "css": {
+                "font-family": "Prozac Lite",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3411",
+                "slug": "lite",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Max",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/prozac/max",
+            "css": {
+                "font-family": "Prozac Max",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3412",
+                "slug": "max",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "828",
+        "slug": "prozac"
+    },
+    "generatedAt": 1437609955315
+}

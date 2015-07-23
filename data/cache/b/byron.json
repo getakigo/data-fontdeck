@@ -1,0 +1,198 @@
+{
+    "name": "Byron",
+    "url": "http://fontdeck.com/typeface/byron",
+    "slug": "byron",
+    "use": "heading",
+    "classification": [
+        "Script",
+        "Calligraphic"
+    ],
+    "foundry": "Red Rooster Collection",
+    "designer": [
+        "Pat Hickson"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "expressive",
+        "royal",
+        "card",
+        "correspondence",
+        "fancy",
+        "memos",
+        "magazine",
+        "news",
+        "festive",
+        "alternates",
+        "christianity",
+        "flair",
+        "cursive",
+        "food",
+        "1950s",
+        "blackletter",
+        "commercial",
+        "tropical",
+        "ligatures",
+        "fashionable",
+        "label",
+        "greetings",
+        "bouncy",
+        "calligraphy",
+        "feminine",
+        "engraving",
+        "memorabilia",
+        "summer",
+        "masthead",
+        "legible",
+        "spray",
+        "crafts",
+        "scrollwork",
+        "certificate",
+        "disconnected",
+        "artsy",
+        "script",
+        "elegant",
+        "swashes",
+        "italian",
+        "fairytale",
+        "oldstyle",
+        "regal",
+        "valentine",
+        "movie credits",
+        "lettering",
+        "graceful",
+        "formal",
+        "poetry",
+        "diploma",
+        "perfume",
+        "scrap",
+        "nature",
+        "dainty",
+        "flourished",
+        "1940s",
+        "movie",
+        "sun",
+        "bible",
+        "curly",
+        "renaissance",
+        "calligraphic",
+        "european",
+        "kids",
+        "wedding",
+        "ornament",
+        "surf",
+        "invitation",
+        "jewelry",
+        "copperplate",
+        "english",
+        "cosmetics",
+        "scrapbook",
+        "water",
+        "1930s",
+        "handwriting",
+        "travel",
+        "film",
+        "letter",
+        "vacation",
+        "swash",
+        "ornamental"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/byron/light",
+            "css": {
+                "font-family": "Byron Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4190",
+                "slug": "light",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/byron/medium",
+            "css": {
+                "font-family": "Byron Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4192",
+                "slug": "medium",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/byron/bold",
+            "css": {
+                "font-family": "Byron Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4188",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Medium Swash",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/byron/mediumswash",
+            "css": {
+                "font-family": "Byron Medium Swash",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4193",
+                "slug": "mediumswash",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Light Swash",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/byron/lightswash",
+            "css": {
+                "font-family": "Byron Light Swash",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4191",
+                "slug": "lightswash",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold Swash",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/byron/boldswash",
+            "css": {
+                "font-family": "Byron Bold Swash",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4189",
+                "slug": "boldswash",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "983",
+        "slug": "byron"
+    },
+    "generatedAt": 1437610236734
+}

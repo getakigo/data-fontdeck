@@ -1,0 +1,93 @@
+{
+    "name": "Tomate",
+    "url": "http://fontdeck.com/typeface/tomate",
+    "slug": "tomate",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Fat Face"
+    ],
+    "foundry": "ReType",
+    "designer": [
+        "Ramiro Espinoza"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "supermarket",
+        "lettering",
+        "brush script",
+        "playful",
+        "fat face",
+        "packaging",
+        "fat"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/tomate/light",
+            "css": {
+                "font-family": "Tomate Light",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6659",
+                "slug": "light",
+                "price": "$16.99"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/tomate/regular",
+            "css": {
+                "font-family": "Tomate Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6660",
+                "slug": "regular",
+                "price": "$16.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/tomate/bold",
+            "css": {
+                "font-family": "Tomate Bold",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6661",
+                "slug": "bold",
+                "price": "$16.99"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/tomate/black",
+            "css": {
+                "font-family": "Tomate Black",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6662",
+                "slug": "black",
+                "price": "$16.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1521",
+        "slug": "tomate"
+    },
+    "generatedAt": 1437610954892
+}

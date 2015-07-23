@@ -1,0 +1,269 @@
+{
+    "name": "Vinkel",
+    "url": "http://fontdeck.com/typeface/vinkel",
+    "slug": "vinkel",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Humanist"
+    ],
+    "foundry": "Typolar",
+    "designer": [
+        "Saku Heinänen"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "angular",
+        "warm",
+        "legible"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/vinkel/thin",
+            "css": {
+                "font-family": "Vinkel Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1610",
+                "slug": "thin",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Thin Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/vinkel/thinitalic",
+            "css": {
+                "font-family": "Vinkel Thin Italic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1611",
+                "slug": "thinitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-light",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/vinkel/extralight",
+            "css": {
+                "font-family": "Vinkel Extra Light",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1604",
+                "slug": "extralight",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-light Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/vinkel/extralightitalic",
+            "css": {
+                "font-family": "Vinkel Extra Light Italic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1605",
+                "slug": "extralightitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/vinkel/light",
+            "css": {
+                "font-family": "Vinkel Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1606",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/vinkel/lightitalic",
+            "css": {
+                "font-family": "Vinkel Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1607",
+                "slug": "lightitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/vinkel/regular",
+            "css": {
+                "font-family": "Vinkel Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1598",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/vinkel/italic",
+            "css": {
+                "font-family": "Vinkel Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1599",
+                "slug": "italic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/vinkel/medium",
+            "css": {
+                "font-family": "Vinkel Medium",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1608",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/vinkel/mediumitalic",
+            "css": {
+                "font-family": "Vinkel Medium Italic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1609",
+                "slug": "mediumitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/vinkel/bold",
+            "css": {
+                "font-family": "Vinkel Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1600",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/vinkel/bolditalic",
+            "css": {
+                "font-family": "Vinkel Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1601",
+                "slug": "bolditalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/vinkel/black",
+            "css": {
+                "font-family": "Vinkel Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1596",
+                "slug": "black",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/vinkel/blackitalic",
+            "css": {
+                "font-family": "Vinkel Black Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1597",
+                "slug": "blackitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-black",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/vinkel/extrablack",
+            "css": {
+                "font-family": "Vinkel Extra Black",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1602",
+                "slug": "extrablack",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-black Italic",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/vinkel/extrablackitalic",
+            "css": {
+                "font-family": "Vinkel Extra Black Italic",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1603",
+                "slug": "extrablackitalic",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "426",
+        "slug": "vinkel"
+    },
+    "generatedAt": 1437609328339
+}

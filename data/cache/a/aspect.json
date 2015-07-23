@@ -1,0 +1,112 @@
+{
+    "name": "Aspect",
+    "url": "http://fontdeck.com/typeface/aspect",
+    "slug": "aspect",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Script",
+        "Simple"
+    ],
+    "foundry": "Jeremy Tankard Typography",
+    "designer": [
+        "Jeremy Tankard"
+    ],
+    "opentype": [
+        "liga"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "modern",
+        "opentype",
+        "display",
+        "clean",
+        "legible",
+        "clear"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/aspect/light",
+            "css": {
+                "font-family": "Aspect Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1653",
+                "slug": "light",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/aspect/regular",
+            "css": {
+                "font-family": "Aspect Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1654",
+                "slug": "regular",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/aspect/bold",
+            "css": {
+                "font-family": "Aspect Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1650",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/aspect/extrabold",
+            "css": {
+                "font-family": "Aspect ExtraBold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1651",
+                "slug": "extrabold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/aspect/heavy",
+            "css": {
+                "font-family": "Aspect Heavy",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1652",
+                "slug": "heavy",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "433",
+        "slug": "aspect"
+    },
+    "generatedAt": 1437609352233
+}

@@ -1,0 +1,45 @@
+{
+    "name": "Rivanna Pro",
+    "url": "http://fontdeck.com/typeface/rivannapro",
+    "slug": "rivannapro",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Art Deco"
+    ],
+    "foundry": "CheapProFonts",
+    "designer": [
+        "Nick Curtis"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "art nouveau",
+        "narrow",
+        "jugend",
+        "art deco"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/rivannapro/regular",
+            "css": {
+                "font-family": "Rivanna Pro Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3105",
+                "slug": "regular",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "725",
+        "slug": "rivannapro"
+    },
+    "generatedAt": 1437609796998
+}

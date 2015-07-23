@@ -1,0 +1,210 @@
+{
+    "name": "Bree",
+    "url": "http://fontdeck.com/typeface/bree",
+    "slug": "bree",
+    "superfamily": "Bree",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif"
+    ],
+    "foundry": "TypeTogether",
+    "designer": [
+        "Veronika Burian",
+        "José Scaglione"
+    ],
+    "opentype": [
+        "liga",
+        "lnum",
+        "onum",
+        "pnum",
+        "salt",
+        "ss01",
+        "tnum"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "opentype",
+        "feminine",
+        "sans-serif",
+        "legible",
+        "soft",
+        "sleek",
+        "magazine",
+        "upright",
+        "modern",
+        "decorative",
+        "cool",
+        "elegant",
+        "handwriting",
+        "fashionable",
+        "fluid",
+        "polished",
+        "branding",
+        "headline",
+        "lively",
+        "script sans",
+        "graceful",
+        "italic",
+        "superfamily"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/bree/thin",
+            "css": {
+                "font-family": "Bree Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1013",
+                "slug": "thin",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Thin Oblique",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/bree/thinoblique",
+            "css": {
+                "font-family": "Bree Thin Oblique",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1014",
+                "slug": "thinoblique",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/bree/light",
+            "css": {
+                "font-family": "Bree Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1009",
+                "slug": "light",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Light Oblique",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/bree/lightoblique",
+            "css": {
+                "font-family": "Bree Light Oblique",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1010",
+                "slug": "lightoblique",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/bree/regular",
+            "css": {
+                "font-family": "Bree Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1012",
+                "slug": "regular",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Regular Oblique",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/bree/oblique",
+            "css": {
+                "font-family": "Bree Oblique",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1011",
+                "slug": "oblique",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/bree/bold",
+            "css": {
+                "font-family": "Bree Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1005",
+                "slug": "bold",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Bold Oblique",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/bree/boldoblique",
+            "css": {
+                "font-family": "Bree Bold Oblique",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1006",
+                "slug": "boldoblique",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/bree/extrabold",
+            "css": {
+                "font-family": "Bree Extrabold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1007",
+                "slug": "extrabold",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Extra-bold Oblique",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/bree/extraboldoblique",
+            "css": {
+                "font-family": "Bree Extrabold Oblique",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1008",
+                "slug": "extraboldoblique",
+                "price": "$15.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "290",
+        "slug": "bree"
+    },
+    "generatedAt": 1437609158870
+}

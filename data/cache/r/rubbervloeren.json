@@ -1,0 +1,87 @@
+{
+    "name": "Rubber Vloeren",
+    "url": "http://fontdeck.com/typeface/rubbervloeren",
+    "slug": "rubbervloeren",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Experimental",
+        "Display",
+        "Funny",
+        "Display",
+        "Comic Strip Lettering",
+        "Display",
+        "Symbol",
+        "Display",
+        "Poster"
+    ],
+    "foundry": "Wordshape",
+    "designer": [
+        "Ian Lynam"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "wordshape",
+        "cooper black",
+        "1920s",
+        "idea magazine",
+        "atf",
+        "wedding invitation",
+        "fancy",
+        "halcali",
+        "oswald bruce",
+        "low x-height",
+        "cooper swash",
+        "dutch type",
+        "heft",
+        "ligatures",
+        "piet zwart",
+        "wilco",
+        "jan middendorp",
+        "pen font",
+        "swing",
+        "gravy",
+        "bernhard script",
+        "wedding",
+        "display font",
+        "oswald cooper",
+        "old tyme",
+        "barnhart bros & spindler",
+        "decorative",
+        "swash font",
+        "script",
+        "1930s",
+        "old time",
+        "chicago",
+        "retro",
+        "tokyo",
+        "bertsch & cooper",
+        "newspaper font",
+        "cooper text",
+        "oz cooper"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/rubbervloeren/regular",
+            "css": {
+                "font-family": "Rubber Vloeren Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4777",
+                "slug": "regular",
+                "price": "$12.49"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1118",
+        "slug": "rubbervloeren"
+    },
+    "generatedAt": 1437610450815
+}

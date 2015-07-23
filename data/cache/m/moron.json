@@ -1,0 +1,71 @@
+{
+    "name": "Moron",
+    "url": "http://fontdeck.com/typeface/moron",
+    "slug": "moron",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Experimental",
+        "Display",
+        "Sans serif"
+    ],
+    "foundry": "VirusFonts",
+    "designer": [
+        "Jonathan Barnbrook"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "sausage",
+        "1970s",
+        "",
+        "",
+        "",
+        "experimental",
+        "bold",
+        "",
+        "",
+        "headline",
+        "rounded",
+        "poster",
+        ""
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/moron/regular",
+            "css": {
+                "font-family": "Moron Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3387",
+                "slug": "regular",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Thick",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/moron/thick",
+            "css": {
+                "font-family": "Moron Thick",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3388",
+                "slug": "thick",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "817",
+        "slug": "moron"
+    },
+    "generatedAt": 1437609934782
+}

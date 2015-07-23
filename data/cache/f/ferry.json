@@ -1,0 +1,54 @@
+{
+    "name": "Ferry",
+    "url": "http://fontdeck.com/typeface/ferry",
+    "slug": "ferry",
+    "use": "body",
+    "classification": [
+        "Display",
+        "All caps",
+        "Display",
+        "Sans serif",
+        "Display",
+        "Poster",
+        "Sans Serif",
+        "Grotesque"
+    ],
+    "foundry": "Letters from Sweden",
+    "designer": [
+        "Erik Moberg"
+    ],
+    "language": [
+        "latin",
+        "greek",
+        "cyrillic"
+    ],
+    "tags": [
+        "all caps",
+        "strong",
+        "sans serif",
+        "display",
+        "black"
+    ],
+    "variations": [
+        {
+            "name": "Black",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/ferry/black",
+            "css": {
+                "font-family": "Ferry Black",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7883",
+                "slug": "black",
+                "price": "$17.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1814",
+        "slug": "ferry"
+    },
+    "generatedAt": 1437611322993
+}

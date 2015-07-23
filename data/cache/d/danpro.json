@@ -1,0 +1,70 @@
+{
+    "name": "Dan Pro",
+    "url": "http://fontdeck.com/typeface/danpro",
+    "slug": "danpro",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "Fontfabric",
+    "designer": [
+        "Svetoslav Simov"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "decorative",
+        "modern",
+        "round",
+        "geometric",
+        "fat",
+        "experimental",
+        "outline",
+        "bold",
+        "russian",
+        "rounded",
+        "display",
+        "chunky",
+        "poster",
+        "black"
+    ],
+    "variations": [
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/danpro/bold",
+            "css": {
+                "font-family": "Dan Pro Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2994",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Outline",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/danpro/outline",
+            "css": {
+                "font-family": "Dan Pro Outline",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2995",
+                "slug": "outline",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "697",
+        "slug": "danpro"
+    },
+    "generatedAt": 1437609742546
+}

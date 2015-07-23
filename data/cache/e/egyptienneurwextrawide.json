@@ -1,0 +1,190 @@
+{
+    "name": "Egyptienne URW Extra Wide",
+    "url": "http://fontdeck.com/typeface/egyptienneurwextrawide",
+    "slug": "egyptienneurwextrawide",
+    "superfamily": "Urw Egyptienne",
+    "use": "heading",
+    "classification": [
+        "Slab Serif",
+        "Egyptian",
+        "Slab Serif",
+        "Clarendon/Bracketed"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "URW Studio"
+    ],
+    "opentype": [
+        "liga"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "1950s",
+        "opentype",
+        "egyptian",
+        "office",
+        "masculine",
+        "magazine",
+        "superfamily",
+        "extra wide"
+    ],
+    "variations": [
+        {
+            "name": "Extra-light",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/egyptienneurwextrawide/extralight",
+            "css": {
+                "font-family": "EgyptiennURExtrWidExtrLigh",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "216",
+                "slug": "extralight",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-light Oblique",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/egyptienneurwextrawide/extralightoblique",
+            "css": {
+                "font-family": "EgyptienUExtWiExtLigObliq",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "224",
+                "slug": "extralightoblique",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/egyptienneurwextrawide/light",
+            "css": {
+                "font-family": "Egyptienne URW Extra Wide Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "304",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light Oblique",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/egyptienneurwextrawide/lightoblique",
+            "css": {
+                "font-family": "EgyptiennURExtrWidLighObliqu",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "202",
+                "slug": "lightoblique",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/egyptienneurwextrawide/regular",
+            "css": {
+                "font-family": "EgyptienneURWExtraWideRegular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "261",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Oblique",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/egyptienneurwextrawide/oblique",
+            "css": {
+                "font-family": "EgyptienneURWExtraWideOblique",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "203",
+                "slug": "oblique",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/egyptienneurwextrawide/medium",
+            "css": {
+                "font-family": "EgyptienneURWExtraWideMedium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "278",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium Oblique",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/egyptienneurwextrawide/mediumoblique",
+            "css": {
+                "font-family": "EgyptiennURExtrWidMediuObliqu",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "334",
+                "slug": "mediumoblique",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/egyptienneurwextrawide/bold",
+            "css": {
+                "font-family": "Egyptienne URW Extra Wide Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "323",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Oblique",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/egyptienneurwextrawide/boldoblique",
+            "css": {
+                "font-family": "EgyptiennURExtrWidBolObliqu",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "378",
+                "slug": "boldoblique",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "133",
+        "slug": "egyptienneurwextrawide"
+    },
+    "generatedAt": 1437608905138
+}

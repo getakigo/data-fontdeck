@@ -1,0 +1,164 @@
+{
+    "name": "Alber New Web",
+    "url": "http://fontdeck.com/typeface/albernewweb",
+    "slug": "albernewweb",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Humanist"
+    ],
+    "foundry": "Moretype",
+    "designer": [
+        "Chris Dickinson"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "true italic",
+        "hand hinted",
+        "workhorse",
+        "friendly",
+        "humanist",
+        "contemporary",
+        "news",
+        "manually hinted",
+        "modern",
+        "business",
+        "elegant",
+        "commercial",
+        "handhinted",
+        "branding",
+        "signage",
+        "corporate",
+        "clean",
+        "information"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/albernewweb/light",
+            "css": {
+                "font-family": "Alber New Web Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3607",
+                "slug": "light",
+                "price": "$11.50"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/albernewweb/lightitalic",
+            "css": {
+                "font-family": "Alber New Web Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3608",
+                "slug": "lightitalic",
+                "price": "$11.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/albernewweb/regular",
+            "css": {
+                "font-family": "Alber New Web Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3611",
+                "slug": "regular",
+                "price": "$11.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/albernewweb/italic",
+            "css": {
+                "font-family": "Alber New Web Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3612",
+                "slug": "italic",
+                "price": "$11.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/albernewweb/medium",
+            "css": {
+                "font-family": "Alber New Web Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3609",
+                "slug": "medium",
+                "price": "$11.50"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/albernewweb/mediumitalic",
+            "css": {
+                "font-family": "Alber New Web Medium Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3610",
+                "slug": "mediumitalic",
+                "price": "$11.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/albernewweb/bold",
+            "css": {
+                "font-family": "Alber New Web Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3605",
+                "slug": "bold",
+                "price": "$11.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/albernewweb/bolditalic",
+            "css": {
+                "font-family": "Alber New Web Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3606",
+                "slug": "bolditalic",
+                "price": "$11.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "870",
+        "slug": "albernewweb"
+    },
+    "generatedAt": 1437610034722
+}

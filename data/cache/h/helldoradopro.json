@@ -1,0 +1,52 @@
+{
+    "name": "Helldorado Pro",
+    "url": "http://fontdeck.com/typeface/helldoradopro",
+    "slug": "helldoradopro",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Slab serif",
+        "Display",
+        "Poster"
+    ],
+    "foundry": "CheapProFonts",
+    "designer": [
+        "Levente Halmos"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "fish tailed",
+        "western",
+        "wood type",
+        "slab serif",
+        "tuscan",
+        "wanted",
+        "cowboy",
+        "woodtype",
+        "poster"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/helldoradopro/regular",
+            "css": {
+                "font-family": "Helldorado Pro Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4753",
+                "slug": "regular",
+                "price": "$9.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1101",
+        "slug": "helldoradopro"
+    },
+    "generatedAt": 1437610424610
+}

@@ -1,0 +1,43 @@
+{
+    "name": "Soccerboy",
+    "url": "http://fontdeck.com/typeface/soccerboy",
+    "slug": "soccerboy",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Funny"
+    ],
+    "foundry": "Chank Co",
+    "designer": [
+        "Chank Diesel"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "1970s",
+        "child writing"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/soccerboy/regular",
+            "css": {
+                "font-family": "Soccerboy Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "471",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "191",
+        "slug": "soccerboy"
+    },
+    "generatedAt": 1437608989023
+}

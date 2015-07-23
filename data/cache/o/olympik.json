@@ -1,0 +1,101 @@
+{
+    "name": "Olympik",
+    "url": "http://fontdeck.com/typeface/olympik",
+    "slug": "olympik",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Art Deco",
+        "Display",
+        "Computer-related",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "The Northern Block",
+    "designer": [
+        "Jonathan Hill"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "headlines",
+        "neon",
+        "1970s",
+        "geometric",
+        "linear",
+        "monoline",
+        "contemporary",
+        "rounded",
+        "poster",
+        "modern",
+        "decorative",
+        "movie",
+        "digital",
+        "round",
+        "trendy",
+        "fashionable",
+        "computer",
+        "fresh",
+        "retro",
+        "lined",
+        "signage",
+        "headline",
+        "sport",
+        "1980s",
+        "display",
+        "disco"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/olympik/regular",
+            "css": {
+                "font-family": "Olympik Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2399",
+                "slug": "regular",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Fine Line",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/olympik/fineline",
+            "css": {
+                "font-family": "Olympik Fine Line",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2401",
+                "slug": "fineline",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Bold Line",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/olympik/boldline",
+            "css": {
+                "font-family": "Olympik Bold Line",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2402",
+                "slug": "boldline",
+                "price": "$9.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "583",
+        "slug": "olympik"
+    },
+    "generatedAt": 1437609498661
+}

@@ -1,0 +1,190 @@
+{
+    "name": "FS Elliot Web",
+    "url": "http://fontdeck.com/typeface/fselliotweb",
+    "slug": "fselliotweb",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Gothic",
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "Fontsmith",
+    "designer": [
+        "Nick Job"
+    ],
+    "opentype": [
+        "liga"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "gothic",
+        "opentype",
+        "robust",
+        "british",
+        "legible",
+        "1960s",
+        "open",
+        "clean",
+        "optimistic"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/fselliotweb/thin",
+            "css": {
+                "font-family": "FS Elliot Web Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5547",
+                "slug": "thin",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Thin Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/fselliotweb/thinitalic",
+            "css": {
+                "font-family": "FS Elliot Web Thin Italic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5548",
+                "slug": "thinitalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/fselliotweb/light",
+            "css": {
+                "font-family": "FS Elliot Web Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5544",
+                "slug": "light",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/fselliotweb/lightitalic",
+            "css": {
+                "font-family": "FS Elliot Web Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5545",
+                "slug": "lightitalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/fselliotweb/regular",
+            "css": {
+                "font-family": "FS Elliot Web Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5546",
+                "slug": "regular",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/fselliotweb/italic",
+            "css": {
+                "font-family": "FS Elliot Web Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5543",
+                "slug": "italic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/fselliotweb/bold",
+            "css": {
+                "font-family": "FS Elliot Web Bold",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5539",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/fselliotweb/bolditalic",
+            "css": {
+                "font-family": "FS Elliot Web Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5540",
+                "slug": "bolditalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/fselliotweb/heavy",
+            "css": {
+                "font-family": "FS Elliot Web Heavy",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5541",
+                "slug": "heavy",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Heavy Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/fselliotweb/heavyitalic",
+            "css": {
+                "font-family": "FS Elliot Web Heavy Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5542",
+                "slug": "heavyitalic",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1292",
+        "slug": "fselliotweb"
+    },
+    "generatedAt": 1437610681875
+}

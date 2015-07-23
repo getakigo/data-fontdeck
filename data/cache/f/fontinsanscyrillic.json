@@ -1,0 +1,103 @@
+{
+    "name": "Fontin Sans Cyrillic",
+    "url": "http://fontdeck.com/typeface/fontinsanscyrillic",
+    "slug": "fontinsanscyrillic",
+    "use": "body",
+    "classification": [],
+    "foundry": "Exljbris",
+    "designer": [
+        "Jos Buivenga"
+    ],
+    "language": [
+        "latin",
+        "cyrillic"
+    ],
+    "tags": [
+        "humanistic sans",
+        "fontin sans",
+        "cyrillic",
+        "fontin"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/fontinsanscyrillic/regular",
+            "css": {
+                "font-family": "Fontin Sans Cyrillic Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "882",
+                "slug": "regular",
+                "price": "$2.99"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/fontinsanscyrillic/italic",
+            "css": {
+                "font-family": "Fontin Sans Cyrillic Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "883",
+                "slug": "italic",
+                "price": "$2.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/fontinsanscyrillic/bold",
+            "css": {
+                "font-family": "Fontin Sans Cyrillic Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "884",
+                "slug": "bold",
+                "price": "$2.99"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/fontinsanscyrillic/bolditalic",
+            "css": {
+                "font-family": "FontinSansCyrillicBoldItalic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "885",
+                "slug": "bolditalic",
+                "price": "$2.99"
+            }
+        },
+        {
+            "name": "Small Caps",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/fontinsanscyrillic/smallcaps",
+            "css": {
+                "font-family": "Fontin Sans Cyrillic Small Caps",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "886",
+                "slug": "smallcaps",
+                "price": "$2.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "266",
+        "slug": "fontinsanscyrillic"
+    },
+    "generatedAt": 1437609103877
+}

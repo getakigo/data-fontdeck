@@ -1,0 +1,40 @@
+{
+    "name": "Kingthings Willow Pro",
+    "url": "http://fontdeck.com/typeface/kingthingswillowpro",
+    "slug": "kingthingswillowpro",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "CheapProFonts",
+    "designer": [
+        "Kevin King"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/kingthingswillowpro/regular",
+            "css": {
+                "font-family": "Kingthings Willow Pro Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6854",
+                "slug": "regular",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1564",
+        "slug": "kingthingswillowpro"
+    },
+    "generatedAt": 1437611010878
+}

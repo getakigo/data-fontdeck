@@ -1,0 +1,107 @@
+{
+    "name": "Appleyard",
+    "url": "http://fontdeck.com/typeface/appleyard",
+    "slug": "appleyard",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Serif"
+    ],
+    "foundry": "Red Rooster Collection",
+    "designer": [
+        "Pat Hickson"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "formal",
+        "expressive",
+        "serif",
+        "logo",
+        "fancy",
+        "letterhead",
+        "latin",
+        "magazine",
+        "news",
+        "sophisticated",
+        "inscribed",
+        "movie",
+        "menus",
+        "renaissance",
+        "fashionable",
+        "european",
+        "plakatstil",
+        "headline",
+        "prumyslava",
+        "feminine",
+        "english",
+        "legible",
+        "demi-serif",
+        "news headline",
+        "roman",
+        "elegant",
+        "money",
+        "film",
+        "slab serif",
+        "signage",
+        "delicate",
+        "movie credits",
+        "graceful",
+        "conservative",
+        "clean",
+        "wide"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/appleyard/light",
+            "css": {
+                "font-family": "Appleyard Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4385",
+                "slug": "light",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/appleyard/medium",
+            "css": {
+                "font-family": "Appleyard Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4386",
+                "slug": "medium",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/appleyard/bold",
+            "css": {
+                "font-family": "Appleyard Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4387",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1032",
+        "slug": "appleyard"
+    },
+    "generatedAt": 1437610354773
+}

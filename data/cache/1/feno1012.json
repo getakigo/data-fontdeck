@@ -1,0 +1,49 @@
+{
+    "name": "10.12",
+    "url": "http://fontdeck.com/typeface/feno1012",
+    "slug": "feno1012",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif"
+    ],
+    "foundry": "Fenotype",
+    "designer": [
+        "Emil Bertell"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "1970s",
+        "narrow",
+        "condensed",
+        "sans-serif",
+        "slits",
+        "modular",
+        "ultra-bold",
+        "black"
+    ],
+    "variations": [
+        {
+            "name": "Commercial",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/feno1012/commercial",
+            "css": {
+                "font-family": "10.12 Commercial",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2143",
+                "slug": "commercial",
+                "price": "$8.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "538",
+        "slug": "feno1012"
+    },
+    "generatedAt": 1437609406882
+}

@@ -1,0 +1,48 @@
+{
+    "name": "Buena Park",
+    "url": "http://fontdeck.com/typeface/buenapark",
+    "slug": "buenapark",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Serif"
+    ],
+    "foundry": "Veer",
+    "designer": [
+        "Jason Walcott"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "decorative",
+        "slab",
+        "retro",
+        "serif",
+        "clarendon",
+        "curls",
+        "display"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/buenapark/regular",
+            "css": {
+                "font-family": "Buena Park Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5030",
+                "slug": "regular",
+                "price": "$11.25"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1166",
+        "slug": "buenapark"
+    },
+    "generatedAt": 1437610497408
+}

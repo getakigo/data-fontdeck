@@ -1,0 +1,180 @@
+{
+    "name": "Wigrum",
+    "url": "http://fontdeck.com/typeface/wigrum",
+    "slug": "wigrum",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "Bureau des Affaires Typographiques",
+    "designer": [
+        "Studio FEED"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "1930s",
+        "1930",
+        "geometric sans",
+        "futura"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/wigrum/light",
+            "css": {
+                "font-family": "Wigrum Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6762",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/wigrum/lightitalic",
+            "css": {
+                "font-family": "Wigrum Light Italic",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6763",
+                "slug": "lightitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/wigrum/regular",
+            "css": {
+                "font-family": "Wigrum Regular",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6764",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/wigrum/italic",
+            "css": {
+                "font-family": "Wigrum Italic",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6765",
+                "slug": "italic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/wigrum/mediumitalic",
+            "css": {
+                "font-family": "Wigrum Medium Italic",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6767",
+                "slug": "mediumitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/wigrum/medium",
+            "css": {
+                "font-family": "Wigrum Medium",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6766",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/wigrum/bold",
+            "css": {
+                "font-family": "Wigrum Bold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6768",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/wigrum/bolditalic",
+            "css": {
+                "font-family": "Wigrum Bold Italic",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6769",
+                "slug": "bolditalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/wigrum/blackitalic",
+            "css": {
+                "font-family": "Wigrum Black Italic",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6771",
+                "slug": "blackitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/wigrum/black",
+            "css": {
+                "font-family": "Wigrum Black",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6770",
+                "slug": "black",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1537",
+        "slug": "wigrum"
+    },
+    "generatedAt": 1437610992039
+}

@@ -1,0 +1,283 @@
+{
+    "name": "Tovstun 4F",
+    "url": "http://fontdeck.com/typeface/tovstun4f",
+    "slug": "tovstun4f",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Experimental",
+        "Display",
+        "Futuristic",
+        "Display",
+        "Poster",
+        "Display",
+        "Computer-related",
+        "Display",
+        "Decorative",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "4th february",
+    "designer": [
+        "Sergiy S. Tkachenko"
+    ],
+    "language": [
+        "latin",
+        "cyrillic"
+    ],
+    "tags": [
+        "unique",
+        "ultra bold",
+        "ultra black",
+        "cyrillic",
+        "ultra-bold",
+        "unusual"
+    ],
+    "variations": [
+        {
+            "name": "J Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/tovstun4f/jregular",
+            "css": {
+                "font-family": "Tovstun 4F J Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3917",
+                "slug": "jregular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "G Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/tovstun4f/gregular",
+            "css": {
+                "font-family": "Tovstun 4F G Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3915",
+                "slug": "gregular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "D Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/tovstun4f/dregular",
+            "css": {
+                "font-family": "Tovstun 4F D Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3909",
+                "slug": "dregular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "C Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/tovstun4f/cregular",
+            "css": {
+                "font-family": "Tovstun 4F C Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3907",
+                "slug": "cregular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "F Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/tovstun4f/fregular",
+            "css": {
+                "font-family": "Tovstun 4F F Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3913",
+                "slug": "fregular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "A Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/tovstun4f/aregular",
+            "css": {
+                "font-family": "Tovstun 4F A Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3903",
+                "slug": "aregular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "B Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/tovstun4f/bregular",
+            "css": {
+                "font-family": "Tovstun 4F B Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3905",
+                "slug": "bregular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "E Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/tovstun4f/eregular",
+            "css": {
+                "font-family": "Tovstun 4F E Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3911",
+                "slug": "eregular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "D Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/tovstun4f/ditalic",
+            "css": {
+                "font-family": "Tovstun 4F D Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3910",
+                "slug": "ditalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "G Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/tovstun4f/gitalic",
+            "css": {
+                "font-family": "Tovstun 4F G Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3916",
+                "slug": "gitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "B Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/tovstun4f/bitalic",
+            "css": {
+                "font-family": "Tovstun 4F B Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3906",
+                "slug": "bitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "C Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/tovstun4f/citalic",
+            "css": {
+                "font-family": "Tovstun 4F C Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3908",
+                "slug": "citalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "F Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/tovstun4f/fitalic",
+            "css": {
+                "font-family": "Tovstun 4F F Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3914",
+                "slug": "fitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "E Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/tovstun4f/eitalic",
+            "css": {
+                "font-family": "Tovstun 4F E Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3912",
+                "slug": "eitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "A Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/tovstun4f/aitalic",
+            "css": {
+                "font-family": "Tovstun 4F A Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3904",
+                "slug": "aitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "J Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/tovstun4f/jitalic",
+            "css": {
+                "font-family": "Tovstun 4F J Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3918",
+                "slug": "jitalic",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "925",
+        "slug": "tovstun4f"
+    },
+    "generatedAt": 1437610131722
+}

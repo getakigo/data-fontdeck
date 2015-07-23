@@ -1,0 +1,130 @@
+{
+    "name": "Sofia Condensed",
+    "url": "http://fontdeck.com/typeface/sofiacondensed",
+    "slug": "sofiacondensed",
+    "superfamily": "Sofia",
+    "use": "body",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Sans Serif",
+        "Geometric",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "Mostardesign Studio",
+    "designer": [
+        "Olivier Gourvat"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "narrow",
+        "condensed",
+        "geometric",
+        "circular",
+        "avant garde",
+        "romantic",
+        "super family",
+        "valentine",
+        "sans serif"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/sofiacondensed/thin",
+            "css": {
+                "font-family": "Sofia Condensed Thin",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3832",
+                "slug": "thin",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-light",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/sofiacondensed/extralight",
+            "css": {
+                "font-family": "Sofia Condensed Extra Light",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3828",
+                "slug": "extralight",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/sofiacondensed/light",
+            "css": {
+                "font-family": "Sofia Condensed Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3829",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/sofiacondensed/regular",
+            "css": {
+                "font-family": "Sofia Condensed Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3831",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/sofiacondensed/medium",
+            "css": {
+                "font-family": "Sofia Condensed Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3830",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/sofiacondensed/bold",
+            "css": {
+                "font-family": "Sofia Condensed Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3827",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "908",
+        "slug": "sofiacondensed"
+    },
+    "generatedAt": 1437610100206
+}

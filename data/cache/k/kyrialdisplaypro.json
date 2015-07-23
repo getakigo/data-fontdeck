@@ -1,0 +1,351 @@
+{
+    "name": "Kyrial Display Pro",
+    "url": "http://fontdeck.com/typeface/kyrialdisplaypro",
+    "slug": "kyrialdisplaypro",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Sans Serif",
+        "Geometric",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "Mostardesign Studio",
+    "designer": [
+        "Olivier Gourvat"
+    ],
+    "opentype": [
+        "dlig",
+        "frac",
+        "hist",
+        "liga",
+        "lnum",
+        "onum",
+        "ss01"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "stylistic set",
+        "1990s",
+        "sports",
+        "personal",
+        "linear",
+        "fancy",
+        "contemporary",
+        "swedish",
+        "magazine",
+        "news",
+        "grotesk",
+        "women",
+        "extra light",
+        "style",
+        "fashionable",
+        "chic",
+        "italic",
+        "headlines",
+        "newsletter",
+        "roundshape",
+        "oldsytle",
+        "techno",
+        "subfamily",
+        "modest",
+        "poster",
+        "cool",
+        "fashion",
+        "oldstyle",
+        "swiss",
+        "feminine headline",
+        "posters",
+        "urban",
+        "corporate",
+        "readable",
+        "legibility",
+        "rounded serif",
+        "grotesk family",
+        "sensible",
+        "serif",
+        "video",
+        "titling",
+        "lucida",
+        "black round",
+        "friendly",
+        "modernism",
+        "kids",
+        "sexy",
+        "display",
+        "wedding",
+        "transport",
+        "uppercase",
+        "workhorse",
+        "menu",
+        "avant garde",
+        "postmodern",
+        "funny text",
+        "parfum",
+        "spurless",
+        "old style",
+        "grotesque",
+        "clean",
+        "girly",
+        "portuguese",
+        "1980s",
+        "opentype",
+        "letterhead",
+        "logo",
+        "neo-grotesk",
+        "brand identity",
+        "woman",
+        "oldstyle figures",
+        "modern",
+        "motion graphics",
+        "letterpress",
+        "ligatures",
+        "valentines",
+        "semi-serif",
+        "luxury",
+        "stylish",
+        "design",
+        "greetings",
+        "logotypes",
+        "technology",
+        "packaging",
+        "feminine",
+        "sans-serif",
+        "regular",
+        "legible",
+        "multimedia",
+        "news headline",
+        "script",
+        "elegant",
+        "upright italic",
+        "valentine",
+        "editorial",
+        "love",
+        "heavy",
+        "thin",
+        "graceful",
+        "german",
+        "sport",
+        "font face",
+        "round text",
+        "geometric",
+        "wedding invitation",
+        "stylistic alternates",
+        "titles",
+        "neogrotesk",
+        "neoclassical",
+        "inferior numerals",
+        "versatile",
+        "high-contrast",
+        "sophisticated",
+        "old style figures",
+        "marriage",
+        "round",
+        "ligature",
+        "modern font",
+        "myriad",
+        "invitation",
+        "tiny serif",
+        "web 2.0",
+        "newspaper",
+        "decorative",
+        "graphic",
+        "cosmetic",
+        "sweden",
+        "light",
+        "oldstyle numerals",
+        "signage",
+        "journal",
+        "newspaper font"
+    ],
+    "variations": [
+        {
+            "name": "Ultra-light",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/kyrialdisplaypro/ultralight",
+            "css": {
+                "font-family": "Kyrial Display Pro Ultra Light",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4361",
+                "slug": "ultralight",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Ultra-light Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/kyrialdisplaypro/ultralightitalic",
+            "css": {
+                "font-family": "KyriaDisplaPrUltrLighItali",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4362",
+                "slug": "ultralightitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/kyrialdisplaypro/light",
+            "css": {
+                "font-family": "Kyrial Display Pro Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4352",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/kyrialdisplaypro/lightitalic",
+            "css": {
+                "font-family": "Kyrial Display Pro Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4353",
+                "slug": "lightitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/kyrialdisplaypro/regular",
+            "css": {
+                "font-family": "Kyrial Display Pro Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4356",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/kyrialdisplaypro/italic",
+            "css": {
+                "font-family": "Kyrial Display Pro Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4358",
+                "slug": "italic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/kyrialdisplaypro/semibold",
+            "css": {
+                "font-family": "Kyrial Display Pro SemiBold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4359",
+                "slug": "semibold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Semi-bold Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/kyrialdisplaypro/semibolditalic",
+            "css": {
+                "font-family": "KyrialDisplayProSemiBoldItalic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4360",
+                "slug": "semibolditalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/kyrialdisplaypro/bold",
+            "css": {
+                "font-family": "Kyrial Display Pro Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4350",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/kyrialdisplaypro/bolditalic",
+            "css": {
+                "font-family": "Kyrial Display Pro Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4355",
+                "slug": "bolditalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/kyrialdisplaypro/black",
+            "css": {
+                "font-family": "Kyrial Display Pro Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4349",
+                "slug": "black",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/kyrialdisplaypro/blackitalic",
+            "css": {
+                "font-family": "Kyrial Display Pro Black Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4354",
+                "slug": "blackitalic",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1023",
+        "slug": "kyrialdisplaypro"
+    },
+    "generatedAt": 1437610347709
+}

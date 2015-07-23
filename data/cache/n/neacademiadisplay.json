@@ -1,0 +1,87 @@
+{
+    "name": "Neacademia Display",
+    "url": "http://fontdeck.com/typeface/neacademiadisplay",
+    "slug": "neacademiadisplay",
+    "superfamily": "Neacademia",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Venetian"
+    ],
+    "foundry": "Rosetta",
+    "designer": [
+        "Sergei Egorov"
+    ],
+    "opentype": [
+        "c2sc",
+        "calt",
+        "case",
+        "dnom",
+        "frac",
+        "hist",
+        "liga",
+        "lnum",
+        "numr",
+        "ordn",
+        "pnum",
+        "sinf",
+        "smcp",
+        "subs",
+        "sups",
+        "tnum"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "display font",
+        "macedonian",
+        "opentype",
+        "aldine",
+        "sergei egorov",
+        "cyrillic",
+        "russian",
+        "serbian",
+        "historical",
+        "hinted",
+        "display type",
+        "display"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/neacademiadisplay/regular",
+            "css": {
+                "font-family": "Neacademia Display Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7779",
+                "slug": "regular",
+                "price": "$13.75"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/neacademiadisplay/italic",
+            "css": {
+                "font-family": "Neacademia Display Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7782",
+                "slug": "italic",
+                "price": "$13.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1791",
+        "slug": "neacademiadisplay"
+    },
+    "generatedAt": 1437611273088
+}

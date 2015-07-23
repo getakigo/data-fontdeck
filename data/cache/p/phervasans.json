@@ -1,0 +1,45 @@
+{
+    "name": "Phervasans",
+    "url": "http://fontdeck.com/typeface/phervasans",
+    "slug": "phervasans",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Computer-related"
+    ],
+    "foundry": "Emboss Fonts",
+    "designer": [
+        "Stephen Boss"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "bitmap",
+        "techno",
+        "geometric",
+        "computer"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/phervasans/regular",
+            "css": {
+                "font-family": "Phervasans Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6946",
+                "slug": "regular",
+                "price": "$8.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1589",
+        "slug": "phervasans"
+    },
+    "generatedAt": 1437611055400
+}

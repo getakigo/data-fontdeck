@@ -1,0 +1,95 @@
+{
+    "name": "Maison Mono",
+    "url": "http://fontdeck.com/typeface/maisonmono",
+    "slug": "maisonmono",
+    "superfamily": "Maison",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Monospaced"
+    ],
+    "foundry": "Milieu Grotesque",
+    "designer": [
+        "Timo Gaessner"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "industrial",
+        "geometric",
+        "grotesque",
+        "neo-grotesk",
+        "monospace",
+        "display",
+        "superfamily",
+        "poster"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/maisonmono/light",
+            "css": {
+                "font-family": "Maison Mono Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5609",
+                "slug": "light",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/maisonmono/regular",
+            "css": {
+                "font-family": "Maison Mono Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5610",
+                "slug": "regular",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/maisonmono/italic",
+            "css": {
+                "font-family": "Maison Mono Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5611",
+                "slug": "italic",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/maisonmono/bold",
+            "css": {
+                "font-family": "Maison Mono Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5608",
+                "slug": "bold",
+                "price": "$15.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1304",
+        "slug": "maisonmono"
+    },
+    "generatedAt": 1437610723581
+}

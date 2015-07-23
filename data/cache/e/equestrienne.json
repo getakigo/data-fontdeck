@@ -1,0 +1,217 @@
+{
+    "name": "Equestrienne",
+    "url": "http://fontdeck.com/typeface/equestrienne",
+    "slug": "equestrienne",
+    "use": "heading",
+    "classification": [
+        "Slab Serif",
+        "Egyptian"
+    ],
+    "foundry": "Red Rooster Collection",
+    "designer": [
+        "Paul Hickson",
+        "Leslie Usherwood"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "sensible",
+        "formal",
+        "serif",
+        "technical",
+        "news text",
+        "correspondence",
+        "logo",
+        "letterhead",
+        "personal text",
+        "magazine",
+        "news",
+        "minimal",
+        "modern",
+        "movie",
+        "menus",
+        "fashionable",
+        "headline",
+        "transitional",
+        "narrow",
+        "realist",
+        "english",
+        "legible",
+        "american",
+        "sturdy",
+        "modest",
+        "poster",
+        "news headline",
+        "cool",
+        "plain",
+        "oldstyle",
+        "office",
+        "film",
+        "masculine",
+        "retro",
+        "signage",
+        "movie credits",
+        "corporate",
+        "sport",
+        "clean",
+        "conservative"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/equestrienne/light",
+            "css": {
+                "font-family": "Equestrienne Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4253",
+                "slug": "light",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/equestrienne/lightitalic",
+            "css": {
+                "font-family": "Equestrienne Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4254",
+                "slug": "lightitalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Book",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/equestrienne/book",
+            "css": {
+                "font-family": "Equestrienne Book",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4251",
+                "slug": "book",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Book Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/equestrienne/bookitalic",
+            "css": {
+                "font-family": "Equestrienne Book Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4252",
+                "slug": "bookitalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/equestrienne/medium",
+            "css": {
+                "font-family": "Equestrienne Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4255",
+                "slug": "medium",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/equestrienne/mediumitalic",
+            "css": {
+                "font-family": "Equestrienne Medium Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4256",
+                "slug": "mediumitalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/equestrienne/bold",
+            "css": {
+                "font-family": "Equestrienne Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4249",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/equestrienne/bolditalic",
+            "css": {
+                "font-family": "Equestrienne Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4250",
+                "slug": "bolditalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Light Expert",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/equestrienne/lightexpert",
+            "css": {
+                "font-family": "Equestrienne Light Expert",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4258",
+                "slug": "lightexpert",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Book Expert",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/equestrienne/bookexpert",
+            "css": {
+                "font-family": "Equestrienne Book Expert",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4257",
+                "slug": "bookexpert",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "998",
+        "slug": "equestrienne"
+    },
+    "generatedAt": 1437610271332
+}

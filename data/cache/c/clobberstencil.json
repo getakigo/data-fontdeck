@@ -1,0 +1,64 @@
+{
+    "name": "Clobber Stencil",
+    "url": "http://fontdeck.com/typeface/clobberstencil",
+    "slug": "clobberstencil",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Display",
+        "Stencil"
+    ],
+    "foundry": "Wordshape",
+    "designer": [
+        "Ian Lynam"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "modern",
+        "sans serif",
+        "neue",
+        "flared",
+        "stencil",
+        "flared terminals"
+    ],
+    "variations": [
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/clobberstencil/italic",
+            "css": {
+                "font-family": "Clobber Stencil Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4770",
+                "slug": "italic",
+                "price": "FREE"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/clobberstencil/bold",
+            "css": {
+                "font-family": "Clobber Stencil Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4013",
+                "slug": "bold",
+                "price": "$9.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "945",
+        "slug": "clobberstencil"
+    },
+    "generatedAt": 1437610157802
+}

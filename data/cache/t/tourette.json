@@ -1,0 +1,64 @@
+{
+    "name": "Tourette",
+    "url": "http://fontdeck.com/typeface/tourette",
+    "slug": "tourette",
+    "use": "body",
+    "classification": [
+        "Display",
+        "Slab serif",
+        "Slab Serif",
+        "Light"
+    ],
+    "foundry": "VirusFonts",
+    "designer": [
+        "Jonathan Barnbrook"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "decorative",
+        "french",
+        "19th century",
+        "frivolous",
+        "delicate",
+        "flourishes"
+    ],
+    "variations": [
+        {
+            "name": "Extreme",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/tourette/extreme",
+            "css": {
+                "font-family": "Tourette Extreme",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3422",
+                "slug": "extreme",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Normal",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/tourette/normal",
+            "css": {
+                "font-family": "Tourette Normal",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3421",
+                "slug": "normal",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "832",
+        "slug": "tourette"
+    },
+    "generatedAt": 1437609965063
+}

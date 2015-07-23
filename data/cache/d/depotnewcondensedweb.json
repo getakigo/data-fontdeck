@@ -1,0 +1,200 @@
+{
+    "name": "Depot New Condensed Web",
+    "url": "http://fontdeck.com/typeface/depotnewcondensedweb",
+    "slug": "depotnewcondensedweb",
+    "superfamily": "Depot New",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Grotesque"
+    ],
+    "foundry": "Moretype",
+    "designer": [
+        "Chris Dickinson"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "true italic",
+        "narrow",
+        "hand hinted",
+        "condensed",
+        "workhorse",
+        "friendly",
+        "contemporary",
+        "magazine",
+        "news",
+        "manually hinted",
+        "modern",
+        "industrial",
+        "business",
+        "elegant",
+        "commercial",
+        "handhinted",
+        "signage",
+        "branding",
+        "headline",
+        "corporate",
+        "clean",
+        "superfamily",
+        "information"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/depotnewcondensedweb/thin",
+            "css": {
+                "font-family": "Depot New Condensed Web Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3641",
+                "slug": "thin",
+                "price": "$11.50"
+            }
+        },
+        {
+            "name": "Thin Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/depotnewcondensedweb/thinitalic",
+            "css": {
+                "font-family": "DepotNewCondensedWebThinItalic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3642",
+                "slug": "thinitalic",
+                "price": "$11.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/depotnewcondensedweb/light",
+            "css": {
+                "font-family": "Depot New Condensed Web Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3635",
+                "slug": "light",
+                "price": "$11.50"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/depotnewcondensedweb/lightitalic",
+            "css": {
+                "font-family": "DepotNewCondensedWebLightItalic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3634",
+                "slug": "lightitalic",
+                "price": "$11.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/depotnewcondensedweb/regular",
+            "css": {
+                "font-family": "Depot New Condensed Web Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3639",
+                "slug": "regular",
+                "price": "$11.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/depotnewcondensedweb/italic",
+            "css": {
+                "font-family": "Depot New Condensed Web Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3640",
+                "slug": "italic",
+                "price": "$11.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/depotnewcondensedweb/medium",
+            "css": {
+                "font-family": "Depot New Condensed Web Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3637",
+                "slug": "medium",
+                "price": "$11.50"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/depotnewcondensedweb/mediumitalic",
+            "css": {
+                "font-family": "DepoNeCondenseWeMediuItali",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3638",
+                "slug": "mediumitalic",
+                "price": "$11.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/depotnewcondensedweb/bold",
+            "css": {
+                "font-family": "Depot New Condensed Web Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3633",
+                "slug": "bold",
+                "price": "$11.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/depotnewcondensedweb/bolditalic",
+            "css": {
+                "font-family": "DepotNewCondensedWebBoldItalic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3636",
+                "slug": "bolditalic",
+                "price": "$11.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "873",
+        "slug": "depotnewcondensedweb"
+    },
+    "generatedAt": 1437610042075
+}

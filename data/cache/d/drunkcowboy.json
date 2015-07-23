@@ -1,0 +1,47 @@
+{
+    "name": "Drunk Cowboy",
+    "url": "http://fontdeck.com/typeface/drunkcowboy",
+    "slug": "drunkcowboy",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Slab serif"
+    ],
+    "foundry": "Chank Co",
+    "designer": [
+        "Chank Diesel"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "romantic",
+        "valentine",
+        "wild west",
+        "country",
+        "poster",
+        "western"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/drunkcowboy/regular",
+            "css": {
+                "font-family": "Drunk Cowboy Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "463",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "185",
+        "slug": "drunkcowboy"
+    },
+    "generatedAt": 1437608971687
+}

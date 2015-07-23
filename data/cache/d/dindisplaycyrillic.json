@@ -1,0 +1,225 @@
+{
+    "name": "Din Display Cyrillic",
+    "url": "http://fontdeck.com/typeface/dindisplaycyrillic",
+    "slug": "dindisplaycyrillic",
+    "superfamily": "Din",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Sans Serif",
+        "Hybrid"
+    ],
+    "foundry": "Parachute",
+    "designer": [
+        "Panos Vassiliou"
+    ],
+    "language": [
+        "latin",
+        "cyrillic"
+    ],
+    "tags": [
+        "simple",
+        "legible",
+        "din",
+        "super family",
+        "cyrillic",
+        "true italics",
+        "magazine",
+        "modern",
+        "1930s",
+        "trendy",
+        "grotesque",
+        "signage",
+        "corporate",
+        "clean",
+        "display"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/dindisplaycyrillic/thin",
+            "css": {
+                "font-family": "Din Display Cyrillic Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4689",
+                "slug": "thin",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Thin Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/dindisplaycyrillic/thinitalic",
+            "css": {
+                "font-family": "DinDisplayCyrillicThinItalic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4690",
+                "slug": "thinitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/dindisplaycyrillic/light",
+            "css": {
+                "font-family": "Din Display Cyrillic Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4684",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/dindisplaycyrillic/lightitalic",
+            "css": {
+                "font-family": "DinDisplayCyrillicLightItalic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4685",
+                "slug": "lightitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/dindisplaycyrillic/regular",
+            "css": {
+                "font-family": "Din Display Cyrillic Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4688",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/dindisplaycyrillic/italic",
+            "css": {
+                "font-family": "Din Display Cyrillic Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4683",
+                "slug": "italic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/dindisplaycyrillic/medium",
+            "css": {
+                "font-family": "Din Display Cyrillic Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4686",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/dindisplaycyrillic/mediumitalic",
+            "css": {
+                "font-family": "DinDisplayCyrillicMediumItalic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4687",
+                "slug": "mediumitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/dindisplaycyrillic/bold",
+            "css": {
+                "font-family": "Din Display Cyrillic Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4681",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/dindisplaycyrillic/bolditalic",
+            "css": {
+                "font-family": "DinDisplayCyrillicBoldItalic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4682",
+                "slug": "bolditalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/dindisplaycyrillic/black",
+            "css": {
+                "font-family": "Din Display Cyrillic Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4679",
+                "slug": "black",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/dindisplaycyrillic/blackitalic",
+            "css": {
+                "font-family": "DinDisplayCyrillicBlackItalic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4680",
+                "slug": "blackitalic",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1092",
+        "slug": "dindisplaycyrillic"
+    },
+    "generatedAt": 1437610405548
+}

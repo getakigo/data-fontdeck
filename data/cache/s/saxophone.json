@@ -1,0 +1,64 @@
+{
+    "name": "Saxophone",
+    "url": "http://fontdeck.com/typeface/saxophone",
+    "slug": "saxophone",
+    "use": "body",
+    "classification": [
+        "Display",
+        "Slab serif",
+        "Slab Serif",
+        "Grotesque/Geometric",
+        "Slab Serif",
+        "Light"
+    ],
+    "foundry": "Tour de Force",
+    "designer": [
+        "Dušan Jelesijević"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "rockwell",
+        "titles",
+        "magazine",
+        "geometric"
+    ],
+    "variations": [
+        {
+            "name": "Baritone",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/saxophone/baritone",
+            "css": {
+                "font-family": "Saxophone Baritone",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4032",
+                "slug": "baritone",
+                "price": "$7.99"
+            }
+        },
+        {
+            "name": "Soprano",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/saxophone/soprano",
+            "css": {
+                "font-family": "Saxophone Soprano",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4033",
+                "slug": "soprano",
+                "price": "$7.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "898",
+        "slug": "saxophone"
+    },
+    "generatedAt": 1437610082072
+}

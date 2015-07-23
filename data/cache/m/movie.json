@@ -1,0 +1,89 @@
+{
+    "name": "Movie",
+    "url": "http://fontdeck.com/typeface/movie",
+    "slug": "movie",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Display",
+        "Poster"
+    ],
+    "foundry": "Playtype",
+    "designer": [
+        "Jonas Hecksher"
+    ],
+    "opentype": [
+        "liga",
+        "lnum",
+        "onum",
+        "pnum",
+        "ss01",
+        "ss02",
+        "tnum"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "compact",
+        "opentype",
+        "narrow",
+        "condensed",
+        "ultra-narrow",
+        "sans-serif",
+        "ultra-condensed"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/movie/light",
+            "css": {
+                "font-family": "Movie Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7693",
+                "slug": "light",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/movie/regular",
+            "css": {
+                "font-family": "Movie Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7691",
+                "slug": "regular",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/movie/medium",
+            "css": {
+                "font-family": "Movie Medium",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7692",
+                "slug": "medium",
+                "price": "$45.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1775",
+        "slug": "movie"
+    },
+    "generatedAt": 1437611235667
+}

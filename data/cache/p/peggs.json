@@ -1,0 +1,49 @@
+{
+    "name": "Peggs",
+    "url": "http://fontdeck.com/typeface/peggs",
+    "slug": "peggs",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Slab serif",
+        "Display",
+        "Computer-related"
+    ],
+    "foundry": "Colophon",
+    "designer": [
+        "Edd Harrington",
+        "Anthony Sheret"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "identity",
+        "disconnected",
+        "branding",
+        "typewriter",
+        "brand identity"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/peggs/regular",
+            "css": {
+                "font-family": "Peggs Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4766",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1111",
+        "slug": "peggs"
+    },
+    "generatedAt": 1437610440407
+}

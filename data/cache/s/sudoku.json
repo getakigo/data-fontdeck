@@ -1,0 +1,129 @@
+{
+    "name": "Sudoku",
+    "url": "http://fontdeck.com/typeface/sudoku",
+    "slug": "sudoku",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Geometric",
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "Fontfabric",
+    "designer": [
+        "Svetoslav Simov"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "1970s",
+        "narrow",
+        "sans-serif",
+        "geometric",
+        "logo",
+        "monoline",
+        "contemporary",
+        "magazine",
+        "poster",
+        "black",
+        "circle",
+        "inner-line",
+        "funny",
+        "trendy",
+        "edge",
+        "old",
+        "fresh",
+        "retro",
+        "light",
+        "modular",
+        "bold",
+        "signage",
+        "heavy",
+        "headline",
+        "readable",
+        "display"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/sudoku/light",
+            "css": {
+                "font-family": "Sudoku Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3025",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/sudoku/regular",
+            "css": {
+                "font-family": "Sudoku Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3022",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/sudoku/medium",
+            "css": {
+                "font-family": "Sudoku Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3026",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/sudoku/black",
+            "css": {
+                "font-family": "Sudoku Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3023",
+                "slug": "black",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Deco",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/sudoku/deco",
+            "css": {
+                "font-family": "Sudoku Deco",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3024",
+                "slug": "deco",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "706",
+        "slug": "sudoku"
+    },
+    "generatedAt": 1437609764184
+}

@@ -1,0 +1,69 @@
+{
+    "name": "Tokyo SB",
+    "url": "http://fontdeck.com/typeface/tokyosb",
+    "slug": "tokyosb",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Experimental",
+        "Display",
+        "Grunge",
+        "Display",
+        "Computer-related"
+    ],
+    "foundry": "SelfBuild Type Foundry",
+    "designer": [
+        "Craig Stainton"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "decorative",
+        "modern",
+        "optic",
+        "blur",
+        "mechanical",
+        "headline",
+        "futuristic",
+        "jagged",
+        "space age"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/tokyosb/regular",
+            "css": {
+                "font-family": "Tokyo SB Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1324",
+                "slug": "regular",
+                "price": "$8.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/tokyosb/italic",
+            "css": {
+                "font-family": "Tokyo SB Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1325",
+                "slug": "italic",
+                "price": "$8.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "366",
+        "slug": "tokyosb"
+    },
+    "generatedAt": 1437609239817
+}

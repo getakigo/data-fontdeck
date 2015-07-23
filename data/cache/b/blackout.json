@@ -1,0 +1,64 @@
+{
+    "name": "Black-Out",
+    "url": "http://fontdeck.com/typeface/blackout",
+    "slug": "blackout",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Poster",
+        "Display",
+        "Geometric",
+        "Display",
+        "Stencil"
+    ],
+    "foundry": "Wordshape",
+    "designer": [
+        "Eli Carrico"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "lubalin graph",
+        "super bold",
+        "geometric",
+        "avant garde",
+        "system",
+        "motto",
+        "clarendon",
+        "bauhaus",
+        "rap-up",
+        "lubalin",
+        "bohemian modern",
+        "unicase",
+        "blackout",
+        "slab serif",
+        "california",
+        "ultra-bold",
+        "olivetti",
+        "carnase",
+        "stencil"
+    ],
+    "variations": [
+        {
+            "name": "Stencil",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/blackout/stencil",
+            "css": {
+                "font-family": "Black-Out Stencil",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4042",
+                "slug": "stencil",
+                "price": "$9.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "958",
+        "slug": "blackout"
+    },
+    "generatedAt": 1437610189869
+}

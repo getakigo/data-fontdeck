@@ -1,0 +1,52 @@
+{
+    "name": "Biscuits and Gravy",
+    "url": "http://fontdeck.com/typeface/biscuitsandgravy",
+    "slug": "biscuitsandgravy",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Grunge",
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "Fenotype",
+    "designer": [
+        "Kea Bertell"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "grunge",
+        "hand drawn",
+        "ink",
+        "brush",
+        "romantic",
+        "rough",
+        "valentine",
+        "paint",
+        "hand painted"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/biscuitsandgravy/regular",
+            "css": {
+                "font-family": "Biscuits and Gravy Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2151",
+                "slug": "regular",
+                "price": "$8.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "543",
+        "slug": "biscuitsandgravy"
+    },
+    "generatedAt": 1437609416438
+}

@@ -1,0 +1,68 @@
+{
+    "name": "Maison Neue Mono",
+    "url": "http://fontdeck.com/typeface/maisonneuemono",
+    "slug": "maisonneuemono",
+    "superfamily": "Maison",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Monospaced"
+    ],
+    "foundry": "Milieu Grotesque",
+    "designer": [
+        "Timo Gaessner"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "modern",
+        "grotesk",
+        "terminal",
+        "modernism",
+        "grotesque",
+        "coding",
+        "monoline",
+        "code",
+        "friendly",
+        "monospace",
+        "superfamily"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/maisonneuemono/regular",
+            "css": {
+                "font-family": "Maison Neue Mono Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8571",
+                "slug": "regular",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/maisonneuemono/italic",
+            "css": {
+                "font-family": "Maison Neue Mono Ital01",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8572",
+                "slug": "italic",
+                "price": "$15.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1977",
+        "slug": "maisonneuemono"
+    },
+    "generatedAt": 1437611528568
+}

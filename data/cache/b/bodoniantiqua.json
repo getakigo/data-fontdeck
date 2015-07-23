@@ -1,0 +1,153 @@
+{
+    "name": "Bodoni Antiqua",
+    "url": "http://fontdeck.com/typeface/bodoniantiqua",
+    "slug": "bodoniantiqua",
+    "use": "heading",
+    "classification": [
+        "Serif",
+        "Didone"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Giambattista Bodoni",
+        "URW Studio"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "modern",
+        "romantic",
+        "valentine",
+        "bodoni",
+        "didone",
+        "italian"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/bodoniantiqua/light",
+            "css": {
+                "font-family": "Bodoni Antiqua Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "939",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/bodoniantiqua/lightitalic",
+            "css": {
+                "font-family": "Bodoni Antiqua Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "943",
+                "slug": "lightitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/bodoniantiqua/regular",
+            "css": {
+                "font-family": "Bodoni Antiqua Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "940",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/bodoniantiqua/italic",
+            "css": {
+                "font-family": "Bodoni Antiqua Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "944",
+                "slug": "italic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/bodoniantiqua/bold",
+            "css": {
+                "font-family": "Bodoni Antiqua Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "942",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/bodoniantiqua/bolditalic",
+            "css": {
+                "font-family": "Bodoni Antiqua Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "946",
+                "slug": "bolditalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Demi Bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/bodoniantiqua/demibold",
+            "css": {
+                "font-family": "Bodoni Antiqua Demi Bold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "941",
+                "slug": "demibold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Demi Bold Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/bodoniantiqua/demibolditalic",
+            "css": {
+                "font-family": "Bodoni Antiqua Demi Bold Italic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "945",
+                "slug": "demibolditalic",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "277",
+        "slug": "bodoniantiqua"
+    },
+    "generatedAt": 1437609119054
+}

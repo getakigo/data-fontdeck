@@ -1,0 +1,73 @@
+{
+    "name": "Interno",
+    "url": "http://fontdeck.com/typeface/interno",
+    "slug": "interno",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Experimental",
+        "Display",
+        "Funny",
+        "Display",
+        "Sans serif",
+        "Display",
+        "Script"
+    ],
+    "foundry": "Wordshape",
+    "designer": [
+        "Ian Lynam",
+        "Eli Carrico"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "neon",
+        "italian",
+        "ballmer",
+        "line",
+        "monoline",
+        "kada",
+        "walter ballmer",
+        "olivetti",
+        "bauhaus",
+        "tdr"
+    ],
+    "variations": [
+        {
+            "name": "1 Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/interno/1regular",
+            "css": {
+                "font-family": "Interno 1 Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4040",
+                "slug": "1regular",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "2 Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/interno/2regular",
+            "css": {
+                "font-family": "Interno 2 Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4041",
+                "slug": "2regular",
+                "price": "$9.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "957",
+        "slug": "interno"
+    },
+    "generatedAt": 1437610189755
+}

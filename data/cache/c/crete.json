@@ -1,0 +1,135 @@
+{
+    "name": "Crete",
+    "url": "http://fontdeck.com/typeface/crete",
+    "slug": "crete",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Garalde"
+    ],
+    "foundry": "TypeTogether",
+    "designer": [
+        "Veronika Burian"
+    ],
+    "opentype": [
+        "liga"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "opentype",
+        "serif",
+        "feminine",
+        "crete",
+        "legible",
+        "magazine",
+        "poster",
+        "decorative",
+        "elegant",
+        "old style",
+        "egyptian",
+        "fashionable",
+        "slab serif",
+        "delicate",
+        "headline",
+        "graceful"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/crete/thin",
+            "css": {
+                "font-family": "Crete Thin",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1351",
+                "slug": "thin",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Thin Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/crete/thinitalic",
+            "css": {
+                "font-family": "Crete Thin Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1352",
+                "slug": "thinitalic",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Thick",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/crete/thick",
+            "css": {
+                "font-family": "Crete Thick",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1353",
+                "slug": "thick",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Rounded",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/crete/rounded",
+            "css": {
+                "font-family": "Crete Rounded",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1355",
+                "slug": "rounded",
+                "price": "FREE"
+            }
+        },
+        {
+            "name": "Rounded Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/crete/roundeditalic",
+            "css": {
+                "font-family": "Crete Rounded Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1356",
+                "slug": "roundeditalic",
+                "price": "FREE"
+            }
+        },
+        {
+            "name": "Thick Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/crete/thickitalic",
+            "css": {
+                "font-family": "Crete Thick Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1354",
+                "slug": "thickitalic",
+                "price": "$15.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "373",
+        "slug": "crete"
+    },
+    "generatedAt": 1437609250672
+}

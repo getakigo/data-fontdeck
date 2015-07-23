@@ -1,0 +1,40 @@
+{
+    "name": "Kingthings Willowless Pro",
+    "url": "http://fontdeck.com/typeface/kingthingswillowlesspro",
+    "slug": "kingthingswillowlesspro",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "CheapProFonts",
+    "designer": [
+        "Kevin King"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/kingthingswillowlesspro/regular",
+            "css": {
+                "font-family": "KingthingsWillowlessProRegular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6855",
+                "slug": "regular",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1565",
+        "slug": "kingthingswillowlesspro"
+    },
+    "generatedAt": 1437611019745
+}

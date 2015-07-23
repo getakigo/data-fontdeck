@@ -1,0 +1,384 @@
+{
+    "name": "FS Emeric",
+    "url": "http://fontdeck.com/typeface/fsemeric",
+    "slug": "fsemeric",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "Fontsmith",
+    "designer": [
+        "Phil Garnham"
+    ],
+    "opentype": [
+        "liga",
+        "lnum",
+        "onum",
+        "pnum",
+        "tnum"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "expressive",
+        "opentype",
+        "geometric",
+        "sharp",
+        "functional",
+        "magazine",
+        "authority",
+        "optimistic",
+        "brand identity",
+        "modern",
+        "elegant",
+        "human",
+        "kinetic",
+        "distinct",
+        "modernism",
+        "clear",
+        "modular",
+        "corporate",
+        "energetic",
+        "precise",
+        "wide"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/fsemeric/thin",
+            "css": {
+                "font-family": "FS Emeric Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6621",
+                "slug": "thin",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Thin Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/fsemeric/thinitalic",
+            "css": {
+                "font-family": "FS Emeric Thin Italic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6620",
+                "slug": "thinitalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Extra-light",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/fsemeric/extralight",
+            "css": {
+                "font-family": "FS Emeric Extra Light",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6610",
+                "slug": "extralight",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Extra-light Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/fsemeric/extralightitalic",
+            "css": {
+                "font-family": "FS Emeric Extra Light Italic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6609",
+                "slug": "extralightitalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/fsemeric/light",
+            "css": {
+                "font-family": "FS Emeric Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6670",
+                "slug": "light",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/fsemeric/lightitalic",
+            "css": {
+                "font-family": "FS Emeric Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6614",
+                "slug": "lightitalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Book",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/fsemeric/book",
+            "css": {
+                "font-family": "FS Emeric Book",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6606",
+                "slug": "book",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Book Italic",
+            "description": "i3",
+            "url": "http://fontdeck.com/font/fsemeric/bookitalic",
+            "css": {
+                "font-family": "FS Emeric Book Italic",
+                "font-weight": "300",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6605",
+                "slug": "bookitalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/fsemeric/regular",
+            "css": {
+                "font-family": "FS Emeric Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6617",
+                "slug": "regular",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/fsemeric/italic",
+            "css": {
+                "font-family": "FS Emeric Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6613",
+                "slug": "italic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/fsemeric/medium",
+            "css": {
+                "font-family": "FS Emeric Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6616",
+                "slug": "medium",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/fsemeric/mediumitalic",
+            "css": {
+                "font-family": "FS Emeric Medium Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6615",
+                "slug": "mediumitalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/fsemeric/semibold",
+            "css": {
+                "font-family": "FS Emeric Semi Bold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6619",
+                "slug": "semibold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Semi-bold Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/fsemeric/semibolditalic",
+            "css": {
+                "font-family": "FS Emeric Semi Bold Italic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6618",
+                "slug": "semibolditalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/fsemeric/bold",
+            "css": {
+                "font-family": "FS Emeric Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6604",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/fsemeric/bolditalic",
+            "css": {
+                "font-family": "FS Emeric Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6603",
+                "slug": "bolditalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/fsemeric/extrabold",
+            "css": {
+                "font-family": "FS Emeric Extra Bold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6608",
+                "slug": "extrabold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Extra-bold Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/fsemeric/extrabolditalic",
+            "css": {
+                "font-family": "FS Emeric Extra Bold Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6607",
+                "slug": "extrabolditalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/fsemeric/heavy",
+            "css": {
+                "font-family": "FS Emeric Heavy",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6612",
+                "slug": "heavy",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Heavy Italic",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/fsemeric/heavyitalic",
+            "css": {
+                "font-family": "FS Emeric Heavy Italic",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6611",
+                "slug": "heavyitalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Core",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/fsemeric/core",
+            "css": {
+                "font-family": "FS Emeric Core",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6671",
+                "slug": "core",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Core Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/fsemeric/coreitalic",
+            "css": {
+                "font-family": "FS Emeric Core Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6672",
+                "slug": "coreitalic",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1513",
+        "slug": "fsemeric"
+    },
+    "generatedAt": 1437610968047
+}

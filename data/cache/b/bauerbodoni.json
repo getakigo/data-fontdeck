@@ -1,0 +1,168 @@
+{
+    "name": "Bauer Bodoni",
+    "url": "http://fontdeck.com/typeface/bauerbodoni",
+    "slug": "bauerbodoni",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Didone"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Giambattista Bodoni",
+        "Heinrich Jost"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "modern",
+        "formal",
+        "elegant",
+        "bodoni",
+        "didone",
+        "italian"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/bauerbodoni/regular",
+            "css": {
+                "font-family": "Bauer Bodoni Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "700",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/bauerbodoni/italic",
+            "css": {
+                "font-family": "Bauer Bodoni Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "707",
+                "slug": "italic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/bauerbodoni/bold",
+            "css": {
+                "font-family": "Bauer Bodoni Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "701",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/bauerbodoni/bolditalic",
+            "css": {
+                "font-family": "Bauer Bodoni Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "702",
+                "slug": "bolditalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Demi Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/bauerbodoni/demibold",
+            "css": {
+                "font-family": "Bauer Bodoni Demi Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "703",
+                "slug": "demibold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Small Caps",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/bauerbodoni/smallcaps",
+            "css": {
+                "font-family": "Bauer Bodoni Small Caps",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "706",
+                "slug": "smallcaps",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Small Caps Demi Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/bauerbodoni/smallcapsdemibold",
+            "css": {
+                "font-family": "BauerBodoniSmallCapsDemiBold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "708",
+                "slug": "smallcapsdemibold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "DisCaps",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/bauerbodoni/discaps",
+            "css": {
+                "font-family": "Bauer Bodoni DisCaps",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "705",
+                "slug": "discaps",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Demi Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/bauerbodoni/demibolditalic",
+            "css": {
+                "font-family": "Bauer Bodoni Demi Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "704",
+                "slug": "demibolditalic",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "234",
+        "slug": "bauerbodoni"
+    },
+    "generatedAt": 1437609056065
+}

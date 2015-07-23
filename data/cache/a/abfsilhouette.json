@@ -1,0 +1,47 @@
+{
+    "name": "ABF Silhouette",
+    "url": "http://fontdeck.com/typeface/abfsilhouette",
+    "slug": "abfsilhouette",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Experimental"
+    ],
+    "foundry": "Nouvelle Noire",
+    "designer": [
+        "Philippe Apeloig"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "blocks",
+        "super",
+        "super bold",
+        "blocky",
+        "black",
+        "bibliothèque"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/abfsilhouette/regular",
+            "css": {
+                "font-family": "ABF Silhouette Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7671",
+                "slug": "regular",
+                "price": "$25.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1766",
+        "slug": "abfsilhouette"
+    },
+    "generatedAt": 1437611222032
+}

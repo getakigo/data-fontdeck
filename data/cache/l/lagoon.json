@@ -1,0 +1,41 @@
+{
+    "name": "Lagoon",
+    "url": "http://fontdeck.com/typeface/lagoon",
+    "slug": "lagoon",
+    "use": "body",
+    "classification": [],
+    "foundry": "Pomegranate",
+    "designer": [
+        "Carolyn Puzzovio"
+    ],
+    "language": [
+        "latin",
+        "armenian"
+    ],
+    "tags": [
+        "revival",
+        "venetian"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/lagoon/regular",
+            "css": {
+                "font-family": "Lagoon Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1384",
+                "slug": "regular",
+                "price": "$7.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "377",
+        "slug": "lagoon"
+    },
+    "generatedAt": 1437609260194
+}

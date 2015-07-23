@@ -1,0 +1,232 @@
+{
+    "name": "Intropol",
+    "url": "http://fontdeck.com/typeface/intropol",
+    "slug": "intropol",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "The Northern Block",
+    "designer": [
+        "Jonathan Hill"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "confidential",
+        "advertising",
+        "condensed",
+        "geometric",
+        "linear",
+        "legible",
+        "architecture",
+        "contemporary",
+        "news",
+        "magazine",
+        "economic",
+        "modern",
+        "business",
+        "neutral",
+        "efficient",
+        "identity",
+        "brochures",
+        "european",
+        "branding",
+        "editorial",
+        "corporate",
+        "readable",
+        "clean",
+        "information"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/intropol/thin",
+            "css": {
+                "font-family": "Intropol Thin",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2342",
+                "slug": "thin",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Thin Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/intropol/thinitalic",
+            "css": {
+                "font-family": "Intropol Thin Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2348",
+                "slug": "thinitalic",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/intropol/light",
+            "css": {
+                "font-family": "Intropol Light",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2343",
+                "slug": "light",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i3",
+            "url": "http://fontdeck.com/font/intropol/lightitalic",
+            "css": {
+                "font-family": "Intropol Light Italic",
+                "font-weight": "300",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2349",
+                "slug": "lightitalic",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/intropol/regular",
+            "css": {
+                "font-family": "Intropol Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2344",
+                "slug": "regular",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/intropol/italic",
+            "css": {
+                "font-family": "Intropol Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2350",
+                "slug": "italic",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/intropol/medium",
+            "css": {
+                "font-family": "Intropol Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2345",
+                "slug": "medium",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/intropol/mediumitalic",
+            "css": {
+                "font-family": "Intropol Medium Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2351",
+                "slug": "mediumitalic",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/intropol/bold",
+            "css": {
+                "font-family": "Intropol Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2346",
+                "slug": "bold",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/intropol/bolditalic",
+            "css": {
+                "font-family": "Intropol Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2352",
+                "slug": "bolditalic",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/intropol/extrabold",
+            "css": {
+                "font-family": "Intropol ExtraBold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2347",
+                "slug": "extrabold",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Extra-bold Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/intropol/extrabolditalic",
+            "css": {
+                "font-family": "Intropol ExtraBold Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2353",
+                "slug": "extrabolditalic",
+                "price": "$9.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "571",
+        "slug": "intropol"
+    },
+    "generatedAt": 1437609475511
+}

@@ -1,0 +1,182 @@
+{
+    "name": "FS Elliot Web Greek",
+    "url": "http://fontdeck.com/typeface/fselliotwebgreek",
+    "slug": "fselliotwebgreek",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "Fontsmith",
+    "designer": [
+        "Nick Job"
+    ],
+    "language": [
+        "latin",
+        "greek"
+    ],
+    "tags": [
+        "open",
+        "british",
+        "clean",
+        "optimistic",
+        "legible"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/fselliotwebgreek/thin",
+            "css": {
+                "font-family": "FS Elliot Web Greek Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5557",
+                "slug": "thin",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Thin Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/fselliotwebgreek/thinitalic",
+            "css": {
+                "font-family": "FS Elliot Web Greek Thin Italic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5558",
+                "slug": "thinitalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/fselliotwebgreek/light",
+            "css": {
+                "font-family": "FS Elliot Web Greek Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5554",
+                "slug": "light",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/fselliotwebgreek/lightitalic",
+            "css": {
+                "font-family": "FSElliotWebGreekLightItalic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5555",
+                "slug": "lightitalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/fselliotwebgreek/regular",
+            "css": {
+                "font-family": "FS Elliot Web Greek Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5556",
+                "slug": "regular",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/fselliotwebgreek/italic",
+            "css": {
+                "font-family": "FS Elliot Web Greek Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5553",
+                "slug": "italic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/fselliotwebgreek/bold",
+            "css": {
+                "font-family": "FS Elliot Web Greek Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5549",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/fselliotwebgreek/bolditalic",
+            "css": {
+                "font-family": "FS Elliot Web Greek Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5550",
+                "slug": "bolditalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/fselliotwebgreek/heavy",
+            "css": {
+                "font-family": "FS Elliot Web Greek Heavy",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5551",
+                "slug": "heavy",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Heavy Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/fselliotwebgreek/heavyitalic",
+            "css": {
+                "font-family": "FSElliotWebGreekHeavyItalic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5552",
+                "slug": "heavyitalic",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1293",
+        "slug": "fselliotwebgreek"
+    },
+    "generatedAt": 1437610680786
+}

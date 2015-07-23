@@ -1,0 +1,192 @@
+{
+    "name": "Quatro Slab",
+    "url": "http://fontdeck.com/typeface/quatroslab",
+    "slug": "quatroslab",
+    "superfamily": "Quatro",
+    "use": "body",
+    "classification": [
+        "Slab Serif",
+        "Dynamic"
+    ],
+    "foundry": "p.s.type",
+    "designer": [
+        "Mark Caneso"
+    ],
+    "opentype": [
+        "liga"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "modern",
+        "advertising",
+        "opentype",
+        "low contrast",
+        "quatro",
+        "identity",
+        "slab serif",
+        "editorial",
+        "ultra black",
+        "magazine",
+        "superfamily",
+        "poster"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/quatroslab/regular",
+            "css": {
+                "font-family": "Quatro Slab Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6649",
+                "slug": "regular",
+                "price": "$8.99"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/quatroslab/italic",
+            "css": {
+                "font-family": "Quatro Slab Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6650",
+                "slug": "italic",
+                "price": "$8.99"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/quatroslab/medium",
+            "css": {
+                "font-family": "Quatro Slab Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6653",
+                "slug": "medium",
+                "price": "$8.99"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/quatroslab/mediumitalic",
+            "css": {
+                "font-family": "Quatro Slab Medium Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6654",
+                "slug": "mediumitalic",
+                "price": "$8.99"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/quatroslab/semibold",
+            "css": {
+                "font-family": "Quatro Slab Semibold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6655",
+                "slug": "semibold",
+                "price": "$8.99"
+            }
+        },
+        {
+            "name": "Semi-bold Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/quatroslab/semibolditalic",
+            "css": {
+                "font-family": "Quatro Slab Semibold Italic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6656",
+                "slug": "semibolditalic",
+                "price": "$8.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/quatroslab/bold",
+            "css": {
+                "font-family": "Quatro Slab Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6651",
+                "slug": "bold",
+                "price": "$8.99"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/quatroslab/bolditalic",
+            "css": {
+                "font-family": "Quatro Slab Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6652",
+                "slug": "bolditalic",
+                "price": "$8.99"
+            }
+        },
+        {
+            "name": "Ultra-black",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/quatroslab/ultrablack",
+            "css": {
+                "font-family": "Quatro Slab Ultra Bla01",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6657",
+                "slug": "ultrablack",
+                "price": "$8.99"
+            }
+        },
+        {
+            "name": "Ultra-black Italic",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/quatroslab/ultrablackitalic",
+            "css": {
+                "font-family": "Quatro Slab Ultra Black Italic",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6658",
+                "slug": "ultrablackitalic",
+                "price": "$8.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1520",
+        "slug": "quatroslab"
+    },
+    "generatedAt": 1437610955621
+}

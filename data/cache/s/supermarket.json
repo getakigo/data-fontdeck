@@ -1,0 +1,48 @@
+{
+    "name": "Supermarket",
+    "url": "http://fontdeck.com/typeface/supermarket",
+    "slug": "supermarket",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Handwritten",
+        "Script",
+        "Casual"
+    ],
+    "foundry": "Intellecta Design",
+    "designer": [
+        "Paulo W"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "handletter",
+        "signage",
+        "casual",
+        "poster",
+        "felt tip"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/supermarket/regular",
+            "css": {
+                "font-family": "Supermarket Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2672",
+                "slug": "regular",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "646",
+        "slug": "supermarket"
+    },
+    "generatedAt": 1437609623793
+}

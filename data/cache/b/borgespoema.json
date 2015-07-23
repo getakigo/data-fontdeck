@@ -1,0 +1,93 @@
+{
+    "name": "Borges Poema",
+    "url": "http://fontdeck.com/typeface/borgespoema",
+    "slug": "borgespoema",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Garalde"
+    ],
+    "foundry": "PampaType",
+    "designer": [
+        "Alejandro Lo Celso"
+    ],
+    "opentype": [
+        "smcp"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "fine",
+        "formal",
+        "poetry",
+        "serif",
+        "titling",
+        "literary",
+        "optical sizes",
+        "openface",
+        "text",
+        "argentina",
+        "hollow",
+        "system",
+        "news",
+        "french",
+        "author",
+        "hengraved",
+        "literature",
+        "dutc",
+        "multistyle",
+        "books",
+        "fiction",
+        "novels",
+        "workhorse",
+        "classic",
+        "legible",
+        "classical",
+        "caps",
+        "spanish",
+        "argentinean",
+        "outline",
+        "open face",
+        "hueca",
+        "refined",
+        "opentyp",
+        "lyric",
+        "comfortable",
+        "decorative",
+        "jorge luis borges",
+        "poems",
+        "oldstyle",
+        "magazines",
+        "readable",
+        "inline"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/borgespoema/regular",
+            "css": {
+                "font-family": "Borges Poema Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8994",
+                "slug": "regular",
+                "price": "$8.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "2015",
+        "slug": "borgespoema"
+    },
+    "copentype": [
+        "liga"
+    ],
+    "eopentype": [
+        "c2s"
+    ],
+    "generatedAt": 1437611609937
+}

@@ -1,0 +1,110 @@
+{
+    "name": "Fontin Sans",
+    "url": "http://fontdeck.com/typeface/fontinsans",
+    "slug": "fontinsans",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Humanist"
+    ],
+    "foundry": "Exljbris",
+    "designer": [
+        "Jos Buivenga"
+    ],
+    "opentype": [
+        "liga"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "humanistic sans",
+        "opentype",
+        "elegant",
+        "fontin sans",
+        "casual",
+        "fontin"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/fontinsans/regular",
+            "css": {
+                "font-family": "Fontin Sans Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "100",
+                "slug": "regular",
+                "price": "$2.99"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/fontinsans/italic",
+            "css": {
+                "font-family": "Fontin Sans Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "93",
+                "slug": "italic",
+                "price": "$2.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/fontinsans/bold",
+            "css": {
+                "font-family": "Fontin Sans Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "103",
+                "slug": "bold",
+                "price": "$2.99"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/fontinsans/bolditalic",
+            "css": {
+                "font-family": "Fontin Sans Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "101",
+                "slug": "bolditalic",
+                "price": "$2.99"
+            }
+        },
+        {
+            "name": "Small Caps",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/fontinsans/smallcaps",
+            "css": {
+                "font-family": "Fontin Sans Small Caps",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "96",
+                "slug": "smallcaps",
+                "price": "$2.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "31",
+        "slug": "fontinsans"
+    },
+    "generatedAt": 1437608886201
+}

@@ -1,0 +1,59 @@
+{
+    "name": "Beirut",
+    "url": "http://fontdeck.com/typeface/beirut",
+    "slug": "beirut",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Serif"
+    ],
+    "foundry": "Luzi Type",
+    "designer": [
+        "Luzi Gantenbein"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "16th century",
+        "classic",
+        "renaissance"
+    ],
+    "variations": [
+        {
+            "name": "Text",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/beirut/text",
+            "css": {
+                "font-family": "Beirut Text",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8492",
+                "slug": "text",
+                "price": "$23.75"
+            }
+        },
+        {
+            "name": "Poster",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/beirut/poster",
+            "css": {
+                "font-family": "Beirut Poster",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8493",
+                "slug": "poster",
+                "price": "$23.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1968",
+        "slug": "beirut"
+    },
+    "generatedAt": 1437611500939
+}

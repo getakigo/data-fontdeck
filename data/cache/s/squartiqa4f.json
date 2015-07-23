@@ -1,0 +1,186 @@
+{
+    "name": "Squartiqa 4F",
+    "url": "http://fontdeck.com/typeface/squartiqa4f",
+    "slug": "squartiqa4f",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Experimental",
+        "Display",
+        "All caps",
+        "Display",
+        "Grunge",
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "4th february",
+    "designer": [
+        "Sergiy S. Tkachenko"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "square",
+        "squarish",
+        "square sans",
+        "unicase"
+    ],
+    "variations": [
+        {
+            "name": "Ultra-light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/squartiqa4f/ultralight",
+            "css": {
+                "font-family": "Squartiqa 4F UltraLight",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4624",
+                "slug": "ultralight",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Ultra-light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/squartiqa4f/ultralightitalic",
+            "css": {
+                "font-family": "Squartiqa 4F UltraLight Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4625",
+                "slug": "ultralightitalic",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/squartiqa4f/light",
+            "css": {
+                "font-family": "Squartiqa 4F Light",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4622",
+                "slug": "light",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i3",
+            "url": "http://fontdeck.com/font/squartiqa4f/lightitalic",
+            "css": {
+                "font-family": "Squartiqa 4F Light Italic",
+                "font-weight": "300",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4623",
+                "slug": "lightitalic",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/squartiqa4f/regular",
+            "css": {
+                "font-family": "Squartiqa 4F Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4262",
+                "slug": "regular",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/squartiqa4f/italic",
+            "css": {
+                "font-family": "Squartiqa 4F Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4263",
+                "slug": "italic",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Strike",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/squartiqa4f/strike",
+            "css": {
+                "font-family": "Squartiqa 4F Strike",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4266",
+                "slug": "strike",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Inline",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/squartiqa4f/inline",
+            "css": {
+                "font-family": "Squartiqa 4F Inline",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4264",
+                "slug": "inline",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Strike Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/squartiqa4f/strikeitalic",
+            "css": {
+                "font-family": "Squartiqa 4F Strike Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4267",
+                "slug": "strikeitalic",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Inline Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/squartiqa4f/inlineitalic",
+            "css": {
+                "font-family": "Squartiqa 4F Inline Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4265",
+                "slug": "inlineitalic",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1000",
+        "slug": "squartiqa4f"
+    },
+    "generatedAt": 1437610280394
+}

@@ -1,0 +1,68 @@
+{
+    "name": "Wesley",
+    "url": "http://fontdeck.com/typeface/wesley",
+    "slug": "wesley",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "Veer",
+    "designer": [
+        "Jason Walcott"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "modern",
+        "condensed",
+        "sans-serif",
+        "geometric",
+        "regular",
+        "fashionable",
+        "contemporary",
+        "quirky",
+        "display",
+        "alternates"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/wesley/regular",
+            "css": {
+                "font-family": "Wesley Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5044",
+                "slug": "regular",
+                "price": "$17.19"
+            }
+        },
+        {
+            "name": "Poster",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/wesley/poster",
+            "css": {
+                "font-family": "Wesley Poster",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5045",
+                "slug": "poster",
+                "price": "$17.19"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1173",
+        "slug": "wesley"
+    },
+    "generatedAt": 1437610512388
+}

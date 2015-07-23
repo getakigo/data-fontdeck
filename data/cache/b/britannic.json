@@ -1,0 +1,119 @@
+{
+    "name": "Britannic",
+    "url": "http://fontdeck.com/typeface/britannic",
+    "slug": "britannic",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Grotesque"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "URW Studio"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "feminine",
+        "natural",
+        "legible"
+    ],
+    "variations": [
+        {
+            "name": "Extra-light",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/britannic/extralight",
+            "css": {
+                "font-family": "Britannic Extra Light",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "949",
+                "slug": "extralight",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/britannic/light",
+            "css": {
+                "font-family": "Britannic Light ",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "950",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/britannic/medium",
+            "css": {
+                "font-family": "Britannic Medium",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "951",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/britannic/bold",
+            "css": {
+                "font-family": "Britannic Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "947",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Ultra Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/britannic/ultrabold",
+            "css": {
+                "font-family": "Britannic Ultra Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "952",
+                "slug": "ultrabold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Compressed Medium",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/britannic/compressedmedium",
+            "css": {
+                "font-family": "Britannic Compressed Medium",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "948",
+                "slug": "compressedmedium",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "278",
+        "slug": "britannic"
+    },
+    "generatedAt": 1437609129811
+}

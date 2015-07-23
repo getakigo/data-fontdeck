@@ -1,0 +1,258 @@
+{
+    "name": "Mislab Std",
+    "url": "http://fontdeck.com/typeface/mislabstd",
+    "slug": "mislabstd",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Slab serif",
+        "Slab Serif",
+        "Humanist",
+        "Display",
+        "Serif",
+        "Slab Serif",
+        "Light",
+        "Slab Serif",
+        "Dynamic"
+    ],
+    "foundry": "Typofonderie",
+    "designer": [
+        "Xavier Dupré"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "compact",
+        "narrow",
+        "condensed",
+        "publishing",
+        "text",
+        "design",
+        "squared",
+        "identity",
+        "branding",
+        "data",
+        "paragraph",
+        "newspaper",
+        "display",
+        "magazine"
+    ],
+    "variations": [
+        {
+            "name": "Hairline",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/mislabstd/hairline",
+            "css": {
+                "font-family": "Mislab Std Hairline",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8713",
+                "slug": "hairline",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Thin",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/mislabstd/thin",
+            "css": {
+                "font-family": "Mislab Std Thin",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8714",
+                "slug": "thin",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Extra-light",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/mislabstd/extralight",
+            "css": {
+                "font-family": "Mislab Std Extra Light",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8715",
+                "slug": "extralight",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/mislabstd/light",
+            "css": {
+                "font-family": "Mislab Std Light",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8716",
+                "slug": "light",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/mislabstd/regular",
+            "css": {
+                "font-family": "Mislab Std Regular",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8579",
+                "slug": "regular",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/mislabstd/italic",
+            "css": {
+                "font-family": "Mislab Std Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8580",
+                "slug": "italic",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/mislabstd/bold",
+            "css": {
+                "font-family": "Mislab Std Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8581",
+                "slug": "bold",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/mislabstd/bolditalic",
+            "css": {
+                "font-family": "Mislab Std Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8582",
+                "slug": "bolditalic",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/mislabstd/extrabold",
+            "css": {
+                "font-family": "Mislab Std Extra Bold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8719",
+                "slug": "extrabold",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Extra-bold Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/mislabstd/extrabolditalic",
+            "css": {
+                "font-family": "Mislab Std Extra Bold Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8720",
+                "slug": "extrabolditalic",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/mislabstd/black",
+            "css": {
+                "font-family": "Mislab Std Black",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8721",
+                "slug": "black",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/mislabstd/blackitalic",
+            "css": {
+                "font-family": "Mislab Std Black Italic",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8722",
+                "slug": "blackitalic",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Demi",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/mislabstd/demi",
+            "css": {
+                "font-family": "Mislab Std Demi",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8717",
+                "slug": "demi",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Demi Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/mislabstd/demiitalic",
+            "css": {
+                "font-family": "Mislab Std Demi Italic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8718",
+                "slug": "demiitalic",
+                "price": "$26.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1931",
+        "slug": "mislabstd"
+    },
+    "generatedAt": 1437611493147
+}

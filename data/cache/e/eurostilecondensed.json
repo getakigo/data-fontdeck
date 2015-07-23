@@ -1,0 +1,97 @@
+{
+    "name": "Eurostile Condensed",
+    "url": "http://fontdeck.com/typeface/eurostilecondensed",
+    "slug": "eurostilecondensed",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Aldo Novarese"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "static",
+        "formal",
+        "narrow",
+        "technical",
+        "condensed",
+        "italian",
+        "geometric",
+        "legible",
+        "1960s",
+        "masculine",
+        "eurostile"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/eurostilecondensed/regular",
+            "css": {
+                "font-family": "Eurostile Condensed Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "811",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Oblique",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/eurostilecondensed/regularoblique",
+            "css": {
+                "font-family": "EurostilCondenseRegulaObliqu",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "812",
+                "slug": "regularoblique",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/eurostilecondensed/heavy",
+            "css": {
+                "font-family": "Eurostile Condensed Heavy",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "809",
+                "slug": "heavy",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Heavy Oblique",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/eurostilecondensed/heavyoblique",
+            "css": {
+                "font-family": "EurostileCondensedHeavyOblique",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "810",
+                "slug": "heavyoblique",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "250",
+        "slug": "eurostilecondensed"
+    },
+    "generatedAt": 1437609082609
+}

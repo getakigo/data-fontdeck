@@ -1,0 +1,51 @@
+{
+    "name": "Lavina 4F",
+    "url": "http://fontdeck.com/typeface/lavina4f",
+    "slug": "lavina4f",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Script",
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "4th february",
+    "designer": [
+        "Sergiy S. Tkachenko"
+    ],
+    "language": [
+        "latin",
+        "cyrillic"
+    ],
+    "tags": [
+        "eau de parfum",
+        "eau de toilette",
+        "ball terminals",
+        "eastern european",
+        "elegant",
+        "cyrillic",
+        "elegante"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/lavina4f/regular",
+            "css": {
+                "font-family": "Lavina 4F Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3874",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "916",
+        "slug": "lavina4f"
+    },
+    "generatedAt": 1437610113043
+}

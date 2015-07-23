@@ -1,0 +1,185 @@
+{
+    "name": "Proxima Nova Cyrillic",
+    "url": "http://fontdeck.com/typeface/proximanovacyrillic",
+    "slug": "proximanovacyrillic",
+    "superfamily": "Proxima Nova",
+    "use": "heading",
+    "classification": [],
+    "foundry": "Mark Simonson Studio",
+    "designer": [
+        "Mark Simonson"
+    ],
+    "language": [
+        "latin",
+        "cyrillic"
+    ],
+    "tags": [
+        "gotham",
+        "gothic",
+        "workhorse",
+        "geometric",
+        "grotesque",
+        "informal",
+        "cyrillic",
+        "russian",
+        "superfamily",
+        "clean"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/proximanovacyrillic/light",
+            "css": {
+                "font-family": "Proxima Nova Cyrillic Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "9049",
+                "slug": "light",
+                "price": "$9.49"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/proximanovacyrillic/lightitalic",
+            "css": {
+                "font-family": "ProximaNovaCyrillicLightItalic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "9050",
+                "slug": "lightitalic",
+                "price": "$9.49"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/proximanovacyrillic/regular",
+            "css": {
+                "font-family": "Proxima Nova Cyrillic Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7593",
+                "slug": "regular",
+                "price": "$9.49"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/proximanovacyrillic/italic",
+            "css": {
+                "font-family": "Proxima Nova Cyrillic Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7595",
+                "slug": "italic",
+                "price": "$9.49"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/proximanovacyrillic/semibold",
+            "css": {
+                "font-family": "Proxima Nova Cyrillic Semibold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7597",
+                "slug": "semibold",
+                "price": "$9.49"
+            }
+        },
+        {
+            "name": "Semi-bold Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/proximanovacyrillic/semibolditalic",
+            "css": {
+                "font-family": "ProximNovCyrilliSemibolItali",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7596",
+                "slug": "semibolditalic",
+                "price": "$9.49"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/proximanovacyrillic/bold",
+            "css": {
+                "font-family": "Proxima Nova Cyrillic Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7592",
+                "slug": "bold",
+                "price": "$9.49"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/proximanovacyrillic/bolditalic",
+            "css": {
+                "font-family": "ProximaNovaCyrillicBoldItalic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7594",
+                "slug": "bolditalic",
+                "price": "$9.49"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/proximanovacyrillic/black",
+            "css": {
+                "font-family": "Proxima Nova Cyrillic Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "9051",
+                "slug": "black",
+                "price": "$9.49"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/proximanovacyrillic/blackitalic",
+            "css": {
+                "font-family": "ProximaNovaCyrillicBlackItalic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "9052",
+                "slug": "blackitalic",
+                "price": "$9.49"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1754",
+        "slug": "proximanovacyrillic"
+    },
+    "generatedAt": 1437611642860
+}

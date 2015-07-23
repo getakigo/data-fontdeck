@@ -1,0 +1,224 @@
+{
+    "name": "Amster Pro",
+    "url": "http://fontdeck.com/typeface/amsterpro",
+    "slug": "amsterpro",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Neo-classical"
+    ],
+    "foundry": "PampaType",
+    "designer": [
+        "Francisco Gálvez Pizarro"
+    ],
+    "opentype": [
+        "c2sc",
+        "calt",
+        "dlig",
+        "hist",
+        "liga",
+        "lnum",
+        "onum",
+        "pnum",
+        "smcp",
+        "ss01",
+        "ss02",
+        "ss03",
+        "ss04",
+        "ss05",
+        "tnum",
+        "zero"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "opentype",
+        "simple",
+        "text",
+        "sharp",
+        "friendly",
+        "contemporary",
+        "versatile",
+        "illuminated",
+        "sophisticated",
+        "latin american",
+        "all figures",
+        "poetic",
+        "calligraphic",
+        "typographica",
+        "precise",
+        "display",
+        "francisco-galvez",
+        "chile",
+        "argentinian",
+        "latino",
+        "spanish",
+        "legible",
+        "chilean",
+        "comfortable",
+        "initials",
+        "argentine",
+        "pampatype",
+        "delicate",
+        "energetic",
+        "readable"
+    ],
+    "variations": [
+        {
+            "name": "Fina",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/amsterpro/fina",
+            "css": {
+                "font-family": "Amster Pro Fina",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8894",
+                "slug": "fina",
+                "price": "$16.25"
+            }
+        },
+        {
+            "name": "SuperNegra",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/amsterpro/supernegra",
+            "css": {
+                "font-family": "Amster Pro SuperNegra",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8900",
+                "slug": "supernegra",
+                "price": "$16.25"
+            }
+        },
+        {
+            "name": "Gris",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/amsterpro/gris",
+            "css": {
+                "font-family": "Amster Pro Gris",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8896",
+                "slug": "gris",
+                "price": "$16.25"
+            }
+        },
+        {
+            "name": "Blanca",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/amsterpro/blanca",
+            "css": {
+                "font-family": "Amster Pro Blanca",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8892",
+                "slug": "blanca",
+                "price": "$16.25"
+            }
+        },
+        {
+            "name": "Negra",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/amsterpro/negra",
+            "css": {
+                "font-family": "Amster Pro Negra",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8898",
+                "slug": "negra",
+                "price": "$16.25"
+            }
+        },
+        {
+            "name": "Gris Italica",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/amsterpro/grisitalica",
+            "css": {
+                "font-family": "Amster Pro Gris Italica",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8897",
+                "slug": "grisitalica",
+                "price": "$16.25"
+            }
+        },
+        {
+            "name": "Blanca Italica",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/amsterpro/blancaitalica",
+            "css": {
+                "font-family": "Amster Pro Blanca Italica",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8893",
+                "slug": "blancaitalica",
+                "price": "$16.25"
+            }
+        },
+        {
+            "name": "SuperNegra Italica",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/amsterpro/supernegraitalica",
+            "css": {
+                "font-family": "Amster Pro SuperNegra Italica",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8901",
+                "slug": "supernegraitalica",
+                "price": "$16.25"
+            }
+        },
+        {
+            "name": "Fina Italica",
+            "description": "i3",
+            "url": "http://fontdeck.com/font/amsterpro/finaitalica",
+            "css": {
+                "font-family": "Amster Pro Fina Italica",
+                "font-weight": "300",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8895",
+                "slug": "finaitalica",
+                "price": "$16.25"
+            }
+        },
+        {
+            "name": "Negra Italica",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/amsterpro/negraitalica",
+            "css": {
+                "font-family": "Amster Pro Negra Italica",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8899",
+                "slug": "negraitalica",
+                "price": "$16.25"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1991",
+        "slug": "amsterpro"
+    },
+    "generatedAt": 1437611611713
+}

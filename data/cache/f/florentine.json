@@ -1,0 +1,48 @@
+{
+    "name": "Florentine",
+    "url": "http://fontdeck.com/typeface/florentine",
+    "slug": "florentine",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Decorative script"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "URW Studio"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "decorative",
+        "american",
+        "art nouveau",
+        "oldstyle numerals",
+        "1800s",
+        "headline",
+        "art deco"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/florentine/regular",
+            "css": {
+                "font-family": "Florentine Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2588",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "626",
+        "slug": "florentine"
+    },
+    "generatedAt": 1437609584282
+}

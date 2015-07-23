@@ -1,0 +1,120 @@
+{
+    "name": "Messina",
+    "url": "http://fontdeck.com/typeface/messina",
+    "slug": "messina",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "French"
+    ],
+    "foundry": "Luzi Type",
+    "designer": [
+        "Luzi Gantenbein"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "book font",
+        "1700s",
+        "contemporary",
+        "classic"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/messina/light",
+            "css": {
+                "font-family": "Messina Light",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "9053",
+                "slug": "light",
+                "price": "$23.75"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i3",
+            "url": "http://fontdeck.com/font/messina/lightitalic",
+            "css": {
+                "font-family": "Messina Light Italic",
+                "font-weight": "300",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "9054",
+                "slug": "lightitalic",
+                "price": "$23.75"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/messina/regular",
+            "css": {
+                "font-family": "Messina Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "9055",
+                "slug": "regular",
+                "price": "$23.75"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/messina/regularitalic",
+            "css": {
+                "font-family": "Messina Regular Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "9056",
+                "slug": "regularitalic",
+                "price": "$23.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/messina/bold",
+            "css": {
+                "font-family": "Messina Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "9057",
+                "slug": "bold",
+                "price": "$23.75"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/messina/bolditalic",
+            "css": {
+                "font-family": "Messina Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "9058",
+                "slug": "bolditalic",
+                "price": "$23.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "2024",
+        "slug": "messina"
+    },
+    "generatedAt": 1437611643179
+}

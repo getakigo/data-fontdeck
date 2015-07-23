@@ -1,0 +1,182 @@
+{
+    "name": "Anisette Std",
+    "url": "http://fontdeck.com/typeface/anisettestd",
+    "slug": "anisettestd",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "All caps",
+        "Display",
+        "Art Deco",
+        "Display",
+        "Sans serif",
+        "Display",
+        "Fat Face",
+        "Display",
+        "Decorative",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "Typofonderie",
+    "designer": [
+        "Jean François Porchez"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "narrow",
+        "condensed",
+        "publishing",
+        "design",
+        "identity",
+        "extended",
+        "branding",
+        "newspaper",
+        "display",
+        "magazine",
+        "capitals"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/anisettestd/thin",
+            "css": {
+                "font-family": "Anisette Std Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8593",
+                "slug": "thin",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Extra-light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/anisettestd/extralight",
+            "css": {
+                "font-family": "Anisette Std Extra Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8594",
+                "slug": "extralight",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/anisettestd/light",
+            "css": {
+                "font-family": "Anisette Std Light",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8595",
+                "slug": "light",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/anisettestd/regular",
+            "css": {
+                "font-family": "Anisette Std Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8596",
+                "slug": "regular",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/anisettestd/bold",
+            "css": {
+                "font-family": "Anisette Std Bold",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8598",
+                "slug": "bold",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/anisettestd/extrabold",
+            "css": {
+                "font-family": "Anisette Std Extra Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8599",
+                "slug": "extrabold",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/anisettestd/heavy",
+            "css": {
+                "font-family": "Anisette Std Heavy",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8600",
+                "slug": "heavy",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/anisettestd/black",
+            "css": {
+                "font-family": "Anisette Std Black",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8601",
+                "slug": "black",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Demi",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/anisettestd/demi",
+            "css": {
+                "font-family": "Anisette Std Demi",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8597",
+                "slug": "demi",
+                "price": "$26.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1920",
+        "slug": "anisettestd"
+    },
+    "generatedAt": 1437611465653
+}

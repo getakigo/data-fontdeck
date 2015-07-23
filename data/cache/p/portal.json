@@ -1,0 +1,66 @@
+{
+    "name": "Portal",
+    "url": "http://fontdeck.com/typeface/portal",
+    "slug": "portal",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Experimental",
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "Fontfabric",
+    "designer": [
+        "Svetoslav Simov"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "title",
+        "block",
+        "experimental",
+        "square",
+        "heavy",
+        "headline",
+        "display",
+        "blocky"
+    ],
+    "variations": [
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/portal/black",
+            "css": {
+                "font-family": "Portal Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3284",
+                "slug": "black",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "Strips",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/portal/strips",
+            "css": {
+                "font-family": "Portal Strips",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3285",
+                "slug": "strips",
+                "price": "$3.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "785",
+        "slug": "portal"
+    },
+    "generatedAt": 1437609879451
+}

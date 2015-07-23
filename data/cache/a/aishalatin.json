@@ -1,0 +1,122 @@
+{
+    "name": "Aisha Latin",
+    "url": "http://fontdeck.com/typeface/aishalatin",
+    "slug": "aishalatin",
+    "superfamily": "Aisha",
+    "use": "body",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Display",
+        "Script",
+        "Script",
+        "Casual"
+    ],
+    "foundry": "Rosetta",
+    "designer": [
+        "Titus Nemeth"
+    ],
+    "opentype": [
+        "calt",
+        "liga",
+        "onum"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "curves",
+        "joyful",
+        "opentype",
+        "feminine",
+        "moroccan",
+        "revival",
+        "21st century",
+        "informal",
+        "curvaceous",
+        "fun",
+        "contemporary",
+        "magazine",
+        "tdc",
+        "titus nemeth",
+        "comic",
+        "hinted",
+        "comics",
+        "french",
+        "awarded",
+        "handwriting",
+        "cheeky",
+        "playful",
+        "cheerful",
+        "lettering",
+        "comic book",
+        "maghribi"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/aishalatin/regular",
+            "css": {
+                "font-family": "Aisha Latin Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4329",
+                "slug": "regular",
+                "price": "$11.50"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/aishalatin/semibold",
+            "css": {
+                "font-family": "Aisha Latin Semibold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4331",
+                "slug": "semibold",
+                "price": "$11.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/aishalatin/bold",
+            "css": {
+                "font-family": "Aisha Latin Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4330",
+                "slug": "bold",
+                "price": "$11.50"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/aishalatin/extrabold",
+            "css": {
+                "font-family": "Aisha Latin Extrabold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4332",
+                "slug": "extrabold",
+                "price": "$11.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1018",
+        "slug": "aishalatin"
+    },
+    "generatedAt": 1437610312201
+}

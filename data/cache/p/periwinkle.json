@@ -1,0 +1,56 @@
+{
+    "name": "Periwinkle",
+    "url": "http://fontdeck.com/typeface/periwinkle",
+    "slug": "periwinkle",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Serif",
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "Veer",
+    "designer": [
+        "Jason Walcott"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "decorative",
+        "1970s",
+        "serif",
+        "elegant",
+        "swashes",
+        "swirls",
+        "regular",
+        "1960s",
+        "retro",
+        "mod",
+        "curls",
+        "casual",
+        "display"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/periwinkle/regular",
+            "css": {
+                "font-family": "Periwinkle Regular",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5062",
+                "slug": "regular",
+                "price": "$13.44"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1184",
+        "slug": "periwinkle"
+    },
+    "generatedAt": 1437610520419
+}

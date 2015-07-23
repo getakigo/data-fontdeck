@@ -1,0 +1,328 @@
+{
+    "name": "Geometry Soft Pro",
+    "url": "http://fontdeck.com/typeface/geometrysoftpro",
+    "slug": "geometrysoftpro",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Geometric",
+        "Display",
+        "Decorative",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "CheapProFonts",
+    "designer": [
+        "Roger S.  Nelsson"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "modern",
+        "round",
+        "sans-serif",
+        "geometric",
+        "circular",
+        "soft",
+        "monoline",
+        "sansserif",
+        "web 2.0",
+        "sans serif",
+        "constructed",
+        "rounded",
+        "clean"
+    ],
+    "variations": [
+        {
+            "name": "C Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/geometrysoftpro/cregular",
+            "css": {
+                "font-family": "Geometry Soft Pro C Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2922",
+                "slug": "cregular",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Y Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/geometrysoftpro/ybold",
+            "css": {
+                "font-family": "Geometry Soft Pro Y Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2929",
+                "slug": "ybold",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "X Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/geometrysoftpro/xregular",
+            "css": {
+                "font-family": "Geometry Soft Pro X Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2925",
+                "slug": "xregular",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Z Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/geometrysoftpro/zregular",
+            "css": {
+                "font-family": "Geometry Soft Pro Z Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2931",
+                "slug": "zregular",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "C Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/geometrysoftpro/clight",
+            "css": {
+                "font-family": "Geometry Soft Pro C Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2921",
+                "slug": "clight",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "X Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/geometrysoftpro/xlight",
+            "css": {
+                "font-family": "Geometry Soft Pro X Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2924",
+                "slug": "xlight",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "C Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/geometrysoftpro/cbold",
+            "css": {
+                "font-family": "Geometry Soft Pro C Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2923",
+                "slug": "cbold",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Y Light",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/geometrysoftpro/ylight",
+            "css": {
+                "font-family": "Geometry Soft Pro Y Light",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2927",
+                "slug": "ylight",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "B Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/geometrysoftpro/bbold",
+            "css": {
+                "font-family": "Geometry Soft Pro B Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2920",
+                "slug": "bbold",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Y Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/geometrysoftpro/yregular",
+            "css": {
+                "font-family": "Geometry Soft Pro Y Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2928",
+                "slug": "yregular",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "B Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/geometrysoftpro/blight",
+            "css": {
+                "font-family": "Geometry Soft Pro B Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2918",
+                "slug": "blight",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Z Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/geometrysoftpro/zbold",
+            "css": {
+                "font-family": "Geometry Soft Pro Z Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2933",
+                "slug": "zbold",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "A Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/geometrysoftpro/alight",
+            "css": {
+                "font-family": "Geometry Soft Pro A Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2915",
+                "slug": "alight",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "A Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/geometrysoftpro/aregular",
+            "css": {
+                "font-family": "Geometry Soft Pro A Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2916",
+                "slug": "aregular",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "A Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/geometrysoftpro/abold",
+            "css": {
+                "font-family": "Geometry Soft Pro A Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2917",
+                "slug": "abold",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "X Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/geometrysoftpro/xbold",
+            "css": {
+                "font-family": "Geometry Soft Pro X Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2926",
+                "slug": "xbold",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "B Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/geometrysoftpro/bregular",
+            "css": {
+                "font-family": "Geometry Soft Pro B Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2919",
+                "slug": "bregular",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "N Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/geometrysoftpro/nbold",
+            "css": {
+                "font-family": "Geometry Soft Pro N Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2932",
+                "slug": "nbold",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "Z Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/geometrysoftpro/zlight",
+            "css": {
+                "font-family": "Geometry Soft Pro Z Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2930",
+                "slug": "zlight",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "679",
+        "slug": "geometrysoftpro"
+    },
+    "generatedAt": 1437609694243
+}

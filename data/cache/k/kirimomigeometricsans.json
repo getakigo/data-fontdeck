@@ -1,0 +1,173 @@
+{
+    "name": "Kirimomi Geometric Sans",
+    "url": "http://fontdeck.com/typeface/kirimomigeometricsans",
+    "slug": "kirimomigeometricsans",
+    "superfamily": "Kirimomi",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "Wordshape",
+    "designer": [
+        "Ian Lynam"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "antique olive",
+        "glyphic",
+        "sharp",
+        "idiosyncratic",
+        "large x-height",
+        "distinctive",
+        "lively",
+        "personality",
+        "superfamily",
+        "vivacious",
+        "futura"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/kirimomigeometricsans/light",
+            "css": {
+                "font-family": "Kirimomi Geometric Sans Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4654",
+                "slug": "light",
+                "price": "$12.49"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/kirimomigeometricsans/lightitalic",
+            "css": {
+                "font-family": "KirimomGeometriSanLighItali",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4655",
+                "slug": "lightitalic",
+                "price": "$12.49"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/kirimomigeometricsans/regular",
+            "css": {
+                "font-family": "Kirimomi Geometric Sans Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4218",
+                "slug": "regular",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/kirimomigeometricsans/italic",
+            "css": {
+                "font-family": "Kirimomi Geometric Sans Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4651",
+                "slug": "italic",
+                "price": "$12.49"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/kirimomigeometricsans/bold",
+            "css": {
+                "font-family": "Kirimomi Geometric Sans Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4652",
+                "slug": "bold",
+                "price": "$12.49"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/kirimomigeometricsans/bolditalic",
+            "css": {
+                "font-family": "KirimomiGeometricSansBoldItalic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4653",
+                "slug": "bolditalic",
+                "price": "$12.49"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/kirimomigeometricsans/black",
+            "css": {
+                "font-family": "Kirimomi Geometric Sans Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4656",
+                "slug": "black",
+                "price": "$12.49"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/kirimomigeometricsans/blackitalic",
+            "css": {
+                "font-family": "KirimomGeometriSanBlacItali",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4657",
+                "slug": "blackitalic",
+                "price": "$12.49"
+            }
+        },
+        {
+            "name": "Small Caps",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/kirimomigeometricsans/smallcaps",
+            "css": {
+                "font-family": "KirimomiGeometricSansSmallCaps",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4658",
+                "slug": "smallcaps",
+                "price": "$12.49"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "989",
+        "slug": "kirimomigeometricsans"
+    },
+    "generatedAt": 1437610258472
+}

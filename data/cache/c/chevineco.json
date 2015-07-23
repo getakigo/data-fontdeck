@@ -1,0 +1,78 @@
+{
+    "name": "Chevin Eco",
+    "url": "http://fontdeck.com/typeface/chevineco",
+    "slug": "chevineco",
+    "superfamily": "Chevin",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "G-Type",
+    "designer": [
+        "Nick Cooke"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "movies",
+        "gimmick",
+        "neon",
+        "hollywood",
+        "circles",
+        "experimental",
+        "holes",
+        "green",
+        "fun",
+        "showbiz",
+        "rounded",
+        "magazine",
+        "glitzy",
+        "poster",
+        "decorative",
+        "environmental",
+        "groovy",
+        "dots",
+        "dotted",
+        "eco",
+        "headline"
+    ],
+    "variations": [
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/chevineco/bold",
+            "css": {
+                "font-family": "Chevin Eco Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6731",
+                "slug": "bold",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/chevineco/extrabold",
+            "css": {
+                "font-family": "Chevin Eco Extra Bold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6732",
+                "slug": "extrabold",
+                "price": "$15.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1533",
+        "slug": "chevineco"
+    },
+    "generatedAt": 1437611096770
+}

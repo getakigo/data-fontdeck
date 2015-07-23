@@ -1,0 +1,53 @@
+{
+    "name": "Givry",
+    "url": "http://fontdeck.com/typeface/givry",
+    "slug": "givry",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Blackletter"
+    ],
+    "foundry": "TypeTogether",
+    "designer": [
+        "Tom Grace"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "script",
+        "elegant",
+        "burgundy",
+        "1600s",
+        "royal",
+        "flemish",
+        "fluid",
+        "bâtarde flamande",
+        "calligraphic",
+        "bastarda",
+        "writing",
+        "bourgogne"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/givry/regular",
+            "css": {
+                "font-family": "Givry Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1152",
+                "slug": "regular",
+                "price": "$11.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "319",
+        "slug": "givry"
+    },
+    "generatedAt": 1437609204500
+}

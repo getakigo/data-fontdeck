@@ -1,0 +1,96 @@
+{
+    "name": "Alghera",
+    "url": "http://fontdeck.com/typeface/alghera",
+    "slug": "alghera",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Grunge",
+        "Display",
+        "Script"
+    ],
+    "foundry": "Red Rooster Collection",
+    "designer": [
+        "Pat Hickson"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "grunge",
+        "poetry",
+        "serif",
+        "brush-drawn",
+        "music",
+        "soft",
+        "rubber stamp",
+        "perfume",
+        "scrap",
+        "jagged",
+        "news",
+        "festive",
+        "ghost",
+        "christianity",
+        "nature",
+        "cursive",
+        "food",
+        "movie",
+        "sun",
+        "commercial",
+        "funny",
+        "fashionable",
+        "renaissance",
+        "label",
+        "kids",
+        "bouncy",
+        "surf",
+        "invitation",
+        "feminine",
+        "jewelry",
+        "cosmetics",
+        "summer",
+        "informal",
+        "scrapbook",
+        "spray",
+        "crafts",
+        "poster",
+        "certificate",
+        "decorative",
+        "artsy",
+        "script",
+        "water",
+        "elegant",
+        "handwriting",
+        "wine",
+        "fairytale",
+        "informal text",
+        "letter",
+        "chancery",
+        "lettering",
+        "gangster",
+        "vacation",
+        "portuguese"
+    ],
+    "variations": [
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/alghera/bold",
+            "css": {
+                "font-family": "Alghera Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4319",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1013",
+        "slug": "alghera"
+    },
+    "generatedAt": 1437610299687
+}

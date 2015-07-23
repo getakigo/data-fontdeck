@@ -1,0 +1,131 @@
+{
+    "name": "Garamond Ludlow",
+    "url": "http://fontdeck.com/typeface/garamondludlow",
+    "slug": "garamondludlow",
+    "use": "heading",
+    "classification": [
+        "Serif",
+        "Venetian",
+        "Serif",
+        "Garalde"
+    ],
+    "foundry": "Red Rooster Collection",
+    "designer": [
+        "Robert Hunter Middleton",
+        "Steve Jackaman"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "formal",
+        "serif",
+        "1920s",
+        "trajan",
+        "correspondence",
+        "fancy",
+        "letterhead",
+        "baroque",
+        "magazine",
+        "alternates",
+        "sophisticated",
+        "french",
+        "menus",
+        "ligatures",
+        "business text",
+        "renaissance",
+        "jannon",
+        "art deco",
+        "transitional",
+        "ornament",
+        "engraving",
+        "venetian",
+        "masthead",
+        "legible",
+        "american",
+        "garalde",
+        "artsy",
+        "decorative",
+        "roman",
+        "1930s",
+        "cool",
+        "elegant",
+        "swashes",
+        "oldstyle",
+        "office",
+        "garamond",
+        "signage",
+        "corporate",
+        "swash",
+        "graceful",
+        "conservative",
+        "clean"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/garamondludlow/light",
+            "css": {
+                "font-family": "Garamond Ludlow Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4239",
+                "slug": "light",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/garamondludlow/lightitalic",
+            "css": {
+                "font-family": "Garamond Ludlow Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4240",
+                "slug": "lightitalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/garamondludlow/bold",
+            "css": {
+                "font-family": "Garamond Ludlow Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4237",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/garamondludlow/bolditalic",
+            "css": {
+                "font-family": "Garamond Ludlow Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4238",
+                "slug": "bolditalic",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "995",
+        "slug": "garamondludlow"
+    },
+    "generatedAt": 1437610271117
+}

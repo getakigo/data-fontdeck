@@ -1,0 +1,71 @@
+{
+    "name": "Pinback",
+    "url": "http://fontdeck.com/typeface/pinback",
+    "slug": "pinback",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Display",
+        "Futuristic"
+    ],
+    "foundry": "FaceType",
+    "designer": [
+        "Marcus Sterz"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "flyer",
+        "fiction",
+        "expressive",
+        "special",
+        "techno",
+        "plakat",
+        "rave",
+        "geometric",
+        "dynamic",
+        "1960",
+        "poster",
+        "decorative",
+        "cool",
+        "1970",
+        "graphic",
+        "funny",
+        "style",
+        "creative",
+        "astronomy",
+        "dark",
+        "retro",
+        "sci-fi",
+        "bold",
+        "space",
+        "headline",
+        "display",
+        "star",
+        "science"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/pinback/regular",
+            "css": {
+                "font-family": "Pinback Regular",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5213",
+                "slug": "regular",
+                "price": "$7.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1233",
+        "slug": "pinback"
+    },
+    "generatedAt": 1437610634390
+}

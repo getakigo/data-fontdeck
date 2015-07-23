@@ -1,0 +1,108 @@
+{
+    "name": "Flavin",
+    "url": "http://fontdeck.com/typeface/flavin",
+    "slug": "flavin",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "A2-TYPE",
+    "designer": [
+        "Henrik Kubel"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "editorial",
+        "contemporary",
+        "newspaper",
+        "magazine",
+        "rounded",
+        "book",
+        "text"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/flavin/light",
+            "css": {
+                "font-family": "Flavin Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6543",
+                "slug": "light",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/flavin/regular",
+            "css": {
+                "font-family": "Flavin Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6545",
+                "slug": "regular",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/flavin/medium",
+            "css": {
+                "font-family": "Flavin Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6544",
+                "slug": "medium",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/flavin/semibold",
+            "css": {
+                "font-family": "Flavin Semi Bold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6546",
+                "slug": "semibold",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/flavin/bold",
+            "css": {
+                "font-family": "Flavin Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6542",
+                "slug": "bold",
+                "price": "$45.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1496",
+        "slug": "flavin"
+    },
+    "generatedAt": 1437610938913
+}

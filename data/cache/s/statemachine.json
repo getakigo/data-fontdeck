@@ -1,0 +1,93 @@
+{
+    "name": "State Machine",
+    "url": "http://fontdeck.com/typeface/statemachine",
+    "slug": "statemachine",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "VirusFonts",
+    "designer": [
+        "Jonathan Barnbrook"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "bold",
+        "headline",
+        "military",
+        "geometric",
+        "poster"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/statemachine/light",
+            "css": {
+                "font-family": "State Machine Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3420",
+                "slug": "light",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/statemachine/medium",
+            "css": {
+                "font-family": "State Machine Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3417",
+                "slug": "medium",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/statemachine/bold",
+            "css": {
+                "font-family": "State Machine Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3418",
+                "slug": "bold",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Demibold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/statemachine/demibold",
+            "css": {
+                "font-family": "State Machine Demibold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3419",
+                "slug": "demibold",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "831",
+        "slug": "statemachine"
+    },
+    "generatedAt": 1437609955474
+}

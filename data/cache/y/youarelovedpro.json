@@ -1,0 +1,54 @@
+{
+    "name": "You Are Loved Pro",
+    "url": "http://fontdeck.com/typeface/youarelovedpro",
+    "slug": "youarelovedpro",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Grunge"
+    ],
+    "foundry": "CheapProFonts",
+    "designer": [
+        "Kimberly Geswein"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "ripped",
+        "scraped",
+        "deteriorated",
+        "worn",
+        "uneven",
+        "shredded",
+        "cracked",
+        "weary",
+        "rough",
+        "torn",
+        "gritty",
+        "eroded",
+        "irregular"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/youarelovedpro/regular",
+            "css": {
+                "font-family": "You Are Loved Pro Regular",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3302",
+                "slug": "regular",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "794",
+        "slug": "youarelovedpro"
+    },
+    "generatedAt": 1437609898298
+}

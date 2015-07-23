@@ -1,0 +1,194 @@
+{
+    "name": "Museo",
+    "url": "http://fontdeck.com/typeface/museo",
+    "slug": "museo",
+    "superfamily": "Museo",
+    "use": "body",
+    "classification": [
+        "Slab Serif",
+        "Grotesque/Geometric"
+    ],
+    "foundry": "Exljbris",
+    "designer": [
+        "Jos Buivenga"
+    ],
+    "opentype": [
+        "liga"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "opentype",
+        "simple",
+        "geometric",
+        "legible",
+        "esperanto",
+        "monoline",
+        "super family",
+        "balanced",
+        "modern",
+        "fashionable",
+        "semi-serif",
+        "hybrid",
+        "headline",
+        "clean"
+    ],
+    "variations": [
+        {
+            "name": "300",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/museo/300",
+            "css": {
+                "font-family": "Museo 300",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "95",
+                "slug": "300",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "500",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/museo/500",
+            "css": {
+                "font-family": "Museo 500",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "108",
+                "slug": "500",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "100",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/museo/100",
+            "css": {
+                "font-family": "Museo 100",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "467",
+                "slug": "100",
+                "price": "$7.49"
+            }
+        },
+        {
+            "name": "900",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/museo/900",
+            "css": {
+                "font-family": "Museo 900",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "541",
+                "slug": "900",
+                "price": "$7.49"
+            }
+        },
+        {
+            "name": "700",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/museo/700",
+            "css": {
+                "font-family": "Museo 700",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "105",
+                "slug": "700",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "300 Italic",
+            "description": "i3",
+            "url": "http://fontdeck.com/font/museo/300italic",
+            "css": {
+                "font-family": "Museo 300 Italic",
+                "font-weight": "300",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2844",
+                "slug": "300italic",
+                "price": "$7.49"
+            }
+        },
+        {
+            "name": "500 Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/museo/500italic",
+            "css": {
+                "font-family": "Museo 500 Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2845",
+                "slug": "500italic",
+                "price": "$7.49"
+            }
+        },
+        {
+            "name": "100 Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/museo/100italic",
+            "css": {
+                "font-family": "Museo 100 Italic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2843",
+                "slug": "100italic",
+                "price": "$7.49"
+            }
+        },
+        {
+            "name": "700 Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/museo/700italic",
+            "css": {
+                "font-family": "Museo 700 Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2846",
+                "slug": "700italic",
+                "price": "$7.49"
+            }
+        },
+        {
+            "name": "900 Italic",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/museo/900italic",
+            "css": {
+                "font-family": "Museo 900 Italic",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2847",
+                "slug": "900italic",
+                "price": "$7.49"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "33",
+        "slug": "museo"
+    },
+    "generatedAt": 1437608895213
+}

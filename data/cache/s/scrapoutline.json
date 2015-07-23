@@ -1,0 +1,65 @@
+{
+    "name": "Scrap Outline",
+    "url": "http://fontdeck.com/typeface/scrapoutline",
+    "slug": "scrapoutline",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Script"
+    ],
+    "foundry": "FaceType",
+    "designer": [
+        "Marcus Sterz"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "expressive",
+        "dynamic",
+        "scrapbook",
+        "outline",
+        "child",
+        "impulsive",
+        "notebook",
+        "authentic",
+        "decorative",
+        "hand",
+        "stroke",
+        "script",
+        "handwriting",
+        "funny",
+        "ligatures",
+        "true",
+        "creative",
+        "calligraphic",
+        "note",
+        "handmade",
+        "lively",
+        "kid",
+        "handnote",
+        ""
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/scrapoutline/regular",
+            "css": {
+                "font-family": "Scrap Outline Regular",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5215",
+                "slug": "regular",
+                "price": "$6.25"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1234",
+        "slug": "scrapoutline"
+    },
+    "generatedAt": 1437610633942
+}

@@ -1,0 +1,141 @@
+{
+    "name": "Hazlewood",
+    "url": "http://fontdeck.com/typeface/hazlewood",
+    "slug": "hazlewood",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Gothic"
+    ],
+    "foundry": "Playtype",
+    "designer": [
+        "Jonas Hecksher"
+    ],
+    "opentype": [
+        "liga"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "gothic",
+        "grotesk",
+        "opentype",
+        "narrow",
+        "condensed",
+        "grotesque",
+        "economical"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/hazlewood/thin",
+            "css": {
+                "font-family": "Hazlewood Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7640",
+                "slug": "thin",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/hazlewood/light",
+            "css": {
+                "font-family": "Hazlewood Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7639",
+                "slug": "light",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/hazlewood/regular",
+            "css": {
+                "font-family": "Hazlewood Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7634",
+                "slug": "regular",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/hazlewood/italic",
+            "css": {
+                "font-family": "Hazlewood Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7638",
+                "slug": "italic",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/hazlewood/bold",
+            "css": {
+                "font-family": "Hazlewood Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7635",
+                "slug": "bold",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Demibold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/hazlewood/demibold",
+            "css": {
+                "font-family": "Hazlewood Demibold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7637",
+                "slug": "demibold",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Condensed",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/hazlewood/condensed",
+            "css": {
+                "font-family": "Hazlewood Condensed",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7636",
+                "slug": "condensed",
+                "price": "$45.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1762",
+        "slug": "hazlewood"
+    },
+    "generatedAt": 1437611213050
+}

@@ -1,0 +1,49 @@
+{
+    "name": "Italian Sans",
+    "url": "http://fontdeck.com/typeface/italiansans",
+    "slug": "italiansans",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Grotesque"
+    ],
+    "foundry": "A2-TYPE",
+    "designer": [
+        "Henrik Kubel"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "industrial",
+        "book",
+        "text",
+        "legible",
+        "editorial",
+        "newspaper",
+        "contemporary",
+        "magazine"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/italiansans/regular",
+            "css": {
+                "font-family": "Italian Sans Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6498",
+                "slug": "regular",
+                "price": "$45.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1484",
+        "slug": "italiansans"
+    },
+    "generatedAt": 1437610928898
+}

@@ -1,0 +1,105 @@
+{
+    "name": "Satura",
+    "url": "http://fontdeck.com/typeface/satura",
+    "slug": "satura",
+    "superfamily": "Satura",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Experimental",
+        "Display",
+        "Sans serif"
+    ],
+    "foundry": "Letters from Sweden",
+    "designer": [
+        "Göran Söderström",
+        "Peter Bruhn"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "advertising",
+        "rare",
+        "warm",
+        "series",
+        "layering",
+        "classic",
+        "sans-serif",
+        "geometric",
+        "text",
+        "legible",
+        "line",
+        "super family",
+        "contemporary",
+        "magazine",
+        "lineal",
+        "poster",
+        "sans",
+        "spurless",
+        "decorative",
+        "modern",
+        "reverse contrast",
+        "unique",
+        "headline",
+        "sans serif",
+        "thin",
+        "unusual",
+        "display",
+        "clean",
+        "suite",
+        "core"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/satura/regular",
+            "css": {
+                "font-family": "Satura Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4467",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/satura/medium",
+            "css": {
+                "font-family": "Satura Medium",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4468",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/satura/bold",
+            "css": {
+                "font-family": "Satura Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4469",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1051",
+        "slug": "satura"
+    },
+    "generatedAt": 1437610700229
+}

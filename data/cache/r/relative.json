@@ -1,0 +1,127 @@
+{
+    "name": "Relative",
+    "url": "http://fontdeck.com/typeface/relative",
+    "slug": "relative",
+    "superfamily": "Relative",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "Colophon",
+    "designer": [
+        "Edd Harrington",
+        "Anthony Sheret"
+    ],
+    "opentype": [
+        "liga"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "book font",
+        "opentype",
+        "sans-serif",
+        "geometric",
+        "book",
+        "superfamily"
+    ],
+    "variations": [
+        {
+            "name": "Book",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/relative/book",
+            "css": {
+                "font-family": "Relative Book",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4390",
+                "slug": "book",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Book Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/relative/bookitalic",
+            "css": {
+                "font-family": "Relative Book Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4392",
+                "slug": "bookitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/relative/medium",
+            "css": {
+                "font-family": "Relative Medium",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4391",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/relative/mediumitalic",
+            "css": {
+                "font-family": "Relative Medium Italic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4393",
+                "slug": "mediumitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/relative/bold",
+            "css": {
+                "font-family": "Relative Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4389",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/relative/bolditalic",
+            "css": {
+                "font-family": "Relative Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4394",
+                "slug": "bolditalic",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1035",
+        "slug": "relative"
+    },
+    "generatedAt": 1437610364983
+}

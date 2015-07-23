@@ -1,0 +1,49 @@
+{
+    "name": "EB Martin",
+    "url": "http://fontdeck.com/typeface/ebmartin",
+    "slug": "ebmartin",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Blackletter"
+    ],
+    "foundry": "Fenotype",
+    "designer": [
+        "Erik Bertell"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "blackletter",
+        "rotunda",
+        "bold",
+        "iconic",
+        "rounded",
+        "organic",
+        "traditional",
+        "fraktur"
+    ],
+    "variations": [
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/ebmartin/black",
+            "css": {
+                "font-family": "EB Martin Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7207",
+                "slug": "black",
+                "price": "$5.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1684",
+        "slug": "ebmartin"
+    },
+    "generatedAt": 1437611135071
+}

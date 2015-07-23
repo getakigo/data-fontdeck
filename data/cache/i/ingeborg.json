@@ -1,0 +1,174 @@
+{
+    "name": "Ingeborg",
+    "url": "http://fontdeck.com/typeface/ingeborg",
+    "slug": "ingeborg",
+    "superfamily": "Ingeborg",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Didone",
+        "Display",
+        "Fat Face"
+    ],
+    "foundry": "Typejockeys",
+    "designer": [
+        "Michael Hochleitner"
+    ],
+    "opentype": [
+        "liga"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "opentype",
+        "serif",
+        "bodoni",
+        "hand hinted",
+        "workhorse",
+        "fatface",
+        "text",
+        "scotch",
+        "neoclassical",
+        "didone",
+        "hand-hinted",
+        "manually hinted",
+        "modern",
+        "austria",
+        "elegant",
+        "handhinted",
+        "retro",
+        "ball terminals",
+        "vienna",
+        "readability",
+        "superfamily",
+        "fat face"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/ingeborg/regular",
+            "css": {
+                "font-family": "Ingeborg Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4841",
+                "slug": "regular",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/ingeborg/italic",
+            "css": {
+                "font-family": "Ingeborg Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4838",
+                "slug": "italic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/ingeborg/bold",
+            "css": {
+                "font-family": "Ingeborg Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4833",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/ingeborg/bolditalic",
+            "css": {
+                "font-family": "Ingeborg Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4834",
+                "slug": "bolditalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/ingeborg/heavy",
+            "css": {
+                "font-family": "Ingeborg Heavy",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4837",
+                "slug": "heavy",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Heavy Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/ingeborg/heavyitalic",
+            "css": {
+                "font-family": "Ingeborg Heavy Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4842",
+                "slug": "heavyitalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Fat",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/ingeborg/fat",
+            "css": {
+                "font-family": "Ingeborg Fat",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4835",
+                "slug": "fat",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Fat Italic",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/ingeborg/fatitalic",
+            "css": {
+                "font-family": "Ingeborg Fat Italic",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4836",
+                "slug": "fatitalic",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1129",
+        "slug": "ingeborg"
+    },
+    "generatedAt": 1437610481334
+}

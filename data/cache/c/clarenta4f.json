@@ -1,0 +1,61 @@
+{
+    "name": "Clarenta 4F",
+    "url": "http://fontdeck.com/typeface/clarenta4f",
+    "slug": "clarenta4f",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Serif"
+    ],
+    "foundry": "4th february",
+    "designer": [
+        "Sergiy S. Tkachenko"
+    ],
+    "language": [
+        "latin",
+        "cyrillic"
+    ],
+    "tags": [
+        "clarendon",
+        "cyrillic",
+        "classic",
+        "black"
+    ],
+    "variations": [
+        {
+            "name": "Black",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/clarenta4f/black",
+            "css": {
+                "font-family": "Clarenta 4F Black",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4124",
+                "slug": "black",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/clarenta4f/blackitalic",
+            "css": {
+                "font-family": "Clarenta 4F Black Italic",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4125",
+                "slug": "blackitalic",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "970",
+        "slug": "clarenta4f"
+    },
+    "generatedAt": 1437610208566
+}

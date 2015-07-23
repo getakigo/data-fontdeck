@@ -1,0 +1,80 @@
+{
+    "name": "Q",
+    "url": "http://fontdeck.com/typeface/q",
+    "slug": "q",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Didone",
+        "Display",
+        "Serif",
+        "Display",
+        "Stencil"
+    ],
+    "foundry": "Playtype",
+    "designer": [
+        "Jonas Hecksher"
+    ],
+    "opentype": [
+        "liga",
+        "lnum",
+        "onum",
+        "pnum",
+        "ss01",
+        "ss02",
+        "tnum"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "expressive",
+        "opentype",
+        "bodoni",
+        "didone",
+        "magazine",
+        "didot",
+        "charismatic",
+        "artistic",
+        "calligraphic",
+        "charming",
+        "stencil"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/q/regular",
+            "css": {
+                "font-family": "Q Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6667",
+                "slug": "regular",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Stencil",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/q/stencil",
+            "css": {
+                "font-family": "Q Stencil",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6668",
+                "slug": "stencil",
+                "price": "$45.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1522",
+        "slug": "q"
+    },
+    "generatedAt": 1437610965629
+}

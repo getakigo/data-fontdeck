@@ -1,0 +1,76 @@
+{
+    "name": "Mayence",
+    "url": "http://fontdeck.com/typeface/mayence",
+    "slug": "mayence",
+    "use": "body",
+    "classification": [
+        "Display",
+        "Script",
+        "Script",
+        "Calligraphic"
+    ],
+    "foundry": "IsacoType",
+    "designer": [
+        "Isac Rodrigues"
+    ],
+    "opentype": [
+        "dlig",
+        "liga"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "opentype",
+        "music",
+        "cursive",
+        "energy",
+        "holiday",
+        "script",
+        "elegant",
+        "handwriting",
+        "vintage",
+        "retro",
+        "love",
+        "tattoo",
+        "calligraphy",
+        "wedding"
+    ],
+    "variations": [
+        {
+            "name": "Display",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/mayence/display",
+            "css": {
+                "font-family": "Mayence Display",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6003",
+                "slug": "display",
+                "price": "$7.99"
+            }
+        },
+        {
+            "name": "Text",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/mayence/text",
+            "css": {
+                "font-family": "Mayence Text",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6004",
+                "slug": "text",
+                "price": "$7.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1364",
+        "slug": "mayence"
+    },
+    "generatedAt": 1437610773287
+}

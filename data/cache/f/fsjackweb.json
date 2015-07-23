@@ -1,0 +1,177 @@
+{
+    "name": "FS Jack Web",
+    "url": "http://fontdeck.com/typeface/fsjackweb",
+    "slug": "fsjackweb",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Neo-Grotesk"
+    ],
+    "foundry": "Fontsmith",
+    "designer": [
+        "Jason Smith",
+        "Fernando Mello"
+    ],
+    "opentype": [
+        "liga"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "business",
+        "opentype",
+        "cool",
+        "simple",
+        "sharp",
+        "legible",
+        "clear",
+        "corporate",
+        "distinctive",
+        "clean",
+        "versatile",
+        "crisp"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/fsjackweb/light",
+            "css": {
+                "font-family": "FS Jack Web Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3561",
+                "slug": "light",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/fsjackweb/lightitalic",
+            "css": {
+                "font-family": "FS Jack Web Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3560",
+                "slug": "lightitalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/fsjackweb/regular",
+            "css": {
+                "font-family": "FS Jack Web Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3565",
+                "slug": "regular",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/fsjackweb/italic",
+            "css": {
+                "font-family": "FS Jack Web Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3559",
+                "slug": "italic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/fsjackweb/medium",
+            "css": {
+                "font-family": "FS Jack Web Medium",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3563",
+                "slug": "medium",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/fsjackweb/mediumitalic",
+            "css": {
+                "font-family": "FS Jack Web Medium Italic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3562",
+                "slug": "mediumitalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/fsjackweb/bold",
+            "css": {
+                "font-family": "FS Jack Web Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3558",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/fsjackweb/bolditalic",
+            "css": {
+                "font-family": "FS Jack Web Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3557",
+                "slug": "bolditalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Poster",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/fsjackweb/poster",
+            "css": {
+                "font-family": "FS Jack Web Poster",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3564",
+                "slug": "poster",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "859",
+        "slug": "fsjackweb"
+    },
+    "generatedAt": 1437610008616
+}

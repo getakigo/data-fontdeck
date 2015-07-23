@@ -1,0 +1,116 @@
+{
+    "name": "Satura Text",
+    "url": "http://fontdeck.com/typeface/saturatext",
+    "slug": "saturatext",
+    "superfamily": "Satura",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Neo-Grotesk"
+    ],
+    "foundry": "Letters from Sweden",
+    "designer": [
+        "Göran Söderström",
+        "Peter Bruhn"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "curves",
+        "advertising",
+        "rare",
+        "narrow",
+        "warm",
+        "series",
+        "gentle",
+        "layering",
+        "classic",
+        "geometric",
+        "text",
+        "legible",
+        "line",
+        "super family",
+        "contemporary",
+        "true italics",
+        "swedish",
+        "magazine",
+        "lineal",
+        "poster",
+        "spurless",
+        "modern",
+        "unique",
+        "headline",
+        "unusual",
+        "clean",
+        "suite",
+        "core"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/saturatext/regular",
+            "css": {
+                "font-family": "Satura Text Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4463",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/saturatext/italic",
+            "css": {
+                "font-family": "Satura Text Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4464",
+                "slug": "italic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/saturatext/bold",
+            "css": {
+                "font-family": "Satura Text Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4465",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/saturatext/bolditalic",
+            "css": {
+                "font-family": "Satura Text Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4466",
+                "slug": "bolditalic",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1050",
+        "slug": "saturatext"
+    },
+    "generatedAt": 1437610699805
+}

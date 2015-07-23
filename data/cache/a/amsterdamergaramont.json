@@ -1,0 +1,97 @@
+{
+    "name": "Amsterdamer Garamont",
+    "url": "http://fontdeck.com/typeface/amsterdamergaramont",
+    "slug": "amsterdamergaramont",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Didone",
+        "Display",
+        "Serif"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "URW Studio"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "romanserif",
+        "elegant",
+        "dynamic",
+        "book",
+        "old style serif",
+        "masculine",
+        "valuable",
+        "newspaper",
+        "magazine"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/amsterdamergaramont/regular",
+            "css": {
+                "font-family": "Amsterdamer Garamont Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "691",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/amsterdamergaramont/regularitalic",
+            "css": {
+                "font-family": "AmsterdameGaramonRegulaItali",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "692",
+                "slug": "regularitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/amsterdamergaramont/medium",
+            "css": {
+                "font-family": "Amsterdamer Garamont Medium",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "689",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/amsterdamergaramont/mediumitalic",
+            "css": {
+                "font-family": "AmsterdamerGaramontMediumItalic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "690",
+                "slug": "mediumitalic",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "231",
+        "slug": "amsterdamergaramont"
+    },
+    "generatedAt": 1437609046680
+}

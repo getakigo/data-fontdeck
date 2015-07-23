@@ -1,0 +1,83 @@
+{
+    "name": "Wells Grotesque Pro",
+    "url": "http://fontdeck.com/typeface/wellsgrotesquepro",
+    "slug": "wellsgrotesquepro",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Display",
+        "Computer-related",
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "Red Rooster Collection",
+    "designer": [
+        "Hal Taylor"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "decorative",
+        "modern",
+        "minimalism",
+        "1950s",
+        "logo",
+        "film titling",
+        "1960s",
+        "poster"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/wellsgrotesquepro/light",
+            "css": {
+                "font-family": "Wells Grotesque Pro Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3163",
+                "slug": "light",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/wellsgrotesquepro/medium",
+            "css": {
+                "font-family": "Wells Grotesque Pro Medium",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3161",
+                "slug": "medium",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/wellsgrotesquepro/bold",
+            "css": {
+                "font-family": "Wells Grotesque Pro Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3162",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "743",
+        "slug": "wellsgrotesquepro"
+    },
+    "generatedAt": 1437609830677
+}

@@ -1,0 +1,109 @@
+{
+    "name": "Nassim Arabic",
+    "url": "http://fontdeck.com/typeface/nassimarabic",
+    "slug": "nassimarabic",
+    "superfamily": "Nassim",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Modern"
+    ],
+    "foundry": "Rosetta",
+    "designer": [
+        "Titus Nemeth"
+    ],
+    "opentype": [
+        "calt",
+        "liga"
+    ],
+    "language": [
+        "latin",
+        "arabic"
+    ],
+    "tags": [
+        "opentype",
+        "persian",
+        "hand hinted",
+        "news text",
+        "text",
+        "classical",
+        "sturdy",
+        "contemporary",
+        "magazine",
+        "hand-hinted",
+        "news",
+        "versatile",
+        "manually hinted",
+        "harmonious",
+        "calligraphic",
+        "arabic",
+        "editorial"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/nassimarabic/regular",
+            "css": {
+                "font-family": "Nassim Arabic Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4762",
+                "slug": "regular",
+                "price": "$25.00"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/nassimarabic/semibold",
+            "css": {
+                "font-family": "Nassim Arabic Semibold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4765",
+                "slug": "semibold",
+                "price": "$25.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/nassimarabic/bold",
+            "css": {
+                "font-family": "Nassim Arabic Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4763",
+                "slug": "bold",
+                "price": "$25.00"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/nassimarabic/extrabold",
+            "css": {
+                "font-family": "Nassim Arabic Extrabold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4764",
+                "slug": "extrabold",
+                "price": "$25.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1110",
+        "slug": "nassimarabic"
+    },
+    "generatedAt": 1437610441139
+}

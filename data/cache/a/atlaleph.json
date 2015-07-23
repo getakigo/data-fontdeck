@@ -1,0 +1,40 @@
+{
+    "name": "ATL Aleph",
+    "url": "http://fontdeck.com/typeface/atlaleph",
+    "slug": "atlaleph",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Experimental"
+    ],
+    "foundry": "Nouvelle Noire",
+    "designer": [
+        "Philippe Apeloig"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/atlaleph/regular",
+            "css": {
+                "font-family": "ATL Aleph Regular",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7689",
+                "slug": "regular",
+                "price": "$25.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1773",
+        "slug": "atlaleph"
+    },
+    "generatedAt": 1437611234937
+}

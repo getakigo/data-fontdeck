@@ -1,0 +1,86 @@
+{
+    "name": "Clou",
+    "url": "http://fontdeck.com/typeface/clou",
+    "slug": "clou",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "All caps",
+        "Display",
+        "Experimental",
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "Fontfabric",
+    "designer": [
+        "Svetoslav Simov"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "sphere",
+        "white",
+        "balloon",
+        "logo",
+        "fat",
+        "fancy",
+        "candy",
+        "cake",
+        "rounded",
+        "filled counters",
+        "black",
+        "poster",
+        "plump",
+        "sweet",
+        "circle",
+        "modern",
+        "food",
+        "graphic",
+        "round",
+        "fresh",
+        "smooth",
+        "bold",
+        "light",
+        "space",
+        "ultra-bold",
+        "packaging"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/clou/light",
+            "css": {
+                "font-family": "Clou Light",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2984",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/clou/black",
+            "css": {
+                "font-family": "Clou Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2983",
+                "slug": "black",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "692",
+        "slug": "clou"
+    },
+    "generatedAt": 1437609730994
+}

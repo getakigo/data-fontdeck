@@ -1,0 +1,228 @@
+{
+    "name": "Skolar3 Latin",
+    "url": "http://fontdeck.com/typeface/skolar3latin",
+    "slug": "skolar3latin",
+    "superfamily": "Skolar",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Rugged",
+        "Serif",
+        "Transitional",
+        "Serif",
+        "Neo-classical"
+    ],
+    "foundry": "Rosetta",
+    "designer": [
+        "David Březina"
+    ],
+    "opentype": [
+        "c2sc",
+        "case",
+        "dnom",
+        "frac",
+        "hist",
+        "liga",
+        "lnum",
+        "numr",
+        "onum",
+        "ordn",
+        "pnum",
+        "sinf",
+        "smcp",
+        "subs",
+        "sups",
+        "tnum",
+        "zero"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "formal",
+        "opentype",
+        "hand hinted",
+        "21st century",
+        "text",
+        "wedge serif",
+        "latin",
+        "contemporary",
+        "magazine",
+        "hand-hinted",
+        "news",
+        "academic",
+        "dictionary",
+        "david březina",
+        "scholarly",
+        "czech",
+        "low-contrast",
+        "workhorse",
+        "legible",
+        "sturdy",
+        "brochure",
+        "manually hinted",
+        "neutral",
+        "playful",
+        "book",
+        "light",
+        "corporate",
+        "21st century text"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/skolar3latin/light",
+            "css": {
+                "font-family": "Skolar3 Latin Light",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7793",
+                "slug": "light",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i3",
+            "url": "http://fontdeck.com/font/skolar3latin/lightitalic",
+            "css": {
+                "font-family": "Skolar3 Latin Light Italic",
+                "font-weight": "300",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7794",
+                "slug": "lightitalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/skolar3latin/regular",
+            "css": {
+                "font-family": "Skolar3 Latin Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7789",
+                "slug": "regular",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/skolar3latin/italic",
+            "css": {
+                "font-family": "Skolar3 Latin Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7795",
+                "slug": "italic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/skolar3latin/semibold",
+            "css": {
+                "font-family": "Skolar3 Latin Semibold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7790",
+                "slug": "semibold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Semi-bold Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/skolar3latin/semibolditalic",
+            "css": {
+                "font-family": "Skolar3 Latin Semibold Italic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7796",
+                "slug": "semibolditalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/skolar3latin/bold",
+            "css": {
+                "font-family": "Skolar3 Latin Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7791",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/skolar3latin/bolditalic",
+            "css": {
+                "font-family": "Skolar3 Latin Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7797",
+                "slug": "bolditalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/skolar3latin/extrabold",
+            "css": {
+                "font-family": "Skolar3 Latin Extrabold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7792",
+                "slug": "extrabold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Extra-bold Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/skolar3latin/extrabolditalic",
+            "css": {
+                "font-family": "Skolar3 Latin Extrabold Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7798",
+                "slug": "extrabolditalic",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1796",
+        "slug": "skolar3latin"
+    },
+    "generatedAt": 1437611291541
+}

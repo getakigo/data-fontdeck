@@ -1,0 +1,71 @@
+{
+    "name": "Tondu",
+    "url": "http://fontdeck.com/typeface/tondu",
+    "slug": "tondu",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "The Northern Block",
+    "designer": [
+        "Jonathan Hill"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "transport",
+        "headlines",
+        "1970s",
+        "title",
+        "classic",
+        "geometric",
+        "logo",
+        "legible",
+        "nightclub",
+        "contemporary",
+        "magazine",
+        "poster",
+        "chunky",
+        "modern",
+        "tshirt",
+        "identity",
+        "tough",
+        "logotypes",
+        "bold",
+        "signage",
+        "ultra bold",
+        "headline",
+        "heavy",
+        "readable",
+        "display",
+        "charming",
+        "impact",
+        "wide"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/tondu/regular",
+            "css": {
+                "font-family": "Tondu Regular",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3802",
+                "slug": "regular",
+                "price": "$7.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "899",
+        "slug": "tondu"
+    },
+    "generatedAt": 1437610081883
+}

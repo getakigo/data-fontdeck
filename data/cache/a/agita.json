@@ -1,0 +1,83 @@
+{
+    "name": "Agita",
+    "url": "http://fontdeck.com/typeface/agita",
+    "slug": "agita",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "Playtype",
+    "designer": [
+        "Jens Kajus"
+    ],
+    "opentype": [
+        "liga",
+        "tnum"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "opentype",
+        "technical",
+        "square",
+        "neo-grotesk",
+        "squarish",
+        "eurostile"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/agita/regular",
+            "css": {
+                "font-family": "Agita Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6338",
+                "slug": "regular",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/agita/bold",
+            "css": {
+                "font-family": "Agita Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6339",
+                "slug": "bold",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Demibold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/agita/demibold",
+            "css": {
+                "font-family": "Agita Demibold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6340",
+                "slug": "demibold",
+                "price": "$40.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1457",
+        "slug": "agita"
+    },
+    "generatedAt": 1437610885541
+}

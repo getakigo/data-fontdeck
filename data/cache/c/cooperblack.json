@@ -1,0 +1,130 @@
+{
+    "name": "Cooper Black",
+    "url": "http://fontdeck.com/typeface/cooperblack",
+    "slug": "cooperblack",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Serif"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Oswald Bruce Cooper"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "decorative",
+        "serif",
+        "1920s",
+        "old style",
+        "round",
+        "old",
+        "legible",
+        "american",
+        "soft",
+        "headline",
+        "heavy",
+        "rounded",
+        "black",
+        "natural"
+    ],
+    "variations": [
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/cooperblack/italic",
+            "css": {
+                "font-family": "Cooper Black Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "862",
+                "slug": "italic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Standard Outline",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/cooperblack/standardoutline",
+            "css": {
+                "font-family": "Cooper Black Standard Outline",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "864",
+                "slug": "standardoutline",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Standard",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/cooperblack/standard",
+            "css": {
+                "font-family": "Cooper Black Standard",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "861",
+                "slug": "standard",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Condensed Outline",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/cooperblack/boldcondensedoutline",
+            "css": {
+                "font-family": "CooperBlackBoldCondensedOutline",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "865",
+                "slug": "boldcondensedoutline",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Condensed",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/cooperblack/condensed",
+            "css": {
+                "font-family": "Cooper Black Condensed",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "863",
+                "slug": "condensed",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Standard Stencil",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/cooperblack/standardstencil",
+            "css": {
+                "font-family": "Cooper Black Standard Stencil",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "866",
+                "slug": "standardstencil",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "263",
+        "slug": "cooperblack"
+    },
+    "generatedAt": 1437609104263
+}

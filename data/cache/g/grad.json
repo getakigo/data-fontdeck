@@ -1,0 +1,80 @@
+{
+    "name": "Grad",
+    "url": "http://fontdeck.com/typeface/grad",
+    "slug": "grad",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Transitional"
+    ],
+    "foundry": "Mark Simonson Studio",
+    "designer": [
+        "Phil Martin",
+        "Mark Simonson"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "elegant",
+        "text",
+        "legible",
+        "informal",
+        "scotch",
+        "headline",
+        "century",
+        "news"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/grad/regular",
+            "css": {
+                "font-family": "Grad Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1285",
+                "slug": "regular",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/grad/italic",
+            "css": {
+                "font-family": "Grad Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1284",
+                "slug": "italic",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/grad/bold",
+            "css": {
+                "font-family": "Grad Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1283",
+                "slug": "bold",
+                "price": "$9.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "351",
+        "slug": "grad"
+    },
+    "generatedAt": 1437609214965
+}

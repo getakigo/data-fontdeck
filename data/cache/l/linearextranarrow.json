@@ -1,0 +1,180 @@
+{
+    "name": "Linear Extra Narrow",
+    "url": "http://fontdeck.com/typeface/linearextranarrow",
+    "slug": "linearextranarrow",
+    "superfamily": "Linear",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Humanist"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Albert-Jan Pool"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "super family",
+        "1990s",
+        "linear"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/linearextranarrow/regular",
+            "css": {
+                "font-family": "Linear Extra Narrow Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "371",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Oblique",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/linearextranarrow/oblique",
+            "css": {
+                "font-family": "Linear Extra Narrow Oblique",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "345",
+                "slug": "oblique",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/linearextranarrow/medium",
+            "css": {
+                "font-family": "Linear Extra Narrow Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "382",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium Oblique",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/linearextranarrow/mediumoblique",
+            "css": {
+                "font-family": "LinearExtraNarrowMediumOblique",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "211",
+                "slug": "mediumoblique",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/linearextranarrow/bold",
+            "css": {
+                "font-family": "Linear Extra Narrow Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "220",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Oblique",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/linearextranarrow/boldoblique",
+            "css": {
+                "font-family": "LinearExtraNarrowBoldOblique",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "244",
+                "slug": "boldoblique",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/linearextranarrow/extrabold",
+            "css": {
+                "font-family": "Linear Extra Narrow Extra Bold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "305",
+                "slug": "extrabold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-bold Oblique",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/linearextranarrow/extraboldoblique",
+            "css": {
+                "font-family": "LineaExtrNarroExtrBolObliqu",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "221",
+                "slug": "extraboldoblique",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Ultra Bold",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/linearextranarrow/ultrabold",
+            "css": {
+                "font-family": "Linear Extra Narrow Ultra Bold",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "362",
+                "slug": "ultrabold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Ultra Bold Oblique",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/linearextranarrow/ultraboldoblique",
+            "css": {
+                "font-family": "LineaExtrNarroUltrBolObliqu",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "293",
+                "slug": "ultraboldoblique",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "140",
+        "slug": "linearextranarrow"
+    },
+    "generatedAt": 1437608914654
+}

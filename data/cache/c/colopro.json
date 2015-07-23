@@ -1,0 +1,74 @@
+{
+    "name": "Colo Pro",
+    "url": "http://fontdeck.com/typeface/colopro",
+    "slug": "colopro",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Experimental",
+        "Display",
+        "Art Deco",
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "Fontfabric",
+    "designer": [
+        "Svetoslav Simov"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "decorative",
+        "circle",
+        "inner-line",
+        "round",
+        "geometric",
+        "legible",
+        "fat",
+        "retro",
+        "bold",
+        "headline",
+        "cyrillic",
+        "greek",
+        "rounded",
+        "poster"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/colopro/regular",
+            "css": {
+                "font-family": "Colo Pro Regular",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2990",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/colopro/black",
+            "css": {
+                "font-family": "Colo Pro Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2989",
+                "slug": "black",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "695",
+        "slug": "colopro"
+    },
+    "generatedAt": 1437609730305
+}

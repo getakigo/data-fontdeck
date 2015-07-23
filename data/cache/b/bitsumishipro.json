@@ -1,0 +1,50 @@
+{
+    "name": "Bitsumishi Pro",
+    "url": "http://fontdeck.com/typeface/bitsumishipro",
+    "slug": "bitsumishipro",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "All caps",
+        "Display",
+        "Futuristic"
+    ],
+    "foundry": "CheapProFonts",
+    "designer": [
+        "Levente Halmos"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "surrogate",
+        "all caps",
+        "car",
+        "fast",
+        "square",
+        "speedy",
+        "geometric"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/bitsumishipro/regular",
+            "css": {
+                "font-family": "Bitsumishi Pro Regular",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4752",
+                "slug": "regular",
+                "price": "$9.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1100",
+        "slug": "bitsumishipro"
+    },
+    "generatedAt": 1437610425507
+}

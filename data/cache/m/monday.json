@@ -1,0 +1,71 @@
+{
+    "name": "Monday",
+    "url": "http://fontdeck.com/typeface/monday",
+    "slug": "monday",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Transitional"
+    ],
+    "foundry": "A2-TYPE",
+    "designer": [
+        "Henrik Kubel"
+    ],
+    "opentype": [
+        "liga",
+        "lnum",
+        "onum",
+        "ss01",
+        "ss02",
+        "ss03"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "victorian",
+        "19th century",
+        "opentype",
+        "serif",
+        "english",
+        "legible",
+        "vernacular"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/monday/regular",
+            "css": {
+                "font-family": "Monday Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7745",
+                "slug": "regular",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/monday/italic",
+            "css": {
+                "font-family": "Monday Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7746",
+                "slug": "italic",
+                "price": "$45.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1785",
+        "slug": "monday"
+    },
+    "generatedAt": 1437611263657
+}

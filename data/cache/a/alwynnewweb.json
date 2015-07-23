@@ -1,0 +1,193 @@
+{
+    "name": "Alwyn New Web",
+    "url": "http://fontdeck.com/typeface/alwynnewweb",
+    "slug": "alwynnewweb",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Humanist",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "Moretype",
+    "designer": [
+        "Chris Dickinson"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "true italic",
+        "modern",
+        "hand hinted",
+        "commercial",
+        "workhorse",
+        "handhinted",
+        "soft",
+        "signage",
+        "branding",
+        "friendly",
+        "contemporary",
+        "rounded",
+        "clean",
+        "news",
+        "manually hinted"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/alwynnewweb/thin",
+            "css": {
+                "font-family": "Alwyn New Web Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3621",
+                "slug": "thin",
+                "price": "$11.50"
+            }
+        },
+        {
+            "name": "Thin Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/alwynnewweb/thinitalic",
+            "css": {
+                "font-family": "Alwyn New Web Thin Italic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3622",
+                "slug": "thinitalic",
+                "price": "$11.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/alwynnewweb/light",
+            "css": {
+                "font-family": "Alwyn New Web Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3615",
+                "slug": "light",
+                "price": "$11.50"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/alwynnewweb/lightitalic",
+            "css": {
+                "font-family": "Alwyn New Web Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3616",
+                "slug": "lightitalic",
+                "price": "$11.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/alwynnewweb/regular",
+            "css": {
+                "font-family": "Alwyn New Web Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3619",
+                "slug": "regular",
+                "price": "$11.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/alwynnewweb/italic",
+            "css": {
+                "font-family": "Alwyn New Web Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3620",
+                "slug": "italic",
+                "price": "$11.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/alwynnewweb/medium",
+            "css": {
+                "font-family": "Alwyn New Web Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3617",
+                "slug": "medium",
+                "price": "$11.50"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/alwynnewweb/mediumitalic",
+            "css": {
+                "font-family": "Alwyn New Web Medium Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3618",
+                "slug": "mediumitalic",
+                "price": "$11.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/alwynnewweb/bold",
+            "css": {
+                "font-family": "Alwyn New Web Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3613",
+                "slug": "bold",
+                "price": "$11.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/alwynnewweb/bolditalic",
+            "css": {
+                "font-family": "Alwyn New Web Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3614",
+                "slug": "bolditalic",
+                "price": "$11.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "871",
+        "slug": "alwynnewweb"
+    },
+    "generatedAt": 1437610042169
+}

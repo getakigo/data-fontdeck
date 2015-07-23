@@ -1,0 +1,61 @@
+{
+    "name": "Facet",
+    "url": "http://fontdeck.com/typeface/facet",
+    "slug": "facet",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Futuristic"
+    ],
+    "foundry": "Fontfabric",
+    "designer": [
+        "Svetoslav Simov"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "decorative",
+        "futurism",
+        "futuristic",
+        "unusual",
+        "box"
+    ],
+    "variations": [
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/facet/black",
+            "css": {
+                "font-family": "Facet Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3274",
+                "slug": "black",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "Ultra",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/facet/ultra",
+            "css": {
+                "font-family": "Facet Ultra",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3275",
+                "slug": "ultra",
+                "price": "$3.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "778",
+        "slug": "facet"
+    },
+    "generatedAt": 1437609872590
+}

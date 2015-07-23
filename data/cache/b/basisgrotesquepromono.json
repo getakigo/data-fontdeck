@@ -1,0 +1,106 @@
+{
+    "name": "Basis Grotesque Pro Mono",
+    "url": "http://fontdeck.com/typeface/basisgrotesquepromono",
+    "slug": "basisgrotesquepromono",
+    "superfamily": "Basisgrotesquepro",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Monospaced"
+    ],
+    "foundry": "Colophon",
+    "designer": [
+        "Edd Harrington",
+        "Anthony Sheret"
+    ],
+    "opentype": [
+        "dlig",
+        "hist",
+        "liga",
+        "lnum",
+        "onum",
+        "ss01",
+        "ss02",
+        "zero"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "monospaced",
+        "terminal",
+        "sans-serif",
+        "code",
+        "grotesk",
+        "grotesque",
+        "coding",
+        "superfamily"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/basisgrotesquepromono/regular",
+            "css": {
+                "font-family": "BasisGrotesqueProMonoRegular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8876",
+                "slug": "regular",
+                "price": "$13.75"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/basisgrotesquepromono/italic",
+            "css": {
+                "font-family": "Basis Grotesque Pro Mono Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8877",
+                "slug": "italic",
+                "price": "$13.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/basisgrotesquepromono/bold",
+            "css": {
+                "font-family": "Basis Grotesque Pro Mono Bold",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8866",
+                "slug": "bold",
+                "price": "$13.75"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/basisgrotesquepromono/bolditalic",
+            "css": {
+                "font-family": "BasisGrotesqueProMonoBoldItalic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8865",
+                "slug": "bolditalic",
+                "price": "$13.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1989",
+        "slug": "basisgrotesquepromono"
+    },
+    "generatedAt": 1437611529486
+}

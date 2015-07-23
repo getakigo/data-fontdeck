@@ -1,0 +1,112 @@
+{
+    "name": "Los Alamos Pro",
+    "url": "http://fontdeck.com/typeface/losalamospro",
+    "slug": "losalamospro",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Experimental",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "Red Rooster Collection",
+    "designer": [
+        "Steve Jackaman"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "1930s",
+        "1920s",
+        "geometric",
+        "art deco",
+        "logo",
+        "unicase",
+        "magazine",
+        "impact",
+        "poster"
+    ],
+    "variations": [
+        {
+            "name": "Fusion",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/losalamospro/fusion",
+            "css": {
+                "font-family": "Los Alamos Pro Fusion",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3197",
+                "slug": "fusion",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Little Boy",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/losalamospro/littleboy",
+            "css": {
+                "font-family": "Los Alamos Pro Little Boy",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3198",
+                "slug": "littleboy",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Oppenheimer",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/losalamospro/oppenheimer",
+            "css": {
+                "font-family": "Los Alamos Pro Oppenheimer",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3199",
+                "slug": "oppenheimer",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Fat Man",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/losalamospro/fatman",
+            "css": {
+                "font-family": "Los Alamos Pro Fat Man",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3196",
+                "slug": "fatman",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Trinity",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/losalamospro/trinity",
+            "css": {
+                "font-family": "Los Alamos Pro Trinity",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3200",
+                "slug": "trinity",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "753",
+        "slug": "losalamospro"
+    },
+    "generatedAt": 1437609841379
+}

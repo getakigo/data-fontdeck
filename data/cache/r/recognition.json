@@ -1,0 +1,63 @@
+{
+    "name": "Recognition",
+    "url": "http://fontdeck.com/typeface/recognition",
+    "slug": "recognition",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Grotesque"
+    ],
+    "foundry": "A2-TYPE",
+    "designer": [
+        "Henrik Kubel"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "editorial",
+        "contemporary",
+        "newspaper",
+        "magazine",
+        "book",
+        "text",
+        "legible"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/recognition/regular",
+            "css": {
+                "font-family": "Recognition Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6496",
+                "slug": "regular",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/recognition/italic",
+            "css": {
+                "font-family": "Recognition Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6495",
+                "slug": "italic",
+                "price": "$45.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1482",
+        "slug": "recognition"
+    },
+    "generatedAt": 1437610920972
+}

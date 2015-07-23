@@ -1,0 +1,54 @@
+{
+    "name": "Trim Stencil",
+    "url": "http://fontdeck.com/typeface/trimstencil",
+    "slug": "trimstencil",
+    "superfamily": "Trim",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Grotesque",
+        "Display",
+        "Stencil"
+    ],
+    "foundry": "Letters from Sweden",
+    "designer": [
+        "Göran Söderström"
+    ],
+    "opentype": [
+        "liga",
+        "ss01"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "condensed",
+        "grotesque",
+        "headline",
+        "magazine",
+        "display",
+        "stencil"
+    ],
+    "variations": [
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/trimstencil/extrabold",
+            "css": {
+                "font-family": "Trim Stencil ExtraBold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5445",
+                "slug": "extrabold",
+                "price": "$17.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1281",
+        "slug": "trimstencil"
+    },
+    "generatedAt": 1437610642948
+}

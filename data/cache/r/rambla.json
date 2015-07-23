@@ -1,0 +1,143 @@
+{
+    "name": "Rambla",
+    "url": "http://fontdeck.com/typeface/rambla",
+    "slug": "rambla",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Humanist"
+    ],
+    "foundry": "TipoType",
+    "designer": [
+        "Martin Sommaruga"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "headlines",
+        "narrow",
+        "workhorse",
+        "text",
+        "logo",
+        "softness",
+        "large x-height",
+        "titles",
+        "squarish",
+        "contemporary",
+        "humanist",
+        "personality",
+        "economical",
+        "sans",
+        "modern",
+        "commercial",
+        "humanistic",
+        "book",
+        "dutch",
+        "oblique",
+        "identity",
+        "condensend",
+        "bold",
+        "branding",
+        "uruguay",
+        "display",
+        "cosmopolitan"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/rambla/light",
+            "css": {
+                "font-family": "Rambla Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8841",
+                "slug": "light",
+                "price": "$11.00"
+            }
+        },
+        {
+            "name": "Light Oblique",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/rambla/lightoblique",
+            "css": {
+                "font-family": "Rambla Light Oblique",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8840",
+                "slug": "lightoblique",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/rambla/regular",
+            "css": {
+                "font-family": "Rambla Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8845",
+                "slug": "regular",
+                "price": "$11.00"
+            }
+        },
+        {
+            "name": "Regular Oblique",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/rambla/regularoblique",
+            "css": {
+                "font-family": "Rambla Regular Oblique",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8844",
+                "slug": "regularoblique",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/rambla/bold",
+            "css": {
+                "font-family": "Rambla Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8843",
+                "slug": "bold",
+                "price": "$11.00"
+            }
+        },
+        {
+            "name": "Bold Oblique",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/rambla/boldoblique",
+            "css": {
+                "font-family": "Rambla Bold Oblique",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8842",
+                "slug": "boldoblique",
+                "price": "$9.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1983",
+        "slug": "rambla"
+    },
+    "generatedAt": 1437611566555
+}

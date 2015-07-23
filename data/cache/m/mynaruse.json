@@ -1,0 +1,117 @@
+{
+    "name": "Mynaruse",
+    "url": "http://fontdeck.com/typeface/mynaruse",
+    "slug": "mynaruse",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "Insigne",
+    "designer": [
+        "Jeremy Dooley"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "trajan"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/mynaruse/thin",
+            "css": {
+                "font-family": "Mynaruse Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "645",
+                "slug": "thin",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/mynaruse/light",
+            "css": {
+                "font-family": "Mynaruse Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "642",
+                "slug": "light",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/mynaruse/regular",
+            "css": {
+                "font-family": "Mynaruse Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "644",
+                "slug": "regular",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/mynaruse/medium",
+            "css": {
+                "font-family": "Mynaruse Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "643",
+                "slug": "medium",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/mynaruse/bold",
+            "css": {
+                "font-family": "Mynaruse Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "640",
+                "slug": "bold",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/mynaruse/heavy",
+            "css": {
+                "font-family": "Mynaruse Heavy",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "641",
+                "slug": "heavy",
+                "price": "$7.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "217",
+        "slug": "mynaruse"
+    },
+    "generatedAt": 1437609026489
+}

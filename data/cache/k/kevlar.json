@@ -1,0 +1,83 @@
+{
+    "name": "Kevlar",
+    "url": "http://fontdeck.com/typeface/kevlar",
+    "slug": "kevlar",
+    "use": "body",
+    "classification": [
+        "Display",
+        "Poster",
+        "Sans Serif",
+        "Humanist"
+    ],
+    "foundry": "Letterbox",
+    "designer": [
+        "Lan Huang",
+        "Niels Oeltjen",
+        "Wendy Ellerton"
+    ],
+    "opentype": [
+        "lnum",
+        "onum"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "retro",
+        "opentype",
+        "titling",
+        "display"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/kevlar/regular",
+            "css": {
+                "font-family": "Kevlar Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5431",
+                "slug": "regular",
+                "price": "$18.69"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/kevlar/bold",
+            "css": {
+                "font-family": "Kevlar Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5430",
+                "slug": "bold",
+                "price": "$18.69"
+            }
+        },
+        {
+            "name": "Slab",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/kevlar/slab",
+            "css": {
+                "font-family": "Kevlar Slab",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5432",
+                "slug": "slab",
+                "price": "$18.69"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1274",
+        "slug": "kevlar"
+    },
+    "generatedAt": 1437610651044
+}

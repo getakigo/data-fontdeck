@@ -1,0 +1,151 @@
+{
+    "name": "Nimbus Sans Latin",
+    "url": "http://fontdeck.com/typeface/nimbussanslatin",
+    "slug": "nimbussanslatin",
+    "superfamily": "Nimbus",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Max Miedinger"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "superfamily",
+        "dynamic",
+        "swiss",
+        "grotesque"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/nimbussanslatin/light",
+            "css": {
+                "font-family": "Nimbus Sans Latin Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "395",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/nimbussanslatin/lightitalic",
+            "css": {
+                "font-family": "Nimbus Sans Latin Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3730",
+                "slug": "lightitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/nimbussanslatin/regular",
+            "css": {
+                "font-family": "Nimbus Sans Latin Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "390",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/nimbussanslatin/italic",
+            "css": {
+                "font-family": "Nimbus Sans Latin Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3731",
+                "slug": "italic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/nimbussanslatin/bold",
+            "css": {
+                "font-family": "Nimbus Sans Latin Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "387",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/nimbussanslatin/bolditalic",
+            "css": {
+                "font-family": "Nimbus Sans Latin Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3732",
+                "slug": "bolditalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/nimbussanslatin/black",
+            "css": {
+                "font-family": "Nimbus Sans Latin Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "394",
+                "slug": "black",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/nimbussanslatin/blackitalic",
+            "css": {
+                "font-family": "Nimbus Sans Latin Black Italic",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3733",
+                "slug": "blackitalic",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "166",
+        "slug": "nimbussanslatin"
+    },
+    "generatedAt": 1437608942643
+}

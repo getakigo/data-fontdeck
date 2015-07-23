@@ -1,0 +1,124 @@
+{
+    "name": "Danmark URW",
+    "url": "http://fontdeck.com/typeface/danmarkurw",
+    "slug": "danmarkurw",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Glyphic"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "URW Studio"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "fine",
+        "sensible",
+        "elegant",
+        "1990s",
+        "glyphic",
+        "tiny serif",
+        "american",
+        "valuable"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/danmarkurw/light",
+            "css": {
+                "font-family": "Danmark URW Light",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "870",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/danmarkurw/medium",
+            "css": {
+                "font-family": "Danmark URW Medium",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "871",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/danmarkurw/bold",
+            "css": {
+                "font-family": "Danmark URW Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "867",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/danmarkurw/extrabold",
+            "css": {
+                "font-family": "Danmark URW Extra Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "869",
+                "slug": "extrabold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Ultra",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/danmarkurw/ultra",
+            "css": {
+                "font-family": "Danmark URW Ultra",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "872",
+                "slug": "ultra",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Demi",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/danmarkurw/demi",
+            "css": {
+                "font-family": "Danmark URW Demi",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "868",
+                "slug": "demi",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "264",
+        "slug": "danmarkurw"
+    },
+    "generatedAt": 1437609104150
+}

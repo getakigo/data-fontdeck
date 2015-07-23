@@ -1,0 +1,56 @@
+{
+    "name": "Excavate",
+    "url": "http://fontdeck.com/typeface/excavate",
+    "slug": "excavate",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "All caps",
+        "Display",
+        "Grunge",
+        "Display",
+        "Poster"
+    ],
+    "foundry": "Weathersbee Type",
+    "designer": [
+        "Derek Weathersbee"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "cut",
+        "human",
+        "powerful",
+        "exotic",
+        "legible",
+        "1960",
+        "strong",
+        "carved lettering",
+        "display",
+        "genuine",
+        "earth"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/excavate/regular",
+            "css": {
+                "font-family": "Excavate Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8362",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1910",
+        "slug": "excavate"
+    },
+    "generatedAt": 1437611418950
+}

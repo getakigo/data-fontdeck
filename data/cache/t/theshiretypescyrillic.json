@@ -1,0 +1,121 @@
+{
+    "name": "The Shire Types Cyrillic",
+    "url": "http://fontdeck.com/typeface/theshiretypescyrillic",
+    "slug": "theshiretypescyrillic",
+    "superfamily": "The Shire Types",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "Jeremy Tankard Typography",
+    "designer": [
+        "Jeremy Tankard"
+    ],
+    "language": [
+        "latin",
+        "cyrillic"
+    ],
+    "tags": [
+        "heavy",
+        "fun",
+        "superfamily"
+    ],
+    "variations": [
+        {
+            "name": "Cheshire",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/theshiretypescyrillic/cheshire",
+            "css": {
+                "font-family": "TheShireTypesCyrillicCheshire",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3595",
+                "slug": "cheshire",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Warwickshire",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/theshiretypescyrillic/warwickshire",
+            "css": {
+                "font-family": "ThShirTypeCyrilliWarwickshir",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3597",
+                "slug": "warwickshire",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Shropshire",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/theshiretypescyrillic/shropshire",
+            "css": {
+                "font-family": "TheShireTypesCyrillicShropshire",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3594",
+                "slug": "shropshire",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Worcestershire",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/theshiretypescyrillic/worcestershire",
+            "css": {
+                "font-family": "ThShirTypeCyrilliWorcestershir",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3598",
+                "slug": "worcestershire",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Derbyshire",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/theshiretypescyrillic/derbyshire",
+            "css": {
+                "font-family": "TheShireTypesCyrillicDerbyshire",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3593",
+                "slug": "derbyshire",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Staffordshire",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/theshiretypescyrillic/staffordshire",
+            "css": {
+                "font-family": "ThShirTypeCyrilliStaffordshir",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3596",
+                "slug": "staffordshire",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "869",
+        "slug": "theshiretypescyrillic"
+    },
+    "generatedAt": 1437610034203
+}

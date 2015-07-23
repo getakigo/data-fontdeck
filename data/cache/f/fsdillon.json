@@ -1,0 +1,127 @@
+{
+    "name": "FS Dillon",
+    "url": "http://fontdeck.com/typeface/fsdillon",
+    "slug": "fsdillon",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Hybrid",
+        "Sans Serif",
+        "Gothic",
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "Fontsmith",
+    "designer": [
+        "Jason Smith"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "modern",
+        "compact",
+        "simple",
+        "bauhaus",
+        "rational",
+        "impact",
+        "clear"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/fsdillon/regular",
+            "css": {
+                "font-family": "FS Dillon Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4374",
+                "slug": "regular",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/fsdillon/italic",
+            "css": {
+                "font-family": "FS Dillon Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4371",
+                "slug": "italic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/fsdillon/medium",
+            "css": {
+                "font-family": "FS Dillon Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4373",
+                "slug": "medium",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/fsdillon/mediumitalic",
+            "css": {
+                "font-family": "FS Dillon Medium Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4372",
+                "slug": "mediumitalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/fsdillon/bold",
+            "css": {
+                "font-family": "FS Dillon Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4370",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/fsdillon/bolditalic",
+            "css": {
+                "font-family": "FS Dillon Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4369",
+                "slug": "bolditalic",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1024",
+        "slug": "fsdillon"
+    },
+    "generatedAt": 1437610320586
+}

@@ -1,0 +1,61 @@
+{
+    "name": "Karmina lnum subset",
+    "url": "http://fontdeck.com/typeface/karminalnumsubset",
+    "slug": "karminalnumsubset",
+    "superfamily": "Karmina",
+    "use": "body",
+    "classification": [
+        "Slab Serif",
+        "Humanist"
+    ],
+    "foundry": "TypeTogether",
+    "designer": [
+        "José Scaglione"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "expert subset"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/karminalnumsubset/regular",
+            "css": {
+                "font-family": "Karmina lnum subset Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8289",
+                "slug": "regular",
+                "price": "FREE"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/karminalnumsubset/italic",
+            "css": {
+                "font-family": "Karmina lnum subset Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8290",
+                "slug": "italic",
+                "price": "FREE"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1898",
+        "slug": "karminalnumsubset"
+    },
+    "expert subset": [
+        "lnum"
+    ],
+    "generatedAt": 1437611428541
+}

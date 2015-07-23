@@ -1,0 +1,120 @@
+{
+    "name": "Cochin",
+    "url": "http://fontdeck.com/typeface/cochin",
+    "slug": "cochin",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Baroque"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "URW Studio"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "sturdy",
+        "formal",
+        "elegant",
+        "economic"
+    ],
+    "variations": [
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/cochin/bold",
+            "css": {
+                "font-family": "Cochin Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "845",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/cochin/bolditalic",
+            "css": {
+                "font-family": "Cochin Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "846",
+                "slug": "bolditalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/cochin/black",
+            "css": {
+                "font-family": "Cochin Black",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "843",
+                "slug": "black",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/cochin/blackitalic",
+            "css": {
+                "font-family": "Cochin Black Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "844",
+                "slug": "blackitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Roman",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/cochin/roman",
+            "css": {
+                "font-family": "Cochin Roman",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "847",
+                "slug": "roman",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Roman Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/cochin/romanitalic",
+            "css": {
+                "font-family": "Cochin Roman Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "848",
+                "slug": "romanitalic",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "258",
+        "slug": "cochin"
+    },
+    "generatedAt": 1437609093053
+}

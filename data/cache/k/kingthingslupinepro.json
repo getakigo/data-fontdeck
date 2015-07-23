@@ -1,0 +1,40 @@
+{
+    "name": "Kingthings Lupine Pro",
+    "url": "http://fontdeck.com/typeface/kingthingslupinepro",
+    "slug": "kingthingslupinepro",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Comic Strip Lettering"
+    ],
+    "foundry": "CheapProFonts",
+    "designer": [
+        "Kevin King"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/kingthingslupinepro/regular",
+            "css": {
+                "font-family": " Kingthings Lupine Pro Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6841",
+                "slug": "regular",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1553",
+        "slug": "kingthingslupinepro"
+    },
+    "generatedAt": 1437611001630
+}

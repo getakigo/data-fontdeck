@@ -1,0 +1,92 @@
+{
+    "name": "Atlantic Sans",
+    "url": "http://fontdeck.com/typeface/atlanticsans",
+    "slug": "atlanticsans",
+    "use": "body",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Script",
+        "Calligraphic"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "URW Studio"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "elegant",
+        "handwriting",
+        "2000s",
+        "legible"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/atlanticsans/regular",
+            "css": {
+                "font-family": "Atlantic Sans Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "696",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/atlanticsans/italic",
+            "css": {
+                "font-family": "Atlantic Sans Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "698",
+                "slug": "italic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/atlanticsans/semibold",
+            "css": {
+                "font-family": "Atlantic Sans Semi Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "699",
+                "slug": "semibold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Caps",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/atlanticsans/caps",
+            "css": {
+                "font-family": "Atlantic Sans Caps",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "697",
+                "slug": "caps",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "233",
+        "slug": "atlanticsans"
+    },
+    "generatedAt": 1437609056014
+}

@@ -1,0 +1,275 @@
+{
+    "name": "Berlingske Slab Extra Condensed",
+    "url": "http://fontdeck.com/typeface/berlingskeslabextracondensed",
+    "slug": "berlingskeslabextracondensed",
+    "superfamily": "Berlingske",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Slab serif"
+    ],
+    "foundry": "Playtype",
+    "designer": [
+        "Jonas Hecksher"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "latin extended",
+        "eastern european languages",
+        "pro character set",
+        "advanced character set",
+        "legible",
+        "vietnamese",
+        "cyrillic",
+        "greek"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/berlingskeslabextracondensed/thin",
+            "css": {
+                "font-family": "BerlingskSlaExtrCondenseThi",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8188",
+                "slug": "thin",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Thin Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/berlingskeslabextracondensed/thinitalic",
+            "css": {
+                "font-family": "BerlingsSlExtCondensThItal",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8189",
+                "slug": "thinitalic",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/berlingskeslabextracondensed/light",
+            "css": {
+                "font-family": "BerlingskSlaExtrCondenseLigh",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8183",
+                "slug": "light",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/berlingskeslabextracondensed/lightitalic",
+            "css": {
+                "font-family": "BerlingsSlExtCondensLigItal",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8184",
+                "slug": "lightitalic",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/berlingskeslabextracondensed/regular",
+            "css": {
+                "font-family": "BerlingskSlaExtrCondenseRegula",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8187",
+                "slug": "regular",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/berlingskeslabextracondensed/italic",
+            "css": {
+                "font-family": "BerlingskSlaExtrCondenseItali",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8182",
+                "slug": "italic",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/berlingskeslabextracondensed/medium",
+            "css": {
+                "font-family": "BerlingskSlaExtrCondenseMediu",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8185",
+                "slug": "medium",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/berlingskeslabextracondensed/mediumitalic",
+            "css": {
+                "font-family": "BerlingsSlExtCondensMediItal",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8186",
+                "slug": "mediumitalic",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/berlingskeslabextracondensed/bold",
+            "css": {
+                "font-family": "BerlingskSlaExtrCondenseBol",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8177",
+                "slug": "bold",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/berlingskeslabextracondensed/bolditalic",
+            "css": {
+                "font-family": "BerlingsSlExtCondensBoItal",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8178",
+                "slug": "bolditalic",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/berlingskeslabextracondensed/extrabold",
+            "css": {
+                "font-family": "BerlingskSlaExtrCondenseExtrBol",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8190",
+                "slug": "extrabold",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Extra-bold Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/berlingskeslabextracondensed/extrabolditalic",
+            "css": {
+                "font-family": "BerlingsSlExtCondensExtBoItal",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8191",
+                "slug": "extrabolditalic",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/berlingskeslabextracondensed/black",
+            "css": {
+                "font-family": "BerlingskSlaExtrCondenseBlac",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8179",
+                "slug": "black",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/berlingskeslabextracondensed/blackitalic",
+            "css": {
+                "font-family": "BerlingsSlExtCondensBlaItal",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8180",
+                "slug": "blackitalic",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Demi Bold",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/berlingskeslabextracondensed/demibold",
+            "css": {
+                "font-family": "BerlingskSlaExtrCondenseDemBol",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8181",
+                "slug": "demibold",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Demi Bold Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/berlingskeslabextracondensed/demibolditalic",
+            "css": {
+                "font-family": "BerlingsSlExtCondensDeBoItal",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8192",
+                "slug": "demibolditalic",
+                "price": "$40.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1890",
+        "slug": "berlingskeslabextracondensed"
+    },
+    "generatedAt": 1437611391717
+}

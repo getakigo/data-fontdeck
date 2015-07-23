@@ -1,0 +1,47 @@
+{
+    "name": "Null",
+    "url": "http://fontdeck.com/typeface/null",
+    "slug": "null",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Experimental",
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "Fontfabric",
+    "designer": [
+        "Svetoslav Simov"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "experimental",
+        "headline",
+        "heavy",
+        "display"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/null/regular",
+            "css": {
+                "font-family": "Null Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3283",
+                "slug": "regular",
+                "price": "$3.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "784",
+        "slug": "null"
+    },
+    "generatedAt": 1437609879545
+}

@@ -1,0 +1,183 @@
+{
+    "name": "Metro",
+    "url": "http://fontdeck.com/typeface/metro",
+    "slug": "metro",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Humanist"
+    ],
+    "foundry": "Playtype",
+    "designer": [
+        "Jonas Hecksher"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "flow",
+        "metro",
+        "humanist",
+        "readable",
+        "round",
+        "body",
+        "legible"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/metro/light",
+            "css": {
+                "font-family": "Metro Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4894",
+                "slug": "light",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/metro/lightitalic",
+            "css": {
+                "font-family": "Metro Light Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5303",
+                "slug": "lightitalic",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/metro/regular",
+            "css": {
+                "font-family": "Metro Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4893",
+                "slug": "regular",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/metro/italic",
+            "css": {
+                "font-family": "Metro Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4895",
+                "slug": "italic",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/metro/medium",
+            "css": {
+                "font-family": "Metro Medium",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5305",
+                "slug": "medium",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/metro/mediumitalic",
+            "css": {
+                "font-family": "Metro Medium Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5304",
+                "slug": "mediumitalic",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/metro/bold",
+            "css": {
+                "font-family": "Metro Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4896",
+                "slug": "bold",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/metro/bolditalic",
+            "css": {
+                "font-family": "Metro Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5300",
+                "slug": "bolditalic",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "DemiBold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/metro/demibold",
+            "css": {
+                "font-family": "Metro DemiBold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5301",
+                "slug": "demibold",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "DemiBold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/metro/demibolditalic",
+            "css": {
+                "font-family": "Metro DemiBold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5302",
+                "slug": "demibolditalic",
+                "price": "$45.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1145",
+        "slug": "metro"
+    },
+    "generatedAt": 1437611515429
+}

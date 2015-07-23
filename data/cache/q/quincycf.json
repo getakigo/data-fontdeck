@@ -1,0 +1,184 @@
+{
+    "name": "Quincy CF",
+    "url": "http://fontdeck.com/typeface/quincycf",
+    "slug": "quincycf",
+    "use": "heading",
+    "classification": [
+        "Serif",
+        "French",
+        "Display",
+        "Serif",
+        "Serif",
+        "Garalde",
+        "Serif",
+        "Modern",
+        "Serif",
+        "Neo-classical"
+    ],
+    "foundry": "Connary Fagen Typography",
+    "designer": [
+        "Connary Fagen"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "small sizes",
+        "joyful",
+        "serif",
+        "robust",
+        "accessible",
+        "text",
+        "semiformal",
+        "summer",
+        "legible",
+        "small size",
+        "copy",
+        "soft",
+        "art nouveau",
+        "accents",
+        "text font",
+        "analogue",
+        "affable",
+        "body",
+        "sorts mill goudy",
+        "spirited",
+        "sophisticated",
+        "stationery",
+        "body text",
+        "playful",
+        "retro",
+        "readability",
+        "serious",
+        "readable",
+        "legibility",
+        "21st century text"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/quincycf/light",
+            "css": {
+                "font-family": "Quincy CF Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8550",
+                "slug": "light",
+                "price": "$8.50"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/quincycf/lightitalic",
+            "css": {
+                "font-family": "Quincy CF Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8551",
+                "slug": "lightitalic",
+                "price": "$8.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/quincycf/regular",
+            "css": {
+                "font-family": "Quincy CF Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8548",
+                "slug": "regular",
+                "price": "$8.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/quincycf/regularitalic",
+            "css": {
+                "font-family": "Quincy CF Regular Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8549",
+                "slug": "regularitalic",
+                "price": "$8.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/quincycf/bold",
+            "css": {
+                "font-family": "Quincy CF Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8546",
+                "slug": "bold",
+                "price": "$8.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/quincycf/bolditalic",
+            "css": {
+                "font-family": "Quincy CF Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8547",
+                "slug": "bolditalic",
+                "price": "$8.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/quincycf/black",
+            "css": {
+                "font-family": "Quincy CF Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8544",
+                "slug": "black",
+                "price": "$8.50"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/quincycf/blackitalic",
+            "css": {
+                "font-family": "Quincy CF Black Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8545",
+                "slug": "blackitalic",
+                "price": "$8.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1974",
+        "slug": "quincycf"
+    },
+    "generatedAt": 1437611534235
+}

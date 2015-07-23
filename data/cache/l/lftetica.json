@@ -1,0 +1,307 @@
+{
+    "name": "LFT Etica",
+    "url": "http://fontdeck.com/typeface/lftetica",
+    "slug": "lftetica",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Grotesque"
+    ],
+    "foundry": "TypeTogether",
+    "designer": [
+        "Leftloft"
+    ],
+    "opentype": [
+        "liga",
+        "lnum",
+        "onum",
+        "salt",
+        "ss01",
+        "ss02",
+        "ss03",
+        "ss04",
+        "ss05",
+        "ss06",
+        "ss07",
+        "tnum"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "opentype",
+        "warm",
+        "personal",
+        "text",
+        "logo",
+        "latin",
+        "strong",
+        "titles",
+        "friendly",
+        "humanist",
+        "contemporary",
+        "magazine",
+        "news",
+        "grotesk",
+        "multilingual",
+        "headline",
+        "hybrid",
+        "workhorse",
+        "legible",
+        "newspaper",
+        "elegant",
+        "powerful",
+        "grotesque",
+        "editorial",
+        "sansserif",
+        "delicate",
+        "corporate"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/lftetica/thin",
+            "css": {
+                "font-family": "LFT Etica Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1420",
+                "slug": "thin",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Thin Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/lftetica/thinitalic",
+            "css": {
+                "font-family": "LFT Etica Thin Italic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1421",
+                "slug": "thinitalic",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/lftetica/light",
+            "css": {
+                "font-family": "LFT Etica Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1398",
+                "slug": "light",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/lftetica/lightitalic",
+            "css": {
+                "font-family": "LFT Etica Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1399",
+                "slug": "lightitalic",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Book",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/lftetica/book",
+            "css": {
+                "font-family": "LFT Etica Book",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1402",
+                "slug": "book",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Book Italic",
+            "description": "i3",
+            "url": "http://fontdeck.com/font/lftetica/bookitalic",
+            "css": {
+                "font-family": "LFT Etica Book Italic",
+                "font-weight": "300",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1403",
+                "slug": "bookitalic",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/lftetica/regular",
+            "css": {
+                "font-family": "LFT Etica Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1394",
+                "slug": "regular",
+                "price": "$19.99"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/lftetica/italic",
+            "css": {
+                "font-family": "LFT Etica Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1395",
+                "slug": "italic",
+                "price": "$19.99"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/lftetica/semibold",
+            "css": {
+                "font-family": "LFT Etica Semi Bold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1404",
+                "slug": "semibold",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Semi-bold Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/lftetica/semibolditalic",
+            "css": {
+                "font-family": "LFT Etica Semi Bold Italic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1405",
+                "slug": "semibolditalic",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/lftetica/bold",
+            "css": {
+                "font-family": "LFT Etica Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1396",
+                "slug": "bold",
+                "price": "$19.99"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/lftetica/bolditalic",
+            "css": {
+                "font-family": "LFT Etica Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1397",
+                "slug": "bolditalic",
+                "price": "$19.99"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/lftetica/extrabold",
+            "css": {
+                "font-family": "LFT Etica Extra Bold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1400",
+                "slug": "extrabold",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Extra-bold Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/lftetica/extrabolditalic",
+            "css": {
+                "font-family": "LFT Etica Extra Bold Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1401",
+                "slug": "extrabolditalic",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/lftetica/heavy",
+            "css": {
+                "font-family": "LFT Etica Heavy",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1422",
+                "slug": "heavy",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Heavy Italic",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/lftetica/heavyitalic",
+            "css": {
+                "font-family": "LFT Etica Heavy Italic",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1423",
+                "slug": "heavyitalic",
+                "price": "$15.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "378",
+        "slug": "lftetica"
+    },
+    "generatedAt": 1437609263126
+}

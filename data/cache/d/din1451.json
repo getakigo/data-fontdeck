@@ -1,0 +1,66 @@
+{
+    "name": "DIN 1451",
+    "url": "http://fontdeck.com/typeface/din1451",
+    "slug": "din1451",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Gothic"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Akira Kobayashi"
+    ],
+    "opentype": [
+        "liga"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "1970s",
+        "opentype",
+        "technical",
+        "sansserif",
+        "german",
+        "1980s",
+        "traffic"
+    ],
+    "variations": [
+        {
+            "name": "Mittelschrift Standard",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/din1451/mittelschriftstandard",
+            "css": {
+                "font-family": "DIN 1451 Mittelschrift Standard",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "832",
+                "slug": "mittelschriftstandard",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Engschrift Standard",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/din1451/engschriftstandard",
+            "css": {
+                "font-family": "DIN 1451 Engschrift Standard",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "831",
+                "slug": "engschriftstandard",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "255",
+        "slug": "din1451"
+    },
+    "generatedAt": 1437609082971
+}

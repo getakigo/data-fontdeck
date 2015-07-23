@@ -1,0 +1,107 @@
+{
+    "name": "Premiera",
+    "url": "http://fontdeck.com/typeface/premiera",
+    "slug": "premiera",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Transitional"
+    ],
+    "foundry": "Typejockeys",
+    "designer": [
+        "Thomas Gabriel"
+    ],
+    "opentype": [
+        "c2sc",
+        "hist",
+        "liga",
+        "lnum",
+        "onum",
+        "smcp",
+        "ss01",
+        "tnum"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "opentype",
+        "serif",
+        "hand hinted",
+        "text",
+        "wedge serif",
+        "scotch",
+        "modern",
+        "book font",
+        "bold",
+        "readability",
+        "cosmopolitan",
+        "small sizes",
+        "robust",
+        "classic",
+        "workhorse",
+        "legible",
+        "crisp",
+        "manually hinted",
+        "traditional",
+        "small",
+        "premiéra",
+        "elegant",
+        "book",
+        "handhinted",
+        "legibility",
+        "clean"
+    ],
+    "variations": [
+        {
+            "name": "Book",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/premiera/book",
+            "css": {
+                "font-family": "Premiera Book",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4825",
+                "slug": "book",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/premiera/italic",
+            "css": {
+                "font-family": "Premiera Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4827",
+                "slug": "italic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/premiera/bold",
+            "css": {
+                "font-family": "Premiera Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4826",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1127",
+        "slug": "premiera"
+    },
+    "generatedAt": 1437610467159
+}

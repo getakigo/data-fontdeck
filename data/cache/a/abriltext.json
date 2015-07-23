@@ -1,0 +1,171 @@
+{
+    "name": "Abril Text",
+    "url": "http://fontdeck.com/typeface/abriltext",
+    "slug": "abriltext",
+    "superfamily": "Abril",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Transitional"
+    ],
+    "foundry": "TypeTogether",
+    "designer": [
+        "Veronika Burian",
+        "José Scaglione"
+    ],
+    "opentype": [
+        "liga"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "sensible",
+        "formal",
+        "opentype",
+        "hand hinted",
+        "1990s",
+        "english",
+        "legible",
+        "scotch",
+        "super family",
+        "abril",
+        "hand-hinted",
+        "manually hinted",
+        "neutral",
+        "elegant",
+        "old style",
+        "old style serif",
+        "handhinted",
+        "slab serif",
+        "valuable",
+        "german"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/abriltext/regular",
+            "css": {
+                "font-family": "Abril Text Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4307",
+                "slug": "regular",
+                "price": "$19.99"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/abriltext/italic",
+            "css": {
+                "font-family": "Abril Text Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4306",
+                "slug": "italic",
+                "price": "$19.99"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/abriltext/semibold",
+            "css": {
+                "font-family": "Abril Text SemiBold",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4336",
+                "slug": "semibold",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Semi-bold Italic",
+            "description": "i3",
+            "url": "http://fontdeck.com/font/abriltext/semibolditalic",
+            "css": {
+                "font-family": "Abril Text SemiBold Italic",
+                "font-weight": "300",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4337",
+                "slug": "semibolditalic",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/abriltext/bold",
+            "css": {
+                "font-family": "Abril Text Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4304",
+                "slug": "bold",
+                "price": "$19.99"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/abriltext/bolditalic",
+            "css": {
+                "font-family": "Abril Text Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4305",
+                "slug": "bolditalic",
+                "price": "$19.99"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/abriltext/extrabold",
+            "css": {
+                "font-family": "Abril Text ExtraBold",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4334",
+                "slug": "extrabold",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Extra-bold Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/abriltext/extrabolditalic",
+            "css": {
+                "font-family": "Abril Text ExtraBold Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4335",
+                "slug": "extrabolditalic",
+                "price": "$15.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1010",
+        "slug": "abriltext"
+    },
+    "generatedAt": 1437610301282
+}

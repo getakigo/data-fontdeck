@@ -1,0 +1,177 @@
+{
+    "name": "Tablet Gothic Narrow",
+    "url": "http://fontdeck.com/typeface/tabletgothicnarrow",
+    "slug": "tabletgothicnarrow",
+    "superfamily": "Tablet Gothic",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Gothic",
+        "Sans Serif",
+        "Grotesque"
+    ],
+    "foundry": "TypeTogether",
+    "designer": [
+        "Veronika Burian",
+        "José Scaglione"
+    ],
+    "opentype": [
+        "liga",
+        "tnum",
+        "zero"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "advertising",
+        "publication",
+        "opentype",
+        "cover",
+        "warm",
+        "condensed",
+        "text",
+        "brand",
+        "strong",
+        "flexible",
+        "titles",
+        "contemporary",
+        "personality",
+        "quirky",
+        "magazine",
+        "multi-functional",
+        "modern",
+        "headline",
+        "display",
+        "packaging",
+        "big",
+        "narrow",
+        "legible",
+        "sturdy",
+        "newspaper",
+        "poster",
+        "periodical",
+        "neutral",
+        "punchy",
+        "logotype",
+        "tablet",
+        "grotesque",
+        "masculine",
+        "signage",
+        "editorial",
+        "corporate",
+        "clean"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/tabletgothicnarrow/thin",
+            "css": {
+                "font-family": "Tablet Gothic Narrow Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6378",
+                "slug": "thin",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/tabletgothicnarrow/light",
+            "css": {
+                "font-family": "Tablet Gothic Narrow Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6375",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/tabletgothicnarrow/regular",
+            "css": {
+                "font-family": "Tablet Gothic Narrow Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6376",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/tabletgothicnarrow/semibold",
+            "css": {
+                "font-family": "Tablet Gothic Narrow Semibold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6377",
+                "slug": "semibold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/tabletgothicnarrow/bold",
+            "css": {
+                "font-family": "Tablet Gothic Narrow Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6372",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/tabletgothicnarrow/extrabold",
+            "css": {
+                "font-family": "Tablet Gothic Narrow ExtraBold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6373",
+                "slug": "extrabold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/tabletgothicnarrow/heavy",
+            "css": {
+                "font-family": "Tablet Gothic Narrow Heavy",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6374",
+                "slug": "heavy",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1462",
+        "slug": "tabletgothicnarrow"
+    },
+    "generatedAt": 1437610891787
+}

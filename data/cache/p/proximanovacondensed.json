@@ -1,0 +1,246 @@
+{
+    "name": "Proxima Nova Condensed",
+    "url": "http://fontdeck.com/typeface/proximanovacondensed",
+    "slug": "proximanovacondensed",
+    "superfamily": "Proxima Nova",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Hybrid"
+    ],
+    "foundry": "Mark Simonson Studio",
+    "designer": [
+        "Mark Simonson"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "narrow",
+        "condensed",
+        "proxima nova",
+        "workhorse",
+        "geometric",
+        "grotesque",
+        "informal",
+        "superfamily",
+        "clean"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/proximanovacondensed/thin",
+            "css": {
+                "font-family": "Proxima Nova Condensed Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1070",
+                "slug": "thin",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Thin Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/proximanovacondensed/thinitalic",
+            "css": {
+                "font-family": "ProximaNovaCondensedThinItalic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1069",
+                "slug": "thinitalic",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/proximanovacondensed/light",
+            "css": {
+                "font-family": "Proxima Nova Condensed Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1066",
+                "slug": "light",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/proximanovacondensed/lightitalic",
+            "css": {
+                "font-family": "ProximaNovaCondensedLightItalic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1065",
+                "slug": "lightitalic",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/proximanovacondensed/regular",
+            "css": {
+                "font-family": "Proxima Nova Condensed Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1068",
+                "slug": "regular",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/proximanovacondensed/italic",
+            "css": {
+                "font-family": "Proxima Nova Condensed Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1067",
+                "slug": "italic",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/proximanovacondensed/semibold",
+            "css": {
+                "font-family": "Proxima Nova Condensed Semibold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "987",
+                "slug": "semibold",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Semi-bold Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/proximanovacondensed/semibolditalic",
+            "css": {
+                "font-family": "ProximNovCondenseSemibolItali",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "986",
+                "slug": "semibolditalic",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/proximanovacondensed/bold",
+            "css": {
+                "font-family": "Proxima Nova Condensed Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "985",
+                "slug": "bold",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/proximanovacondensed/bolditalic",
+            "css": {
+                "font-family": "ProximaNovaCondensedBoldItalic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "984",
+                "slug": "bolditalic",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/proximanovacondensed/extrabold",
+            "css": {
+                "font-family": "ProximaNovaCondensedExtraBold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1072",
+                "slug": "extrabold",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Extra-bold Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/proximanovacondensed/extrabolditalic",
+            "css": {
+                "font-family": "ProximNovCondenseExtrBolItali",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1071",
+                "slug": "extrabolditalic",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/proximanovacondensed/black",
+            "css": {
+                "font-family": "Proxima Nova Condensed Black",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1063",
+                "slug": "black",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/proximanovacondensed/blackitalic",
+            "css": {
+                "font-family": "ProximaNovaCondensedBlackItalic",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1064",
+                "slug": "blackitalic",
+                "price": "$9.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "286",
+        "slug": "proximanovacondensed"
+    },
+    "generatedAt": 1437609142946
+}

@@ -1,0 +1,183 @@
+{
+    "name": "FM",
+    "url": "http://fontdeck.com/typeface/fm",
+    "slug": "fm",
+    "use": "heading",
+    "classification": [
+        "Slab Serif",
+        "Dynamic"
+    ],
+    "foundry": "A2-TYPE",
+    "designer": [
+        "Henrik Kubel"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "editorial",
+        "contemporary",
+        "newspaper",
+        "magazine",
+        "book",
+        "text",
+        "legible"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/fm/light",
+            "css": {
+                "font-family": "FM Light",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6530",
+                "slug": "light",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/fm/lightitalic",
+            "css": {
+                "font-family": "FM Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6529",
+                "slug": "lightitalic",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/fm/regular",
+            "css": {
+                "font-family": "FM Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6534",
+                "slug": "regular",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/fm/italic",
+            "css": {
+                "font-family": "FM Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6533",
+                "slug": "italic",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/fm/medium",
+            "css": {
+                "font-family": "FM Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6532",
+                "slug": "medium",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/fm/mediumitalic",
+            "css": {
+                "font-family": "FM Medium Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6531",
+                "slug": "mediumitalic",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/fm/semibold",
+            "css": {
+                "font-family": "FM Semi Bold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6536",
+                "slug": "semibold",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Semi-bold Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/fm/semibolditalic",
+            "css": {
+                "font-family": "FM Semi Bold Italic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6535",
+                "slug": "semibolditalic",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/fm/bold",
+            "css": {
+                "font-family": "FM Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6528",
+                "slug": "bold",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/fm/bolditalic",
+            "css": {
+                "font-family": "FM Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6527",
+                "slug": "bolditalic",
+                "price": "$45.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1494",
+        "slug": "fm"
+    },
+    "generatedAt": 1437610939206
+}

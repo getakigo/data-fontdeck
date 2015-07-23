@@ -1,0 +1,90 @@
+{
+    "name": "Du Nord",
+    "url": "http://fontdeck.com/typeface/dunord",
+    "slug": "dunord",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Neo-Grotesk"
+    ],
+    "foundry": "Playtype",
+    "designer": [
+        "Jonas Hecksher"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "sansserif",
+        "neo-grotesque",
+        "sans serif",
+        "sans"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/dunord/regular",
+            "css": {
+                "font-family": "Du Nord Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7039",
+                "slug": "regular",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/dunord/medium",
+            "css": {
+                "font-family": "Du Nord Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7042",
+                "slug": "medium",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/dunord/bold",
+            "css": {
+                "font-family": "Du Nord Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7040",
+                "slug": "bold",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "DemiBold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/dunord/demibold",
+            "css": {
+                "font-family": "Du Nord DemiBold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7041",
+                "slug": "demibold",
+                "price": "$40.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1635",
+        "slug": "dunord"
+    },
+    "generatedAt": 1437611071386
+}

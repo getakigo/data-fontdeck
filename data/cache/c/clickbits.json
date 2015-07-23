@@ -1,0 +1,201 @@
+{
+    "name": "Clickbits",
+    "url": "http://fontdeck.com/typeface/clickbits",
+    "slug": "clickbits",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Symbol"
+    ],
+    "foundry": "Fonthead",
+    "designer": [
+        "Ethan Dunham"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "industrial",
+        "high-tech",
+        "icons",
+        "pictograms",
+        "bursts",
+        "arrows",
+        "ornaments",
+        "computer",
+        "contemporary",
+        "symbols"
+    ],
+    "variations": [
+        {
+            "name": "Arrowpods1",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/clickbits/arrowpods1",
+            "css": {
+                "font-family": "Clickbits Arrowpods1",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "418",
+                "slug": "arrowpods1",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Arrowbullets1",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/clickbits/arrowbullets1",
+            "css": {
+                "font-family": "Clickbits Arrowbullets1",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "424",
+                "slug": "arrowbullets1",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Icons3",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/clickbits/icons3",
+            "css": {
+                "font-family": "Clickbits Icons3",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "420",
+                "slug": "icons3",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Arrows1",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/clickbits/arrows1",
+            "css": {
+                "font-family": "Clickbits Arrows1",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "425",
+                "slug": "arrows1",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Iconpods",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/clickbits/iconpods",
+            "css": {
+                "font-family": "Clickbits Iconpods",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "430",
+                "slug": "iconpods",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Arrowbullets2",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/clickbits/arrowbullets2",
+            "css": {
+                "font-family": "Clickbits Arrowbullets2",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "421",
+                "slug": "arrowbullets2",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Icons1",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/clickbits/icons1",
+            "css": {
+                "font-family": "Clickbits Icons1",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "431",
+                "slug": "icons1",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Icons2",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/clickbits/icons2",
+            "css": {
+                "font-family": "Clickbits Icons2",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "419",
+                "slug": "icons2",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Arrowpods2",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/clickbits/arrowpods2",
+            "css": {
+                "font-family": "Clickbits Arrowpods2",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "432",
+                "slug": "arrowpods2",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Iconbullets",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/clickbits/iconbullets",
+            "css": {
+                "font-family": "Clickbits Iconbullets",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "423",
+                "slug": "iconbullets",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Arrows2",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/clickbits/arrows2",
+            "css": {
+                "font-family": "Clickbits Arrows2",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "422",
+                "slug": "arrows2",
+                "price": "$9.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "169",
+        "slug": "clickbits"
+    },
+    "generatedAt": 1437608954856
+}

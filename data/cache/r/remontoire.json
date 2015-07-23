@@ -1,0 +1,104 @@
+{
+    "name": "Remontoire",
+    "url": "http://fontdeck.com/typeface/remontoire",
+    "slug": "remontoire",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Transitional"
+    ],
+    "foundry": "MAC Rhino Fonts",
+    "designer": [
+        "Stefan Hattenbach"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "1930s",
+        "square",
+        "text"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/remontoire/regular",
+            "css": {
+                "font-family": "Remontoire Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2516",
+                "slug": "regular",
+                "price": "$12.49"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/remontoire/italic",
+            "css": {
+                "font-family": "Remontoire Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2515",
+                "slug": "italic",
+                "price": "$12.49"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/remontoire/bold",
+            "css": {
+                "font-family": "Remontoire Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2513",
+                "slug": "bold",
+                "price": "$12.49"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/remontoire/bolditalic",
+            "css": {
+                "font-family": "Remontoire Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2514",
+                "slug": "bolditalic",
+                "price": "$12.49"
+            }
+        },
+        {
+            "name": "Small Caps",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/remontoire/smallcaps",
+            "css": {
+                "font-family": "Remontoire Small Caps",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2517",
+                "slug": "smallcaps",
+                "price": "$12.49"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "610",
+        "slug": "remontoire"
+    },
+    "generatedAt": 1437609555342
+}

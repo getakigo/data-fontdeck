@@ -1,0 +1,110 @@
+{
+    "name": "Eurostile Extended",
+    "url": "http://fontdeck.com/typeface/eurostileextended",
+    "slug": "eurostileextended",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Aldo Novarese"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "static",
+        "formal",
+        "technical",
+        "italian",
+        "geometric",
+        "legible",
+        "1960s",
+        "masculine",
+        "eurostile"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/eurostileextended/regular",
+            "css": {
+                "font-family": "Eurostile Extended Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "816",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/eurostileextended/regularitalic",
+            "css": {
+                "font-family": "EurostileExtendedRegularItalic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "817",
+                "slug": "regularitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/eurostileextended/medium",
+            "css": {
+                "font-family": "Eurostile Extended Medium",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "815",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/eurostileextended/black",
+            "css": {
+                "font-family": "Eurostile Extended Black",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "813",
+                "slug": "black",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/eurostileextended/blackitalic",
+            "css": {
+                "font-family": "Eurostile Extended Black Italic",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "814",
+                "slug": "blackitalic",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "251",
+        "slug": "eurostileextended"
+    },
+    "generatedAt": 1437609083618
+}

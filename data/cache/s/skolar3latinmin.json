@@ -1,0 +1,214 @@
+{
+    "name": "Skolar3 Latin Min",
+    "url": "http://fontdeck.com/typeface/skolar3latinmin",
+    "slug": "skolar3latinmin",
+    "superfamily": "Skolar",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Rugged",
+        "Serif",
+        "Transitional",
+        "Serif",
+        "Neo-classical"
+    ],
+    "foundry": "Rosetta",
+    "designer": [
+        "David Březina"
+    ],
+    "opentype": [
+        "liga",
+        "lnum"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "formal",
+        "opentype",
+        "hand hinted",
+        "21st century",
+        "text",
+        "wedge serif",
+        "latin",
+        "contemporary",
+        "magazine",
+        "hand-hinted",
+        "news",
+        "academic",
+        "dictionary",
+        "david březina",
+        "scholarly",
+        "czech",
+        "low-contrast",
+        "workhorse",
+        "legible",
+        "brochure",
+        "sturdy",
+        "manually hinted",
+        "neutral",
+        "book",
+        "playful",
+        "light",
+        "corporate",
+        "21st century text",
+        "minified"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/skolar3latinmin/light",
+            "css": {
+                "font-family": "Skolar3 Latin Min Light",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7799",
+                "slug": "light",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i3",
+            "url": "http://fontdeck.com/font/skolar3latinmin/lightitalic",
+            "css": {
+                "font-family": "Skolar3 Latin Min Light Italic",
+                "font-weight": "300",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7805",
+                "slug": "lightitalic",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/skolar3latinmin/regular",
+            "css": {
+                "font-family": "Skolar3 Latin Min Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7800",
+                "slug": "regular",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/skolar3latinmin/italic",
+            "css": {
+                "font-family": "Skolar3 Latin Min Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7806",
+                "slug": "italic",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/skolar3latinmin/semibold",
+            "css": {
+                "font-family": "Skolar3 Latin Min Semibold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7801",
+                "slug": "semibold",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Semi-bold Italic",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/skolar3latinmin/semibolditalic",
+            "css": {
+                "font-family": "Skolar3LatinMinSemiboldItalic",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7807",
+                "slug": "semibolditalic",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/skolar3latinmin/bold",
+            "css": {
+                "font-family": "Skolar3 Latin Min Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7802",
+                "slug": "bold",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/skolar3latinmin/bolditalic",
+            "css": {
+                "font-family": "Skolar3 Latin Min Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7808",
+                "slug": "bolditalic",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/skolar3latinmin/extrabold",
+            "css": {
+                "font-family": "Skolar3 Latin Min Extrabold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7803",
+                "slug": "extrabold",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Extra-bold Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/skolar3latinmin/extrabolditalic",
+            "css": {
+                "font-family": "Skolar3LatinMinExtraboldItalic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7804",
+                "slug": "extrabolditalic",
+                "price": "$15.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1795",
+        "slug": "skolar3latinmin"
+    },
+    "generatedAt": 1437611288953
+}

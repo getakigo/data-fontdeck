@@ -1,0 +1,50 @@
+{
+    "name": "Eurostile Relief",
+    "url": "http://fontdeck.com/typeface/eurostilerelief",
+    "slug": "eurostilerelief",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Aldo Novarese"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "static",
+        "formal",
+        "technical",
+        "geometric",
+        "italian",
+        "legible",
+        "1960s",
+        "masculine",
+        "eurostile"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/eurostilerelief/regular",
+            "css": {
+                "font-family": "Eurostile Relief Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "818",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "252",
+        "slug": "eurostilerelief"
+    },
+    "generatedAt": 1437609083185
+}

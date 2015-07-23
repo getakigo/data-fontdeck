@@ -1,0 +1,92 @@
+{
+    "name": "FS Olivia Web Cyrillic",
+    "url": "http://fontdeck.com/typeface/fsoliviawebcyrillic",
+    "slug": "fsoliviawebcyrillic",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Garalde"
+    ],
+    "foundry": "Fontsmith",
+    "designer": [
+        "Eleni Beveratou"
+    ],
+    "language": [
+        "latin",
+        "cyrillic"
+    ],
+    "tags": [
+        "hand",
+        "booklet",
+        "british",
+        "dutch",
+        "belgian"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/fsoliviawebcyrillic/regular",
+            "css": {
+                "font-family": "FS Olivia Web Cyrillic Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5576",
+                "slug": "regular",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/fsoliviawebcyrillic/italic",
+            "css": {
+                "font-family": "FS Olivia Web Cyrillic Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5575",
+                "slug": "italic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/fsoliviawebcyrillic/bold",
+            "css": {
+                "font-family": "FS Olivia Web Cyrillic Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5533",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/fsoliviawebcyrillic/bolditalic",
+            "css": {
+                "font-family": "FSOliviaWebCyrillicBoldItalic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5534",
+                "slug": "bolditalic",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1291",
+        "slug": "fsoliviawebcyrillic"
+    },
+    "generatedAt": 1437610680596
+}

@@ -1,0 +1,93 @@
+{
+    "name": "Delicato Pro",
+    "url": "http://fontdeck.com/typeface/delicatopro",
+    "slug": "delicatopro",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Didone"
+    ],
+    "foundry": "MAC Rhino Fonts",
+    "designer": [
+        "Stefan Hattenbach"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "unique",
+        "modern",
+        "functional",
+        "personal",
+        "versatile",
+        "classic",
+        "traditional"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/delicatopro/regular",
+            "css": {
+                "font-family": "Delicato Pro Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4853",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/delicatopro/italic",
+            "css": {
+                "font-family": "Delicato Pro Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4855",
+                "slug": "italic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/delicatopro/medium",
+            "css": {
+                "font-family": "Delicato Pro Medium",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4854",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/delicatopro/bold",
+            "css": {
+                "font-family": "Delicato Pro Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4856",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1135",
+        "slug": "delicatopro"
+    },
+    "generatedAt": 1437610708514
+}

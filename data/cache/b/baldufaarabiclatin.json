@@ -1,0 +1,70 @@
+{
+    "name": "Baldufa Arabic Latin",
+    "url": "http://fontdeck.com/typeface/baldufaarabiclatin",
+    "slug": "baldufaarabiclatin",
+    "use": "body",
+    "classification": [],
+    "foundry": "Letterjuice",
+    "designer": [
+        "Pilar Cano",
+        "Ferran Milan"
+    ],
+    "language": [
+        "latin",
+        "arabic"
+    ],
+    "tags": [
+        "attractive",
+        "arrows",
+        "serif",
+        "approachable",
+        "curvy",
+        "text",
+        "legible",
+        "arabic",
+        "multilingual",
+        "editorial",
+        "text font",
+        "contemporary",
+        "quirky",
+        "unconventional",
+        "multi-script"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/baldufaarabiclatin/regular",
+            "css": {
+                "font-family": "Baldufa Arabic Latin Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7862",
+                "slug": "regular",
+                "price": "$25.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/baldufaarabiclatin/bold",
+            "css": {
+                "font-family": "Baldufa Arabic Latin Bold",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7863",
+                "slug": "bold",
+                "price": "$25.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1810",
+        "slug": "baldufaarabiclatin"
+    },
+    "generatedAt": 1437611323889
+}

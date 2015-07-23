@@ -1,0 +1,80 @@
+{
+    "name": "Streetbrush",
+    "url": "http://fontdeck.com/typeface/streetbrush",
+    "slug": "streetbrush",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Grunge",
+        "Display",
+        "Script"
+    ],
+    "foundry": "Robert Arnow Designs",
+    "designer": [
+        "Robert Arnow"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "fast",
+        "expressive",
+        "wild",
+        "brush-drawn",
+        "titling",
+        "dynamic",
+        "graffiti",
+        "handwritten",
+        "tag",
+        "gritty",
+        "80s",
+        "edgy",
+        "ink",
+        "hand-drawn",
+        "detailed",
+        "intense",
+        "calligraphic",
+        "rough",
+        "bathroom",
+        "skateboard",
+        "calligraphy",
+        "street",
+        "scrawl",
+        "skate",
+        "brush",
+        "textured",
+        "paint",
+        "hand",
+        "decorative",
+        "texture",
+        "header",
+        "handwriting",
+        "unique",
+        "urban",
+        "lively",
+        "1980s",
+        "new wave"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/streetbrush/regular",
+            "css": {
+                "font-family": "Streetbrush Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3801",
+                "slug": "regular",
+                "price": "$11.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "897",
+        "slug": "streetbrush"
+    },
+    "generatedAt": 1437610082048
+}

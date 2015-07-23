@@ -1,0 +1,184 @@
+{
+    "name": "Serifa",
+    "url": "http://fontdeck.com/typeface/serifa",
+    "slug": "serifa",
+    "superfamily": "Serifa",
+    "use": "heading",
+    "classification": [
+        "Slab Serif",
+        "Egyptian",
+        "Slab Serif",
+        "Grotesque/Geometric"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Adrian Frutiger"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "1970s",
+        "technical",
+        "geometric",
+        "linear",
+        "legible",
+        "fax",
+        "super family",
+        "memos",
+        "news",
+        "magazine",
+        "economic",
+        "news headline",
+        "univers",
+        "business text",
+        "swiss",
+        "1960s",
+        "slab serif",
+        "masculine",
+        "heavy",
+        "1980s"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/serifa/thin",
+            "css": {
+                "font-family": "Serifa Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1541",
+                "slug": "thin",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Thin Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/serifa/thinitalic",
+            "css": {
+                "font-family": "Serifa Thin Italic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1542",
+                "slug": "thinitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/serifa/light",
+            "css": {
+                "font-family": "Serifa Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1536",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/serifa/lightitalic",
+            "css": {
+                "font-family": "Serifa Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1538",
+                "slug": "lightitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/serifa/regular",
+            "css": {
+                "font-family": "Serifa Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1540",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/serifa/italic",
+            "css": {
+                "font-family": "Serifa Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1535",
+                "slug": "italic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/serifa/medium",
+            "css": {
+                "font-family": "Serifa Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1539",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/serifa/bold",
+            "css": {
+                "font-family": "Serifa Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1531",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/serifa/bolditalic",
+            "css": {
+                "font-family": "Serifa Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1532",
+                "slug": "bolditalic",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "411",
+        "slug": "serifa"
+    },
+    "generatedAt": 1437609304557
+}

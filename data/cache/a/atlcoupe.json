@@ -1,0 +1,47 @@
+{
+    "name": "ATL Coupe",
+    "url": "http://fontdeck.com/typeface/atlcoupe",
+    "slug": "atlcoupe",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "Nouvelle Noire",
+    "designer": [
+        "Philippe Apeloig"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "sport car",
+        "sansserif",
+        "coupé",
+        "sans serif",
+        "sans",
+        "straight"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/atlcoupe/regular",
+            "css": {
+                "font-family": "ATL Coupe Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7632",
+                "slug": "regular",
+                "price": "$25.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1759",
+        "slug": "atlcoupe"
+    },
+    "generatedAt": 1437611199924
+}

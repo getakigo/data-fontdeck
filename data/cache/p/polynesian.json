@@ -1,0 +1,51 @@
+{
+    "name": "Polynesian",
+    "url": "http://fontdeck.com/typeface/polynesian",
+    "slug": "polynesian",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Script",
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "Veer",
+    "designer": [
+        "Jason Walcott"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "decorative",
+        "script",
+        "tiki",
+        "1960s",
+        "retro",
+        "brush script",
+        "display",
+        "casual-script"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/polynesian/regular",
+            "css": {
+                "font-family": "Polynesian Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5061",
+                "slug": "regular",
+                "price": "$11.25"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1183",
+        "slug": "polynesian"
+    },
+    "generatedAt": 1437610520060
+}

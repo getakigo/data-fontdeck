@@ -1,0 +1,156 @@
+{
+    "name": "Kandal",
+    "url": "http://fontdeck.com/typeface/kandal",
+    "slug": "kandal",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Transitional"
+    ],
+    "foundry": "Mark Simonson Studio",
+    "designer": [
+        "Mark Simonson"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "old style",
+        "book",
+        "text",
+        "wedge serif",
+        "legible",
+        "sturdy",
+        "monoline",
+        "news",
+        "book text",
+        "century"
+    ],
+    "variations": [
+        {
+            "name": "Book",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/kandal/book",
+            "css": {
+                "font-family": "Kandal Book",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1291",
+                "slug": "book",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Book Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/kandal/bookitalic",
+            "css": {
+                "font-family": "Kandal Book Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1290",
+                "slug": "bookitalic",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/kandal/medium",
+            "css": {
+                "font-family": "Kandal Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1293",
+                "slug": "medium",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/kandal/mediumitalic",
+            "css": {
+                "font-family": "Kandal Medium Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1292",
+                "slug": "mediumitalic",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/kandal/bold",
+            "css": {
+                "font-family": "Kandal Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1289",
+                "slug": "bold",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/kandal/bolditalic",
+            "css": {
+                "font-family": "Kandal Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1288",
+                "slug": "bolditalic",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/kandal/black",
+            "css": {
+                "font-family": "Kandal Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1287",
+                "slug": "black",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/kandal/blackitalic",
+            "css": {
+                "font-family": "Kandal Black Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1286",
+                "slug": "blackitalic",
+                "price": "$9.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "352",
+        "slug": "kandal"
+    },
+    "generatedAt": 1437609214939
+}

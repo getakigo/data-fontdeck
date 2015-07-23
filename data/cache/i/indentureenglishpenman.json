@@ -1,0 +1,55 @@
+{
+    "name": "Indenture English Penman",
+    "url": "http://fontdeck.com/typeface/indentureenglishpenman",
+    "slug": "indentureenglishpenman",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Decorative script",
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "Intellecta Design",
+    "designer": [
+        "Paulo W"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "certificate",
+        "script",
+        "formal",
+        "invitation",
+        "elegant",
+        "english",
+        "calligraphic",
+        "party",
+        "romantic",
+        "valentine",
+        "headline",
+        "wedding"
+    ],
+    "variations": [
+        {
+            "name": "Basic",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/indentureenglishpenman/basic",
+            "css": {
+                "font-family": "Indenture English Penman Basic",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2547",
+                "slug": "basic",
+                "price": "$22.09"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "615",
+        "slug": "indentureenglishpenman"
+    },
+    "generatedAt": 1437609566118
+}

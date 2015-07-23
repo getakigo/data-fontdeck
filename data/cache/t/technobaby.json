@@ -1,0 +1,51 @@
+{
+    "name": "Technobaby",
+    "url": "http://fontdeck.com/typeface/technobaby",
+    "slug": "technobaby",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "All caps",
+        "Display",
+        "Futuristic",
+        "Display",
+        "Poster"
+    ],
+    "foundry": "Veer",
+    "designer": [
+        "Jason Walcott"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "retro",
+        "all capitals",
+        "futuristic",
+        "display",
+        "sans-serif",
+        "1980s"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/technobaby/regular",
+            "css": {
+                "font-family": "Technobaby Regular",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5050",
+                "slug": "regular",
+                "price": "$11.25"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1176",
+        "slug": "technobaby"
+    },
+    "generatedAt": 1437610512051
+}

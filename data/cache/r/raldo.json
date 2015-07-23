@@ -1,0 +1,119 @@
+{
+    "name": "Raldo",
+    "url": "http://fontdeck.com/typeface/raldo",
+    "slug": "raldo",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Humanist"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Marc Musenberg"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "modern",
+        "elegant",
+        "legible"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/raldo/regular",
+            "css": {
+                "font-family": "Raldo Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "302",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/raldo/italic",
+            "css": {
+                "font-family": "Raldo Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "208",
+                "slug": "italic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/raldo/semibold",
+            "css": {
+                "font-family": "Raldo Semi Bold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "231",
+                "slug": "semibold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Semi-bold Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/raldo/semibolditalic",
+            "css": {
+                "font-family": "Raldo Semi Bold Italic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "351",
+                "slug": "semibolditalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/raldo/bold",
+            "css": {
+                "font-family": "Raldo Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "250",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/raldo/bolditalic",
+            "css": {
+                "font-family": "Raldo Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "377",
+                "slug": "bolditalic",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "138",
+        "slug": "raldo"
+    },
+    "generatedAt": 1437608914506
+}

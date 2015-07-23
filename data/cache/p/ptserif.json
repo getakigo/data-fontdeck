@@ -1,0 +1,131 @@
+{
+    "name": "PT Serif",
+    "url": "http://fontdeck.com/typeface/ptserif",
+    "slug": "ptserif",
+    "superfamily": "Pt Sans",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Transitional"
+    ],
+    "foundry": "ParaType",
+    "designer": [
+        "Olga Umpeleva",
+        "Vladimir Yefimov",
+        "Alexandra Korolkova"
+    ],
+    "opentype": [
+        "liga"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "opentype",
+        "hand hinted",
+        "legible",
+        "handhinted",
+        "super family",
+        "2000s",
+        "hand-hinted",
+        "21st century text",
+        "manually hinted"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/ptserif/regular",
+            "css": {
+                "font-family": "PT Serif Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3792",
+                "slug": "regular",
+                "price": "FREE"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/ptserif/italic",
+            "css": {
+                "font-family": "PT Serif Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3793",
+                "slug": "italic",
+                "price": "FREE"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/ptserif/bold",
+            "css": {
+                "font-family": "PT Serif Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3794",
+                "slug": "bold",
+                "price": "FREE"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/ptserif/bolditalic",
+            "css": {
+                "font-family": "PT Serif Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3796",
+                "slug": "bolditalic",
+                "price": "FREE"
+            }
+        },
+        {
+            "name": "Caption",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/ptserif/caption",
+            "css": {
+                "font-family": "PT Serif Caption",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3795",
+                "slug": "caption",
+                "price": "FREE"
+            }
+        },
+        {
+            "name": "Caption Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/ptserif/captionitalic",
+            "css": {
+                "font-family": "PT Serif Caption Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3797",
+                "slug": "captionitalic",
+                "price": "FREE"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "894",
+        "slug": "ptserif"
+    },
+    "generatedAt": 1437610073743
+}

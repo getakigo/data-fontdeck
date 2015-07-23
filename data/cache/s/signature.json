@@ -1,0 +1,50 @@
+{
+    "name": "Signature",
+    "url": "http://fontdeck.com/typeface/signature",
+    "slug": "signature",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Handwritten",
+        "Display",
+        "Sans serif"
+    ],
+    "foundry": "A2-TYPE",
+    "designer": [
+        "Henrik Kubel"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "editorial",
+        "contemporary",
+        "newspaper",
+        "magazine",
+        "book",
+        "text",
+        "legible"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/signature/regular",
+            "css": {
+                "font-family": "Signature Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6493",
+                "slug": "regular",
+                "price": "$45.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1480",
+        "slug": "signature"
+    },
+    "generatedAt": 1437610921166
+}

@@ -1,0 +1,49 @@
+{
+    "name": "EB Futuretro",
+    "url": "http://fontdeck.com/typeface/ebfuturetro",
+    "slug": "ebfuturetro",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "Fenotype",
+    "designer": [
+        "Erik Bertell"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "retro",
+        "1970s",
+        "sans serif",
+        "double line",
+        "geometric",
+        "vintage"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/ebfuturetro/regular",
+            "css": {
+                "font-family": "EB Futuretro Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2452",
+                "slug": "regular",
+                "price": "$8.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "598",
+        "slug": "ebfuturetro"
+    },
+    "generatedAt": 1437609529413
+}

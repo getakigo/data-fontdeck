@@ -1,0 +1,84 @@
+{
+    "name": "Bodoni Script Pro Greek",
+    "url": "http://fontdeck.com/typeface/bodoniscriptprogreek",
+    "slug": "bodoniscriptprogreek",
+    "use": "heading",
+    "classification": [
+        "Script",
+        "Calligraphic",
+        "Script",
+        "Formal"
+    ],
+    "foundry": "Parachute",
+    "designer": [
+        "Panos Vassiliou"
+    ],
+    "language": [
+        "latin",
+        "greek"
+    ],
+    "tags": [
+        "decorative",
+        "cursive",
+        "flourish",
+        "formal",
+        "bodoni",
+        "calligraphic",
+        "flowing",
+        "italic",
+        "traditional",
+        "wedding"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/bodoniscriptprogreek/light",
+            "css": {
+                "font-family": "Bodoni Script Pro Greek Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3393",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/bodoniscriptprogreek/regular",
+            "css": {
+                "font-family": "Bodoni Script Pro Greek Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3394",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/bodoniscriptprogreek/bold",
+            "css": {
+                "font-family": "Bodoni Script Pro Greek Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3395",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "820",
+        "slug": "bodoniscriptprogreek"
+    },
+    "generatedAt": 1437609945124
+}

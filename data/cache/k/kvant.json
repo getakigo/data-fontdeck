@@ -1,0 +1,84 @@
+{
+    "name": "Kvant",
+    "url": "http://fontdeck.com/typeface/kvant",
+    "slug": "kvant",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Decorative",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "Fontfabric",
+    "designer": [
+        "Svetoslav Simov"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "rectangular",
+        "build",
+        "geometric",
+        "logo",
+        "fancy",
+        "mechanical",
+        "curve",
+        "magazine",
+        "facet",
+        "modern",
+        "blackletter",
+        "funny",
+        "commercial",
+        "round",
+        "box",
+        "creative",
+        "fashionable",
+        "mesh",
+        "art",
+        "unusual",
+        "techno",
+        "cute",
+        "engraving",
+        "experimental",
+        "american",
+        "idiosyncratic",
+        "constructed",
+        "smart",
+        "rounded",
+        "poster",
+        "new",
+        "decorative",
+        "minimalism",
+        "cool",
+        "elegant",
+        "block",
+        "masculine",
+        "retro",
+        "square",
+        "heavy",
+        "clean"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/kvant/regular",
+            "css": {
+                "font-family": "Kvant Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3006",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "702",
+        "slug": "kvant"
+    },
+    "generatedAt": 1437609752901
+}

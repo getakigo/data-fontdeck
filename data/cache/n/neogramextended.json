@@ -1,0 +1,328 @@
+{
+    "name": "NeoGram Extended",
+    "url": "http://fontdeck.com/typeface/neogramextended",
+    "slug": "neogramextended",
+    "superfamily": "Neogram",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Neo-Grotesk",
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "The Northern Block",
+    "designer": [
+        "Jonathan Hill"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "condensed",
+        "geometric",
+        "text",
+        "legible",
+        "brochure",
+        "balanced",
+        "neogrotesk",
+        "contemporary",
+        "true italics",
+        "magazine",
+        "news",
+        "versatile",
+        "economical",
+        "poster",
+        "modern",
+        "neutral",
+        "minimalism",
+        "business text",
+        "helvetica",
+        "swiss",
+        "identity",
+        "light",
+        "branding",
+        "editorial",
+        "corporate",
+        "headline",
+        "clean",
+        "superfamily",
+        "information"
+    ],
+    "variations": [
+        {
+            "name": "Ultra-light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/neogramextended/ultralight",
+            "css": {
+                "font-family": "NeoGram Extended UltraLight",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3135",
+                "slug": "ultralight",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Ultra-light Italic",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/neogramextended/ultralightitalic",
+            "css": {
+                "font-family": "NeoGramExtendedUltraLightItalic",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5464",
+                "slug": "ultralightitalic",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/neogramextended/lightitalic",
+            "css": {
+                "font-family": "NeoGram Extended Light Italic",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5465",
+                "slug": "lightitalic",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/neogramextended/light",
+            "css": {
+                "font-family": "NeoGram Extended Light",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3136",
+                "slug": "light",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/neogramextended/italic",
+            "css": {
+                "font-family": "NeoGram Extended Italic",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5466",
+                "slug": "italic",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/neogramextended/regular",
+            "css": {
+                "font-family": "NeoGram Extended Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3137",
+                "slug": "regular",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/neogramextended/medium",
+            "css": {
+                "font-family": "NeoGram Extended Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3138",
+                "slug": "medium",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/neogramextended/mediumitalic",
+            "css": {
+                "font-family": "NeoGram Extended Medium Italic",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5467",
+                "slug": "mediumitalic",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/neogramextended/bold",
+            "css": {
+                "font-family": "NeoGram Extended Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3139",
+                "slug": "bold",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/neogramextended/bolditalic",
+            "css": {
+                "font-family": "NeoGram Extended Bold Italic",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5469",
+                "slug": "bolditalic",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/neogramextended/extrabold",
+            "css": {
+                "font-family": "NeoGram Extended ExtraBold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3140",
+                "slug": "extrabold",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Extra-bold Italic",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/neogramextended/extrabolditalic",
+            "css": {
+                "font-family": "NeoGramExtendedExtraBoldItalic",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5470",
+                "slug": "extrabolditalic",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Heavy Italic",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/neogramextended/heavyitalic",
+            "css": {
+                "font-family": "NeoGram Extended Heavy Italic",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5471",
+                "slug": "heavyitalic",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/neogramextended/heavy",
+            "css": {
+                "font-family": "NeoGram Extended Heavy",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3141",
+                "slug": "heavy",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/neogramextended/blackitalic",
+            "css": {
+                "font-family": "NeoGram Extended Black Italic",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5472",
+                "slug": "blackitalic",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/neogramextended/black",
+            "css": {
+                "font-family": "NeoGram Extended Black",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3142",
+                "slug": "black",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "DemiBold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/neogramextended/demibold",
+            "css": {
+                "font-family": "NeoGram Extended DemiBold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3143",
+                "slug": "demibold",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "DemiBold Italic",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/neogramextended/demibolditalic",
+            "css": {
+                "font-family": "NeoGramExtendedDemiBoldItalic",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5468",
+                "slug": "demibolditalic",
+                "price": "$9.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "731",
+        "slug": "neogramextended"
+    },
+    "generatedAt": 1437609811732
+}

@@ -1,0 +1,66 @@
+{
+    "name": "Geometry Script Pro",
+    "url": "http://fontdeck.com/typeface/geometryscriptpro",
+    "slug": "geometryscriptpro",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Decorative script",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "CheapProFonts",
+    "designer": [
+        "Roger S.  Nelsson"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "script",
+        "1950s",
+        "connected",
+        "geometric",
+        "fancy",
+        "soft",
+        "constructed",
+        "rounded"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/geometryscriptpro/regular",
+            "css": {
+                "font-family": "Geometry Script Pro Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2913",
+                "slug": "regular",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Alternate",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/geometryscriptpro/alternate",
+            "css": {
+                "font-family": "Geometry Script Pro Alternate",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2914",
+                "slug": "alternate",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "678",
+        "slug": "geometryscriptpro"
+    },
+    "generatedAt": 1437609690729
+}

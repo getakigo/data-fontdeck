@@ -1,0 +1,242 @@
+{
+    "name": "Bree Serif",
+    "url": "http://fontdeck.com/typeface/breeserif",
+    "slug": "breeserif",
+    "superfamily": "Bree",
+    "use": "heading",
+    "classification": [
+        "Slab Serif",
+        "Humanist"
+    ],
+    "foundry": "TypeTogether",
+    "designer": [
+        "Veronika Burian",
+        "José Scaglione"
+    ],
+    "opentype": [
+        "liga",
+        "lnum",
+        "onum",
+        "pnum",
+        "ss01",
+        "ss02",
+        "tnum"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "opentype",
+        "text",
+        "soft",
+        "contemporary",
+        "upright",
+        "magazine",
+        "modern",
+        "vivid",
+        "fashionable",
+        "branding",
+        "headline",
+        "italic",
+        "subtle",
+        "attractive",
+        "sans-serif",
+        "legible",
+        "sleek",
+        "cool",
+        "elegant",
+        "fluid",
+        "polished",
+        "slab serif",
+        "editorial",
+        "lively",
+        "superfamily"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/breeserif/thin",
+            "css": {
+                "font-family": "Bree Serif Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7000",
+                "slug": "thin",
+                "price": "$12.99"
+            }
+        },
+        {
+            "name": "Thin Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/breeserif/thinitalic",
+            "css": {
+                "font-family": "Bree Serif Thin Italic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7553",
+                "slug": "thinitalic",
+                "price": "$12.99"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/breeserif/light",
+            "css": {
+                "font-family": "Bree Serif Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6996",
+                "slug": "light",
+                "price": "$12.99"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/breeserif/lightitalic",
+            "css": {
+                "font-family": "Bree Serif Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7551",
+                "slug": "lightitalic",
+                "price": "$12.99"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/breeserif/regular",
+            "css": {
+                "font-family": "Bree Serif Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6995",
+                "slug": "regular",
+                "price": "FREE"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/breeserif/italic",
+            "css": {
+                "font-family": "Bree Serif Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7550",
+                "slug": "italic",
+                "price": "$12.99"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/breeserif/semibold",
+            "css": {
+                "font-family": "Bree Serif Semibold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6999",
+                "slug": "semibold",
+                "price": "$12.99"
+            }
+        },
+        {
+            "name": "Semi-bold Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/breeserif/semibolditalic",
+            "css": {
+                "font-family": "Bree Serif Semibold Italic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7552",
+                "slug": "semibolditalic",
+                "price": "$12.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/breeserif/bold",
+            "css": {
+                "font-family": "Bree Serif Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6997",
+                "slug": "bold",
+                "price": "$12.99"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/breeserif/bolditalic",
+            "css": {
+                "font-family": "Bree Serif Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7548",
+                "slug": "bolditalic",
+                "price": "$12.99"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/breeserif/extrabold",
+            "css": {
+                "font-family": "Bree Serif Extrabold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6998",
+                "slug": "extrabold",
+                "price": "$12.99"
+            }
+        },
+        {
+            "name": "Extra-bold Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/breeserif/extrabolditalic",
+            "css": {
+                "font-family": "Bree Serif Extrabold Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7549",
+                "slug": "extrabolditalic",
+                "price": "$12.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1601",
+        "slug": "breeserif"
+    },
+    "generatedAt": 1437611192312
+}

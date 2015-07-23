@@ -1,0 +1,147 @@
+{
+    "name": "Basset",
+    "url": "http://fontdeck.com/typeface/basset",
+    "slug": "basset",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "All caps"
+    ],
+    "foundry": "Red Rooster Collection",
+    "designer": [
+        "Pat Hickson"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "chunky"
+    ],
+    "variations": [
+        {
+            "name": "Seven",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/basset/seven",
+            "css": {
+                "font-family": "Basset Seven",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6118",
+                "slug": "seven",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Eight",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/basset/eight",
+            "css": {
+                "font-family": "Basset Eight",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6114",
+                "slug": "eight",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Two",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/basset/two",
+            "css": {
+                "font-family": "Basset Two",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6121",
+                "slug": "two",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Five",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/basset/five",
+            "css": {
+                "font-family": "Basset Five",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6115",
+                "slug": "five",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Four",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/basset/four",
+            "css": {
+                "font-family": "Basset Four",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6116",
+                "slug": "four",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Three",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/basset/three",
+            "css": {
+                "font-family": "Basset Three",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6120",
+                "slug": "three",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "SIx",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/basset/six",
+            "css": {
+                "font-family": "Basset SIx",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6119",
+                "slug": "six",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "One",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/basset/one",
+            "css": {
+                "font-family": "Basset One",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6117",
+                "slug": "one",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1416",
+        "slug": "basset"
+    },
+    "generatedAt": 1437610810825
+}

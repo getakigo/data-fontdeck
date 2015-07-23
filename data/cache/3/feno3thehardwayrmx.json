@@ -1,0 +1,78 @@
+{
+    "name": "3 The Hard Way RMX",
+    "url": "http://fontdeck.com/typeface/feno3thehardwayrmx",
+    "slug": "feno3thehardwayrmx",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Grunge",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "Fenotype",
+    "designer": [
+        "Emil Bertell"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "grunge",
+        "rough",
+        "punk",
+        "geometric",
+        "eroded"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/feno3thehardwayrmx/light",
+            "css": {
+                "font-family": "3 The Hard Way RMX Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2148",
+                "slug": "light",
+                "price": "$9.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/feno3thehardwayrmx/regular",
+            "css": {
+                "font-family": "3 The Hard Way RMX Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2149",
+                "slug": "regular",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/feno3thehardwayrmx/bold",
+            "css": {
+                "font-family": "3 The Hard Way RMX Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2150",
+                "slug": "bold",
+                "price": "$9.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "541",
+        "slug": "feno3thehardwayrmx"
+    },
+    "generatedAt": 1437609406910
+}

@@ -1,0 +1,107 @@
+{
+    "name": "Punavuori",
+    "url": "http://fontdeck.com/typeface/punavuori",
+    "slug": "punavuori",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "Fenotype",
+    "designer": [
+        "Emil Bertell"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "monoline",
+        "thin",
+        "geometric",
+        "unicase"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/punavuori/light",
+            "css": {
+                "font-family": "Punavuori Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2435",
+                "slug": "light",
+                "price": "$8.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/punavuori/bold",
+            "css": {
+                "font-family": "Punavuori Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2432",
+                "slug": "bold",
+                "price": "$8.00"
+            }
+        },
+        {
+            "name": "Light 3D",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/punavuori/light3d",
+            "css": {
+                "font-family": "Punavuori Light 3D",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2434",
+                "slug": "light3d",
+                "price": "$8.00"
+            }
+        },
+        {
+            "name": "Distorted",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/punavuori/distorted",
+            "css": {
+                "font-family": "Punavuori Distorted",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2433",
+                "slug": "distorted",
+                "price": "$8.00"
+            }
+        },
+        {
+            "name": "Round",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/punavuori/round",
+            "css": {
+                "font-family": "Punavuori Round",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2438",
+                "slug": "round",
+                "price": "$8.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "590",
+        "slug": "punavuori"
+    },
+    "generatedAt": 1437609519193
+}

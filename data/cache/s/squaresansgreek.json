@@ -1,0 +1,216 @@
+{
+    "name": "Square Sans Greek",
+    "url": "http://fontdeck.com/typeface/squaresansgreek",
+    "slug": "squaresansgreek",
+    "superfamily": "Square Sans",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Humanist"
+    ],
+    "foundry": "Parachute",
+    "designer": [
+        "Panos Vassiliou"
+    ],
+    "language": [
+        "latin",
+        "greek"
+    ],
+    "tags": [
+        "text",
+        "legible",
+        "super family",
+        "corporate",
+        "square",
+        "greek",
+        "square sans",
+        "magazine"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/squaresansgreek/thin",
+            "css": {
+                "font-family": "Square Sans Greek Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4213",
+                "slug": "thin",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Thin Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/squaresansgreek/thinitalic",
+            "css": {
+                "font-family": "Square Sans Greek Thin Italic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4214",
+                "slug": "thinitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/squaresansgreek/light",
+            "css": {
+                "font-family": "Square Sans Greek Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4208",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/squaresansgreek/lightitalic",
+            "css": {
+                "font-family": "Square Sans Greek Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4209",
+                "slug": "lightitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/squaresansgreek/regular",
+            "css": {
+                "font-family": "Square Sans Greek Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4212",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/squaresansgreek/italic",
+            "css": {
+                "font-family": "Square Sans Greek Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4207",
+                "slug": "italic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/squaresansgreek/medium",
+            "css": {
+                "font-family": "Square Sans Greek Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4211",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/squaresansgreek/mediumitalic",
+            "css": {
+                "font-family": "Square Sans Greek Medium Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4210",
+                "slug": "mediumitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/squaresansgreek/bold",
+            "css": {
+                "font-family": "Square Sans Greek Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4205",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/squaresansgreek/bolditalic",
+            "css": {
+                "font-family": "Square Sans Greek Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4206",
+                "slug": "bolditalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/squaresansgreek/extrablack",
+            "css": {
+                "font-family": "Square Sans Greek Extra Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4215",
+                "slug": "extrablack",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-black Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/squaresansgreek/extrablackitalic",
+            "css": {
+                "font-family": "SquareSansGreekExtraBlackItalic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4216",
+                "slug": "extrablackitalic",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "987",
+        "slug": "squaresansgreek"
+    },
+    "generatedAt": 1437610247959
+}

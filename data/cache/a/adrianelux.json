@@ -1,0 +1,63 @@
+{
+    "name": "Adriane Lux",
+    "url": "http://fontdeck.com/typeface/adrianelux",
+    "slug": "adrianelux",
+    "superfamily": "Adriane",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Serif"
+    ],
+    "foundry": "Typefolio",
+    "designer": [
+        "Marconi Lima"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "uppercase",
+        "serif",
+        "lowercase",
+        "engraving",
+        "text",
+        "outline",
+        "latin",
+        "ampersands",
+        "contemporary",
+        "alternates",
+        "modern",
+        "central europe",
+        "extended diacritics",
+        "book",
+        "winner",
+        "small caps",
+        "editorial",
+        "transitional",
+        "display",
+        "superfamily",
+        "inline"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/adrianelux/regular",
+            "css": {
+                "font-family": "Adriane Lux Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4805",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1123",
+        "slug": "adrianelux"
+    },
+    "generatedAt": 1437610467738
+}

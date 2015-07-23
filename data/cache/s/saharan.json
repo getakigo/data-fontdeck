@@ -1,0 +1,49 @@
+{
+    "name": "Saharan",
+    "url": "http://fontdeck.com/typeface/saharan",
+    "slug": "saharan",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "All caps",
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "Veer",
+    "designer": [
+        "Jason Walcott"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "decorative",
+        "retro",
+        "script",
+        "all capitals",
+        "glyphic",
+        "display"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/saharan/regular",
+            "css": {
+                "font-family": "Saharan Regular",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5052",
+                "slug": "regular",
+                "price": "$11.25"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1178",
+        "slug": "saharan"
+    },
+    "generatedAt": 1437610520225
+}

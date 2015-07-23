@@ -1,0 +1,78 @@
+{
+    "name": "Lydia",
+    "url": "http://fontdeck.com/typeface/lydia",
+    "slug": "lydia",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Display",
+        "Script"
+    ],
+    "foundry": "Colophon",
+    "designer": [
+        "Benjamin Critton"
+    ],
+    "opentype": [
+        "hist",
+        "liga",
+        "pnum",
+        "ss01",
+        "ss02",
+        "tnum"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "opentype",
+        "narrow",
+        "condensed",
+        "sans-serif",
+        "sharp",
+        "pen",
+        "machine",
+        "poster",
+        "blackletter",
+        "fluid",
+        "calligraphic",
+        "bold"
+    ],
+    "variations": [
+        {
+            "name": "Bold Condensed",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/lydia/boldcondensed",
+            "css": {
+                "font-family": "Lydia Bold Condensed",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7478",
+                "slug": "boldcondensed",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Condensed Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/lydia/boldcondenseditalic",
+            "css": {
+                "font-family": "Lydia Bold Condensed Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7479",
+                "slug": "boldcondenseditalic",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1738",
+        "slug": "lydia"
+    },
+    "generatedAt": 1437611188767
+}

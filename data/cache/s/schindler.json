@@ -1,0 +1,139 @@
+{
+    "name": "Schindler",
+    "url": "http://fontdeck.com/typeface/schindler",
+    "slug": "schindler",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Slab serif"
+    ],
+    "foundry": "Red Rooster Collection",
+    "designer": [
+        "Steve Jackaman"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "compressed",
+        "condensed",
+        "geometric",
+        "logo",
+        "letterhead",
+        "magazine",
+        "economical",
+        "news",
+        "modern",
+        "movie",
+        "grotesk",
+        "menus",
+        "semi-serif",
+        "fashionable",
+        "headline",
+        "skinny",
+        "narrow",
+        "sans-serif",
+        "legible",
+        "informal",
+        "jazz",
+        "american",
+        "sturdy",
+        "idiosyncratic",
+        "poster",
+        "economic",
+        "news headline",
+        "decorative",
+        "compact",
+        "cool",
+        "film",
+        "slab serif",
+        "retro",
+        "signage",
+        "movie credits",
+        "german",
+        "sport",
+        "clean"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/schindler/light",
+            "css": {
+                "font-family": "Schindler Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4282",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Book",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/schindler/book",
+            "css": {
+                "font-family": "Schindler Book",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4281",
+                "slug": "book",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/schindler/medium",
+            "css": {
+                "font-family": "Schindler Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4285",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/schindler/bold",
+            "css": {
+                "font-family": "Schindler Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4283",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/schindler/extrabold",
+            "css": {
+                "font-family": "Schindler Extra Bold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4284",
+                "slug": "extrabold",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1004",
+        "slug": "schindler"
+    },
+    "generatedAt": 1437610290994
+}

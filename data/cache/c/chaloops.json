@@ -1,0 +1,58 @@
+{
+    "name": "Chaloops",
+    "url": "http://fontdeck.com/typeface/chaloops",
+    "slug": "chaloops",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Comic Strip Lettering"
+    ],
+    "foundry": "Chank Co",
+    "designer": [
+        "Chank Diesel"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "handwriting",
+        "kids fonts"
+    ],
+    "variations": [
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/chaloops/medium",
+            "css": {
+                "font-family": "Chaloops Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "459",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/chaloops/bold",
+            "css": {
+                "font-family": "Chaloops Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "460",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "183",
+        "slug": "chaloops"
+    },
+    "generatedAt": 1437608971300
+}

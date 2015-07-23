@@ -1,0 +1,149 @@
+{
+    "name": "Alverata Informal PE",
+    "url": "http://fontdeck.com/typeface/alveratainformalpe",
+    "slug": "alveratainformalpe",
+    "superfamily": "Alverata",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Sans Serif",
+        "Glyphic"
+    ],
+    "foundry": "TypeTogether",
+    "designer": [
+        "Gerard Unger"
+    ],
+    "opentype": [
+        "c2sc",
+        "calt",
+        "liga",
+        "pnum",
+        "smcp",
+        "ss01",
+        "ss02",
+        "tnum"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "attractive",
+        "formal",
+        "opentype",
+        "robust",
+        "glyphic",
+        "legible",
+        "informal",
+        "romanesque",
+        "insular",
+        "cyrillic",
+        "friendly",
+        "open",
+        "contemporary",
+        "refined",
+        "medieval",
+        "harmonious",
+        "european",
+        "lively",
+        "greek",
+        "superfamily"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/alveratainformalpe/light",
+            "css": {
+                "font-family": "Alverata Informal PE Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7679",
+                "slug": "light",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/alveratainformalpe/regular",
+            "css": {
+                "font-family": "Alverata Informal PE Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7681",
+                "slug": "regular",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/alveratainformalpe/medium",
+            "css": {
+                "font-family": "Alverata Informal PE Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7680",
+                "slug": "medium",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/alveratainformalpe/semibold",
+            "css": {
+                "font-family": "Alverata Informal PE Semibold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7682",
+                "slug": "semibold",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/alveratainformalpe/bold",
+            "css": {
+                "font-family": "Alverata Informal PE Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7678",
+                "slug": "bold",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/alveratainformalpe/black",
+            "css": {
+                "font-family": "Alverata Informal PE Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7677",
+                "slug": "black",
+                "price": "$15.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1770",
+        "slug": "alveratainformalpe"
+    },
+    "generatedAt": 1437611244480
+}

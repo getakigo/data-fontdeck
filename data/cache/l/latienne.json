@@ -1,0 +1,207 @@
+{
+    "name": "Latienne",
+    "url": "http://fontdeck.com/typeface/latienne",
+    "slug": "latienne",
+    "superfamily": "Latienne",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Transitional"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Mark Jamra"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "sensible",
+        "serif",
+        "1990s",
+        "tiny serif",
+        "text",
+        "legible",
+        "american",
+        "inscribed",
+        "elegant",
+        "calligraphic",
+        "german",
+        "transitional",
+        "valuable",
+        "flared",
+        "superfamily"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/latienne/regular",
+            "css": {
+                "font-family": "Latienne Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2097",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/latienne/italic",
+            "css": {
+                "font-family": "Latienne Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2100",
+                "slug": "italic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/latienne/medium",
+            "css": {
+                "font-family": "Latienne Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2098",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/latienne/mediumitalic",
+            "css": {
+                "font-family": "Latienne Medium Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2103",
+                "slug": "mediumitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/latienne/bold",
+            "css": {
+                "font-family": "Latienne Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2099",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/latienne/bolditalic",
+            "css": {
+                "font-family": "Latienne Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2101",
+                "slug": "bolditalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Small Caps Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/latienne/smallcapsmedium",
+            "css": {
+                "font-family": "Latienne Small Caps Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2105",
+                "slug": "smallcapsmedium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Small Caps Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/latienne/smallcapsregular",
+            "css": {
+                "font-family": "Latienne Small Caps Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2104",
+                "slug": "smallcapsregular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Descended Caps",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/latienne/descendedcaps",
+            "css": {
+                "font-family": "Latienne Descended Caps",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2095",
+                "slug": "descendedcaps",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Descended Caps Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/latienne/descendedcapsitalic",
+            "css": {
+                "font-family": "Latienne Descended Caps Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2096",
+                "slug": "descendedcapsitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Small Caps Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/latienne/smallcapsregularitalic",
+            "css": {
+                "font-family": "LatienneSmallCapsRegularItalic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2106",
+                "slug": "smallcapsregularitalic",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "530",
+        "slug": "latienne"
+    },
+    "generatedAt": 1437609389004
+}

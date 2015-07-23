@@ -1,0 +1,233 @@
+{
+    "name": "Basis Grotesque Pro",
+    "url": "http://fontdeck.com/typeface/basisgrotesquepro",
+    "slug": "basisgrotesquepro",
+    "superfamily": "Basisgrotesquepro",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Neo-Grotesk"
+    ],
+    "foundry": "Colophon",
+    "designer": [
+        "Edd Harrington",
+        "Anthony Sheret"
+    ],
+    "opentype": [
+        "calt",
+        "dlig",
+        "hist",
+        "liga",
+        "lnum",
+        "onum",
+        "pnum",
+        "ss01",
+        "ss02",
+        "tnum",
+        "zero"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "opentype",
+        "akzidenz",
+        "legible",
+        "cyrillic",
+        "magazine",
+        "akzidenz grotesk",
+        "refined",
+        "grotesk",
+        "shapely",
+        "grotesque",
+        "greek",
+        "superfamily"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/basisgrotesquepro/light",
+            "css": {
+                "font-family": "Basis Grotesque Pro Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8869",
+                "slug": "light",
+                "price": "$13.75"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/basisgrotesquepro/lightitalic",
+            "css": {
+                "font-family": "BasisGrotesqueProLightItalic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8868",
+                "slug": "lightitalic",
+                "price": "$13.75"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/basisgrotesquepro/regular",
+            "css": {
+                "font-family": "Basis Grotesque Pro Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8862",
+                "slug": "regular",
+                "price": "$13.75"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/basisgrotesquepro/italic",
+            "css": {
+                "font-family": "Basis Grotesque Pro Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8870",
+                "slug": "italic",
+                "price": "$13.75"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/basisgrotesquepro/medium",
+            "css": {
+                "font-family": "Basis Grotesque Pro Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8872",
+                "slug": "medium",
+                "price": "$13.75"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/basisgrotesquepro/mediumitalic",
+            "css": {
+                "font-family": "BasisGrotesqueProMediumItalic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8867",
+                "slug": "mediumitalic",
+                "price": "$13.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/basisgrotesquepro/bold",
+            "css": {
+                "font-family": "Basis Grotesque Pro Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8873",
+                "slug": "bold",
+                "price": "$13.75"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/basisgrotesquepro/bolditalic",
+            "css": {
+                "font-family": "Basis Grotesque Pro Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8871",
+                "slug": "bolditalic",
+                "price": "$13.75"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/basisgrotesquepro/black",
+            "css": {
+                "font-family": "Basis Grotesque Pro Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8875",
+                "slug": "black",
+                "price": "$13.75"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/basisgrotesquepro/blackitalic",
+            "css": {
+                "font-family": "BasisGrotesqueProBlackItalic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8874",
+                "slug": "blackitalic",
+                "price": "$13.75"
+            }
+        },
+        {
+            "name": "Off-White",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/basisgrotesquepro/offwhite",
+            "css": {
+                "font-family": "Basis Grotesque Pro Off-White",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8864",
+                "slug": "offwhite",
+                "price": "$13.75"
+            }
+        },
+        {
+            "name": "Off-White Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/basisgrotesquepro/offwhiteitalic",
+            "css": {
+                "font-family": "BasiGrotesquPrOff-WhitItali",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8863",
+                "slug": "offwhiteitalic",
+                "price": "$13.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1988",
+        "slug": "basisgrotesquepro"
+    },
+    "generatedAt": 1437611531186
+}

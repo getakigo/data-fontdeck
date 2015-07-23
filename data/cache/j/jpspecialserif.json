@@ -1,0 +1,71 @@
+{
+    "name": "JP Special Serif",
+    "url": "http://fontdeck.com/typeface/jpspecialserif",
+    "slug": "jpspecialserif",
+    "superfamily": "Jp Special",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Didone"
+    ],
+    "foundry": "Playtype",
+    "designer": [
+        "Jonas Hecksher"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/jpspecialserif/regular",
+            "css": {
+                "font-family": "JP Special Serif Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6874",
+                "slug": "regular",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/jpspecialserif/bold",
+            "css": {
+                "font-family": "JP Special Serif Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6872",
+                "slug": "bold",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Demi Bold",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/jpspecialserif/demibold",
+            "css": {
+                "font-family": "JP Special Serif Demi Bold",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6873",
+                "slug": "demibold",
+                "price": "$40.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1571",
+        "slug": "jpspecialserif"
+    },
+    "generatedAt": 1437611019663
+}

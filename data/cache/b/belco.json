@@ -1,0 +1,93 @@
+{
+    "name": "Belco",
+    "url": "http://fontdeck.com/typeface/belco",
+    "slug": "belco",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Grotesque"
+    ],
+    "foundry": "Tour de Force",
+    "designer": [
+        "Slobodan Jelesijević"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "modern",
+        "cool",
+        "elegant",
+        "magazine",
+        "belco",
+        "book",
+        "grotesque"
+    ],
+    "variations": [
+        {
+            "name": "Ultra-light",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/belco/ultralight",
+            "css": {
+                "font-family": "Belco Ultra Light",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "976",
+                "slug": "ultralight",
+                "price": "$7.99"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/belco/light",
+            "css": {
+                "font-family": "Belco Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "974",
+                "slug": "light",
+                "price": "$7.99"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/belco/regular",
+            "css": {
+                "font-family": "Belco Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "973",
+                "slug": "regular",
+                "price": "$7.99"
+            }
+        },
+        {
+            "name": "Ultra Light Small Caps",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/belco/ultralightsmallcaps",
+            "css": {
+                "font-family": "Belco Ultra Light Small Caps",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "975",
+                "slug": "ultralightsmallcaps",
+                "price": "$7.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "283",
+        "slug": "belco"
+    },
+    "generatedAt": 1437609142003
+}

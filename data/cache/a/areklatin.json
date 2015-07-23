@@ -1,0 +1,186 @@
+{
+    "name": "Arek Latin",
+    "url": "http://fontdeck.com/typeface/areklatin",
+    "slug": "areklatin",
+    "superfamily": "Arek",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Modern",
+        "Serif",
+        "Glyphic"
+    ],
+    "foundry": "Rosetta",
+    "designer": [
+        "Khajag Apelian"
+    ],
+    "opentype": [
+        "calt",
+        "case",
+        "dnom",
+        "frac",
+        "liga",
+        "lnum",
+        "numr",
+        "onum",
+        "ordn",
+        "pnum",
+        "salt",
+        "sinf",
+        "subs",
+        "tnum",
+        "zero"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "opentype",
+        "serif",
+        "21st century",
+        "text",
+        "latin",
+        "text font",
+        "debakir",
+        "magazine",
+        "dingbats",
+        "manuscript",
+        "calligraphic",
+        "multilingual",
+        "headline",
+        "display",
+        "legible",
+        "khajag apelian",
+        "crisp",
+        "hinted",
+        "letter.2",
+        "awarded"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/areklatin/regular",
+            "css": {
+                "font-family": "Arek Latin Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6703",
+                "slug": "regular",
+                "price": "$11.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/areklatin/italic",
+            "css": {
+                "font-family": "Arek Latin Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6704",
+                "slug": "italic",
+                "price": "$11.50"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/areklatin/semibold",
+            "css": {
+                "font-family": "Arek Latin Semibold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6705",
+                "slug": "semibold",
+                "price": "$11.50"
+            }
+        },
+        {
+            "name": "Semi-bold Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/areklatin/semibolditalic",
+            "css": {
+                "font-family": "Arek Latin Semibold Italic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6707",
+                "slug": "semibolditalic",
+                "price": "$11.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/areklatin/bold",
+            "css": {
+                "font-family": "Arek Latin Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6701",
+                "slug": "bold",
+                "price": "$11.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/areklatin/bolditalic",
+            "css": {
+                "font-family": "Arek Latin Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6702",
+                "slug": "bolditalic",
+                "price": "$11.50"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/areklatin/extrabold",
+            "css": {
+                "font-family": "Arek Latin Extrabold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6708",
+                "slug": "extrabold",
+                "price": "$11.50"
+            }
+        },
+        {
+            "name": "Extra-bold Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/areklatin/extrabolditalic",
+            "css": {
+                "font-family": "Arek Latin Extrabold Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6706",
+                "slug": "extrabolditalic",
+                "price": "$11.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1530",
+        "slug": "areklatin"
+    },
+    "generatedAt": 1437610980202
+}

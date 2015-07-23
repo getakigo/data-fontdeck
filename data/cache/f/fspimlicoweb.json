@@ -1,0 +1,153 @@
+{
+    "name": "FS Pimlico Web",
+    "url": "http://fontdeck.com/typeface/fspimlicoweb",
+    "slug": "fspimlicoweb",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Neo-Grotesk",
+        "Display",
+        "Sans serif"
+    ],
+    "foundry": "Fontsmith",
+    "designer": [
+        "Fernando Mello"
+    ],
+    "opentype": [
+        "liga"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "headlines",
+        "opentype",
+        "enthusiastic",
+        "glow",
+        "legible",
+        "true italics",
+        "rounded",
+        "versatile",
+        "brushwriting",
+        "billboard",
+        "comfortable",
+        "vibrant",
+        "human",
+        "concise",
+        "identity",
+        "signage",
+        "cheerful"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/fspimlicoweb/regular",
+            "css": {
+                "font-family": "FS Pimlico Web Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4138",
+                "slug": "regular",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/fspimlicoweb/italic",
+            "css": {
+                "font-family": "FS Pimlico Web Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4139",
+                "slug": "italic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/fspimlicoweb/bold",
+            "css": {
+                "font-family": "FS Pimlico Web Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4142",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/fspimlicoweb/bolditalic",
+            "css": {
+                "font-family": "FS Pimlico Web Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4141",
+                "slug": "bolditalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/fspimlicoweb/black",
+            "css": {
+                "font-family": "FS Pimlico Web Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4144",
+                "slug": "black",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/fspimlicoweb/blackitalic",
+            "css": {
+                "font-family": "FS Pimlico Web Black Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4143",
+                "slug": "blackitalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Glow",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/fspimlicoweb/glow",
+            "css": {
+                "font-family": "FS Pimlico Web Glow",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4140",
+                "slug": "glow",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "974",
+        "slug": "fspimlicoweb"
+    },
+    "generatedAt": 1437610217993
+}

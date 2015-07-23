@@ -1,0 +1,153 @@
+{
+    "name": "Kingfisher",
+    "url": "http://fontdeck.com/typeface/kingfisher",
+    "slug": "kingfisher",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Transitional",
+        "Serif",
+        "Neo-classical"
+    ],
+    "foundry": "Jeremy Tankard Typography",
+    "designer": [
+        "Jeremy Tankard"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "balanced",
+        "flowing",
+        "book text",
+        "clean",
+        "legible"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/kingfisher/regular",
+            "css": {
+                "font-family": "Kingfisher Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1667",
+                "slug": "regular",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/kingfisher/italic",
+            "css": {
+                "font-family": "Kingfisher Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1666",
+                "slug": "italic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/kingfisher/bold",
+            "css": {
+                "font-family": "Kingfisher Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1660",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/kingfisher/bolditalic",
+            "css": {
+                "font-family": "Kingfisher Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1661",
+                "slug": "bolditalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/kingfisher/heavy",
+            "css": {
+                "font-family": "Kingfisher Heavy",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1664",
+                "slug": "heavy",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Heavy Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/kingfisher/heavyitalic",
+            "css": {
+                "font-family": "Kingfisher Heavy Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1665",
+                "slug": "heavyitalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Display",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/kingfisher/display",
+            "css": {
+                "font-family": "Kingfisher Display",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1662",
+                "slug": "display",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Display Italic",
+            "description": "i3",
+            "url": "http://fontdeck.com/font/kingfisher/displayitalic",
+            "css": {
+                "font-family": "Kingfisher Display Italic",
+                "font-weight": "300",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1663",
+                "slug": "displayitalic",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "436",
+        "slug": "kingfisher"
+    },
+    "generatedAt": 1437609360120
+}

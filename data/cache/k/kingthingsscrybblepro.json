@@ -1,0 +1,40 @@
+{
+    "name": "Kingthings Scrybble Pro",
+    "url": "http://fontdeck.com/typeface/kingthingsscrybblepro",
+    "slug": "kingthingsscrybblepro",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Serif"
+    ],
+    "foundry": "CheapProFonts",
+    "designer": [
+        "Kevin King"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/kingthingsscrybblepro/regular",
+            "css": {
+                "font-family": "KingthingsScrybbleProRegular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6845",
+                "slug": "regular",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1557",
+        "slug": "kingthingsscrybblepro"
+    },
+    "generatedAt": 1437611001447
+}

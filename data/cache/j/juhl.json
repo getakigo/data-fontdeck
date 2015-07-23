@@ -1,0 +1,194 @@
+{
+    "name": "Juhl",
+    "url": "http://fontdeck.com/typeface/juhl",
+    "slug": "juhl",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "The Northern Block",
+    "designer": [
+        "Jonathan Hill"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "advertising",
+        "geometric",
+        "text",
+        "linear",
+        "swedish",
+        "humanist",
+        "contemporary",
+        "magazine",
+        "news",
+        "minimal",
+        "sans",
+        "modern",
+        "business",
+        "commercial",
+        "business text",
+        "european",
+        "branding",
+        "headline",
+        "sans-serif",
+        "legible",
+        "brochure",
+        "true italics",
+        "poster",
+        "neutral",
+        "swiss",
+        "light",
+        "editorial",
+        "sansserif",
+        "corporate",
+        "sans serif",
+        "readable",
+        "german",
+        "clean"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/juhl/thin",
+            "css": {
+                "font-family": "Juhl Thin",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3566",
+                "slug": "thin",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/juhl/light",
+            "css": {
+                "font-family": "Juhl Light",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3567",
+                "slug": "light",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/juhl/italic",
+            "css": {
+                "font-family": "Juhl Italic",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3569",
+                "slug": "italic",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/juhl/regular",
+            "css": {
+                "font-family": "Juhl Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3568",
+                "slug": "regular",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/juhl/medium",
+            "css": {
+                "font-family": "Juhl Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3570",
+                "slug": "medium",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/juhl/bold",
+            "css": {
+                "font-family": "Juhl Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3571",
+                "slug": "bold",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/juhl/extrabold",
+            "css": {
+                "font-family": "Juhl ExtraBold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3572",
+                "slug": "extrabold",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/juhl/heavy",
+            "css": {
+                "font-family": "Juhl Heavy",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3573",
+                "slug": "heavy",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/juhl/black",
+            "css": {
+                "font-family": "Juhl Black",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3574",
+                "slug": "black",
+                "price": "$9.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "860",
+        "slug": "juhl"
+    },
+    "generatedAt": 1437610007933
+}

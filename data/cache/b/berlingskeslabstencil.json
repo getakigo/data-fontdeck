@@ -1,0 +1,214 @@
+{
+    "name": "Berlingske Slab Stencil",
+    "url": "http://fontdeck.com/typeface/berlingskeslabstencil",
+    "slug": "berlingskeslabstencil",
+    "superfamily": "Berlingske",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Stencil"
+    ],
+    "foundry": "Playtype",
+    "designer": [
+        "Jonas Hecksher"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "eastern european languages",
+        "freestyle",
+        "pro character set",
+        "advanced character set",
+        "legible",
+        "vietnamese",
+        "greek"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/berlingskeslabstencil/light",
+            "css": {
+                "font-family": "Berlingske Slab Stencil Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8173",
+                "slug": "light",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/berlingskeslabstencil/lightitalic",
+            "css": {
+                "font-family": "BerlingskSlaStenciLighItali",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8172",
+                "slug": "lightitalic",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/berlingskeslabstencil/regular",
+            "css": {
+                "font-family": "Berlingske Slab Stencil Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8174",
+                "slug": "regular",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/berlingskeslabstencil/italic",
+            "css": {
+                "font-family": "Berlingske Slab Stencil Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8171",
+                "slug": "italic",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/berlingskeslabstencil/bold",
+            "css": {
+                "font-family": "Berlingske Slab Stencil Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8165",
+                "slug": "bold",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/berlingskeslabstencil/bolditalic",
+            "css": {
+                "font-family": "BerlingskeSlabStencilBoldItalic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8166",
+                "slug": "bolditalic",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/berlingskeslabstencil/extrabold",
+            "css": {
+                "font-family": "BerlingskeSlabStencilExtraBold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8175",
+                "slug": "extrabold",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Extra-bold Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/berlingskeslabstencil/extrabolditalic",
+            "css": {
+                "font-family": "BerlingskSlaStenciExtrBolItali",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8176",
+                "slug": "extrabolditalic",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/berlingskeslabstencil/black",
+            "css": {
+                "font-family": "Berlingske Slab Stencil Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8167",
+                "slug": "black",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/berlingskeslabstencil/blackitalic",
+            "css": {
+                "font-family": "BerlingskSlaStenciBlacItali",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8168",
+                "slug": "blackitalic",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Demi Bold",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/berlingskeslabstencil/demibold",
+            "css": {
+                "font-family": "BerlingskeSlabStencilDemiBold",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8169",
+                "slug": "demibold",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Demi Bold Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/berlingskeslabstencil/demibolditalic",
+            "css": {
+                "font-family": "BerlingskSlaStenciDemBolItali",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8170",
+                "slug": "demibolditalic",
+                "price": "$40.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1889",
+        "slug": "berlingskeslabstencil"
+    },
+    "generatedAt": 1437611392178
+}

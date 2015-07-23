@@ -1,0 +1,68 @@
+{
+    "name": "Elston Pro",
+    "url": "http://fontdeck.com/typeface/elstonpro",
+    "slug": "elstonpro",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "All caps",
+        "Display",
+        "Sans serif"
+    ],
+    "foundry": "Red Rooster Collection",
+    "designer": [
+        "Ashley Muir",
+        "Leslie Usherwood",
+        "Steve Jackaman"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "modern",
+        "all caps",
+        "minimalism",
+        "condensed",
+        "glyphic",
+        "grotesque",
+        "clean",
+        "poster"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/elstonpro/light",
+            "css": {
+                "font-family": "Elston Pro Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3155",
+                "slug": "light",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/elstonpro/bold",
+            "css": {
+                "font-family": "Elston Pro Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3156",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "740",
+        "slug": "elstonpro"
+    },
+    "generatedAt": 1437609820339
+}

@@ -1,0 +1,93 @@
+{
+    "name": "Coranto 2",
+    "url": "http://fontdeck.com/typeface/coranto2",
+    "slug": "coranto2",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Modern"
+    ],
+    "foundry": "TypeTogether",
+    "designer": [
+        "Gerard Unger"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "serif",
+        "elegant",
+        "contemporary",
+        "newspaper",
+        "ligatures",
+        "book",
+        "legible"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/coranto2/regular",
+            "css": {
+                "font-family": "Coranto 2 Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5525",
+                "slug": "regular",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/coranto2/italic",
+            "css": {
+                "font-family": "Coranto 2 Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5528",
+                "slug": "italic",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/coranto2/bold",
+            "css": {
+                "font-family": "Coranto 2 Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5526",
+                "slug": "bold",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/coranto2/bolditalic",
+            "css": {
+                "font-family": "Coranto 2 Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5527",
+                "slug": "bolditalic",
+                "price": "$15.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1288",
+        "slug": "coranto2"
+    },
+    "generatedAt": 1437610671098
+}

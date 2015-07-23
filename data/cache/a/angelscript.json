@@ -1,0 +1,50 @@
+{
+    "name": "Angel Script",
+    "url": "http://fontdeck.com/typeface/angelscript",
+    "slug": "angelscript",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Handwritten"
+    ],
+    "foundry": "Positype",
+    "designer": [
+        "Neil Summerour"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "cursive",
+        "script",
+        "swashes",
+        "handwriting",
+        "ligatures",
+        "handwritten",
+        "monoline",
+        "thin",
+        "pen"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/angelscript/regular",
+            "css": {
+                "font-family": "Angel Script Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3496",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "847",
+        "slug": "angelscript"
+    },
+    "generatedAt": 1437609985516
+}

@@ -1,0 +1,50 @@
+{
+    "name": "Airplanes In The Night Sky Pro",
+    "url": "http://fontdeck.com/typeface/airplanesinthenightskypro",
+    "slug": "airplanesinthenightskypro",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Handwritten"
+    ],
+    "foundry": "CheapProFonts",
+    "designer": [
+        "Kimberly Geswein"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "lovable",
+        "feminine",
+        "handwriting",
+        "cute",
+        "swirl",
+        "handwritten",
+        "girl",
+        "swirly",
+        "girly"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/airplanesinthenightskypro/regular",
+            "css": {
+                "font-family": "AirplaneIThNighSkPrRegula",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3305",
+                "slug": "regular",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "797",
+        "slug": "airplanesinthenightskypro"
+    },
+    "generatedAt": 1437609897226
+}

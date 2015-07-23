@@ -1,0 +1,160 @@
+{
+    "name": "Synthese",
+    "url": "http://fontdeck.com/typeface/synthese",
+    "slug": "synthese",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Grotesque"
+    ],
+    "foundry": "Bureau des Affaires Typographiques",
+    "designer": [
+        "Jean-Baptiste Levée",
+        "Gilles Poplin"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "grotesk",
+        "1950s",
+        "helvetica",
+        "sans-serif",
+        "grotesque",
+        "1960s",
+        "1960",
+        "gill sans",
+        "sansserif",
+        "sans serif",
+        "futura",
+        "alternates",
+        "sans"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/synthese/light",
+            "css": {
+                "font-family": "Synthese Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6633",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light Oblique",
+            "description": "o2",
+            "url": "http://fontdeck.com/font/synthese/lightoblique",
+            "css": {
+                "font-family": "Synthese Light Oblique",
+                "font-weight": "200",
+                "font-style": "oblique"
+            },
+            "fontdeck": {
+                "id": "6634",
+                "slug": "lightoblique",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/synthese/regular",
+            "css": {
+                "font-family": "Synthese Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6635",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Oblique",
+            "description": "o4",
+            "url": "http://fontdeck.com/font/synthese/oblique",
+            "css": {
+                "font-family": "Synthese Oblique",
+                "font-weight": "400",
+                "font-style": "oblique"
+            },
+            "fontdeck": {
+                "id": "6636",
+                "slug": "oblique",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/synthese/bold",
+            "css": {
+                "font-family": "Synthese Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6637",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Oblique",
+            "description": "o7",
+            "url": "http://fontdeck.com/font/synthese/boldoblique",
+            "css": {
+                "font-family": "Synthese Bold Oblique",
+                "font-weight": "700",
+                "font-style": "oblique"
+            },
+            "fontdeck": {
+                "id": "6638",
+                "slug": "boldoblique",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Ultra",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/synthese/ultra",
+            "css": {
+                "font-family": "Synthese Ultra",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6639",
+                "slug": "ultra",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Ultra Oblique",
+            "description": "o9",
+            "url": "http://fontdeck.com/font/synthese/ultraoblique",
+            "css": {
+                "font-family": "Synthese Ultra Oblique",
+                "font-weight": "900",
+                "font-style": "oblique"
+            },
+            "fontdeck": {
+                "id": "6640",
+                "slug": "ultraoblique",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1412",
+        "slug": "synthese"
+    },
+    "generatedAt": 1437610799305
+}

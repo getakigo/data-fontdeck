@@ -1,0 +1,127 @@
+{
+    "name": "DraftWerk",
+    "url": "http://fontdeck.com/typeface/draftwerk",
+    "slug": "draftwerk",
+    "use": "body",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Display",
+        "Futuristic",
+        "Display",
+        "Computer-related",
+        "Sans Serif",
+        "Geometric",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "The Northern Block",
+    "designer": [
+        "Jonathan Hill"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "technical",
+        "geometric",
+        "linear",
+        "contemporary",
+        "magazine",
+        "modern",
+        "business",
+        "movie",
+        "digital",
+        "commercial",
+        "round",
+        "modular",
+        "european",
+        "branding",
+        "headline",
+        "information",
+        "architectural",
+        "sans-serif",
+        "circular",
+        "legible",
+        "brochure",
+        "rounded",
+        "news headline",
+        "neutral",
+        "graphic",
+        "computer",
+        "swiss",
+        "identity",
+        "electronic",
+        "sans serif",
+        "futuristic",
+        "grid",
+        "clean"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/draftwerk/light",
+            "css": {
+                "font-family": "DraftWerk Light",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2418",
+                "slug": "light",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/draftwerk/regular",
+            "css": {
+                "font-family": "DraftWerk Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2419",
+                "slug": "regular",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/draftwerk/medium",
+            "css": {
+                "font-family": "DraftWerk Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2420",
+                "slug": "medium",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/draftwerk/bold",
+            "css": {
+                "font-family": "DraftWerk Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2421",
+                "slug": "bold",
+                "price": "$9.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "587",
+        "slug": "draftwerk"
+    },
+    "generatedAt": 1437609511861
+}

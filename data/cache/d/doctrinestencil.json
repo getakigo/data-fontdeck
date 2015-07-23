@@ -1,0 +1,120 @@
+{
+    "name": "Doctrine Stencil",
+    "url": "http://fontdeck.com/typeface/doctrinestencil",
+    "slug": "doctrinestencil",
+    "superfamily": "Doctrine",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Stencil"
+    ],
+    "foundry": "VirusFonts",
+    "designer": [
+        "Jonathan Barnbrook"
+    ],
+    "opentype": [
+        "dlig",
+        "liga",
+        "lnum",
+        "onum",
+        "pnum",
+        "ss01",
+        "tnum"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "opentype",
+        "geometric",
+        "legible",
+        "neo-grotesque",
+        "humanist",
+        "headline",
+        "display",
+        "superfamily",
+        "stencil"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/doctrinestencil/thin",
+            "css": {
+                "font-family": "Doctrine Stencil Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6984",
+                "slug": "thin",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/doctrinestencil/light",
+            "css": {
+                "font-family": "Doctrine Stencil Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6986",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/doctrinestencil/regular",
+            "css": {
+                "font-family": "Doctrine Stencil Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6985",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/doctrinestencil/bold",
+            "css": {
+                "font-family": "Doctrine Stencil Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6987",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/doctrinestencil/black",
+            "css": {
+                "font-family": "Doctrine Stencil Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6988",
+                "slug": "black",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1599",
+        "slug": "doctrinestencil"
+    },
+    "generatedAt": 1437611063068
+}

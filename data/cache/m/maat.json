@@ -1,0 +1,65 @@
+{
+    "name": "Maat",
+    "url": "http://fontdeck.com/typeface/maat",
+    "slug": "maat",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Poster",
+        "Display",
+        "Geometric",
+        "Display",
+        "Stencil"
+    ],
+    "foundry": "Wordshape",
+    "designer": [
+        "Ian Lynam"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "ken garland",
+        "wordshape",
+        "pattern font",
+        "geometric",
+        "futurist",
+        "vertical",
+        "dutch type",
+        "dual case numerals",
+        "wim crouwel",
+        "dutch font",
+        "modernism",
+        "jan middendorp",
+        "jurrian schrofer",
+        "sunglasses font",
+        "modular",
+        "maat font",
+        "futurism",
+        "modern font",
+        "stencil",
+        "deaf leopard"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/maat/regular",
+            "css": {
+                "font-family": "Maat Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4774",
+                "slug": "regular",
+                "price": "$12.49"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1115",
+        "slug": "maat"
+    },
+    "generatedAt": 1437610449789
+}

@@ -1,0 +1,69 @@
+{
+    "name": "Cordial Pro Inline",
+    "url": "http://fontdeck.com/typeface/cordialproinline",
+    "slug": "cordialproinline",
+    "superfamily": "Cordial Pro",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "All caps",
+        "Display",
+        "Art Deco",
+        "Display",
+        "Sans serif"
+    ],
+    "foundry": "Riccardo Olocco Typographic Design",
+    "designer": [
+        "Riccardo Olocco"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "decorative",
+        "elegant",
+        "cordial",
+        "italian",
+        "art deco",
+        "outline",
+        "inline",
+        "superfamily"
+    ],
+    "variations": [
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/cordialproinline/bold",
+            "css": {
+                "font-family": "Cordial Pro Inline Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2556",
+                "slug": "bold",
+                "price": "$11.99"
+            }
+        },
+        {
+            "name": "Bold Rounded",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/cordialproinline/boldrounded",
+            "css": {
+                "font-family": "Cordial Pro Inline Bold Rounded",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2557",
+                "slug": "boldrounded",
+                "price": "$11.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "618",
+        "slug": "cordialproinline"
+    },
+    "generatedAt": 1437609575257
+}

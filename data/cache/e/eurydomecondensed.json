@@ -1,0 +1,123 @@
+{
+    "name": "Eurydome Condensed",
+    "url": "http://fontdeck.com/typeface/eurydomecondensed",
+    "slug": "eurydomecondensed",
+    "superfamily": "Eurydome",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Grotesque"
+    ],
+    "foundry": "Emboss Fonts",
+    "designer": [
+        "Stephen Boss"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "narrow",
+        "sans serif",
+        "condensed",
+        "superfamily",
+        "venus",
+        "grotesque"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/eurydomecondensed/regular",
+            "css": {
+                "font-family": "Eurydome Condensed Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6935",
+                "slug": "regular",
+                "price": "$11.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/eurydomecondensed/italic",
+            "css": {
+                "font-family": "Eurydome Condensed Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6938",
+                "slug": "italic",
+                "price": "$11.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/eurydomecondensed/bold",
+            "css": {
+                "font-family": "Eurydome Condensed Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6934",
+                "slug": "bold",
+                "price": "$11.00"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/eurydomecondensed/bolditalic",
+            "css": {
+                "font-family": "Eurydome Condensed Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6937",
+                "slug": "bolditalic",
+                "price": "$11.00"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/eurydomecondensed/black",
+            "css": {
+                "font-family": "Eurydome Condensed Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6933",
+                "slug": "black",
+                "price": "$11.00"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/eurydomecondensed/blackitalic",
+            "css": {
+                "font-family": "Eurydome Condensed Black Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6936",
+                "slug": "blackitalic",
+                "price": "$11.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1586",
+        "slug": "eurydomecondensed"
+    },
+    "generatedAt": 1437611048909
+}

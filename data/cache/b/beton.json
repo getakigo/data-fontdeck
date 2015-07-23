@@ -1,0 +1,154 @@
+{
+    "name": "Beton",
+    "url": "http://fontdeck.com/typeface/beton",
+    "slug": "beton",
+    "use": "body",
+    "classification": [
+        "Display",
+        "Slab serif",
+        "Slab Serif",
+        "Static"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "URW Studio",
+        "Heinrich Jost"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "slab serif",
+        "1930s",
+        "technical",
+        "economic",
+        "legible"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/beton/light",
+            "css": {
+                "font-family": "Beton Light",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "734",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/beton/bold",
+            "css": {
+                "font-family": "Beton Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "730",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/beton/extrabold",
+            "css": {
+                "font-family": "Beton Extra Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "733",
+                "slug": "extrabold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Condensed",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/beton/boldcondensed",
+            "css": {
+                "font-family": "Beton Bold Condensed",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "731",
+                "slug": "boldcondensed",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Stencil Extra Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/beton/stencilextrabold",
+            "css": {
+                "font-family": "Beton Stencil Extra Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "737",
+                "slug": "stencilextrabold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Relief Extra Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/beton/reliefextrabold",
+            "css": {
+                "font-family": "Beton Relief Extra Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "736",
+                "slug": "reliefextrabold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Outline Extra Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/beton/outlineextrabold",
+            "css": {
+                "font-family": "Beton Outline Extra Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "735",
+                "slug": "outlineextrabold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Demi",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/beton/demi",
+            "css": {
+                "font-family": "Beton Demi",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "732",
+                "slug": "demi",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "241",
+        "slug": "beton"
+    },
+    "generatedAt": 1437609065031
+}

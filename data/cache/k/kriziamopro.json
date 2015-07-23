@@ -1,0 +1,46 @@
+{
+    "name": "Krizi Amo Pro",
+    "url": "http://fontdeck.com/typeface/kriziamopro",
+    "slug": "kriziamopro",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Art Deco"
+    ],
+    "foundry": "CheapProFonts",
+    "designer": [
+        "Levente Halmos"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "retro",
+        "perfume",
+        "1920s",
+        "stylish",
+        "art deco"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/kriziamopro/regular",
+            "css": {
+                "font-family": "Krizi Amo Pro Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4757",
+                "slug": "regular",
+                "price": "$9.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1105",
+        "slug": "kriziamopro"
+    },
+    "generatedAt": 1437610432824
+}

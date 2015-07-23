@@ -1,0 +1,179 @@
+{
+    "name": "Scriber",
+    "url": "http://fontdeck.com/typeface/scriber",
+    "slug": "scriber",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Futuristic",
+        "Display",
+        "Computer-related",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "The Northern Block",
+    "designer": [
+        "Jonathan Hill"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "architectural",
+        "technical",
+        "geometric",
+        "linear",
+        "legible",
+        "mechanical",
+        "architecture",
+        "balanced",
+        "magazine",
+        "modern",
+        "news headline",
+        "robot",
+        "minimalism",
+        "neutral",
+        "menus",
+        "graphic",
+        "digital",
+        "computer",
+        "identity",
+        "european",
+        "modular",
+        "electronic",
+        "headline",
+        "square",
+        "futuristic",
+        "german",
+        "grid",
+        "display",
+        "information"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/scriber/thin",
+            "css": {
+                "font-family": "Scriber Thin",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2463",
+                "slug": "thin",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Thin Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/scriber/thinitalic",
+            "css": {
+                "font-family": "Scriber Thin Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2467",
+                "slug": "thinitalic",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/scriber/regular",
+            "css": {
+                "font-family": "Scriber Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2464",
+                "slug": "regular",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/scriber/italic",
+            "css": {
+                "font-family": "Scriber Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2468",
+                "slug": "italic",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/scriber/medium",
+            "css": {
+                "font-family": "Scriber Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2465",
+                "slug": "medium",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/scriber/mediumitalic",
+            "css": {
+                "font-family": "Scriber Medium Italic",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2469",
+                "slug": "mediumitalic",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/scriber/bold",
+            "css": {
+                "font-family": "Scriber Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2466",
+                "slug": "bold",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/scriber/bolditalic",
+            "css": {
+                "font-family": "Scriber Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2470",
+                "slug": "bolditalic",
+                "price": "$9.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "600",
+        "slug": "scriber"
+    },
+    "generatedAt": 1437609547482
+}

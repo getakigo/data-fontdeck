@@ -1,0 +1,62 @@
+{
+    "name": "Typekeys Pro",
+    "url": "http://fontdeck.com/typeface/typekeyspro",
+    "slug": "typekeyspro",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "All caps",
+        "Display",
+        "Computer-related"
+    ],
+    "foundry": "CheapProFonts",
+    "designer": [
+        "Ronna Penner"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "keys",
+        "initials",
+        "typewriter",
+        "vintage"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/typekeyspro/regular",
+            "css": {
+                "font-family": "Typekeys Pro Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2952",
+                "slug": "regular",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Filled",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/typekeyspro/filled",
+            "css": {
+                "font-family": "Typekeys Pro Filled",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2953",
+                "slug": "filled",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "684",
+        "slug": "typekeyspro"
+    },
+    "generatedAt": 1437609703372
+}

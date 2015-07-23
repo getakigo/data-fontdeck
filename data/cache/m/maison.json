@@ -1,0 +1,96 @@
+{
+    "name": "Maison",
+    "url": "http://fontdeck.com/typeface/maison",
+    "slug": "maison",
+    "superfamily": "Maison",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Sans Serif",
+        "Grotesque"
+    ],
+    "foundry": "Milieu Grotesque",
+    "designer": [
+        "Timo Gaessner"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "industrial",
+        "geometric",
+        "grotesque",
+        "neo-grotesk",
+        "display",
+        "superfamily",
+        "poster"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/maison/light",
+            "css": {
+                "font-family": "Maison Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5606",
+                "slug": "light",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/maison/regular",
+            "css": {
+                "font-family": "Maison Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5607",
+                "slug": "regular",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/maison/italic",
+            "css": {
+                "font-family": "Maison Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5605",
+                "slug": "italic",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/maison/bold",
+            "css": {
+                "font-family": "Maison Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5604",
+                "slug": "bold",
+                "price": "$15.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1296",
+        "slug": "maison"
+    },
+    "generatedAt": 1437610708731
+}

@@ -1,0 +1,157 @@
+{
+    "name": "Apercu",
+    "url": "http://fontdeck.com/typeface/apercu",
+    "slug": "apercu",
+    "superfamily": "Apercu",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Hybrid"
+    ],
+    "foundry": "Colophon",
+    "designer": [
+        "Edd Harrington",
+        "Anthony Sheret"
+    ],
+    "opentype": [
+        "liga"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "opentype",
+        "realist",
+        "aperçu",
+        "geometric",
+        "2000s",
+        "superfamily"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/apercu/light",
+            "css": {
+                "font-family": "Apercu Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "924",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/apercu/lightitalic",
+            "css": {
+                "font-family": "Apercu Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "925",
+                "slug": "lightitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/apercu/regular",
+            "css": {
+                "font-family": "Apercu Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "929",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/apercu/italic",
+            "css": {
+                "font-family": "Apercu Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "928",
+                "slug": "italic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/apercu/medium",
+            "css": {
+                "font-family": "Apercu Medium",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "927",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/apercu/mediumitalic",
+            "css": {
+                "font-family": "Apercu Medium Italic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "926",
+                "slug": "mediumitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/apercu/bold",
+            "css": {
+                "font-family": "Apercu Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "923",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/apercu/bolditalic",
+            "css": {
+                "font-family": "Apercu Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "922",
+                "slug": "bolditalic",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "274",
+        "slug": "apercu"
+    },
+    "generatedAt": 1437609120561
+}

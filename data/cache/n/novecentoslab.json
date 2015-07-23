@@ -1,0 +1,202 @@
+{
+    "name": "Novecento Slab",
+    "url": "http://fontdeck.com/typeface/novecentoslab",
+    "slug": "novecentoslab",
+    "superfamily": "Novecento",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Slab serif",
+        "Slab Serif",
+        "Grotesque/Geometric"
+    ],
+    "foundry": "Synthview",
+    "designer": [
+        "Jan Tonellato"
+    ],
+    "opentype": [
+        "calt",
+        "lnum",
+        "onum",
+        "pnum",
+        "ss01",
+        "ss02",
+        "ss03",
+        "ss04",
+        "ss05",
+        "tnum",
+        "zero"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "stylistic set",
+        "rupee",
+        "rockwell",
+        "serif",
+        "1920s",
+        "condensed",
+        "geometric",
+        "logo",
+        "mechanical",
+        "magazine",
+        "alternates",
+        "modern",
+        "slab",
+        "egyptian",
+        "caps only",
+        "versal eszett",
+        "european",
+        "bold",
+        "branding",
+        "headline",
+        "display",
+        "case sensitive",
+        "uppercase",
+        "eszett",
+        "legible",
+        "capitals",
+        "all caps",
+        "figures",
+        "1930s",
+        "sharp s",
+        "block",
+        "turkish lira",
+        "vintage",
+        "small caps",
+        "slab serif",
+        "light",
+        "heavy",
+        "thin",
+        "mega-family",
+        "wide"
+    ],
+    "variations": [
+        {
+            "name": "Ultra-light",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/novecentoslab/ultralight",
+            "css": {
+                "font-family": "Novecento Slab UltraLight",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8435",
+                "slug": "ultralight",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/novecentoslab/light",
+            "css": {
+                "font-family": "Novecento Slab Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8431",
+                "slug": "light",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Book",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/novecentoslab/book",
+            "css": {
+                "font-family": "Novecento Slab Book",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8429",
+                "slug": "book",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/novecentoslab/medium",
+            "css": {
+                "font-family": "Novecento Slab Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8432",
+                "slug": "medium",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/novecentoslab/bold",
+            "css": {
+                "font-family": "Novecento Slab Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8428",
+                "slug": "bold",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "UltraBold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/novecentoslab/ultrabold",
+            "css": {
+                "font-family": "Novecento Slab UltraBold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8434",
+                "slug": "ultrabold",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "DemiBold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/novecentoslab/demibold",
+            "css": {
+                "font-family": "Novecento Slab DemiBold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8430",
+                "slug": "demibold",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Normal",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/novecentoslab/normal",
+            "css": {
+                "font-family": "Novecento Slab Normal",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8433",
+                "slug": "normal",
+                "price": "$7.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1843",
+        "slug": "novecentoslab"
+    },
+    "generatedAt": 1437611492342
+}

@@ -1,0 +1,106 @@
+{
+    "name": "Brion",
+    "url": "http://fontdeck.com/typeface/brion",
+    "slug": "brion",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Art Deco",
+        "Display",
+        "Sans serif",
+        "Display",
+        "Futuristic",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "The Northern Block",
+    "designer": [
+        "Jonathan Hill"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "formal",
+        "technical",
+        "book jacket",
+        "circular",
+        "linear",
+        "legible",
+        "brochure",
+        "bauhaus",
+        "magazine",
+        "poster",
+        "news headline",
+        "business",
+        "minimalism",
+        "neutral",
+        "elegant",
+        "commercial",
+        "audio",
+        "swiss",
+        "art deco",
+        "identity",
+        "european",
+        "retro",
+        "artdeco",
+        "modular",
+        "signage",
+        "branding",
+        "headline",
+        "graceful",
+        "clean"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/brion/light",
+            "css": {
+                "font-family": "Brion Light",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2440",
+                "slug": "light",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/brion/regular",
+            "css": {
+                "font-family": "Brion Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2441",
+                "slug": "regular",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/brion/bold",
+            "css": {
+                "font-family": "Brion Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2442",
+                "slug": "bold",
+                "price": "$9.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "593",
+        "slug": "brion"
+    },
+    "generatedAt": 1437609521242
+}

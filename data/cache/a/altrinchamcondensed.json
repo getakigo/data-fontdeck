@@ -1,0 +1,48 @@
+{
+    "name": "Altrincham Condensed",
+    "url": "http://fontdeck.com/typeface/altrinchamcondensed",
+    "slug": "altrinchamcondensed",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Glyphic"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Coen Hofmann"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "soft",
+        "female",
+        "perfume",
+        "elegant",
+        "stressed sans",
+        "natural",
+        "legible"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/altrinchamcondensed/regular",
+            "css": {
+                "font-family": "Altrincham Condensed Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1519",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "407",
+        "slug": "altrinchamcondensed"
+    },
+    "generatedAt": 1437609292784
+}

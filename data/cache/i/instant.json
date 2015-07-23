@@ -1,0 +1,123 @@
+{
+    "name": "Instant",
+    "url": "http://fontdeck.com/typeface/instant",
+    "slug": "instant",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Humanist"
+    ],
+    "foundry": "Bureau des Affaires Typographiques",
+    "designer": [
+        "Jérôme Knebusch"
+    ],
+    "opentype": [
+        "c2sc",
+        "calt",
+        "dlig",
+        "hist",
+        "liga",
+        "lnum",
+        "onum",
+        "pnum",
+        "ss01",
+        "ss02",
+        "ss03",
+        "ss04",
+        "ss05",
+        "ss06",
+        "ss07",
+        "tnum"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "opentype",
+        "grotesk",
+        "script",
+        "humanistic sans"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/instant/regular",
+            "css": {
+                "font-family": "Instant Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6213",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/instant/heavy",
+            "css": {
+                "font-family": "Instant Heavy",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6215",
+                "slug": "heavy",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Quick",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/instant/quick",
+            "css": {
+                "font-family": "Instant Quick",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6212",
+                "slug": "quick",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Slow",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/instant/slow",
+            "css": {
+                "font-family": "Instant Slow",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6214",
+                "slug": "slow",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Vivid",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/instant/vivid",
+            "css": {
+                "font-family": "Instant Vivid",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6211",
+                "slug": "vivid",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1413",
+        "slug": "instant"
+    },
+    "generatedAt": 1437610799590
+}

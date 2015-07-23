@@ -1,0 +1,103 @@
+{
+    "name": "Safety Text",
+    "url": "http://fontdeck.com/typeface/safetytext",
+    "slug": "safetytext",
+    "superfamily": "Safety",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "Playtype",
+    "designer": [
+        "Jonas Hecksher"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "non-grotesque"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/safetytext/light",
+            "css": {
+                "font-family": "Safety Text Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6865",
+                "slug": "light",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/safetytext/regular",
+            "css": {
+                "font-family": "Safety Text Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6861",
+                "slug": "regular",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/safetytext/italic",
+            "css": {
+                "font-family": "Safety Text Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6864",
+                "slug": "italic",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/safetytext/bold",
+            "css": {
+                "font-family": "Safety Text Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6862",
+                "slug": "bold",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Demi Bold",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/safetytext/demibold",
+            "css": {
+                "font-family": "Safety Text Demi Bold",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6863",
+                "slug": "demibold",
+                "price": "$45.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1569",
+        "slug": "safetytext"
+    },
+    "generatedAt": 1437611019711
+}

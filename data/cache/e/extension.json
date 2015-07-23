@@ -1,0 +1,214 @@
+{
+    "name": "Extension",
+    "url": "http://fontdeck.com/typeface/extension",
+    "slug": "extension",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "Red Rooster Collection",
+    "designer": [
+        "Leslie Usherwood",
+        "Steve Jackaman"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "formal",
+        "geometric",
+        "correspondence",
+        "open",
+        "humanist",
+        "magazine",
+        "minimal",
+        "modern",
+        "grotesk",
+        "menus",
+        "fashionable",
+        "unusual",
+        "english",
+        "sans-serif",
+        "legible",
+        "jazz",
+        "american",
+        "sturdy",
+        "idiosyncratic",
+        "poster",
+        "modest",
+        "large eye",
+        "cool",
+        "plain",
+        "solid",
+        "office",
+        "swiss",
+        "retro",
+        "signage",
+        "corporate",
+        "square",
+        "german",
+        "sport",
+        "conservative",
+        "clean"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/extension/light",
+            "css": {
+                "font-family": "Extension Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4163",
+                "slug": "light",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/extension/lightitalic",
+            "css": {
+                "font-family": "Extension Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4164",
+                "slug": "lightitalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Book",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/extension/book",
+            "css": {
+                "font-family": "Extension Book",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4159",
+                "slug": "book",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Book Italic",
+            "description": "i3",
+            "url": "http://fontdeck.com/font/extension/bookitalic",
+            "css": {
+                "font-family": "Extension Book Italic",
+                "font-weight": "300",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4160",
+                "slug": "bookitalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/extension/medium",
+            "css": {
+                "font-family": "Extension Medium",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4165",
+                "slug": "medium",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/extension/mediumitalic",
+            "css": {
+                "font-family": "Extension Medium Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4166",
+                "slug": "mediumitalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/extension/bold",
+            "css": {
+                "font-family": "Extension Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4157",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/extension/bolditalic",
+            "css": {
+                "font-family": "Extension Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4158",
+                "slug": "bolditalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Extra-bold Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/extension/extrabolditalic",
+            "css": {
+                "font-family": "Extension Extra Bold Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4162",
+                "slug": "extrabolditalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/extension/extrabold",
+            "css": {
+                "font-family": "Extension Extra Bold",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4161",
+                "slug": "extrabold",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "977",
+        "slug": "extension"
+    },
+    "generatedAt": 1437610223912
+}

@@ -1,0 +1,70 @@
+{
+    "name": "Centim",
+    "url": "http://fontdeck.com/typeface/centim",
+    "slug": "centim",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "Tour de Force",
+    "designer": [
+        "Dušan Jelesijević"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "modern",
+        "publications",
+        "technical",
+        "sans-serif",
+        "sharp",
+        "architecture",
+        "editorial",
+        "corporate",
+        "square",
+        "sans serif",
+        "squarish",
+        "magazine",
+        "clean",
+        "sans"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/centim/regular",
+            "css": {
+                "font-family": "Centim Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4031",
+                "slug": "regular",
+                "price": "$7.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/centim/bold",
+            "css": {
+                "font-family": "Centim Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4030",
+                "slug": "bold",
+                "price": "$7.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "953",
+        "slug": "centim"
+    },
+    "generatedAt": 1437610169699
+}

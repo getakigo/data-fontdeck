@@ -1,0 +1,44 @@
+{
+    "name": "Burst My Bubble Pro",
+    "url": "http://fontdeck.com/typeface/burstmybubblepro",
+    "slug": "burstmybubblepro",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Handwritten"
+    ],
+    "foundry": "CheapProFonts",
+    "designer": [
+        "Kimberly Geswein"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "handwritten",
+        "feminine",
+        "handwriting"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/burstmybubblepro/regular",
+            "css": {
+                "font-family": "Burst My Bubble Pro Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3300",
+                "slug": "regular",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "792",
+        "slug": "burstmybubblepro"
+    },
+    "generatedAt": 1437609888910
+}

@@ -1,0 +1,74 @@
+{
+    "name": "Ola Script 4F",
+    "url": "http://fontdeck.com/typeface/olascript4f",
+    "slug": "olascript4f",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Experimental script",
+        "Display",
+        "Script",
+        "Script",
+        "Decorative script",
+        "Script",
+        "Simple",
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "4th february",
+    "designer": [
+        "Sergiy S. Tkachenko"
+    ],
+    "language": [
+        "latin",
+        "cyrillic"
+    ],
+    "tags": [
+        "eau de toilette",
+        "eau de parfum",
+        "women",
+        "elegant",
+        "tender",
+        "elegante",
+        "thin",
+        "theater",
+        "woman"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/olascript4f/regular",
+            "css": {
+                "font-family": "Ola Script 4F Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3897",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/olascript4f/bold",
+            "css": {
+                "font-family": "Ola Script 4F Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3898",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "921",
+        "slug": "olascript4f"
+    },
+    "generatedAt": 1437610121191
+}

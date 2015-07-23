@@ -1,0 +1,158 @@
+{
+    "name": "Sys2.0",
+    "url": "http://fontdeck.com/typeface/sys20",
+    "slug": "sys20",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "Fabrizio Schiavi Design",
+    "designer": [
+        "Fabrizio Schiavi"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "hinted",
+        "headlines",
+        "condensed",
+        "branding",
+        "web 2.0",
+        "super family",
+        "cartography",
+        "corporate",
+        "screen",
+        "super curves",
+        "rounded",
+        "display"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/sys20/light",
+            "css": {
+                "font-family": "Sys2.0 Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7893",
+                "slug": "light",
+                "price": "$25.00"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/sys20/lightitalic",
+            "css": {
+                "font-family": "Sys2.0 Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7897",
+                "slug": "lightitalic",
+                "price": "$25.00"
+            }
+        },
+        {
+            "name": "Book",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/sys20/book",
+            "css": {
+                "font-family": "Sys2.0 Book",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7892",
+                "slug": "book",
+                "price": "$25.00"
+            }
+        },
+        {
+            "name": "Book Italic",
+            "description": "i3",
+            "url": "http://fontdeck.com/font/sys20/bookitalic",
+            "css": {
+                "font-family": "Sys2.0 Book Italic",
+                "font-weight": "300",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7896",
+                "slug": "bookitalic",
+                "price": "$25.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/sys20/regular",
+            "css": {
+                "font-family": "Sys2.0 Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7890",
+                "slug": "regular",
+                "price": "$25.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/sys20/italic",
+            "css": {
+                "font-family": "Sys2.0 Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7894",
+                "slug": "italic",
+                "price": "$25.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/sys20/bold",
+            "css": {
+                "font-family": "Sys2.0 Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7891",
+                "slug": "bold",
+                "price": "$25.00"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/sys20/bolditalic",
+            "css": {
+                "font-family": "Sys2.0 Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7895",
+                "slug": "bolditalic",
+                "price": "$25.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1812",
+        "slug": "sys20"
+    },
+    "generatedAt": 1437611323320
+}

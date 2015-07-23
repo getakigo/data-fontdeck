@@ -1,0 +1,65 @@
+{
+    "name": "Serifa Condensed",
+    "url": "http://fontdeck.com/typeface/serifacondensed",
+    "slug": "serifacondensed",
+    "superfamily": "Serifa",
+    "use": "body",
+    "classification": [
+        "Display",
+        "Slab serif",
+        "Slab Serif",
+        "Grotesque/Geometric"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Adrian Frutiger"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "1970s",
+        "narrow",
+        "technical",
+        "condensed",
+        "geometric",
+        "linear",
+        "legible",
+        "super family",
+        "memos",
+        "news",
+        "magazine",
+        "economic",
+        "news headline",
+        "univers",
+        "business text",
+        "swiss",
+        "1960s",
+        "slab serif",
+        "masculine",
+        "heavy",
+        "1980s"
+    ],
+    "variations": [
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/serifacondensed/medium",
+            "css": {
+                "font-family": "Serifa Condensed Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1544",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "413",
+        "slug": "serifacondensed"
+    },
+    "generatedAt": 1437609302668
+}

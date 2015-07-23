@@ -1,0 +1,118 @@
+{
+    "name": "Karnak Pro Condensed",
+    "url": "http://fontdeck.com/typeface/karnakprocondensed",
+    "slug": "karnakprocondensed",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Slab serif",
+        "Slab Serif",
+        "Grotesque/Geometric"
+    ],
+    "foundry": "Red Rooster Collection",
+    "designer": [
+        "Ashley Muir",
+        "Steve Jackaman"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "sensible",
+        "realistic",
+        "compressed",
+        "serif",
+        "condensed",
+        "news text",
+        "clarendon",
+        "personal text",
+        "magazine",
+        "news",
+        "1940s",
+        "menus",
+        "egyptian",
+        "fashionable",
+        "pyramid",
+        "headline",
+        "unusual",
+        "book text",
+        "narrow",
+        "english",
+        "legible",
+        "jazz",
+        "american",
+        "sturdy",
+        "idiosyncratic",
+        "modest",
+        "poster",
+        "news headline",
+        "1930s",
+        "minimalism",
+        "cool",
+        "wild west",
+        "plain",
+        "block",
+        "book",
+        "vintage",
+        "masculine",
+        "slab serif",
+        "retro",
+        "signage",
+        "square",
+        "egyptienne",
+        "sport",
+        "clean"
+    ],
+    "variations": [
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/karnakprocondensed/black",
+            "css": {
+                "font-family": "Karnak Pro Condensed Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2804",
+                "slug": "black",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/karnakprocondensed/blackitalic",
+            "css": {
+                "font-family": "KarnakProCondensedBlackItalic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2805",
+                "slug": "blackitalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Obelisk Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/karnakprocondensed/obeliskmedium",
+            "css": {
+                "font-family": "KarnakProCondensedObeliskMedium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2806",
+                "slug": "obeliskmedium",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "663",
+        "slug": "karnakprocondensed"
+    },
+    "generatedAt": 1437609670783
+}

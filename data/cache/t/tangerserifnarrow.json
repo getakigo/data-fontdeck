@@ -1,0 +1,281 @@
+{
+    "name": "Tanger Serif Narrow",
+    "url": "http://fontdeck.com/typeface/tangerserifnarrow",
+    "slug": "tangerserifnarrow",
+    "superfamily": "Tanger Serif",
+    "use": "heading",
+    "classification": [
+        "Serif",
+        "Transitional",
+        "Slab Serif",
+        "Clarendon/Bracketed"
+    ],
+    "foundry": "Typolar",
+    "designer": [
+        "Jarno Lukkarila"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "headlines",
+        "elegant",
+        "narrow",
+        "egyptian",
+        "slim",
+        "workhorse",
+        "legible",
+        "sturdy",
+        "headline",
+        "transitional",
+        "superfamily",
+        "economic"
+    ],
+    "variations": [
+        {
+            "name": "Ultra-light",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/tangerserifnarrow/ultralight",
+            "css": {
+                "font-family": "Tanger Serif Narrow Ultra Light",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2226",
+                "slug": "ultralight",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Ultra-light Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/tangerserifnarrow/ultralightitalic",
+            "css": {
+                "font-family": "TangeSeriNarroUltrLighItali",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2225",
+                "slug": "ultralightitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/tangerserifnarrow/light",
+            "css": {
+                "font-family": "Tanger Serif Narrow Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2221",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/tangerserifnarrow/lightitalic",
+            "css": {
+                "font-family": "TangerSerifNarrowLightItalic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2220",
+                "slug": "lightitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Book",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/tangerserifnarrow/book",
+            "css": {
+                "font-family": "Tanger Serif Narrow Book",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2213",
+                "slug": "book",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Book Italic",
+            "description": "i3",
+            "url": "http://fontdeck.com/font/tangerserifnarrow/bookitalic",
+            "css": {
+                "font-family": "Tanger Serif Narrow Book Italic",
+                "font-weight": "300",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2212",
+                "slug": "bookitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/tangerserifnarrow/regular",
+            "css": {
+                "font-family": "Tanger Serif Narrow Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2222",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/tangerserifnarrow/italic",
+            "css": {
+                "font-family": "Tanger Serif Narrow Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2219",
+                "slug": "italic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/tangerserifnarrow/semibold",
+            "css": {
+                "font-family": "Tanger Serif Narrow Semi Bold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2224",
+                "slug": "semibold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Semi-bold Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/tangerserifnarrow/semibolditalic",
+            "css": {
+                "font-family": "TangerSerifNarrowSemiBoldItalic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2223",
+                "slug": "semibolditalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/tangerserifnarrow/bold",
+            "css": {
+                "font-family": "Tanger Serif Narrow Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2211",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/tangerserifnarrow/bolditalic",
+            "css": {
+                "font-family": "Tanger Serif Narrow Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2210",
+                "slug": "bolditalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/tangerserifnarrow/extrabold",
+            "css": {
+                "font-family": "Tanger Serif Narrow Extra Bold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2216",
+                "slug": "extrabold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-bold Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/tangerserifnarrow/extrabolditalic",
+            "css": {
+                "font-family": "TangeSeriNarroExtrBolItali",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2214",
+                "slug": "extrabolditalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/tangerserifnarrow/heavy",
+            "css": {
+                "font-family": "Tanger Serif Narrow Heavy",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2218",
+                "slug": "heavy",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Heavy Italic",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/tangerserifnarrow/heavyitalic",
+            "css": {
+                "font-family": "TangerSerifNarrowHeavyItalic",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2217",
+                "slug": "heavyitalic",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "552",
+        "slug": "tangerserifnarrow"
+    },
+    "generatedAt": 1437609429290
+}

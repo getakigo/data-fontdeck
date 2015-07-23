@@ -1,0 +1,91 @@
+{
+    "name": "Linguine",
+    "url": "http://fontdeck.com/typeface/linguine",
+    "slug": "linguine",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Handwritten",
+        "Script",
+        "Casual"
+    ],
+    "foundry": "Fenotype",
+    "designer": [
+        "Emil Bertell"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "script",
+        "handwriting",
+        "flowing"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/linguine/regular",
+            "css": {
+                "font-family": "Linguine Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2359",
+                "slug": "regular",
+                "price": "$8.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/linguine/regularitalic",
+            "css": {
+                "font-family": "Linguine Regular Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2358",
+                "slug": "regularitalic",
+                "price": "$8.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/linguine/bold",
+            "css": {
+                "font-family": "Linguine Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2357",
+                "slug": "bold",
+                "price": "$8.00"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/linguine/bolditalic",
+            "css": {
+                "font-family": "Linguine Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2356",
+                "slug": "bolditalic",
+                "price": "$8.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "575",
+        "slug": "linguine"
+    },
+    "generatedAt": 1437609486533
+}

@@ -1,0 +1,258 @@
+{
+    "name": "Interval",
+    "url": "http://fontdeck.com/typeface/interval",
+    "slug": "interval",
+    "superfamily": "Interval",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Neo-Grotesk"
+    ],
+    "foundry": "Mostardesign Studio",
+    "designer": [
+        "Olivier Gourvat"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "technical",
+        "1990s",
+        "condensed",
+        "dynamic",
+        "text",
+        "catalogue",
+        "communicating",
+        "comercial",
+        "din",
+        "eastern european",
+        "cap",
+        "contemporary",
+        "humanist",
+        "magazine",
+        "modern",
+        "central europe",
+        "commercial",
+        "digital",
+        "business text",
+        "eastern",
+        "communications",
+        "fashionable",
+        "smooth",
+        "headline",
+        "information",
+        "czech",
+        "interval family",
+        "architectural",
+        "transport",
+        "headlines",
+        "classic",
+        "legible",
+        "super family",
+        "baseline",
+        "poster",
+        "black",
+        "industrial",
+        "neutral",
+        "all caps,arial",
+        "fashion",
+        "dutch font",
+        "swiss",
+        "grotesque",
+        "signage",
+        "editorial",
+        "corporate",
+        "annual reports",
+        "german",
+        "clean",
+        "1980s",
+        "easy to read"
+    ],
+    "variations": [
+        {
+            "name": "Ultra-light",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/interval/ultralight",
+            "css": {
+                "font-family": "Interval UltraLight",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2650",
+                "slug": "ultralight",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Ultra-light Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/interval/ultralightitalic",
+            "css": {
+                "font-family": "Interval UltraLight Italic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2649",
+                "slug": "ultralightitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/interval/light",
+            "css": {
+                "font-family": "Interval Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2642",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/interval/lightitalic",
+            "css": {
+                "font-family": "Interval Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2641",
+                "slug": "lightitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/interval/regular",
+            "css": {
+                "font-family": "Interval Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2646",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/interval/italic",
+            "css": {
+                "font-family": "Interval Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2645",
+                "slug": "italic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/interval/medium",
+            "css": {
+                "font-family": "Interval Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2644",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/interval/mediumitalic",
+            "css": {
+                "font-family": "Interval Medium Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2643",
+                "slug": "mediumitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/interval/semibold",
+            "css": {
+                "font-family": "Interval SemiBold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2648",
+                "slug": "semibold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Semi-bold Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/interval/semibolditalic",
+            "css": {
+                "font-family": "Interval SemiBold Italic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2647",
+                "slug": "semibolditalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/interval/bold",
+            "css": {
+                "font-family": "Interval Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2640",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/interval/bolditalic",
+            "css": {
+                "font-family": "Interval Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2639",
+                "slug": "bolditalic",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "640",
+        "slug": "interval"
+    },
+    "generatedAt": 1437609615459
+}

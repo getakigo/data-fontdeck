@@ -1,0 +1,167 @@
+{
+    "name": "Cooper Black WS",
+    "url": "http://fontdeck.com/typeface/cooperblackws",
+    "slug": "cooperblackws",
+    "use": "body",
+    "classification": [
+        "Display",
+        "Funny",
+        "Serif",
+        "Rugged",
+        "Display",
+        "Comic Strip Lettering",
+        "Display",
+        "Serif",
+        "Display",
+        "Poster",
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "Wordshape",
+    "designer": [
+        "Ian Lynam",
+        "Oswald Bruce Cooper"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "danzig",
+        "skateboarding",
+        "1920s",
+        "designers republic",
+        "chromatic",
+        "oswald cooper",
+        "atf",
+        "graffiti",
+        "stub serif",
+        "beach boys",
+        "cooper",
+        "archie",
+        "barnhart bros",
+        "bb&s",
+        "plump",
+        "tdr",
+        "ian lyman",
+        "1930s",
+        "showcard lettering",
+        "chicago",
+        "wilco",
+        "ian lynam",
+        "surfing",
+        "richard mcarthur",
+        "heavy"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/cooperblackws/regular",
+            "css": {
+                "font-family": "Cooper Black WS Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4027",
+                "slug": "regular",
+                "price": "$12.49"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/cooperblackws/italic",
+            "css": {
+                "font-family": "Cooper Black WS Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4024",
+                "slug": "italic",
+                "price": "$12.49"
+            }
+        },
+        {
+            "name": "Condensed Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/cooperblackws/condensedregular",
+            "css": {
+                "font-family": "CooperBlackWSCondensedRegular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4023",
+                "slug": "condensedregular",
+                "price": "$12.49"
+            }
+        },
+        {
+            "name": "Hilite",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/cooperblackws/hilite",
+            "css": {
+                "font-family": "Cooper Black WS Hilite",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4028",
+                "slug": "hilite",
+                "price": "$12.49"
+            }
+        },
+        {
+            "name": "Swash Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/cooperblackws/swashregular",
+            "css": {
+                "font-family": "Cooper Black WS Swash Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4029",
+                "slug": "swashregular",
+                "price": "$12.49"
+            }
+        },
+        {
+            "name": "Regular Italic Swash Custom",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/cooperblackws/italicswashcustom",
+            "css": {
+                "font-family": "CooperBlackWSItalicSwashCustom",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4025",
+                "slug": "italicswashcustom",
+                "price": "$12.49"
+            }
+        },
+        {
+            "name": "Regular Italic Swash Traditional",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/cooperblackws/italicswashtraditional",
+            "css": {
+                "font-family": "CoopeBlacWItaliSwasTraditiona",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4026",
+                "slug": "italicswashtraditional",
+                "price": "$12.49"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "952",
+        "slug": "cooperblackws"
+    },
+    "generatedAt": 1437610180800
+}

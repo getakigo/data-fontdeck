@@ -1,0 +1,129 @@
+{
+    "name": "Chubbét Distended",
+    "url": "http://fontdeck.com/typeface/chubbtdistended",
+    "slug": "chubbtdistended",
+    "superfamily": "Chubbet",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Display",
+        "Poster"
+    ],
+    "foundry": "Emboss Fonts",
+    "designer": [
+        "Stephen Boss"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "headlines",
+        "gothic",
+        "modern",
+        "extended",
+        "sans serif",
+        "headline",
+        "superfamily",
+        "poster",
+        "black",
+        "wide"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/chubbtdistended/regular",
+            "css": {
+                "font-family": "Chubbét Distended Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6915",
+                "slug": "regular",
+                "price": "$12.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/chubbtdistended/italic",
+            "css": {
+                "font-family": "Chubbét Distended Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6916",
+                "slug": "italic",
+                "price": "$12.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/chubbtdistended/bold",
+            "css": {
+                "font-family": "Chubbét Distended Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6913",
+                "slug": "bold",
+                "price": "$12.00"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/chubbtdistended/bolditalic",
+            "css": {
+                "font-family": "Chubbét Distended Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6914",
+                "slug": "bolditalic",
+                "price": "$12.00"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/chubbtdistended/black",
+            "css": {
+                "font-family": "Chubbét Distended Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6911",
+                "slug": "black",
+                "price": "$12.00"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/chubbtdistended/blackitalic",
+            "css": {
+                "font-family": "Chubbét Distended Black Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6912",
+                "slug": "blackitalic",
+                "price": "$12.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1580",
+        "slug": "chubbtdistended"
+    },
+    "generatedAt": 1437611040773
+}

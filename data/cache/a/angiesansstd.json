@@ -1,0 +1,128 @@
+{
+    "name": "Angie Sans Std",
+    "url": "http://fontdeck.com/typeface/angiesansstd",
+    "slug": "angiesansstd",
+    "use": "body",
+    "classification": [
+        "Slab Serif",
+        "Humanist",
+        "Display",
+        "Sans serif"
+    ],
+    "foundry": "Typofonderie",
+    "designer": [
+        "Jean François Porchez"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "incise",
+        "glyphic",
+        "publishing",
+        "design",
+        "identity",
+        "carved lettering",
+        "branding",
+        "garalde",
+        "newspaper",
+        "magazine"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/angiesansstd/regular",
+            "css": {
+                "font-family": "Angie Sans Std Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8583",
+                "slug": "regular",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/angiesansstd/italic",
+            "css": {
+                "font-family": "Angie Sans Std Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8725",
+                "slug": "italic",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/angiesansstd/bold",
+            "css": {
+                "font-family": "Angie Sans Std Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8724",
+                "slug": "bold",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/angiesansstd/bolditalic",
+            "css": {
+                "font-family": "Angie Sans Std Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8727",
+                "slug": "bolditalic",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Demi",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/angiesansstd/demi",
+            "css": {
+                "font-family": "Angie Sans Std Demi",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8723",
+                "slug": "demi",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Demi Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/angiesansstd/demiitalic",
+            "css": {
+                "font-family": "Angie Sans Std Demi Italic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8726",
+                "slug": "demiitalic",
+                "price": "$26.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1919",
+        "slug": "angiesansstd"
+    },
+    "generatedAt": 1437611452009
+}

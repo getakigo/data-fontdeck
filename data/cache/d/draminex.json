@@ -1,0 +1,59 @@
+{
+    "name": "Draminex",
+    "url": "http://fontdeck.com/typeface/draminex",
+    "slug": "draminex",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Experimental"
+    ],
+    "foundry": "Emboss Fonts",
+    "designer": [
+        "Stephen Boss"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "experimental",
+        "connected",
+        "organic"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/draminex/regular",
+            "css": {
+                "font-family": "Draminex Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6923",
+                "slug": "regular",
+                "price": "$8.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/draminex/bold",
+            "css": {
+                "font-family": "Draminex Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6924",
+                "slug": "bold",
+                "price": "$8.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1582",
+        "slug": "draminex"
+    },
+    "generatedAt": 1437611039917
+}

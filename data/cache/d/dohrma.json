@@ -1,0 +1,95 @@
+{
+    "name": "Dohrma",
+    "url": "http://fontdeck.com/typeface/dohrma",
+    "slug": "dohrma",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Geometric",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "The Northern Block",
+    "designer": [
+        "Jonathan Hill"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "architectural",
+        "bold",
+        "brochure",
+        "sans serif",
+        "book jacket",
+        "circular",
+        "logo"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/dohrma/regular",
+            "css": {
+                "font-family": "Dohrma Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2383",
+                "slug": "regular",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/dohrma/italic",
+            "css": {
+                "font-family": "Dohrma Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2384",
+                "slug": "italic",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Inline",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/dohrma/inline",
+            "css": {
+                "font-family": "Dohrma Inline",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2386",
+                "slug": "inline",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Outline",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/dohrma/outline",
+            "css": {
+                "font-family": "Dohrma Outline",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2385",
+                "slug": "outline",
+                "price": "$9.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "579",
+        "slug": "dohrma"
+    },
+    "generatedAt": 1437609485921
+}

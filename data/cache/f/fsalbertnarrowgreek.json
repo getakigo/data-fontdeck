@@ -1,0 +1,179 @@
+{
+    "name": "FS Albert Narrow Greek",
+    "url": "http://fontdeck.com/typeface/fsalbertnarrowgreek",
+    "slug": "fsalbertnarrowgreek",
+    "superfamily": "Fs Albert",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "Fontsmith",
+    "designer": [
+        "Jason Smith"
+    ],
+    "language": [
+        "latin",
+        "greek"
+    ],
+    "tags": [
+        "narrow",
+        "robust",
+        "publishing",
+        "legible",
+        "humanistic sans",
+        "soft",
+        "curve",
+        "super family",
+        "curvaceous",
+        "friendly",
+        "corporate",
+        "humanist",
+        "greek",
+        "versatile"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/fsalbertnarrowgreek/thin",
+            "css": {
+                "font-family": "FS Albert Narrow Greek Thin",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4609",
+                "slug": "thin",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Thin Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/fsalbertnarrowgreek/thinitalic",
+            "css": {
+                "font-family": "FSAlbertNarrowGreekThinItalic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4608",
+                "slug": "thinitalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/fsalbertnarrowgreek/light",
+            "css": {
+                "font-family": "FS Albert Narrow Greek Light",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4606",
+                "slug": "light",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i3",
+            "url": "http://fontdeck.com/font/fsalbertnarrowgreek/lightitalic",
+            "css": {
+                "font-family": "FSAlbertNarrowGreekLightItalic",
+                "font-weight": "300",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4605",
+                "slug": "lightitalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/fsalbertnarrowgreek/regular",
+            "css": {
+                "font-family": "FS Albert Narrow Greek Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4607",
+                "slug": "regular",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/fsalbertnarrowgreek/italic",
+            "css": {
+                "font-family": "FS Albert Narrow Greek Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4604",
+                "slug": "italic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/fsalbertnarrowgreek/bold",
+            "css": {
+                "font-family": "FS Albert Narrow Greek Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4602",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/fsalbertnarrowgreek/bolditalic",
+            "css": {
+                "font-family": "FSAlbertNarrowGreekBoldItalic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4601",
+                "slug": "bolditalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/fsalbertnarrowgreek/extrabold",
+            "css": {
+                "font-family": "FSAlbertNarrowGreekExtraBold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4603",
+                "slug": "extrabold",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1078",
+        "slug": "fsalbertnarrowgreek"
+    },
+    "generatedAt": 1437610394696
+}

@@ -1,0 +1,186 @@
+{
+    "name": "Monarcha",
+    "url": "http://fontdeck.com/typeface/monarcha",
+    "slug": "monarcha",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Venetian",
+        "Serif",
+        "Baroque"
+    ],
+    "foundry": "IsacoType",
+    "designer": [
+        "Isac Rodrigues"
+    ],
+    "opentype": [
+        "c2sc",
+        "dlig",
+        "frac",
+        "hist",
+        "liga",
+        "lnum",
+        "onum",
+        "pnum",
+        "smcp",
+        "ss01",
+        "ss02",
+        "swsh",
+        "tnum",
+        "zero"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "opentype",
+        "serif",
+        "text",
+        "reports",
+        "high x-height",
+        "baroque",
+        "magazine",
+        "ligatures",
+        "calligraphic",
+        "headline",
+        "display",
+        "classic",
+        "workhorse",
+        "legible",
+        "newspaper",
+        "script",
+        "elegant",
+        "book",
+        "oldstyle",
+        "retro",
+        "corporate",
+        "screen"
+    ],
+    "variations": [
+        {
+            "name": "Book",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/monarcha/book",
+            "css": {
+                "font-family": "Monarcha Book",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5997",
+                "slug": "book",
+                "price": "$14.99"
+            }
+        },
+        {
+            "name": "Book Italic",
+            "description": "i3",
+            "url": "http://fontdeck.com/font/monarcha/bookitalic",
+            "css": {
+                "font-family": "Monarcha Book Italic",
+                "font-weight": "300",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5998",
+                "slug": "bookitalic",
+                "price": "$14.99"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/monarcha/regular",
+            "css": {
+                "font-family": "Monarcha Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5995",
+                "slug": "regular",
+                "price": "$14.99"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/monarcha/italic",
+            "css": {
+                "font-family": "Monarcha Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5996",
+                "slug": "italic",
+                "price": "$14.99"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/monarcha/semibold",
+            "css": {
+                "font-family": "Monarcha Semibold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6001",
+                "slug": "semibold",
+                "price": "$14.99"
+            }
+        },
+        {
+            "name": "Semi-bold Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/monarcha/semibolditalic",
+            "css": {
+                "font-family": "Monarcha Semibold Italic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6002",
+                "slug": "semibolditalic",
+                "price": "$14.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/monarcha/bold",
+            "css": {
+                "font-family": "Monarcha Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5999",
+                "slug": "bold",
+                "price": "$14.99"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/monarcha/bolditalic",
+            "css": {
+                "font-family": "Monarcha Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6000",
+                "slug": "bolditalic",
+                "price": "$14.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1363",
+        "slug": "monarcha"
+    },
+    "generatedAt": 1437610776278
+}

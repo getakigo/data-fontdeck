@@ -1,0 +1,80 @@
+{
+    "name": "Reminder Pro Greek",
+    "url": "http://fontdeck.com/typeface/reminderprogreek",
+    "slug": "reminderprogreek",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Handwritten",
+        "Display",
+        "Comic Strip Lettering"
+    ],
+    "foundry": "Parachute",
+    "designer": [
+        "Panos Vassiliou"
+    ],
+    "language": [
+        "latin",
+        "greek"
+    ],
+    "tags": [
+        "scribbles",
+        "informal",
+        "handwritten",
+        "hand drawn",
+        "handwriting",
+        "personal"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/reminderprogreek/regular",
+            "css": {
+                "font-family": "Reminder Pro Greek Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3405",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/reminderprogreek/medium",
+            "css": {
+                "font-family": "Reminder Pro Greek Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3404",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/reminderprogreek/bold",
+            "css": {
+                "font-family": "Reminder Pro Greek Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3403",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "824",
+        "slug": "reminderprogreek"
+    },
+    "generatedAt": 1437609944812
+}

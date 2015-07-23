@@ -1,0 +1,62 @@
+{
+    "name": "Faro",
+    "url": "http://fontdeck.com/typeface/faro",
+    "slug": "faro",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Funny"
+    ],
+    "foundry": "Luzi Type",
+    "designer": [
+        "Luzi Gantenbein"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "grotesk",
+        "headline",
+        "funny",
+        "display",
+        "21st century",
+        "fat face"
+    ],
+    "variations": [
+        {
+            "name": "Lucky",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/faro/lucky",
+            "css": {
+                "font-family": "Faro Lucky",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8945",
+                "slug": "lucky",
+                "price": "$23.75"
+            }
+        },
+        {
+            "name": "Sad",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/faro/sad",
+            "css": {
+                "font-family": "Faro Sad",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8946",
+                "slug": "sad",
+                "price": "$23.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "2006",
+        "slug": "faro"
+    },
+    "generatedAt": 1437611585856
+}

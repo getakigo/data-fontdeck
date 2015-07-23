@@ -1,0 +1,215 @@
+{
+    "name": "Square Sans Pro",
+    "url": "http://fontdeck.com/typeface/squaresanspro",
+    "slug": "squaresanspro",
+    "superfamily": "Square Sans",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Humanist"
+    ],
+    "foundry": "Parachute",
+    "designer": [
+        "Panos Vassiliou"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "text",
+        "legible",
+        "super family",
+        "corporate",
+        "square",
+        "greek",
+        "square sans",
+        "magazine"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/squaresanspro/thin",
+            "css": {
+                "font-family": "Square Sans Pro Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2110",
+                "slug": "thin",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Thin Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/squaresanspro/thinitalic",
+            "css": {
+                "font-family": "Square Sans Pro Thin Italic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2111",
+                "slug": "thinitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/squaresanspro/light",
+            "css": {
+                "font-family": "Square Sans Pro Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2108",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/squaresanspro/lightitalic",
+            "css": {
+                "font-family": "Square Sans Pro Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2109",
+                "slug": "lightitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/squaresanspro/regular",
+            "css": {
+                "font-family": "Square Sans Pro Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "450",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/squaresanspro/italic",
+            "css": {
+                "font-family": "Square Sans Pro Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "453",
+                "slug": "italic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/squaresanspro/medium",
+            "css": {
+                "font-family": "Square Sans Pro Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "451",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/squaresanspro/mediumitalic",
+            "css": {
+                "font-family": "Square Sans Pro Medium Italic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2107",
+                "slug": "mediumitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/squaresanspro/bold",
+            "css": {
+                "font-family": "Square Sans Pro Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "452",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/squaresanspro/bolditalic",
+            "css": {
+                "font-family": "Square Sans Pro Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "454",
+                "slug": "bolditalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-black",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/squaresanspro/extrablack",
+            "css": {
+                "font-family": "Square Sans Pro Extra Black",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2112",
+                "slug": "extrablack",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-black Italic",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/squaresanspro/extrablackitalic",
+            "css": {
+                "font-family": "SquareSansProExtraBlackItalic",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2113",
+                "slug": "extrablackitalic",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "179",
+        "slug": "squaresanspro"
+    },
+    "generatedAt": 1437608962587
+}

@@ -1,0 +1,133 @@
+{
+    "name": "Le Monde Livre Classic Std",
+    "url": "http://fontdeck.com/typeface/lemondelivreclassicstd",
+    "slug": "lemondelivreclassicstd",
+    "use": "heading",
+    "classification": [
+        "Serif",
+        "Venetian",
+        "Display",
+        "Serif",
+        "Serif",
+        "Garalde",
+        "Serif",
+        "Neo-classical"
+    ],
+    "foundry": "Typofonderie",
+    "designer": [
+        "Jean François Porchez"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "swashes",
+        "publishing",
+        "text",
+        "design",
+        "identity",
+        "branding",
+        "paragraph",
+        "data",
+        "newspapers",
+        "display",
+        "magazine"
+    ],
+    "variations": [
+        {
+            "name": "Book",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/lemondelivreclassicstd/book",
+            "css": {
+                "font-family": "Le Monde Livre Classic Std Book",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8567",
+                "slug": "book",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/lemondelivreclassicstd/regular",
+            "css": {
+                "font-family": "LeMondeLivreClassicStdRegular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8568",
+                "slug": "regular",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/lemondelivreclassicstd/italic",
+            "css": {
+                "font-family": "LeMondeLivreClassicStdItalic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8569",
+                "slug": "italic",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/lemondelivreclassicstd/bold",
+            "css": {
+                "font-family": "Le Monde Livre Classic Std Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8570",
+                "slug": "bold",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Demi",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/lemondelivreclassicstd/demi",
+            "css": {
+                "font-family": "Le Monde Livre Classic Std Demi",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8577",
+                "slug": "demi",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "ExDemi",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/lemondelivreclassicstd/exdemi",
+            "css": {
+                "font-family": "LeMondeLivreClassicStdExDemi",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8578",
+                "slug": "exdemi",
+                "price": "$26.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1928",
+        "slug": "lemondelivreclassicstd"
+    },
+    "generatedAt": 1437611477232
+}

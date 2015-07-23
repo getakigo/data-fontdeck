@@ -1,0 +1,263 @@
+{
+    "name": "Beau Sans Pro",
+    "url": "http://fontdeck.com/typeface/beausanspro",
+    "slug": "beausanspro",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Poster",
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "Parachute",
+    "designer": [
+        "Panos Vassiliou"
+    ],
+    "opentype": [
+        "liga"
+    ],
+    "language": [
+        "latin",
+        "greek"
+    ],
+    "tags": [
+        "bernhard gothic",
+        "opentype",
+        "simple",
+        "legible",
+        "soft",
+        "contemporary",
+        "rounded",
+        "magazine",
+        "bauhaus",
+        "poster",
+        "modern",
+        "spurless",
+        "trendy",
+        "round",
+        "romantic",
+        "valentine",
+        "corporate",
+        "heavy",
+        "futuristic",
+        "clean",
+        "flexy"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/beausanspro/thin",
+            "css": {
+                "font-family": "Beau Sans Pro Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1463",
+                "slug": "thin",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Thin Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/beausanspro/thinitalic",
+            "css": {
+                "font-family": "Beau Sans Pro Thin Italic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1462",
+                "slug": "thinitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/beausanspro/light",
+            "css": {
+                "font-family": "Beau Sans Pro Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1456",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/beausanspro/lightitalic",
+            "css": {
+                "font-family": "Beau Sans Pro Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1458",
+                "slug": "lightitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Book",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/beausanspro/book",
+            "css": {
+                "font-family": "Beau Sans Pro Book",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1455",
+                "slug": "book",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Book Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/beausanspro/bookitalic",
+            "css": {
+                "font-family": "Beau Sans Pro Book Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1457",
+                "slug": "bookitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/beausanspro/regular",
+            "css": {
+                "font-family": "Beau Sans Pro Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1459",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/beausanspro/italic",
+            "css": {
+                "font-family": "Beau Sans Pro Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1464",
+                "slug": "italic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/beausanspro/semibold",
+            "css": {
+                "font-family": "Beau Sans Pro SemiBold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1460",
+                "slug": "semibold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Semi-bold Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/beausanspro/semibolditalic",
+            "css": {
+                "font-family": "Beau Sans Pro SemiBold Italic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1461",
+                "slug": "semibolditalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/beausanspro/bold",
+            "css": {
+                "font-family": "Beau Sans Pro Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1453",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/beausanspro/bolditalic",
+            "css": {
+                "font-family": "Beau Sans Pro Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1454",
+                "slug": "bolditalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/beausanspro/black",
+            "css": {
+                "font-family": "Beau Sans Pro Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1451",
+                "slug": "black",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/beausanspro/blackitalic",
+            "css": {
+                "font-family": "Beau Sans Pro Black Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1452",
+                "slug": "blackitalic",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "394",
+        "slug": "beausanspro"
+    },
+    "generatedAt": 1437609276365
+}

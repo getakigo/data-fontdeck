@@ -1,0 +1,79 @@
+{
+    "name": "Hall",
+    "url": "http://fontdeck.com/typeface/hall",
+    "slug": "hall",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Humanist"
+    ],
+    "foundry": "Playtype",
+    "designer": [
+        "Jonas Hecksher"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "round",
+        "legible",
+        "large x-height",
+        "humanist",
+        "squarish",
+        "square sans",
+        "rounded",
+        "sans"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/hall/regular",
+            "css": {
+                "font-family": "Hall Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "9059",
+                "slug": "regular",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/hall/italic",
+            "css": {
+                "font-family": "Hall Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "9061",
+                "slug": "italic",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/hall/bold",
+            "css": {
+                "font-family": "Hall Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "9060",
+                "slug": "bold",
+                "price": "$45.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "2025",
+        "slug": "hall"
+    },
+    "generatedAt": 1437611642175
+}

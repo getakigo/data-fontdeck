@@ -1,0 +1,74 @@
+{
+    "name": "Lacrima",
+    "url": "http://fontdeck.com/typeface/lacrima",
+    "slug": "lacrima",
+    "superfamily": "Lacrima",
+    "use": "body",
+    "classification": [
+        "Slab Serif",
+        "Egyptian"
+    ],
+    "foundry": "Milieu Grotesque",
+    "designer": [
+        "Alexander Colby"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "superfamily",
+        "typewriter"
+    ],
+    "variations": [
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/lacrima/italic",
+            "css": {
+                "font-family": "Lacrima Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5597",
+                "slug": "italic",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Regular Italic Bold",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/lacrima/italicbold",
+            "css": {
+                "font-family": "Lacrima Italic Bold",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5595",
+                "slug": "italicbold",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Regular Italic Light",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/lacrima/italiclight",
+            "css": {
+                "font-family": "Lacrima Italic Light",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5596",
+                "slug": "italiclight",
+                "price": "$15.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1300",
+        "slug": "lacrima"
+    },
+    "generatedAt": 1437610714902
+}

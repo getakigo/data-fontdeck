@@ -1,0 +1,49 @@
+{
+    "name": "New Grotesk",
+    "url": "http://fontdeck.com/typeface/newgrotesk",
+    "slug": "newgrotesk",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Neo-Grotesk"
+    ],
+    "foundry": "A2-TYPE",
+    "designer": [
+        "Henrik Kubel"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "industrial",
+        "book",
+        "text",
+        "legible",
+        "editorial",
+        "newspaper",
+        "contemporary",
+        "magazine"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/newgrotesk/regular",
+            "css": {
+                "font-family": "New Grotesk Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6497",
+                "slug": "regular",
+                "price": "$45.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1483",
+        "slug": "newgrotesk"
+    },
+    "generatedAt": 1437610928330
+}

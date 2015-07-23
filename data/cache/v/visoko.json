@@ -1,0 +1,90 @@
+{
+    "name": "Visoko",
+    "url": "http://fontdeck.com/typeface/visoko",
+    "slug": "visoko",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Experimental",
+        "Display",
+        "Futuristic"
+    ],
+    "foundry": "Mostardesign Studio",
+    "designer": [
+        "Olivier Gourvat"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "modular",
+        "techno"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/visoko/regular",
+            "css": {
+                "font-family": "Visoko Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2676",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/visoko/italic",
+            "css": {
+                "font-family": "Visoko Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2675",
+                "slug": "italic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/visoko/black",
+            "css": {
+                "font-family": "Visoko Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2674",
+                "slug": "black",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/visoko/blackitalic",
+            "css": {
+                "font-family": "Visoko Black Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2673",
+                "slug": "blackitalic",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "647",
+        "slug": "visoko"
+    },
+    "generatedAt": 1437609624044
+}

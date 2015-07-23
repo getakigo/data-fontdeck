@@ -1,0 +1,51 @@
+{
+    "name": "Baileywick Festive",
+    "url": "http://fontdeck.com/typeface/baileywickfestive",
+    "slug": "baileywickfestive",
+    "superfamily": "Baileywick",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "Veer",
+    "designer": [
+        "Jason Walcott"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "decorative",
+        "serif",
+        "childlike",
+        "retro",
+        "casual",
+        "mod",
+        "display",
+        "superfamily",
+        "festive"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/baileywickfestive/regular",
+            "css": {
+                "font-family": "Baileywick Festive Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5028",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1164",
+        "slug": "baileywickfestive"
+    },
+    "generatedAt": 1437610497704
+}

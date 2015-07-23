@@ -1,0 +1,103 @@
+{
+    "name": "Wayfinding Sans Pro",
+    "url": "http://fontdeck.com/typeface/wayfindingsanspro",
+    "slug": "wayfindingsanspro",
+    "superfamily": "Wayfinding",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Humanist"
+    ],
+    "foundry": "fonts.info",
+    "designer": [
+        "Sebastian Nagel",
+        "Ralf Herrmann"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "text",
+        "legible",
+        "wayfinding",
+        "humanist",
+        "contemporary",
+        "magazine",
+        "poster",
+        "modern",
+        "elegant",
+        "signage",
+        "editorial",
+        "sans serif",
+        "corporate",
+        "headline",
+        "clean"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/wayfindingsanspro/regular",
+            "css": {
+                "font-family": "Wayfinding Sans Pro Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5662",
+                "slug": "regular",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/wayfindingsanspro/italic",
+            "css": {
+                "font-family": "Wayfinding Sans Pro Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5910",
+                "slug": "italic",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/wayfindingsanspro/bold",
+            "css": {
+                "font-family": "Wayfinding Sans Pro Bold",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5664",
+                "slug": "bold",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/wayfindingsanspro/bolditalic",
+            "css": {
+                "font-family": "Wayfinding Sans Pro Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5663",
+                "slug": "bolditalic",
+                "price": "$9.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1312",
+        "slug": "wayfindingsanspro"
+    },
+    "generatedAt": 1437610762957
+}

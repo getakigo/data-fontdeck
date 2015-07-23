@@ -1,0 +1,119 @@
+{
+    "name": "Volta",
+    "url": "http://fontdeck.com/typeface/volta",
+    "slug": "volta",
+    "use": "body",
+    "classification": [
+        "Slab Serif",
+        "Clarendon/Bracketed"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "URW Studio"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "masculine",
+        "1950s",
+        "technical"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/volta/regular",
+            "css": {
+                "font-family": "Volta Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "910",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/volta/medium",
+            "css": {
+                "font-family": "Volta Medium",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "909",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/volta/mediumitalic",
+            "css": {
+                "font-family": "Volta Medium Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "912",
+                "slug": "mediumitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/volta/bold",
+            "css": {
+                "font-family": "Volta Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "908",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Stencil",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/volta/stencil",
+            "css": {
+                "font-family": "Volta Stencil",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "913",
+                "slug": "stencil",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Round",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/volta/round",
+            "css": {
+                "font-family": "Volta Round",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "911",
+                "slug": "round",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "272",
+        "slug": "volta"
+    },
+    "generatedAt": 1437609111646
+}

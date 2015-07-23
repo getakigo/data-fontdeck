@@ -1,0 +1,136 @@
+{
+    "name": "Organon Sans",
+    "url": "http://fontdeck.com/typeface/organonsans",
+    "slug": "organonsans",
+    "superfamily": "Organon",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "G-Type",
+    "designer": [
+        "Nick Cooke"
+    ],
+    "opentype": [
+        "c2sc",
+        "dlig",
+        "lnum",
+        "onum",
+        "pnum",
+        "salt",
+        "smcp",
+        "ss01",
+        "ss02",
+        "ss03",
+        "tnum"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "opentype",
+        "text",
+        "calligraphic",
+        "stylish",
+        "sans serif",
+        "superfamily"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/organonsans/light",
+            "css": {
+                "font-family": "Organon Sans Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6786",
+                "slug": "light",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/organonsans/regular",
+            "css": {
+                "font-family": "Organon Sans Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6787",
+                "slug": "regular",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/organonsans/bold",
+            "css": {
+                "font-family": "Organon Sans Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6953",
+                "slug": "bold",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/organonsans/black",
+            "css": {
+                "font-family": "Organon Sans Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6952",
+                "slug": "black",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Ultra-black",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/organonsans/ultrablack",
+            "css": {
+                "font-family": "Organon Sans UltraBlack",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6954",
+                "slug": "ultrablack",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "DemiBold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/organonsans/demibold",
+            "css": {
+                "font-family": "Organon Sans DemiBold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6785",
+                "slug": "demibold",
+                "price": "$15.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1543",
+        "slug": "organonsans"
+    },
+    "generatedAt": 1437611096896
+}

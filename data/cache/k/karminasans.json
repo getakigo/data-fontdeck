@@ -1,0 +1,237 @@
+{
+    "name": "Karmina Sans",
+    "url": "http://fontdeck.com/typeface/karminasans",
+    "slug": "karminasans",
+    "superfamily": "Karmina",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Humanist"
+    ],
+    "foundry": "TypeTogether",
+    "designer": [
+        "José Scaglione"
+    ],
+    "opentype": [
+        "liga"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "opentype",
+        "title",
+        "condensed",
+        "workhorse",
+        "text",
+        "legible",
+        "super family",
+        "titles",
+        "contemporary",
+        "newspaper",
+        "personality",
+        "magazine",
+        "news",
+        "elegant",
+        "old style",
+        "vivid",
+        "eastern",
+        "book",
+        "fashionable",
+        "fluid",
+        "calligraphic",
+        "humanistic sans",
+        "european",
+        "editorial",
+        "sansserif",
+        "headline",
+        "graceful"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/karminasans/light",
+            "css": {
+                "font-family": "Karmina Sans Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1373",
+                "slug": "light",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/karminasans/lightitalic",
+            "css": {
+                "font-family": "Karmina Sans Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1374",
+                "slug": "lightitalic",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/karminasans/regular",
+            "css": {
+                "font-family": "Karmina Sans Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1371",
+                "slug": "regular",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/karminasans/regularitalic",
+            "css": {
+                "font-family": "Karmina Sans Regular Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1372",
+                "slug": "regularitalic",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/karminasans/semibold",
+            "css": {
+                "font-family": "Karmina Sans Semi Bold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1375",
+                "slug": "semibold",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Semi-bold Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/karminasans/semibolditalic",
+            "css": {
+                "font-family": "Karmina Sans Semi Bold Italic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1376",
+                "slug": "semibolditalic",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/karminasans/bold",
+            "css": {
+                "font-family": "Karmina Sans Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1377",
+                "slug": "bold",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/karminasans/bolditalic",
+            "css": {
+                "font-family": "Karmina Sans Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1378",
+                "slug": "bolditalic",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/karminasans/extrabold",
+            "css": {
+                "font-family": "Karmina Sans Extra Bold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1379",
+                "slug": "extrabold",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Extra-bold Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/karminasans/extrabolditalic",
+            "css": {
+                "font-family": "Karmina Sans Extra Bold Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1380",
+                "slug": "extrabolditalic",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/karminasans/heavy",
+            "css": {
+                "font-family": "Karmina Sans Heavy",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1381",
+                "slug": "heavy",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Heavy Italic",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/karminasans/heavyitalic",
+            "css": {
+                "font-family": "Karmina Sans Heavy Italic",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1382",
+                "slug": "heavyitalic",
+                "price": "$15.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "375",
+        "slug": "karminasans"
+    },
+    "generatedAt": 1437609252348
+}

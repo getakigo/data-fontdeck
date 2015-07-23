@@ -1,0 +1,121 @@
+{
+    "name": "The Shire Types Greek",
+    "url": "http://fontdeck.com/typeface/theshiretypesgreek",
+    "slug": "theshiretypesgreek",
+    "superfamily": "The Shire Types",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "Jeremy Tankard Typography",
+    "designer": [
+        "Jeremy Tankard"
+    ],
+    "language": [
+        "latin",
+        "greek"
+    ],
+    "tags": [
+        "heavy",
+        "fun",
+        "superfamily"
+    ],
+    "variations": [
+        {
+            "name": "Staffordshire",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/theshiretypesgreek/staffordshire",
+            "css": {
+                "font-family": "TheShireTypesGreekStaffordshire",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3602",
+                "slug": "staffordshire",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Warwickshire",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/theshiretypesgreek/warwickshire",
+            "css": {
+                "font-family": "TheShireTypesGreekWarwickshire",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3603",
+                "slug": "warwickshire",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Worcestershire",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/theshiretypesgreek/worcestershire",
+            "css": {
+                "font-family": "ThShirTypeGreeWorcestershir",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3604",
+                "slug": "worcestershire",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Shropshire",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/theshiretypesgreek/shropshire",
+            "css": {
+                "font-family": "TheShireTypesGreekShropshire",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3601",
+                "slug": "shropshire",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Derbyshire",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/theshiretypesgreek/derbyshire",
+            "css": {
+                "font-family": "TheShireTypesGreekDerbyshire",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3600",
+                "slug": "derbyshire",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Cheshire",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/theshiretypesgreek/cheshire",
+            "css": {
+                "font-family": "The Shire Types Greek Cheshire",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3599",
+                "slug": "cheshire",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "868",
+        "slug": "theshiretypesgreek"
+    },
+    "generatedAt": 1437610034028
+}

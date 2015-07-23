@@ -1,0 +1,97 @@
+{
+    "name": "Oblik Serif",
+    "url": "http://fontdeck.com/typeface/oblikserif",
+    "slug": "oblikserif",
+    "use": "heading",
+    "classification": [
+        "Slab Serif",
+        "Grotesque/Geometric"
+    ],
+    "foundry": "Tour de Force",
+    "designer": [
+        "Slobodan Jelesijević"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "headlines",
+        "simple",
+        "title",
+        "logo",
+        "informal",
+        "jazz",
+        "contemporary",
+        "newspaper",
+        "magazine",
+        "news",
+        "poster",
+        "typewriter",
+        "modest",
+        "business",
+        "elegant",
+        "menus",
+        "commercial",
+        "glamour",
+        "office",
+        "wood type",
+        "oblik",
+        "identity",
+        "slab serif",
+        "corporate",
+        "display",
+        "information"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/oblikserif/light",
+            "css": {
+                "font-family": "Oblik Serif Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1135",
+                "slug": "light",
+                "price": "$7.99"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/oblikserif/regular",
+            "css": {
+                "font-family": "Oblik Serif Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1136",
+                "slug": "regular",
+                "price": "$7.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/oblikserif/bold",
+            "css": {
+                "font-family": "Oblik Serif Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1137",
+                "slug": "bold",
+                "price": "$7.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "311",
+        "slug": "oblikserif"
+    },
+    "generatedAt": 1437609184388
+}

@@ -1,0 +1,100 @@
+{
+    "name": "Geomanticus",
+    "url": "http://fontdeck.com/typeface/geomanticus",
+    "slug": "geomanticus",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Display",
+        "Poster",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "2D Typo",
+    "designer": [
+        "Lukyan Turetskyy"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "decorative",
+        "menus",
+        "simple",
+        "logotype",
+        "ligatures",
+        "geometric",
+        "metal",
+        "logo",
+        "modular",
+        "ligature"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/geomanticus/regular",
+            "css": {
+                "font-family": "Geomanticus Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6087",
+                "slug": "regular",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/geomanticus/italic",
+            "css": {
+                "font-family": "Geomanticus Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6090",
+                "slug": "italic",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/geomanticus/bold",
+            "css": {
+                "font-family": "Geomanticus Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6088",
+                "slug": "bold",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/geomanticus/bolditalic",
+            "css": {
+                "font-family": "Geomanticus Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6089",
+                "slug": "bolditalic",
+                "price": "$9.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1408",
+        "slug": "geomanticus"
+    },
+    "generatedAt": 1437610785675
+}

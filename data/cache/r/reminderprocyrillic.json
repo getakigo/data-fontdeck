@@ -1,0 +1,80 @@
+{
+    "name": "Reminder Pro Cyrillic",
+    "url": "http://fontdeck.com/typeface/reminderprocyrillic",
+    "slug": "reminderprocyrillic",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Handwritten",
+        "Display",
+        "Comic Strip Lettering"
+    ],
+    "foundry": "Parachute",
+    "designer": [
+        "Panos Vassiliou"
+    ],
+    "language": [
+        "latin",
+        "cyrillic"
+    ],
+    "tags": [
+        "scribbles",
+        "informal",
+        "handwritten",
+        "hand drawn",
+        "handwriting",
+        "personal"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/reminderprocyrillic/regular",
+            "css": {
+                "font-family": "Reminder Pro Cyrillic Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3401",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/reminderprocyrillic/medium",
+            "css": {
+                "font-family": "Reminder Pro Cyrillic Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3400",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/reminderprocyrillic/bold",
+            "css": {
+                "font-family": "Reminder Pro Cyrillic Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3399",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "825",
+        "slug": "reminderprocyrillic"
+    },
+    "generatedAt": 1437609944962
+}

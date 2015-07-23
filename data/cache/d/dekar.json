@@ -1,0 +1,60 @@
+{
+    "name": "Dekar",
+    "url": "http://fontdeck.com/typeface/dekar",
+    "slug": "dekar",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Futuristic"
+    ],
+    "foundry": "Fontfabric",
+    "designer": [
+        "Svetoslav Simov"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "modern",
+        "fiction",
+        "futurism",
+        "futuristic"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/dekar/light",
+            "css": {
+                "font-family": "Dekar Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3273",
+                "slug": "light",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/dekar/regular",
+            "css": {
+                "font-family": "Dekar Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3272",
+                "slug": "regular",
+                "price": "$3.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "777",
+        "slug": "dekar"
+    },
+    "generatedAt": 1437609864018
+}

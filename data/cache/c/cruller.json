@@ -1,0 +1,65 @@
+{
+    "name": "Cruller",
+    "url": "http://fontdeck.com/typeface/cruller",
+    "slug": "cruller",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "All caps",
+        "Display",
+        "Serif",
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "Wordshape",
+    "designer": [
+        "Ian Lynam"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "hand lettering",
+        "mexico",
+        "arts & crafts",
+        "gropius",
+        "scary",
+        "medieval",
+        "spidery",
+        "halloween",
+        "book font",
+        "black metal",
+        "ligatures",
+        "harry potter",
+        "witch",
+        "manuscript font",
+        "scribe",
+        "inacubala",
+        "german graffiti",
+        "helloween",
+        "creepy",
+        "early bauhaus"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/cruller/regular",
+            "css": {
+                "font-family": "Cruller Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4044",
+                "slug": "regular",
+                "price": "$9.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "960",
+        "slug": "cruller"
+    },
+    "generatedAt": 1437610189058
+}

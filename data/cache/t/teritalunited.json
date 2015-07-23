@@ -1,0 +1,49 @@
+{
+    "name": "Terital United",
+    "url": "http://fontdeck.com/typeface/teritalunited",
+    "slug": "teritalunited",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Handwritten",
+        "Script",
+        "Calligraphic",
+        "Display",
+        "Script"
+    ],
+    "foundry": "Letterbox",
+    "designer": [
+        "Lan Huang",
+        "Wendy Ellerton"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "retro",
+        "monoline",
+        "display"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/teritalunited/regular",
+            "css": {
+                "font-family": "Terital United Regular",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5433",
+                "slug": "regular",
+                "price": "$18.69"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1275",
+        "slug": "teritalunited"
+    },
+    "generatedAt": 1437610650258
+}

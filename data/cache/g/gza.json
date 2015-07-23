@@ -1,0 +1,63 @@
+{
+    "name": "Gza",
+    "url": "http://fontdeck.com/typeface/gza",
+    "slug": "gza",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "French"
+    ],
+    "foundry": "Fontseek",
+    "designer": [
+        "Philipp Herrmann"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "french",
+        "serif",
+        "headline",
+        "old style",
+        "sharp",
+        "caps",
+        "alternates"
+    ],
+    "variations": [
+        {
+            "name": "Seminegra",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/gza/seminegra",
+            "css": {
+                "font-family": "Gza Seminegra",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8338",
+                "slug": "seminegra",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Seminegra Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/gza/seminegraitalic",
+            "css": {
+                "font-family": "Gza Seminegra Italic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8337",
+                "slug": "seminegraitalic",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1902",
+        "slug": "gza"
+    },
+    "generatedAt": 1437611409963
+}

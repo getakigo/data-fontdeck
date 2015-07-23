@@ -1,0 +1,117 @@
+{
+    "name": "Trim Mono",
+    "url": "http://fontdeck.com/typeface/trimmono",
+    "slug": "trimmono",
+    "superfamily": "Trim",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Monospaced"
+    ],
+    "foundry": "Letters from Sweden",
+    "designer": [
+        "Göran Söderström"
+    ],
+    "opentype": [
+        "ss01",
+        "sups",
+        "zero"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "robust",
+        "hand hinted",
+        "grotesque",
+        "coding",
+        "strong",
+        "code",
+        "sans serif",
+        "monospace",
+        "hand-hinted",
+        "manually hinted"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/trimmono/light",
+            "css": {
+                "font-family": "Trim Mono Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7036",
+                "slug": "light",
+                "price": "$17.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/trimmono/regular",
+            "css": {
+                "font-family": "Trim Mono Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7034",
+                "slug": "regular",
+                "price": "$17.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/trimmono/medium",
+            "css": {
+                "font-family": "Trim Mono Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7037",
+                "slug": "medium",
+                "price": "$17.50"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/trimmono/semibold",
+            "css": {
+                "font-family": "Trim Mono SemiBold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7038",
+                "slug": "semibold",
+                "price": "$17.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/trimmono/bold",
+            "css": {
+                "font-family": "Trim Mono Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7035",
+                "slug": "bold",
+                "price": "$17.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1634",
+        "slug": "trimmono"
+    },
+    "generatedAt": 1437611073174
+}

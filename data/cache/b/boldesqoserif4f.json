@@ -1,0 +1,131 @@
+{
+    "name": "Boldesqo Serif 4F",
+    "url": "http://fontdeck.com/typeface/boldesqoserif4f",
+    "slug": "boldesqoserif4f",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Didone",
+        "Display",
+        "Art Deco",
+        "Display",
+        "Serif",
+        "Display",
+        "Poster",
+        "Display",
+        "Decorative",
+        "Symbols",
+        "Dingbats"
+    ],
+    "foundry": "4th february",
+    "designer": [
+        "Sergiy S. Tkachenko"
+    ],
+    "language": [
+        "latin",
+        "greek",
+        "cyrillic"
+    ],
+    "tags": [
+        "display",
+        "high-contrast",
+        "fat"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/boldesqoserif4f/regular",
+            "css": {
+                "font-family": "Boldesqo Serif 4F Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3808",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/boldesqoserif4f/italic",
+            "css": {
+                "font-family": "Boldesqo Serif 4F Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3807",
+                "slug": "italic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Inline",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/boldesqoserif4f/inline",
+            "css": {
+                "font-family": "Boldesqo Serif 4F Inline",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3806",
+                "slug": "inline",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Decor",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/boldesqoserif4f/decor",
+            "css": {
+                "font-family": "Boldesqo Serif 4F Decor",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3804",
+                "slug": "decor",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Decor Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/boldesqoserif4f/decoritalic",
+            "css": {
+                "font-family": "Boldesqo Serif 4F Decor Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3803",
+                "slug": "decoritalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Inline Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/boldesqoserif4f/inlineitalic",
+            "css": {
+                "font-family": "Boldesqo Serif 4F Inline Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3805",
+                "slug": "inlineitalic",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "901",
+        "slug": "boldesqoserif4f"
+    },
+    "generatedAt": 1437610091894
+}

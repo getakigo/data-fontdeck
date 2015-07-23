@@ -1,0 +1,157 @@
+{
+    "name": "FS Millbank",
+    "url": "http://fontdeck.com/typeface/fsmillbank",
+    "slug": "fsmillbank",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Neo-Grotesk"
+    ],
+    "foundry": "Fontsmith",
+    "designer": [
+        "Stuart de Rozario"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "approachable",
+        "accessible",
+        "rhythmic",
+        "legible",
+        "informative",
+        "information design",
+        "signage",
+        "distinctive",
+        "versatile",
+        "economical",
+        "information"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/fsmillbank/light",
+            "css": {
+                "font-family": "FS Millbank Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "9097",
+                "slug": "light",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/fsmillbank/lightitalic",
+            "css": {
+                "font-family": "FS Millbank Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "9098",
+                "slug": "lightitalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/fsmillbank/regular",
+            "css": {
+                "font-family": "FS Millbank Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "9099",
+                "slug": "regular",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/fsmillbank/italic",
+            "css": {
+                "font-family": "FS Millbank Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "9096",
+                "slug": "italic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/fsmillbank/bold",
+            "css": {
+                "font-family": "FS Millbank Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "9092",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/fsmillbank/bolditalic",
+            "css": {
+                "font-family": "FS Millbank Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "9093",
+                "slug": "bolditalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/fsmillbank/heavy",
+            "css": {
+                "font-family": "FS Millbank Heavy",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "9094",
+                "slug": "heavy",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Heavy Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/fsmillbank/heavyitalic",
+            "css": {
+                "font-family": "FS Millbank Heavy Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "9095",
+                "slug": "heavyitalic",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "2058",
+        "slug": "fsmillbank"
+    },
+    "generatedAt": 1437611668235
+}

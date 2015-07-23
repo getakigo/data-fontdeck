@@ -1,0 +1,110 @@
+{
+    "name": "Marlowe",
+    "url": "http://fontdeck.com/typeface/marlowe",
+    "slug": "marlowe",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Art Deco",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "FaceType",
+    "designer": [
+        "Marcus Sterz"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "geometric",
+        "text",
+        "sc",
+        "1940",
+        "avantgarde",
+        "contemporary",
+        "contextual",
+        "pure",
+        "poster",
+        "sans",
+        "decorative",
+        "lubalin",
+        "elegant",
+        "cool",
+        "creative",
+        "art deco",
+        "small caps",
+        "retro",
+        "headline",
+        "1930",
+        "elegance",
+        "display"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/marlowe/regular",
+            "css": {
+                "font-family": "Marlowe Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5146",
+                "slug": "regular",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Escapade",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/marlowe/escapade",
+            "css": {
+                "font-family": "Marlowe Escapade",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5148",
+                "slug": "escapade",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Swirl",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/marlowe/swirl",
+            "css": {
+                "font-family": "Marlowe Swirl",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5147",
+                "slug": "swirl",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Cocktail",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/marlowe/cocktail",
+            "css": {
+                "font-family": "Marlowe Cocktail",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5149",
+                "slug": "cocktail",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1225",
+        "slug": "marlowe"
+    },
+    "generatedAt": 1437610623217
+}

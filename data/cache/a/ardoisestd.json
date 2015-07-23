@@ -1,0 +1,315 @@
+{
+    "name": "Ardoise Std",
+    "url": "http://fontdeck.com/typeface/ardoisestd",
+    "slug": "ardoisestd",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Neo-Grotesk",
+        "Display",
+        "Sans serif",
+        "Sans Serif",
+        "Hybrid",
+        "Sans Serif",
+        "Humanist"
+    ],
+    "foundry": "Typofonderie",
+    "designer": [
+        "Jean François Porchez"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "compact",
+        "narrow",
+        "condensed",
+        "publishing",
+        "text",
+        "design",
+        "identity",
+        "branding",
+        "data",
+        "paragraph",
+        "newspapers",
+        "display",
+        "magazine"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/ardoisestd/thin",
+            "css": {
+                "font-family": "Ardoise Std Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8628",
+                "slug": "thin",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Thin Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/ardoisestd/thinitalic",
+            "css": {
+                "font-family": "Ardoise Std Thin Italic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8629",
+                "slug": "thinitalic",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Extra-light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/ardoisestd/extralight",
+            "css": {
+                "font-family": "Ardoise Std Extra Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8630",
+                "slug": "extralight",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Extra-light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/ardoisestd/extralightitalic",
+            "css": {
+                "font-family": "Ardoise Std Extra Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8631",
+                "slug": "extralightitalic",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/ardoisestd/light",
+            "css": {
+                "font-family": "Ardoise Std Light",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8632",
+                "slug": "light",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i3",
+            "url": "http://fontdeck.com/font/ardoisestd/lightitalic",
+            "css": {
+                "font-family": "Ardoise Std Light Italic",
+                "font-weight": "300",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8633",
+                "slug": "lightitalic",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/ardoisestd/regular",
+            "css": {
+                "font-family": "Ardoise Std Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8634",
+                "slug": "regular",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/ardoisestd/italic",
+            "css": {
+                "font-family": "Ardoise Std Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8635",
+                "slug": "italic",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/ardoisestd/bold",
+            "css": {
+                "font-family": "Ardoise Std Bold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8638",
+                "slug": "bold",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/ardoisestd/bolditalic",
+            "css": {
+                "font-family": "Ardoise Std Bold Italic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8639",
+                "slug": "bolditalic",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/ardoisestd/extrabold",
+            "css": {
+                "font-family": "Ardoise Std Extra Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8640",
+                "slug": "extrabold",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Extra-bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/ardoisestd/extrabolditalic",
+            "css": {
+                "font-family": "Ardoise Std Extra Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8641",
+                "slug": "extrabolditalic",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/ardoisestd/heavy",
+            "css": {
+                "font-family": "Ardoise Std Heavy",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8642",
+                "slug": "heavy",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Heavy Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/ardoisestd/heavyitalic",
+            "css": {
+                "font-family": "Ardoise Std Heavy Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8643",
+                "slug": "heavyitalic",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/ardoisestd/black",
+            "css": {
+                "font-family": "Ardoise Std Black",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8644",
+                "slug": "black",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/ardoisestd/blackitalic",
+            "css": {
+                "font-family": "Ardoise Std Black Italic",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8645",
+                "slug": "blackitalic",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Demi",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/ardoisestd/demi",
+            "css": {
+                "font-family": "Ardoise Std Demi",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8636",
+                "slug": "demi",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Demi Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/ardoisestd/demiitalic",
+            "css": {
+                "font-family": "Ardoise Std Demi Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8637",
+                "slug": "demiitalic",
+                "price": "$26.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1923",
+        "slug": "ardoisestd"
+    },
+    "generatedAt": 1437611467717
+}

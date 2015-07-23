@@ -1,0 +1,180 @@
+{
+    "name": "Neusa",
+    "url": "http://fontdeck.com/typeface/neusa",
+    "slug": "neusa",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "The Northern Block",
+    "designer": [
+        "Mariya V. Pigoulevskaya"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "advertising",
+        "publication",
+        "text",
+        "logo",
+        "strong",
+        "functional",
+        "cyrillic",
+        "russian",
+        "magazine",
+        "news",
+        "commercial",
+        "1960s",
+        "sign",
+        "branding",
+        "headline",
+        "display",
+        "information",
+        "narrow",
+        "title",
+        "newspaper",
+        "geometric sans",
+        "poster",
+        "black",
+        "book",
+        "film",
+        "communication",
+        "identity",
+        "editorial",
+        "heavy",
+        "sans serif",
+        "screen",
+        "clean",
+        "newspaper font",
+        "science"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/neusa/light",
+            "css": {
+                "font-family": "Neusa Light",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6233",
+                "slug": "light",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/neusa/regular",
+            "css": {
+                "font-family": "Neusa Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6234",
+                "slug": "regular",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/neusa/medium",
+            "css": {
+                "font-family": "Neusa Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6235",
+                "slug": "medium",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/neusa/semibold",
+            "css": {
+                "font-family": "Neusa SemiBold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6237",
+                "slug": "semibold",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/neusa/bold",
+            "css": {
+                "font-family": "Neusa Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6240",
+                "slug": "bold",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/neusa/extrabold",
+            "css": {
+                "font-family": "Neusa ExtraBold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6238",
+                "slug": "extrabold",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/neusa/black",
+            "css": {
+                "font-family": "Neusa Black",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6239",
+                "slug": "black",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "DemiBold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/neusa/demibold",
+            "css": {
+                "font-family": "Neusa DemiBold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6236",
+                "slug": "demibold",
+                "price": "$7.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1438",
+        "slug": "neusa"
+    },
+    "generatedAt": 1437610847455
+}

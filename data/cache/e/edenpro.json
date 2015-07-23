@@ -1,0 +1,95 @@
+{
+    "name": "Eden Pro",
+    "url": "http://fontdeck.com/typeface/edenpro",
+    "slug": "edenpro",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Serif",
+        "Serif",
+        "Neo-classical"
+    ],
+    "foundry": "Red Rooster Collection",
+    "designer": [
+        "Ashley Muir",
+        "Steve Jackaman"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "sturdy",
+        "narrow",
+        "rectangular",
+        "1920s",
+        "square",
+        "high-contrast"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/edenpro/light",
+            "css": {
+                "font-family": "Eden Pro Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3170",
+                "slug": "light",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/edenpro/medium",
+            "css": {
+                "font-family": "Eden Pro Medium",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3169",
+                "slug": "medium",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/edenpro/bold",
+            "css": {
+                "font-family": "Eden Pro Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3171",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/edenpro/extrabold",
+            "css": {
+                "font-family": "Eden Pro Extra Bold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3172",
+                "slug": "extrabold",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "745",
+        "slug": "edenpro"
+    },
+    "generatedAt": 1437609831224
+}

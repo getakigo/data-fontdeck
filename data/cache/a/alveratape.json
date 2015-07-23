@@ -1,0 +1,237 @@
+{
+    "name": "Alverata PE",
+    "url": "http://fontdeck.com/typeface/alveratape",
+    "slug": "alveratape",
+    "superfamily": "Alverata",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Glyphic"
+    ],
+    "foundry": "TypeTogether",
+    "designer": [
+        "Gerard Unger"
+    ],
+    "opentype": [
+        "c2sc",
+        "calt",
+        "liga",
+        "pnum",
+        "smcp",
+        "ss01",
+        "ss02",
+        "tnum"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "attractive",
+        "formal",
+        "opentype",
+        "robust",
+        "glyphic",
+        "legible",
+        "informal",
+        "romanesque",
+        "insular",
+        "cyrillic",
+        "friendly",
+        "open",
+        "contemporary",
+        "refined",
+        "medieval",
+        "harmonious",
+        "european",
+        "lively",
+        "greek",
+        "superfamily"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/alveratape/light",
+            "css": {
+                "font-family": "Alverata PE Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7658",
+                "slug": "light",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/alveratape/lightitalic",
+            "css": {
+                "font-family": "Alverata PE Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7659",
+                "slug": "lightitalic",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/alveratape/regular",
+            "css": {
+                "font-family": "Alverata PE Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7662",
+                "slug": "regular",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/alveratape/italic",
+            "css": {
+                "font-family": "Alverata PE Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7657",
+                "slug": "italic",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/alveratape/medium",
+            "css": {
+                "font-family": "Alverata PE Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7660",
+                "slug": "medium",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/alveratape/mediumitalic",
+            "css": {
+                "font-family": "Alverata PE Medium Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7661",
+                "slug": "mediumitalic",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/alveratape/semibold",
+            "css": {
+                "font-family": "Alverata PE Semibold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7663",
+                "slug": "semibold",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Semi-bold Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/alveratape/semibolditalic",
+            "css": {
+                "font-family": "Alverata PE Semibold Italic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7664",
+                "slug": "semibolditalic",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/alveratape/bold",
+            "css": {
+                "font-family": "Alverata PE Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7655",
+                "slug": "bold",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/alveratape/bolditalic",
+            "css": {
+                "font-family": "Alverata PE Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7656",
+                "slug": "bolditalic",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/alveratape/black",
+            "css": {
+                "font-family": "Alverata PE Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7653",
+                "slug": "black",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/alveratape/blackitalic",
+            "css": {
+                "font-family": "Alverata PE Black Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7654",
+                "slug": "blackitalic",
+                "price": "$15.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1764",
+        "slug": "alveratape"
+    },
+    "generatedAt": 1437611243943
+}

@@ -1,0 +1,49 @@
+{
+    "name": "Stone Hinge Pro",
+    "url": "http://fontdeck.com/typeface/stonehingepro",
+    "slug": "stonehingepro",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "CheapProFonts",
+    "designer": [
+        "Ronna Penner"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "angular",
+        "block",
+        "caveman",
+        "heavy",
+        "lively",
+        "flintstones",
+        "primitive",
+        "wide"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/stonehingepro/regular",
+            "css": {
+                "font-family": "Stone Hinge Pro Regular",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2954",
+                "slug": "regular",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "686",
+        "slug": "stonehingepro"
+    },
+    "generatedAt": 1437609718577
+}

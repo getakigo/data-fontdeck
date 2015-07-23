@@ -1,0 +1,130 @@
+{
+    "name": "Nimbus Roman No. 9",
+    "url": "http://fontdeck.com/typeface/nimbusromanno9",
+    "slug": "nimbusromanno9",
+    "superfamily": "Nimbus Roman No. 9",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Modern"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Stanley Morison"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "family",
+        "1930s",
+        "serif",
+        "antiqua",
+        "classic",
+        "english",
+        "workhorse",
+        "legible",
+        "sturdy",
+        "corporate",
+        "times",
+        "superfamily",
+        "clean"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/nimbusromanno9/regular",
+            "css": {
+                "font-family": "Nimbus Roman No. 9 Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3746",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/nimbusromanno9/italic",
+            "css": {
+                "font-family": "Nimbus Roman No. 9 Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3750",
+                "slug": "italic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/nimbusromanno9/bold",
+            "css": {
+                "font-family": "Nimbus Roman No. 9 Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3747",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/nimbusromanno9/bolditalic",
+            "css": {
+                "font-family": "Nimbus Roman No. 9 Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3752",
+                "slug": "bolditalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/nimbusromanno9/extrabold",
+            "css": {
+                "font-family": "Nimbus Roman No. 9 Extra Bold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3749",
+                "slug": "extrabold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Small Caps",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/nimbusromanno9/smallcaps",
+            "css": {
+                "font-family": "Nimbus Roman No. 9 Small Caps",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3753",
+                "slug": "smallcaps",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "889",
+        "slug": "nimbusromanno9"
+    },
+    "generatedAt": 1437610073510
+}

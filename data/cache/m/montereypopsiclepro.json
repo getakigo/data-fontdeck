@@ -1,0 +1,47 @@
+{
+    "name": "Monterey Popsicle Pro",
+    "url": "http://fontdeck.com/typeface/montereypopsiclepro",
+    "slug": "montereypopsiclepro",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Art Deco"
+    ],
+    "foundry": "CheapProFonts",
+    "designer": [
+        "Nick Curtis"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "americana",
+        "retro",
+        "script",
+        "1950s",
+        "constructed",
+        "connected"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/montereypopsiclepro/regular",
+            "css": {
+                "font-family": "Monterey Popsicle Pro Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3104",
+                "slug": "regular",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "724",
+        "slug": "montereypopsiclepro"
+    },
+    "generatedAt": 1437609797814
+}

@@ -1,0 +1,142 @@
+{
+    "name": "Malamondo",
+    "url": "http://fontdeck.com/typeface/malamondo",
+    "slug": "malamondo",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif"
+    ],
+    "foundry": "Fenotype",
+    "designer": [
+        "Emil Bertell"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "all caps",
+        "movie",
+        "loose",
+        "funny",
+        "interlock",
+        "1960s",
+        "retro",
+        "signage",
+        "casual",
+        "poster",
+        "eroded"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/malamondo/light",
+            "css": {
+                "font-family": "Malamondo Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2137",
+                "slug": "light",
+                "price": "$8.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/malamondo/regular",
+            "css": {
+                "font-family": "Malamondo Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2138",
+                "slug": "regular",
+                "price": "$7.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/malamondo/bold",
+            "css": {
+                "font-family": "Malamondo Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2140",
+                "slug": "bold",
+                "price": "$8.00"
+            }
+        },
+        {
+            "name": "Light Expanded",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/malamondo/lightexpanded",
+            "css": {
+                "font-family": "Malamondo Light Expanded",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2136",
+                "slug": "lightexpanded",
+                "price": "$8.00"
+            }
+        },
+        {
+            "name": "3d",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/malamondo/3d",
+            "css": {
+                "font-family": "Malamondo 3d",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2134",
+                "slug": "3d",
+                "price": "$8.00"
+            }
+        },
+        {
+            "name": "Regular Expanded",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/malamondo/regularexpanded",
+            "css": {
+                "font-family": "Malamondo Regular Expanded",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2139",
+                "slug": "regularexpanded",
+                "price": "$8.00"
+            }
+        },
+        {
+            "name": "Bold Expanded",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/malamondo/boldexpanded",
+            "css": {
+                "font-family": "Malamondo Bold Expanded",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2135",
+                "slug": "boldexpanded",
+                "price": "$8.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "535",
+        "slug": "malamondo"
+    },
+    "generatedAt": 1437609399137
+}

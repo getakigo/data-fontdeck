@@ -1,0 +1,111 @@
+{
+    "name": "Teletex",
+    "url": "http://fontdeck.com/typeface/teletex",
+    "slug": "teletex",
+    "use": "heading",
+    "classification": [
+        "Slab Serif",
+        "Grotesque/Geometric"
+    ],
+    "foundry": "The Northern Block",
+    "designer": [
+        "Jonathan Hill"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "technical",
+        "classic",
+        "copperplate",
+        "geometric",
+        "text",
+        "legible",
+        "strong",
+        "newspaper",
+        "humanist",
+        "contemporary",
+        "poster",
+        "typewriter",
+        "modern",
+        "cursive",
+        "digital",
+        "egyptian",
+        "ligatures",
+        "aviano",
+        "grotesque",
+        "western",
+        "slab serif",
+        "corporate",
+        "headline",
+        "century",
+        "display"
+    ],
+    "variations": [
+        {
+            "name": "Ultra-light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/teletex/ultralight",
+            "css": {
+                "font-family": "Teletex UltraLight",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2404",
+                "slug": "ultralight",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/teletex/light",
+            "css": {
+                "font-family": "Teletex Light",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2405",
+                "slug": "light",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/teletex/regular",
+            "css": {
+                "font-family": "Teletex Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2406",
+                "slug": "regular",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/teletex/medium",
+            "css": {
+                "font-family": "Teletex Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2407",
+                "slug": "medium",
+                "price": "$9.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "584",
+        "slug": "teletex"
+    },
+    "generatedAt": 1437609497234
+}

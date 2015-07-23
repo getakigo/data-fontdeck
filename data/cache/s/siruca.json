@@ -1,0 +1,57 @@
+{
+    "name": "Siruca",
+    "url": "http://fontdeck.com/typeface/siruca",
+    "slug": "siruca",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Display",
+        "Stencil"
+    ],
+    "foundry": "Fabrizio Schiavi Design",
+    "designer": [
+        "Fabrizio Schiavi"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "architectural",
+        "neon",
+        "graphic",
+        "sans-serif",
+        "geometric",
+        "logo",
+        "identity",
+        "strong",
+        "architecture",
+        "branding",
+        "sans serif",
+        "rounded",
+        "hand-hinted",
+        "stencil"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/siruca/regular",
+            "css": {
+                "font-family": "Siruca Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4007",
+                "slug": "regular",
+                "price": "$25.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "943",
+        "slug": "siruca"
+    },
+    "generatedAt": 1437610157382
+}

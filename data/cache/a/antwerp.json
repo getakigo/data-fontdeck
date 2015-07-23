@@ -1,0 +1,184 @@
+{
+    "name": "Antwerp",
+    "url": "http://fontdeck.com/typeface/antwerp",
+    "slug": "antwerp",
+    "use": "heading",
+    "classification": [
+        "Serif",
+        "Transitional"
+    ],
+    "foundry": "A2-TYPE",
+    "designer": [
+        "Henrik Kubel"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "book",
+        "text",
+        "legible",
+        "editorial",
+        "newspaper",
+        "contemporary",
+        "magazine",
+        "plantin"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/antwerp/light",
+            "css": {
+                "font-family": "Antwerp Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6436",
+                "slug": "light",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/antwerp/lightitalic",
+            "css": {
+                "font-family": "Antwerp Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6437",
+                "slug": "lightitalic",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/antwerp/regular",
+            "css": {
+                "font-family": "Antwerp Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6441",
+                "slug": "regular",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/antwerp/italic",
+            "css": {
+                "font-family": "Antwerp Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6447",
+                "slug": "italic",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/antwerp/medium",
+            "css": {
+                "font-family": "Antwerp Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6439",
+                "slug": "medium",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/antwerp/mediumitalic",
+            "css": {
+                "font-family": "Antwerp Medium Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6440",
+                "slug": "mediumitalic",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/antwerp/semibold",
+            "css": {
+                "font-family": "Antwerp SemiBold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6442",
+                "slug": "semibold",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Semi-bold Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/antwerp/semibolditalic",
+            "css": {
+                "font-family": "Antwerp SemiBold Italic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6443",
+                "slug": "semibolditalic",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/antwerp/bold",
+            "css": {
+                "font-family": "Antwerp Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6435",
+                "slug": "bold",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/antwerp/bolditalic",
+            "css": {
+                "font-family": "Antwerp Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6438",
+                "slug": "bolditalic",
+                "price": "$45.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1468",
+        "slug": "antwerp"
+    },
+    "generatedAt": 1437610910465
+}

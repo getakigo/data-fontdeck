@@ -1,0 +1,64 @@
+{
+    "name": "Transport",
+    "url": "http://fontdeck.com/typeface/transport",
+    "slug": "transport",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Grotesque"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Jock Kinneir",
+        "Margaret Calvert"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "transport",
+        "signage",
+        "highway",
+        "technical",
+        "british",
+        "english",
+        "traffic"
+    ],
+    "variations": [
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/transport/medium",
+            "css": {
+                "font-family": "Transport Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "213",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/transport/bold",
+            "css": {
+                "font-family": "Transport Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "360",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "142",
+        "slug": "transport"
+    },
+    "generatedAt": 1437608914280
+}

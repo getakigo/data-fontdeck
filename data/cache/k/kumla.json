@@ -1,0 +1,62 @@
+{
+    "name": "Kumla",
+    "url": "http://fontdeck.com/typeface/kumla",
+    "slug": "kumla",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "All caps",
+        "Display",
+        "Sans serif",
+        "Display",
+        "Poster",
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "Letters from Sweden",
+    "designer": [
+        "Göran Söderström"
+    ],
+    "opentype": [
+        "salt",
+        "ss01"
+    ],
+    "language": [
+        "latin",
+        "cyrillic"
+    ],
+    "tags": [
+        "industrial",
+        "1920s",
+        "industry",
+        "art deco",
+        "architecture",
+        "art nouveau",
+        "sans serif",
+        "1920",
+        "capitals",
+        "alternates"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/kumla/regular",
+            "css": {
+                "font-family": "Kumla Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6217",
+                "slug": "regular",
+                "price": "$15.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1432",
+        "slug": "kumla"
+    },
+    "generatedAt": 1437610846740
+}

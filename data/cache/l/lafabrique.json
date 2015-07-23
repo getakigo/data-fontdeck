@@ -1,0 +1,52 @@
+{
+    "name": "La Fabrique",
+    "url": "http://fontdeck.com/typeface/lafabrique",
+    "slug": "lafabrique",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Display",
+        "Poster"
+    ],
+    "foundry": "Colophon",
+    "designer": [
+        "Edd Harrington",
+        "Anthony Sheret"
+    ],
+    "opentype": [
+        "liga"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "gothic",
+        "opentype",
+        "heavy",
+        "sans serif",
+        "black"
+    ],
+    "variations": [
+        {
+            "name": "Heavy",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/lafabrique/heavy",
+            "css": {
+                "font-family": "La Fabrique Heavy",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5809",
+                "slug": "heavy",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1335",
+        "slug": "lafabrique"
+    },
+    "generatedAt": 1437610730996
+}

@@ -1,0 +1,63 @@
+{
+    "name": "Hero",
+    "url": "http://fontdeck.com/typeface/hero",
+    "slug": "hero",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Sans Serif",
+        "Hybrid"
+    ],
+    "foundry": "Fontfabric",
+    "designer": [
+        "Svetoslav Simov"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "large x-height",
+        "rounded",
+        "geometric",
+        "display",
+        "legible"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/hero/light",
+            "css": {
+                "font-family": "Hero Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3280",
+                "slug": "light",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/hero/regular",
+            "css": {
+                "font-family": "Hero Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3279",
+                "slug": "regular",
+                "price": "$3.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "781",
+        "slug": "hero"
+    },
+    "generatedAt": 1437609872616
+}

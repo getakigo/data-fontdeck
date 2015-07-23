@@ -1,0 +1,61 @@
+{
+    "name": "League",
+    "url": "http://fontdeck.com/typeface/league",
+    "slug": "league",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Poster",
+        "Sans Serif",
+        "Humanist"
+    ],
+    "foundry": "Letterbox",
+    "designer": [
+        "Niels Oeltjen"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "headline",
+        "display",
+        "black"
+    ],
+    "variations": [
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/league/black",
+            "css": {
+                "font-family": "League Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5440",
+                "slug": "black",
+                "price": "$18.69"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/league/blackitalic",
+            "css": {
+                "font-family": "League Black Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5441",
+                "slug": "blackitalic",
+                "price": "$18.69"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1278",
+        "slug": "league"
+    },
+    "generatedAt": 1437610659994
+}

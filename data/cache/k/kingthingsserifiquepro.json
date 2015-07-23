@@ -1,0 +1,85 @@
+{
+    "name": "Kingthings Serifique Pro",
+    "url": "http://fontdeck.com/typeface/kingthingsserifiquepro",
+    "slug": "kingthingsserifiquepro",
+    "use": "heading",
+    "classification": [
+        "Serif",
+        "Baroque"
+    ],
+    "foundry": "CheapProFonts",
+    "designer": [
+        "Kevin King"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/kingthingsserifiquepro/thin",
+            "css": {
+                "font-family": "Kingthings Serifique Pro Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6850",
+                "slug": "thin",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/kingthingsserifiquepro/light",
+            "css": {
+                "font-family": "Kingthings Serifique Pro Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6848",
+                "slug": "light",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/kingthingsserifiquepro/regular",
+            "css": {
+                "font-family": "KingthingsSerifiqueProRegular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6849",
+                "slug": "regular",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/kingthingsserifiquepro/bold",
+            "css": {
+                "font-family": "Kingthings Serifique Pro Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6847",
+                "slug": "bold",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1559",
+        "slug": "kingthingsserifiquepro"
+    },
+    "generatedAt": 1437611011025
+}

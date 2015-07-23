@@ -1,0 +1,75 @@
+{
+    "name": "ATL Ndebele",
+    "url": "http://fontdeck.com/typeface/atlndebele",
+    "slug": "atlndebele",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Experimental"
+    ],
+    "foundry": "Nouvelle Noire",
+    "designer": [
+        "Philippe Apeloig"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "modern",
+        "african",
+        "modern font",
+        "africa"
+    ],
+    "variations": [
+        {
+            "name": "Plain",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/atlndebele/plain",
+            "css": {
+                "font-family": "ATL Ndebele Plain",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7673",
+                "slug": "plain",
+                "price": "$25.00"
+            }
+        },
+        {
+            "name": "Half",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/atlndebele/half",
+            "css": {
+                "font-family": "ATL Ndebele Half",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7674",
+                "slug": "half",
+                "price": "$25.00"
+            }
+        },
+        {
+            "name": "Quarter",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/atlndebele/quarter",
+            "css": {
+                "font-family": "ATL Ndebele Quarter",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7675",
+                "slug": "quarter",
+                "price": "$25.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1768",
+        "slug": "atlndebele"
+    },
+    "generatedAt": 1437611235207
+}

@@ -1,0 +1,53 @@
+{
+    "name": "Fugu",
+    "url": "http://fontdeck.com/typeface/fugu",
+    "slug": "fugu",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Handwritten"
+    ],
+    "foundry": "Positype",
+    "designer": [
+        "Neil Summerour"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "grunge",
+        "cursive",
+        "texture",
+        "brush-drawn",
+        "commercial",
+        "handwriting",
+        "brush",
+        "calligraphic",
+        "handwritten",
+        "asian",
+        "display",
+        "calligraphy"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/fugu/regular",
+            "css": {
+                "font-family": "Fugu Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3498",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "849",
+        "slug": "fugu"
+    },
+    "generatedAt": 1437609984941
+}

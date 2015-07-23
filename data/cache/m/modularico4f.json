@@ -1,0 +1,94 @@
+{
+    "name": "Modularico 4F",
+    "url": "http://fontdeck.com/typeface/modularico4f",
+    "slug": "modularico4f",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Experimental",
+        "Display",
+        "Futuristic",
+        "Display",
+        "Poster",
+        "Display",
+        "Computer-related",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "4th february",
+    "designer": [
+        "Sergiy S. Tkachenko"
+    ],
+    "language": [
+        "latin",
+        "cyrillic"
+    ],
+    "tags": [],
+    "variations": [
+        {
+            "name": "A",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/modularico4f/a",
+            "css": {
+                "font-family": "Modularico 4F A",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3919",
+                "slug": "a",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "B",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/modularico4f/b",
+            "css": {
+                "font-family": "Modularico 4F B",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3920",
+                "slug": "b",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "D",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/modularico4f/d",
+            "css": {
+                "font-family": "Modularico 4F D",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3922",
+                "slug": "d",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "C",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/modularico4f/c",
+            "css": {
+                "font-family": "Modularico 4F C",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3921",
+                "slug": "c",
+                "price": "$7.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "927",
+        "slug": "modularico4f"
+    },
+    "generatedAt": 1437610139249
+}

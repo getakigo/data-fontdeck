@@ -1,0 +1,89 @@
+{
+    "name": "Huronia Latin Min",
+    "url": "http://fontdeck.com/typeface/huronialatinmin",
+    "slug": "huronialatinmin",
+    "superfamily": "Huronia",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Rugged",
+        "Serif",
+        "Modern"
+    ],
+    "foundry": "Rosetta",
+    "designer": [
+        "Ross Mills"
+    ],
+    "opentype": [
+        "liga"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "hinted",
+        "opentype",
+        "indian",
+        "canadian",
+        "text",
+        "romantic",
+        "multilingual",
+        "ross mills",
+        "text font",
+        "accents",
+        "magazine",
+        "minified"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/huronialatinmin/regular",
+            "css": {
+                "font-family": "Huronia Latin Min Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7747",
+                "slug": "regular",
+                "price": "$11.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/huronialatinmin/italic",
+            "css": {
+                "font-family": "Huronia Latin Min Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7748",
+                "slug": "italic",
+                "price": "$11.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/huronialatinmin/bold",
+            "css": {
+                "font-family": "Huronia Latin Min Bold",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7749",
+                "slug": "bold",
+                "price": "$11.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1786",
+        "slug": "huronialatinmin"
+    },
+    "generatedAt": 1437611263953
+}

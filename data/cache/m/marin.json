@@ -1,0 +1,75 @@
+{
+    "name": "Marin",
+    "url": "http://fontdeck.com/typeface/marin",
+    "slug": "marin",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Hybrid"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Claudia Kipp"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "headline",
+        "technica",
+        "sans-serif",
+        "stencil"
+    ],
+    "variations": [
+        {
+            "name": "N2",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/marin/n2",
+            "css": {
+                "font-family": "Marin N2",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1558",
+                "slug": "n2",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "N1",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/marin/n1",
+            "css": {
+                "font-family": "Marin N1",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1556",
+                "slug": "n1",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "N3",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/marin/n3",
+            "css": {
+                "font-family": "Marin N3",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1557",
+                "slug": "n3",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "415",
+        "slug": "marin"
+    },
+    "generatedAt": 1437609312209
+}

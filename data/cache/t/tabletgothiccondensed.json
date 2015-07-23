@@ -1,0 +1,180 @@
+{
+    "name": "Tablet Gothic Condensed",
+    "url": "http://fontdeck.com/typeface/tabletgothiccondensed",
+    "slug": "tabletgothiccondensed",
+    "superfamily": "Tablet Gothic",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Gothic",
+        "Sans Serif",
+        "Grotesque"
+    ],
+    "foundry": "TypeTogether",
+    "designer": [
+        "Veronika Burian",
+        "José Scaglione"
+    ],
+    "opentype": [
+        "liga",
+        "tnum",
+        "zero"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "compressed",
+        "advertising",
+        "publication",
+        "opentype",
+        "cover",
+        "warm",
+        "condensed",
+        "text",
+        "brand",
+        "strong",
+        "flexible",
+        "titles",
+        "contemporary",
+        "personality",
+        "quirky",
+        "magazine",
+        "multi-functional",
+        "modern",
+        "headline",
+        "display",
+        "packaging",
+        "big",
+        "narrow",
+        "legible",
+        "sturdy",
+        "newspaper",
+        "poster",
+        "periodical",
+        "neutral",
+        "punchy",
+        "logotype",
+        "tablet",
+        "grotesque",
+        "masculine",
+        "signage",
+        "editorial",
+        "corporate",
+        "superfamily",
+        "clean",
+        "wide"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/tabletgothiccondensed/thin",
+            "css": {
+                "font-family": "Tablet Gothic Condensed Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6385",
+                "slug": "thin",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/tabletgothiccondensed/light",
+            "css": {
+                "font-family": "Tablet Gothic Condensed Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6382",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/tabletgothiccondensed/regular",
+            "css": {
+                "font-family": "Tablet Gothic Condensed Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6384",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/tabletgothiccondensed/semibold",
+            "css": {
+                "font-family": "TabletGothicCondensedSemibold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6383",
+                "slug": "semibold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/tabletgothiccondensed/bold",
+            "css": {
+                "font-family": "Tablet Gothic Condensed Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6379",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/tabletgothiccondensed/extrabold",
+            "css": {
+                "font-family": "TabletGothicCondensedExtraBold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6380",
+                "slug": "extrabold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/tabletgothiccondensed/heavy",
+            "css": {
+                "font-family": "Tablet Gothic Condensed Heavy",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6381",
+                "slug": "heavy",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1463",
+        "slug": "tabletgothiccondensed"
+    },
+    "generatedAt": 1437610892179
+}

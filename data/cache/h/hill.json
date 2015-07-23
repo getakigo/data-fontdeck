@@ -1,0 +1,123 @@
+{
+    "name": "Hill",
+    "url": "http://fontdeck.com/typeface/hill",
+    "slug": "hill",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Neo-Grotesk"
+    ],
+    "foundry": "Playtype",
+    "designer": [
+        "Jonas Hecksher"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "din",
+        "1970s",
+        "germany",
+        "technical",
+        "condensed",
+        "standard character set",
+        "1980s"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/hill/thin",
+            "css": {
+                "font-family": "Hill Thin",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5228",
+                "slug": "thin",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/hill/light",
+            "css": {
+                "font-family": "Hill Light",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5229",
+                "slug": "light",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/hill/regular",
+            "css": {
+                "font-family": "Hill Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5233",
+                "slug": "regular",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/hill/bold",
+            "css": {
+                "font-family": "Hill Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5232",
+                "slug": "bold",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/hill/heavy",
+            "css": {
+                "font-family": "Hill Heavy",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5230",
+                "slug": "heavy",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "DemiBold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/hill/demibold",
+            "css": {
+                "font-family": "Hill DemiBold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5231",
+                "slug": "demibold",
+                "price": "$40.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1242",
+        "slug": "hill"
+    },
+    "generatedAt": 1437610591275
+}

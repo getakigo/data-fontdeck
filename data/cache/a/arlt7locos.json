@@ -1,0 +1,179 @@
+{
+    "name": "Arlt 7 Locos",
+    "url": "http://fontdeck.com/typeface/arlt7locos",
+    "slug": "arlt7locos",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Rugged"
+    ],
+    "foundry": "PampaType",
+    "designer": [
+        "Alejandro Lo Celso"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "family",
+        "expressive",
+        "poetry",
+        "serif",
+        "titling",
+        "seven madmen",
+        "literary",
+        "creative review",
+        "optical sizes",
+        "openface",
+        "siete locos",
+        "text",
+        "argentina",
+        "system",
+        "contemporary",
+        "quirky",
+        "author",
+        "literature",
+        "poetic",
+        "calligraphic",
+        "typographica",
+        "headline",
+        "deco",
+        "multistyle",
+        "display",
+        "nice rhythm",
+        "argentinian",
+        "books",
+        "novels",
+        "workhorse",
+        "roberto arlt",
+        "argentinean",
+        "legible",
+        "e-books",
+        "true italics",
+        "comfortable",
+        "decorative",
+        "elegant",
+        "sensitive",
+        "expressionist",
+        "serapion",
+        "engraved",
+        "oldstyle",
+        "magazines",
+        "delicate",
+        "readable",
+        "inline",
+        "distressed"
+    ],
+    "variations": [
+        {
+            "name": "5 Astrologo",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/arlt7locos/5astrologo",
+            "css": {
+                "font-family": "Arlt 7 Locos 5 Astrologo",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8986",
+                "slug": "5astrologo",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "1 Jorobadito",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/arlt7locos/1jorobadito",
+            "css": {
+                "font-family": "Arlt 7 Locos 1 Jorobadito",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8982",
+                "slug": "1jorobadito",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "4 Buscador de Oro",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/arlt7locos/4buscadordeoro",
+            "css": {
+                "font-family": "Arlt 7 Locos 4 Buscador de Oro",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8985",
+                "slug": "4buscadordeoro",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "2 Juguete Rabioso",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/arlt7locos/2jugueterabioso",
+            "css": {
+                "font-family": "Arlt 7 Locos 2 Juguete Rabioso",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8983",
+                "slug": "2jugueterabioso",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "6 Erdosain",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/arlt7locos/6erdosain",
+            "css": {
+                "font-family": "Arlt 7 Locos 6 Erdosain",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8987",
+                "slug": "6erdosain",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "7 RufianMelancolico",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/arlt7locos/7rufianmelancolico",
+            "css": {
+                "font-family": "Arlt7Locos7RufianMelancolico",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8988",
+                "slug": "7rufianmelancolico",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "3 Amor Brujo",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/arlt7locos/3amorbrujo",
+            "css": {
+                "font-family": "Arlt 7 Locos 3 Amor Brujo",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8984",
+                "slug": "3amorbrujo",
+                "price": "$9.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "2011",
+        "slug": "arlt7locos"
+    },
+    "generatedAt": 1437611598222
+}

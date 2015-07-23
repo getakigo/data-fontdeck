@@ -1,0 +1,113 @@
+{
+    "name": "Bosko",
+    "url": "http://fontdeck.com/typeface/bosko",
+    "slug": "bosko",
+    "use": "body",
+    "classification": [
+        "Display",
+        "Slab serif",
+        "Slab Serif",
+        "Grotesque/Geometric"
+    ],
+    "foundry": "The Northern Block",
+    "designer": [
+        "Jonathan Hill"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "chromatic",
+        "geometric",
+        "logo",
+        "fat",
+        "mechanical",
+        "1800s",
+        "clarendon",
+        "newspaper",
+        "contemporary",
+        "magazine",
+        "news",
+        "poster",
+        "modern",
+        "news headline",
+        "block",
+        "egyptian",
+        "slab serif",
+        "heavy",
+        "headline",
+        "futuristic",
+        "transitional",
+        "ultra-bold",
+        "grid",
+        "stencil",
+        "wide"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/bosko/regular",
+            "css": {
+                "font-family": "Bosko Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2625",
+                "slug": "regular",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/bosko/italic",
+            "css": {
+                "font-family": "Bosko Italic",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2626",
+                "slug": "italic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Stencil",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/bosko/stencil",
+            "css": {
+                "font-family": "Bosko Stencil",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2627",
+                "slug": "stencil",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Block",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/bosko/block",
+            "css": {
+                "font-family": "Bosko Block",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2628",
+                "slug": "block",
+                "price": "$7.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "635",
+        "slug": "bosko"
+    },
+    "generatedAt": 1437609603757
+}

@@ -1,0 +1,126 @@
+{
+    "name": "Adroit URW",
+    "url": "http://fontdeck.com/typeface/adroiturw",
+    "slug": "adroiturw",
+    "use": "heading",
+    "classification": [
+        "Serif",
+        "Garalde"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Phil Martin"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "old style",
+        "dynamic",
+        "dutch",
+        "legible",
+        "american",
+        "masculine",
+        "garalde",
+        "valuable",
+        "1980s",
+        "natural"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/adroiturw/light",
+            "css": {
+                "font-family": "Adroit URW Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2562",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/adroiturw/lightitalic",
+            "css": {
+                "font-family": "Adroit URW Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2563",
+                "slug": "lightitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/adroiturw/medium",
+            "css": {
+                "font-family": "Adroit URW Medium",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2564",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/adroiturw/mediumitalic",
+            "css": {
+                "font-family": "Adroit URW Medium Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2565",
+                "slug": "mediumitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/adroiturw/bold",
+            "css": {
+                "font-family": "Adroit URW Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2560",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/adroiturw/extrabold",
+            "css": {
+                "font-family": "Adroit URW Extra Bold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2561",
+                "slug": "extrabold",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "620",
+        "slug": "adroiturw"
+    },
+    "generatedAt": 1437609575371
+}

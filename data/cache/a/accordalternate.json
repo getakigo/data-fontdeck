@@ -1,0 +1,264 @@
+{
+    "name": "Accord Alternate",
+    "url": "http://fontdeck.com/typeface/accordalternate",
+    "slug": "accordalternate",
+    "superfamily": "Accord",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Neo-Grotesk",
+        "Sans Serif",
+        "Humanist"
+    ],
+    "foundry": "SoneriType",
+    "designer": [
+        "Aakash Soneri"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "simple",
+        "sans-serif",
+        "legible",
+        "copy",
+        "contemporary",
+        "body",
+        "crisp",
+        "modern",
+        "spurless",
+        "elegant",
+        "new sans serif",
+        "clear",
+        "swiss",
+        "fresh",
+        "identity",
+        "european",
+        "bold",
+        "signage",
+        "corporate",
+        "sans serif",
+        "screen",
+        "display",
+        "clean",
+        "superfamily",
+        "heading"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/accordalternate/thin",
+            "css": {
+                "font-family": "Accord Alternate Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7288",
+                "slug": "thin",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Thin Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/accordalternate/thinitalic",
+            "css": {
+                "font-family": "Accord Alternate Thin Italic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7287",
+                "slug": "thinitalic",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Extra-light",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/accordalternate/extralight",
+            "css": {
+                "font-family": "Accord Alternate Extra Light",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7296",
+                "slug": "extralight",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Extra-light Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/accordalternate/extralightitalic",
+            "css": {
+                "font-family": "AccordAlternateExtraLightItalic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7295",
+                "slug": "extralightitalic",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/accordalternate/light",
+            "css": {
+                "font-family": "Accord Alternate Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7294",
+                "slug": "light",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/accordalternate/lightitalic",
+            "css": {
+                "font-family": "Accord Alternate Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7293",
+                "slug": "lightitalic",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/accordalternate/regular",
+            "css": {
+                "font-family": "Accord Alternate Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7290",
+                "slug": "regular",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/accordalternate/italic",
+            "css": {
+                "font-family": "Accord Alternate Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7289",
+                "slug": "italic",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/accordalternate/medium",
+            "css": {
+                "font-family": "Accord Alternate Medium",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7292",
+                "slug": "medium",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/accordalternate/mediumitalic",
+            "css": {
+                "font-family": "Accord Alternate Medium Italic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7291",
+                "slug": "mediumitalic",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/accordalternate/bold",
+            "css": {
+                "font-family": "Accord Alternate Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7299",
+                "slug": "bold",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/accordalternate/bolditalic",
+            "css": {
+                "font-family": "Accord Alternate Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7300",
+                "slug": "bolditalic",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/accordalternate/extrabold",
+            "css": {
+                "font-family": "Accord Alternate Extra Bold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7298",
+                "slug": "extrabold",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Extra-bold Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/accordalternate/extrabolditalic",
+            "css": {
+                "font-family": "AccordAlternateExtraBoldItalic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7297",
+                "slug": "extrabolditalic",
+                "price": "$15.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1715",
+        "slug": "accordalternate"
+    },
+    "generatedAt": 1437611160475
+}

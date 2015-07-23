@@ -1,0 +1,98 @@
+{
+    "name": "Quars",
+    "url": "http://fontdeck.com/typeface/quars",
+    "slug": "quars",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Serif"
+    ],
+    "foundry": "Letterjuice",
+    "designer": [
+        "Pilar Cano",
+        "Ferran Milan"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "contrast",
+        "ornament",
+        "serif",
+        "elegant",
+        "ornaments",
+        "dynamic",
+        "text",
+        "sharp",
+        "magazines",
+        "text font",
+        "contemporary"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/quars/regular",
+            "css": {
+                "font-family": "Quars Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7854",
+                "slug": "regular",
+                "price": "$17.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/quars/italic",
+            "css": {
+                "font-family": "Quars Italic",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7856",
+                "slug": "italic",
+                "price": "$17.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/quars/bold",
+            "css": {
+                "font-family": "Quars Bold",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7855",
+                "slug": "bold",
+                "price": "$17.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/quars/black",
+            "css": {
+                "font-family": "Quars Black",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7858",
+                "slug": "black",
+                "price": "$17.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1808",
+        "slug": "quars"
+    },
+    "generatedAt": 1437611315572
+}

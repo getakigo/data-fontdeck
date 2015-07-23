@@ -1,0 +1,93 @@
+{
+    "name": "Handbook Pro",
+    "url": "http://fontdeck.com/typeface/handbookpro",
+    "slug": "handbookpro",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "Parachute",
+    "designer": [
+        "Panos Vassiliou"
+    ],
+    "opentype": [
+        "liga"
+    ],
+    "language": [
+        "latin",
+        "greek"
+    ],
+    "tags": [
+        "din",
+        "opentype",
+        "legible"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/handbookpro/light",
+            "css": {
+                "font-family": "Handbook Pro Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "449",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/handbookpro/regular",
+            "css": {
+                "font-family": "Handbook Pro Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "446",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/handbookpro/italic",
+            "css": {
+                "font-family": "Handbook Pro Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "448",
+                "slug": "italic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/handbookpro/bold",
+            "css": {
+                "font-family": "Handbook Pro Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "447",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "178",
+        "slug": "handbookpro"
+    },
+    "generatedAt": 1437608961329
+}

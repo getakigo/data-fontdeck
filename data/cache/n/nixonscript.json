@@ -1,0 +1,62 @@
+{
+    "name": "NixonScript",
+    "url": "http://fontdeck.com/typeface/nixonscript",
+    "slug": "nixonscript",
+    "use": "body",
+    "classification": [
+        "Display",
+        "Script",
+        "Script",
+        "Display"
+    ],
+    "foundry": "VirusFonts",
+    "designer": [
+        "Jonathan Barnbrook"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "experimental",
+        "1960s",
+        "retro",
+        "american"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/nixonscript/regular",
+            "css": {
+                "font-family": "NixonScript Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3391",
+                "slug": "regular",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/nixonscript/bolditalic",
+            "css": {
+                "font-family": "NixonScript Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3392",
+                "slug": "bolditalic",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "819",
+        "slug": "nixonscript"
+    },
+    "generatedAt": 1437609934426
+}

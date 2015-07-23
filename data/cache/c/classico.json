@@ -1,0 +1,135 @@
+{
+    "name": "Classico",
+    "url": "http://fontdeck.com/typeface/classico",
+    "slug": "classico",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Glyphic"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Hermann Zapf"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "elegant",
+        "stressed sans",
+        "optima",
+        "legible"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/classico/regular",
+            "css": {
+                "font-family": "Classico Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "383",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/classico/italic",
+            "css": {
+                "font-family": "Classico Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "309",
+                "slug": "italic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/classico/medium",
+            "css": {
+                "font-family": "Classico Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "372",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/classico/mediumitalic",
+            "css": {
+                "font-family": "Classico Medium Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "235",
+                "slug": "mediumitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/classico/bold",
+            "css": {
+                "font-family": "Classico Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "237",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/classico/bolditalic",
+            "css": {
+                "font-family": "Classico Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "267",
+                "slug": "bolditalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/classico/black",
+            "css": {
+                "font-family": "Classico Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "280",
+                "slug": "black",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "149",
+        "slug": "classico"
+    },
+    "generatedAt": 1437608932232
+}

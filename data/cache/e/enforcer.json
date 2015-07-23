@@ -1,0 +1,53 @@
+{
+    "name": "Enforcer",
+    "url": "http://fontdeck.com/typeface/enforcer",
+    "slug": "enforcer",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Futuristic"
+    ],
+    "foundry": "Tour de Force",
+    "designer": [
+        "Dušan Jelesijević"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "business",
+        "advertising",
+        "cool",
+        "elegant",
+        "simple",
+        "commercial",
+        "21st century",
+        "awesome",
+        "branding",
+        "2000s",
+        "conservative",
+        "clean"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/enforcer/regular",
+            "css": {
+                "font-family": "Enforcer Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1126",
+                "slug": "regular",
+                "price": "$7.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "309",
+        "slug": "enforcer"
+    },
+    "generatedAt": 1437609184085
+}

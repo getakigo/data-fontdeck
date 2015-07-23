@@ -1,0 +1,85 @@
+{
+    "name": "Quad",
+    "url": "http://fontdeck.com/typeface/quad",
+    "slug": "quad",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Experimental",
+        "Display",
+        "Futuristic",
+        "Display",
+        "Computer-related",
+        "Sans Serif",
+        "Geometric",
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "Fontfabric",
+    "designer": [
+        "Svetoslav Simov"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "headline",
+        "title",
+        "heavy",
+        "square",
+        "block",
+        "blocky"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/quad/light",
+            "css": {
+                "font-family": "Quad Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3287",
+                "slug": "light",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/quad/black",
+            "css": {
+                "font-family": "Quad Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3286",
+                "slug": "black",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "Ultra",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/quad/ultra",
+            "css": {
+                "font-family": "Quad Ultra",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3288",
+                "slug": "ultra",
+                "price": "$3.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "786",
+        "slug": "quad"
+    },
+    "generatedAt": 1437609879530
+}

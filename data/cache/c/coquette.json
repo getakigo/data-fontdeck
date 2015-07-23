@@ -1,0 +1,90 @@
+{
+    "name": "Coquette",
+    "url": "http://fontdeck.com/typeface/coquette",
+    "slug": "coquette",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "Mark Simonson Studio",
+    "designer": [
+        "Mark Simonson"
+    ],
+    "opentype": [
+        "liga"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "opentype",
+        "feminine",
+        "cute",
+        "wavy",
+        "soft",
+        "decorative",
+        "script",
+        "french",
+        "italian",
+        "romantic",
+        "european",
+        "sansserif",
+        "valentine",
+        "lively",
+        "casual script",
+        "wedding"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/coquette/light",
+            "css": {
+                "font-family": "Coquette Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "992",
+                "slug": "light",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/coquette/regular",
+            "css": {
+                "font-family": "Coquette Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "993",
+                "slug": "regular",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/coquette/bold",
+            "css": {
+                "font-family": "Coquette Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "994",
+                "slug": "bold",
+                "price": "$9.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "288",
+        "slug": "coquette"
+    },
+    "generatedAt": 1437609155893
+}

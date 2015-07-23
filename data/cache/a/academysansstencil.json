@@ -1,0 +1,74 @@
+{
+    "name": "Academy Sans Stencil",
+    "url": "http://fontdeck.com/typeface/academysansstencil",
+    "slug": "academysansstencil",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Stencil"
+    ],
+    "foundry": "Playtype",
+    "designer": [
+        "Jonas Hecksher"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "code",
+        "square",
+        "stencil"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/academysansstencil/light",
+            "css": {
+                "font-family": "Academy Sans Stencil Lig01",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6877",
+                "slug": "light",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/academysansstencil/regular",
+            "css": {
+                "font-family": "Academy Sans Stencil Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6875",
+                "slug": "regular",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/academysansstencil/bold",
+            "css": {
+                "font-family": "Academy Sans Stencil Bo01",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6876",
+                "slug": "bold",
+                "price": "$45.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1573",
+        "slug": "academysansstencil"
+    },
+    "generatedAt": 1437611028787
+}

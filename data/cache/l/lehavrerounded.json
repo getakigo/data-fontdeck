@@ -1,0 +1,177 @@
+{
+    "name": "Le Havre Rounded",
+    "url": "http://fontdeck.com/typeface/lehavrerounded",
+    "slug": "lehavrerounded",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Art Deco"
+    ],
+    "foundry": "Insigne",
+    "designer": [
+        "Jeremy Dooley"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "le havre"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/lehavrerounded/thin",
+            "css": {
+                "font-family": "Le Havre Rounded Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "629",
+                "slug": "thin",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Thin Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/lehavrerounded/thinitalic",
+            "css": {
+                "font-family": "Le Havre Rounded Thin Italic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "628",
+                "slug": "thinitalic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/lehavrerounded/light",
+            "css": {
+                "font-family": "Le Havre Rounded Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "626",
+                "slug": "light",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/lehavrerounded/lightitalic",
+            "css": {
+                "font-family": "Le Havre Rounded Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "625",
+                "slug": "lightitalic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/lehavrerounded/regular",
+            "css": {
+                "font-family": "Le Havre Rounded Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "627",
+                "slug": "regular",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/lehavrerounded/italic",
+            "css": {
+                "font-family": "Le Havre Rounded Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "624",
+                "slug": "italic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/lehavrerounded/bold",
+            "css": {
+                "font-family": "Le Havre Rounded Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "623",
+                "slug": "bold",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/lehavrerounded/bolditalic",
+            "css": {
+                "font-family": "Le Havre Rounded Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "622",
+                "slug": "bolditalic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/lehavrerounded/black",
+            "css": {
+                "font-family": "Le Havre Rounded Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "621",
+                "slug": "black",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/lehavrerounded/blackitalic",
+            "css": {
+                "font-family": "Le Havre Rounded Black Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "620",
+                "slug": "blackitalic",
+                "price": "$7.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "214",
+        "slug": "lehavrerounded"
+    },
+    "generatedAt": 1437609016224
+}

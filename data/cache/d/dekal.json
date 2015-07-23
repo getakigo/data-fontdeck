@@ -1,0 +1,114 @@
+{
+    "name": "Dekal",
+    "url": "http://fontdeck.com/typeface/dekal",
+    "slug": "dekal",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "All caps",
+        "Display",
+        "Art Deco",
+        "Display",
+        "Futuristic",
+        "Display",
+        "Decorative",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "The Northern Block",
+    "designer": [
+        "Jonathan Hill"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "technical",
+        "geometric",
+        "sharp",
+        "logo",
+        "strong",
+        "nightclub",
+        "contemporary",
+        "magazine",
+        "filled counters",
+        "modern",
+        "movie",
+        "french",
+        "art deco",
+        "bold",
+        "artdeco",
+        "headline",
+        "display",
+        "disco",
+        "1970s",
+        "avant garde",
+        "fat",
+        "poster",
+        "black",
+        "all caps",
+        "decorative",
+        "block",
+        "retro",
+        "lined",
+        "heavy",
+        "square",
+        "grid",
+        "futuristic",
+        "ultra-bold",
+        "inline",
+        "wide"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/dekal/regular",
+            "css": {
+                "font-family": "Dekal Regular",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3039",
+                "slug": "regular",
+                "price": "$8.50"
+            }
+        },
+        {
+            "name": "Inline",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/dekal/inline",
+            "css": {
+                "font-family": "Dekal Inline",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3040",
+                "slug": "inline",
+                "price": "$8.50"
+            }
+        },
+        {
+            "name": "Solid",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/dekal/solid",
+            "css": {
+                "font-family": "Dekal Solid",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3041",
+                "slug": "solid",
+                "price": "$9.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "713",
+        "slug": "dekal"
+    },
+    "generatedAt": 1437609776384
+}

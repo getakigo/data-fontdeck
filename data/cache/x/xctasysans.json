@@ -1,0 +1,187 @@
+{
+    "name": "Xctasy Sans",
+    "url": "http://fontdeck.com/typeface/xctasysans",
+    "slug": "xctasysans",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Art Deco",
+        "Display",
+        "Sans serif"
+    ],
+    "foundry": "Red Rooster Collection",
+    "designer": [
+        "Steve Jackaman"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "formal",
+        "1920s",
+        "geometric",
+        "correspondence",
+        "music",
+        "humanist",
+        "bauhaus",
+        "magazine",
+        "minimal",
+        "modern",
+        "movie",
+        "grotesk",
+        "1950s",
+        "menus",
+        "fashionable",
+        "art deco",
+        "1960s",
+        "unusual",
+        "english",
+        "sans-serif",
+        "legible",
+        "informal",
+        "jazz",
+        "american",
+        "idiosyncratic",
+        "poster",
+        "modest",
+        "1930s",
+        "cool",
+        "plain",
+        "office",
+        "swiss",
+        "retro",
+        "signage",
+        "square",
+        "corporate",
+        "sport",
+        "clean",
+        "conservative"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/xctasysans/light",
+            "css": {
+                "font-family": "Xctasy Sans Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4233",
+                "slug": "light",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/xctasysans/medium",
+            "css": {
+                "font-family": "Xctasy Sans Medium",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4235",
+                "slug": "medium",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/xctasysans/bold",
+            "css": {
+                "font-family": "Xctasy Sans Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4229",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/xctasysans/extrabold",
+            "css": {
+                "font-family": "Xctasy Sans Extra Bold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4231",
+                "slug": "extrabold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Light Alternates",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/xctasysans/lightalternates",
+            "css": {
+                "font-family": "Xctasy Sans Light Alternates",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4234",
+                "slug": "lightalternates",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Medium Alternates",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/xctasysans/mediumalternates",
+            "css": {
+                "font-family": "Xctasy Sans Medium Alternates",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4236",
+                "slug": "mediumalternates",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Extra Bold Alternates",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/xctasysans/extraboldalternates",
+            "css": {
+                "font-family": "XctasySansExtraBoldAlternates",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4232",
+                "slug": "extraboldalternates",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold Alternates",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/xctasysans/boldalternates",
+            "css": {
+                "font-family": "Xctasy Sans Bold Alternates",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4230",
+                "slug": "boldalternates",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "994",
+        "slug": "xctasysans"
+    },
+    "generatedAt": 1437610270970
+}

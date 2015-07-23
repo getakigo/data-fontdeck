@@ -1,0 +1,214 @@
+{
+    "name": "News Gothic",
+    "url": "http://fontdeck.com/typeface/newsgothic",
+    "slug": "newsgothic",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Gothic"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Morris Fuller Benton"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "neutral",
+        "19th century",
+        "technical",
+        "sturdy",
+        "american",
+        "sansserif",
+        "modest",
+        "economic"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/newsgothic/light",
+            "css": {
+                "font-family": "News Gothic Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "822",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light Oblique",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/newsgothic/lightoblique",
+            "css": {
+                "font-family": "News Gothic Light Oblique",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "824",
+                "slug": "lightoblique",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/newsgothic/regular",
+            "css": {
+                "font-family": "News Gothic Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "819",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Oblique",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/newsgothic/regularoblique",
+            "css": {
+                "font-family": "News Gothic Regular Oblique",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "825",
+                "slug": "regularoblique",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/newsgothic/medium",
+            "css": {
+                "font-family": "News Gothic Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "823",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium Oblique",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/newsgothic/mediumoblique",
+            "css": {
+                "font-family": "News Gothic Medium Oblique",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "826",
+                "slug": "mediumoblique",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Oblique",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/newsgothic/boldoblique",
+            "css": {
+                "font-family": "News Gothic Bold Oblique",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "828",
+                "slug": "boldoblique",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/newsgothic/bold",
+            "css": {
+                "font-family": "News Gothic Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "820",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Small Caps Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/newsgothic/smallcapslight",
+            "css": {
+                "font-family": "News Gothic Small Caps Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "829",
+                "slug": "smallcapslight",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Small Caps Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/newsgothic/smallcapsregular",
+            "css": {
+                "font-family": "News Gothic Small Caps Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "830",
+                "slug": "smallcapsregular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Demi",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/newsgothic/demi",
+            "css": {
+                "font-family": "News Gothic Demi",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "821",
+                "slug": "demi",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Demi Oblique",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/newsgothic/demioblique",
+            "css": {
+                "font-family": "News Gothic Demi Oblique",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "827",
+                "slug": "demioblique",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "254",
+        "slug": "newsgothic"
+    },
+    "generatedAt": 1437609083200
+}

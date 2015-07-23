@@ -1,0 +1,94 @@
+{
+    "name": "ID00 Serif Round",
+    "url": "http://fontdeck.com/typeface/id00serifround",
+    "slug": "id00serifround",
+    "use": "body",
+    "classification": [
+        "Slab Serif",
+        "Egyptian",
+        "Slab Serif",
+        "Grotesque/Geometric"
+    ],
+    "foundry": "Playtype",
+    "designer": [
+        "Jonas Hecksher"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "slab serif",
+        "superfamily",
+        "round",
+        "slab-serif",
+        "advanced character set",
+        "slabserif"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/id00serifround/thin",
+            "css": {
+                "font-family": "ID00 Serif Round Thin",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5291",
+                "slug": "thin",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/id00serifround/light",
+            "css": {
+                "font-family": "ID00 Serif Round Light",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5290",
+                "slug": "light",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/id00serifround/regular",
+            "css": {
+                "font-family": "ID00 Serif Round Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5288",
+                "slug": "regular",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "DemiBold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/id00serifround/demibold",
+            "css": {
+                "font-family": "ID00 Serif Round DemiBold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5289",
+                "slug": "demibold",
+                "price": "$45.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1207",
+        "slug": "id00serifround"
+    },
+    "generatedAt": 1437610559480
+}

@@ -1,0 +1,123 @@
+{
+    "name": "Tarocco Expert Subset",
+    "url": "http://fontdeck.com/typeface/taroccoexpertsubset",
+    "slug": "taroccoexpertsubset",
+    "superfamily": "Tarocco",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Garalde"
+    ],
+    "foundry": "MAC Rhino Fonts",
+    "designer": [
+        "Stefan Hattenbach"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "expert subset"
+    ],
+    "variations": [
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/taroccoexpertsubset/italic",
+            "css": {
+                "font-family": "Tarocco Expert Subset Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4730",
+                "slug": "italic",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/taroccoexpertsubset/medium",
+            "css": {
+                "font-family": "Tarocco Expert Subset Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4734",
+                "slug": "medium",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/taroccoexpertsubset/mediumitalic",
+            "css": {
+                "font-family": "TaroccoExpertSubsetMediumItalic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4735",
+                "slug": "mediumitalic",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/taroccoexpertsubset/bold",
+            "css": {
+                "font-family": "Tarocco Expert Subset Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4732",
+                "slug": "bold",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/taroccoexpertsubset/bolditalic",
+            "css": {
+                "font-family": "TaroccoExpertSubsetBoldItalic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4733",
+                "slug": "bolditalic",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "Roman",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/taroccoexpertsubset/roman",
+            "css": {
+                "font-family": "Tarocco Expert Subset Roman",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4731",
+                "slug": "roman",
+                "price": "$3.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1096",
+        "slug": "taroccoexpertsubset"
+    },
+    "expert subset": [
+        "dlig",
+        "lnum",
+        "salt"
+    ],
+    "generatedAt": 1437610415336
+}

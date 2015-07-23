@@ -1,0 +1,122 @@
+{
+    "name": "Trilogy Fatface",
+    "url": "http://fontdeck.com/typeface/trilogyfatface",
+    "slug": "trilogyfatface",
+    "superfamily": "Trilogy",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Didone",
+        "Display",
+        "Serif",
+        "Display",
+        "Fat Face"
+    ],
+    "foundry": "Jeremy Tankard Typography",
+    "designer": [
+        "Jeremy Tankard"
+    ],
+    "opentype": [
+        "c2sc",
+        "frac",
+        "liga",
+        "lnum",
+        "onum",
+        "smcp",
+        "swsh"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "opentype",
+        "american",
+        "super family",
+        "victorian",
+        "decorative",
+        "19th century",
+        "fat face"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/trilogyfatface/regular",
+            "css": {
+                "font-family": "Trilogy Fatface Regular",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1729",
+                "slug": "regular",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "UltraExpanded",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/trilogyfatface/ultraexpanded",
+            "css": {
+                "font-family": "Trilogy Fatface UltraExpanded",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1730",
+                "slug": "ultraexpanded",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "ExtraExpanded",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/trilogyfatface/extraexpanded",
+            "css": {
+                "font-family": "Trilogy Fatface ExtraExpanded",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1732",
+                "slug": "extraexpanded",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Wide",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/trilogyfatface/wide",
+            "css": {
+                "font-family": "Trilogy Fatface Wide",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1731",
+                "slug": "wide",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Expanded",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/trilogyfatface/expanded",
+            "css": {
+                "font-family": "Trilogy Fatface Expanded",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1728",
+                "slug": "expanded",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "444",
+        "slug": "trilogyfatface"
+    },
+    "generatedAt": 1437609371090
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Casanova",
+    "url": "http://fontdeck.com/typeface/casanova",
+    "slug": "casanova",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Sebastian Hartmann"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "decorative",
+        "reverse contrast",
+        "2000s"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/casanova/regular",
+            "css": {
+                "font-family": "Casanova Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1543",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "412",
+        "slug": "casanova"
+    },
+    "generatedAt": 1437609302922
+}

@@ -1,0 +1,97 @@
+{
+    "name": "Overtime LCD",
+    "url": "http://fontdeck.com/typeface/overtimelcd",
+    "slug": "overtimelcd",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "All caps",
+        "Display",
+        "Computer-related"
+    ],
+    "foundry": "Red Rooster Collection",
+    "designer": [
+        "Ashley Muir",
+        "Steve Jackaman"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "movie",
+        "digital",
+        "computer",
+        "logo",
+        "sport",
+        "display",
+        "magazine",
+        "lcd"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/overtimelcd/light",
+            "css": {
+                "font-family": "Overtime LCD Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3215",
+                "slug": "light",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/overtimelcd/lightitalic",
+            "css": {
+                "font-family": "Overtime LCD Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3216",
+                "slug": "lightitalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/overtimelcd/bold",
+            "css": {
+                "font-family": "Overtime LCD Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3217",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/overtimelcd/bolditalic",
+            "css": {
+                "font-family": "Overtime LCD Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3218",
+                "slug": "bolditalic",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "759",
+        "slug": "overtimelcd"
+    },
+    "generatedAt": 1437609864842
+}

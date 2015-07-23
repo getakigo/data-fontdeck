@@ -1,0 +1,81 @@
+{
+    "name": "Stanzer",
+    "url": "http://fontdeck.com/typeface/stanzer",
+    "slug": "stanzer",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Slab serif"
+    ],
+    "foundry": "FaceType",
+    "designer": [
+        "Igor Labudovic"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "decorative",
+        "serif",
+        "cool",
+        "ligatures",
+        "unicase",
+        "bold",
+        "headline",
+        "stanley slab",
+        "display",
+        "stencil"
+    ],
+    "variations": [
+        {
+            "name": "Black",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/stanzer/black",
+            "css": {
+                "font-family": "Stanzer Black",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5222",
+                "slug": "black",
+                "price": "$11.25"
+            }
+        },
+        {
+            "name": "Block",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/stanzer/block",
+            "css": {
+                "font-family": "Stanzer Block",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5221",
+                "slug": "block",
+                "price": "$11.25"
+            }
+        },
+        {
+            "name": "Shadow",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/stanzer/shadow",
+            "css": {
+                "font-family": "Stanzer Shadow",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5223",
+                "slug": "shadow",
+                "price": "$11.25"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1214",
+        "slug": "stanzer"
+    },
+    "generatedAt": 1437610614599
+}

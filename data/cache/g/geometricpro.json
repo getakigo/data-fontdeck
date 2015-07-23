@@ -1,0 +1,102 @@
+{
+    "name": "Geometric Pro",
+    "url": "http://fontdeck.com/typeface/geometricpro",
+    "slug": "geometricpro",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Computer-related",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "Playtype",
+    "designer": [
+        "Jonas Hecksher"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "static",
+        "technical",
+        "sans-serif",
+        "geometric",
+        "computer",
+        "legible",
+        "modular",
+        "european",
+        "square",
+        "utilitarian",
+        "squarish",
+        "grid",
+        "square sans",
+        "eurostile"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/geometricpro/light",
+            "css": {
+                "font-family": "Geometric Pro Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6779",
+                "slug": "light",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/geometricpro/regular",
+            "css": {
+                "font-family": "Geometric Pro Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6778",
+                "slug": "regular",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/geometricpro/italic",
+            "css": {
+                "font-family": "Geometric Pro Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6781",
+                "slug": "italic",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/geometricpro/bold",
+            "css": {
+                "font-family": "Geometric Pro Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6780",
+                "slug": "bold",
+                "price": "$40.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1541",
+        "slug": "geometricpro"
+    },
+    "generatedAt": 1437610992582
+}

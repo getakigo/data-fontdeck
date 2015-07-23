@@ -1,0 +1,106 @@
+{
+    "name": "The Wave",
+    "url": "http://fontdeck.com/typeface/thewave",
+    "slug": "thewave",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "Playtype",
+    "designer": [
+        "Jonas Hecksher"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "advertising",
+        "headline",
+        "legibility",
+        "21st century",
+        "advanced character set"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/thewave/thin",
+            "css": {
+                "font-family": "The Wave Thin",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5321",
+                "slug": "thin",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/thewave/light",
+            "css": {
+                "font-family": "The Wave Light",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5322",
+                "slug": "light",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/thewave/regular",
+            "css": {
+                "font-family": "The Wave Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5325",
+                "slug": "regular",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/thewave/bold",
+            "css": {
+                "font-family": "The Wave Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5324",
+                "slug": "bold",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Demi Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/thewave/demibold",
+            "css": {
+                "font-family": "The Wave Demi Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5323",
+                "slug": "demibold",
+                "price": "$45.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1203",
+        "slug": "thewave"
+    },
+    "generatedAt": 1437610559248
+}

@@ -1,0 +1,93 @@
+{
+    "name": "Capline Greek",
+    "url": "http://fontdeck.com/typeface/caplinegreek",
+    "slug": "caplinegreek",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Experimental",
+        "Display",
+        "Futuristic",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "Jeremy Tankard Typography",
+    "designer": [
+        "Jeremy Tankard"
+    ],
+    "language": [
+        "latin",
+        "greek"
+    ],
+    "tags": [
+        "headline",
+        "chromatic"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/caplinegreek/thin",
+            "css": {
+                "font-family": "Capline Greek Thin",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6228",
+                "slug": "thin",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/caplinegreek/regular",
+            "css": {
+                "font-family": "Capline Greek Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6226",
+                "slug": "regular",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/caplinegreek/bold",
+            "css": {
+                "font-family": "Capline Greek Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6225",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Solid",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/caplinegreek/solid",
+            "css": {
+                "font-family": "Capline Greek Solid",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6227",
+                "slug": "solid",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1436",
+        "slug": "caplinegreek"
+    },
+    "generatedAt": 1437611062749
+}

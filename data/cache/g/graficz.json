@@ -1,0 +1,93 @@
+{
+    "name": "Graficz",
+    "url": "http://fontdeck.com/typeface/graficz",
+    "slug": "graficz",
+    "use": "body",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "MAC Rhino Fonts",
+    "designer": [
+        "Stefan Hattenbach"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "monoline",
+        "modular",
+        "1930s",
+        "narrow",
+        "sans-serif"
+    ],
+    "variations": [
+        {
+            "name": "Regular Oblique",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/graficz/oblique",
+            "css": {
+                "font-family": "Graficz Oblique",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2499",
+                "slug": "oblique",
+                "price": "$12.49"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/graficz/bold",
+            "css": {
+                "font-family": "Graficz Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2496",
+                "slug": "bold",
+                "price": "$12.49"
+            }
+        },
+        {
+            "name": "Bold Oblique",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/graficz/boldoblique",
+            "css": {
+                "font-family": "Graficz Bold Oblique",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2497",
+                "slug": "boldoblique",
+                "price": "$12.49"
+            }
+        },
+        {
+            "name": "Normal",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/graficz/normal",
+            "css": {
+                "font-family": "Graficz Normal",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2498",
+                "slug": "normal",
+                "price": "$12.49"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "605",
+        "slug": "graficz"
+    },
+    "generatedAt": 1437609555389
+}

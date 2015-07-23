@@ -1,0 +1,330 @@
+{
+    "name": "Petala Pro",
+    "url": "http://fontdeck.com/typeface/petalapro",
+    "slug": "petalapro",
+    "superfamily": "Petala",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Humanist"
+    ],
+    "foundry": "Typefolio",
+    "designer": [
+        "Marconi Lima"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "languages",
+        "opentype",
+        "pétala",
+        "text",
+        "prints",
+        "upright",
+        "alternates",
+        "modern",
+        "icons",
+        "ligatures",
+        "oblique",
+        "currencies",
+        "italic",
+        "display",
+        "lowercases",
+        "books",
+        "ornaments",
+        "cartography",
+        "newspapers",
+        "capitals",
+        "symbols",
+        "covers",
+        "roman",
+        "devices",
+        "neohumanist",
+        "magazines",
+        "small caps",
+        "broadcast",
+        "sanserif",
+        "editorial",
+        "numerals",
+        "superfamily",
+        "figures styles"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/petalapro/thin",
+            "css": {
+                "font-family": "Petala Pro Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7615",
+                "slug": "thin",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Thin Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/petalapro/thinitalic",
+            "css": {
+                "font-family": "Petala Pro Thin Italic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7616",
+                "slug": "thinitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-light",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/petalapro/extralight",
+            "css": {
+                "font-family": "Petala Pro Extralight",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7605",
+                "slug": "extralight",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-light Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/petalapro/extralightitalic",
+            "css": {
+                "font-family": "Petala Pro Extralight Italic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7606",
+                "slug": "extralightitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/petalapro/light",
+            "css": {
+                "font-family": "Petala Pro Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7608",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/petalapro/lightitalic",
+            "css": {
+                "font-family": "Petala Pro Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7609",
+                "slug": "lightitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/petalapro/regular",
+            "css": {
+                "font-family": "Petala Pro Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7610",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/petalapro/italic",
+            "css": {
+                "font-family": "Petala Pro Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7607",
+                "slug": "italic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Semi-bold Italic",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/petalapro/semibolditalic",
+            "css": {
+                "font-family": "Petala Pro Semibold Italic",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7612",
+                "slug": "semibolditalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/petalapro/semibold",
+            "css": {
+                "font-family": "Petala Pro Semibold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7611",
+                "slug": "semibold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/petalapro/bold",
+            "css": {
+                "font-family": "Petala Pro Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7601",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/petalapro/bolditalic",
+            "css": {
+                "font-family": "Petala Pro Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7602",
+                "slug": "bolditalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/petalapro/extrabold",
+            "css": {
+                "font-family": "Petala Pro Extrabold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7603",
+                "slug": "extrabold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-bold Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/petalapro/extrabolditalic",
+            "css": {
+                "font-family": "Petala Pro Extrabold Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7604",
+                "slug": "extrabolditalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/petalapro/black",
+            "css": {
+                "font-family": "Petala Pro Black",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7598",
+                "slug": "black",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/petalapro/blackitalic",
+            "css": {
+                "font-family": "Petala Pro Black Italic",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7599",
+                "slug": "blackitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Semilight",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/petalapro/semilight",
+            "css": {
+                "font-family": "Petala Pro Semilight",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7613",
+                "slug": "semilight",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Semilight Italic",
+            "description": "i3",
+            "url": "http://fontdeck.com/font/petalapro/semilightitalic",
+            "css": {
+                "font-family": "Petala Pro Semilight Italic",
+                "font-weight": "300",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7614",
+                "slug": "semilightitalic",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1755",
+        "slug": "petalapro"
+    },
+    "generatedAt": 1437611203243
+}

@@ -1,0 +1,49 @@
+{
+    "name": "EB Neon",
+    "url": "http://fontdeck.com/typeface/ebneon",
+    "slug": "ebneon",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "Fenotype",
+    "designer": [
+        "Erik Bertell"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "neon",
+        "60s",
+        "connected",
+        "geometric",
+        "rope",
+        "monoline",
+        "retro",
+        "70s"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/ebneon/regular",
+            "css": {
+                "font-family": "EB Neon Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7208",
+                "slug": "regular",
+                "price": "$5.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1685",
+        "slug": "ebneon"
+    },
+    "generatedAt": 1437611135060
+}

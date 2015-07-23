@@ -1,0 +1,94 @@
+{
+    "name": "Coline Extreme",
+    "url": "http://fontdeck.com/typeface/colineextreme",
+    "slug": "colineextreme",
+    "superfamily": "Coline",
+    "use": "heading",
+    "classification": [
+        "Serif",
+        "Garalde"
+    ],
+    "foundry": "A is for…",
+    "designer": [
+        "Émilie Rigaud"
+    ],
+    "opentype": [
+        "hist",
+        "liga",
+        "lnum",
+        "onum",
+        "pnum",
+        "tnum"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "opentype",
+        "legible",
+        "fine crafted",
+        "contemporary",
+        "magazine",
+        "upright",
+        "versatile",
+        "coline extrême",
+        "handwriting",
+        "book",
+        "fluid",
+        "editorial",
+        "lively",
+        "superfamily"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/colineextreme/light",
+            "css": {
+                "font-family": "Coline Extreme Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7925",
+                "slug": "light",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/colineextreme/regular",
+            "css": {
+                "font-family": "Coline Extreme Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7924",
+                "slug": "regular",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/colineextreme/black",
+            "css": {
+                "font-family": "Coline Extreme Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7926",
+                "slug": "black",
+                "price": "$15.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1820",
+        "slug": "colineextreme"
+    },
+    "generatedAt": 1437611333682
+}

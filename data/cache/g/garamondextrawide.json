@@ -1,0 +1,164 @@
+{
+    "name": "Garamond Extra Wide",
+    "url": "http://fontdeck.com/typeface/garamondextrawide",
+    "slug": "garamondextrawide",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Garalde"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "URW Studio"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "french",
+        "1990s",
+        "german"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/garamondextrawide/regular",
+            "css": {
+                "font-family": "Garamond Extra Wide Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "747",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/garamondextrawide/medium",
+            "css": {
+                "font-family": "Garamond Extra Wide Medium",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "789",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium Oblique",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/garamondextrawide/mediumoblique",
+            "css": {
+                "font-family": "GaramondExtraWideMediumOblique",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "790",
+                "slug": "mediumoblique",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/garamondextrawide/bold",
+            "css": {
+                "font-family": "Garamond Extra Wide Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "761",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Oblique",
+            "description": "o7",
+            "url": "http://fontdeck.com/font/garamondextrawide/boldoblique",
+            "css": {
+                "font-family": "GaramondExtraWideBoldOblique",
+                "font-weight": "700",
+                "font-style": "oblique"
+            },
+            "fontdeck": {
+                "id": "762",
+                "slug": "boldoblique",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/garamondextrawide/extrabold",
+            "css": {
+                "font-family": "Garamond Extra Wide Extra Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "780",
+                "slug": "extrabold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-bold Oblique",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/garamondextrawide/extraboldoblique",
+            "css": {
+                "font-family": "GaramonExtrWidExtrBolObliqu",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "781",
+                "slug": "extraboldoblique",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Demi",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/garamondextrawide/demi",
+            "css": {
+                "font-family": "Garamond Extra Wide Demi",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "768",
+                "slug": "demi",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Demi Oblique",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/garamondextrawide/demioblique",
+            "css": {
+                "font-family": "GaramondExtraWideDemiOblique",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "769",
+                "slug": "demioblique",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "245",
+        "slug": "garamondextrawide"
+    },
+    "generatedAt": 1437609074403
+}

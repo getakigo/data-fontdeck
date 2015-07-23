@@ -1,0 +1,166 @@
+{
+    "name": "Millar",
+    "url": "http://fontdeck.com/typeface/millar",
+    "slug": "millar",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "The Northern Block",
+    "designer": [
+        "Jonathan Hill"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "technical",
+        "geometric",
+        "linear",
+        "din",
+        "balanced",
+        "humanist",
+        "contemporary",
+        "magazine",
+        "news",
+        "minimal",
+        "modern",
+        "digital",
+        "commercial",
+        "round",
+        "smooth",
+        "european",
+        "modular",
+        "branding",
+        "headline",
+        "display",
+        "information",
+        "circular",
+        "legible",
+        "architecture",
+        "brochure",
+        "poster",
+        "neutral",
+        "graphic",
+        "swiss",
+        "identity",
+        "sans serif",
+        "grid",
+        "german",
+        "futuristic",
+        "clean"
+    ],
+    "variations": [
+        {
+            "name": "Ultra-light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/millar/ultralight",
+            "css": {
+                "font-family": "Millar UltraLight",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3584",
+                "slug": "ultralight",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/millar/light",
+            "css": {
+                "font-family": "Millar Light",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3585",
+                "slug": "light",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/millar/regular",
+            "css": {
+                "font-family": "Millar Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3586",
+                "slug": "regular",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/millar/italic",
+            "css": {
+                "font-family": "Millar Italic",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3587",
+                "slug": "italic",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/millar/medium",
+            "css": {
+                "font-family": "Millar Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3588",
+                "slug": "medium",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/millar/bold",
+            "css": {
+                "font-family": "Millar Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3589",
+                "slug": "bold",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/millar/extrabold",
+            "css": {
+                "font-family": "Millar ExtraBold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3590",
+                "slug": "extrabold",
+                "price": "$9.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "865",
+        "slug": "millar"
+    },
+    "generatedAt": 1437610024528
+}

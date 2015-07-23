@@ -1,0 +1,276 @@
+{
+    "name": "Zetta Serif",
+    "url": "http://fontdeck.com/typeface/zettaserif",
+    "slug": "zettaserif",
+    "superfamily": "Zetta",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Slab serif"
+    ],
+    "foundry": "Playtype",
+    "designer": [
+        "Jonas Hecksher"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "multiple-purpose",
+        "legible",
+        "bold",
+        "editorial",
+        "square",
+        "clean",
+        "superfamily",
+        "crisp",
+        "big"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/zettaserif/thin",
+            "css": {
+                "font-family": "Zetta Serif Thin",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5315",
+                "slug": "thin",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Ultra-light",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/zettaserif/ultralight",
+            "css": {
+                "font-family": "Zetta Serif Ultra Light",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5314",
+                "slug": "ultralight",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Extra-light",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/zettaserif/extralight",
+            "css": {
+                "font-family": "Zetta Serif Extra Light",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5318",
+                "slug": "extralight",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/zettaserif/light",
+            "css": {
+                "font-family": "Zetta Serif Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4907",
+                "slug": "light",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/zettaserif/lightitalic",
+            "css": {
+                "font-family": "Zetta Serif Light Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5317",
+                "slug": "lightitalic",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Book",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/zettaserif/book",
+            "css": {
+                "font-family": "Zetta Serif Book",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7750",
+                "slug": "book",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Book Italic",
+            "description": "i3",
+            "url": "http://fontdeck.com/font/zettaserif/bookitalic",
+            "css": {
+                "font-family": "Zetta Serif Book Italic",
+                "font-weight": "300",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7751",
+                "slug": "bookitalic",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/zettaserif/regular",
+            "css": {
+                "font-family": "Zetta Serif Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4906",
+                "slug": "regular",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/zettaserif/italic",
+            "css": {
+                "font-family": "Zetta Serif Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6584",
+                "slug": "italic",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/zettaserif/bold",
+            "css": {
+                "font-family": "Zetta Serif Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4908",
+                "slug": "bold",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/zettaserif/extrabold",
+            "css": {
+                "font-family": "Zetta Serif Extra Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5319",
+                "slug": "extrabold",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Extra-bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/zettaserif/extrabolditalic",
+            "css": {
+                "font-family": "Zetta Serif Extra Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5320",
+                "slug": "extrabolditalic",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/zettaserif/heavy",
+            "css": {
+                "font-family": "Zetta Serif Heavy",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4909",
+                "slug": "heavy",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Caps",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/zettaserif/caps",
+            "css": {
+                "font-family": "Zetta Serif Caps",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7752",
+                "slug": "caps",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Demi Bold",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/zettaserif/demibold",
+            "css": {
+                "font-family": "Zetta Serif Demi Bold",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6583",
+                "slug": "demibold",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Poster",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/zettaserif/poster",
+            "css": {
+                "font-family": "Zetta Serif Poster",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5316",
+                "slug": "poster",
+                "price": "$45.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1148",
+        "slug": "zettaserif"
+    },
+    "generatedAt": 1437611264421
+}

@@ -1,0 +1,43 @@
+{
+    "name": "Zantiqa 4F",
+    "url": "http://fontdeck.com/typeface/zantiqa4f",
+    "slug": "zantiqa4f",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Serif",
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "4th february",
+    "designer": [
+        "Sergiy S. Tkachenko"
+    ],
+    "language": [
+        "latin",
+        "cyrillic"
+    ],
+    "tags": [],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/zantiqa4f/regular",
+            "css": {
+                "font-family": "Zantiqa 4F Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7533",
+                "slug": "regular",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1748",
+        "slug": "zantiqa4f"
+    },
+    "generatedAt": 1437611179251
+}

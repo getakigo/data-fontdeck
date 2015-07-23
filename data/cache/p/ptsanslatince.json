@@ -1,0 +1,161 @@
+{
+    "name": "PT Sans Latin CE",
+    "url": "http://fontdeck.com/typeface/ptsanslatince",
+    "slug": "ptsanslatince",
+    "superfamily": "Pt Sans",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Humanist"
+    ],
+    "foundry": "ParaType",
+    "designer": [
+        "Olga Umpeleva",
+        "Vladimir Yefimov",
+        "Alexandra Korolkova"
+    ],
+    "opentype": [
+        "liga"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "pt sans",
+        "opentype",
+        "hand hinted",
+        "21st century",
+        "text",
+        "legible",
+        "handhinted",
+        "super family",
+        "manually hinted"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/ptsanslatince/regular",
+            "css": {
+                "font-family": "PT Sans Latin CE Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "931",
+                "slug": "regular",
+                "price": "FREE"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/ptsanslatince/italic",
+            "css": {
+                "font-family": "PT Sans Latin CE Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "932",
+                "slug": "italic",
+                "price": "FREE"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/ptsanslatince/bold",
+            "css": {
+                "font-family": "PT Sans Latin CE Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "933",
+                "slug": "bold",
+                "price": "FREE"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/ptsanslatince/bolditalic",
+            "css": {
+                "font-family": "PT Sans Latin CE Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "934",
+                "slug": "bolditalic",
+                "price": "FREE"
+            }
+        },
+        {
+            "name": "Narrow",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/ptsanslatince/narrow",
+            "css": {
+                "font-family": "PT Sans Latin CE Narrow",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "935",
+                "slug": "narrow",
+                "price": "FREE"
+            }
+        },
+        {
+            "name": "Narrow Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/ptsanslatince/narrowbold",
+            "css": {
+                "font-family": "PT Sans Latin CE Narrow Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "936",
+                "slug": "narrowbold",
+                "price": "FREE"
+            }
+        },
+        {
+            "name": "Caption Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/ptsanslatince/captionbold",
+            "css": {
+                "font-family": "PT Sans Latin CE Caption Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "938",
+                "slug": "captionbold",
+                "price": "FREE"
+            }
+        },
+        {
+            "name": "Caption",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/ptsanslatince/caption",
+            "css": {
+                "font-family": "PT Sans Latin CE Caption",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "937",
+                "slug": "caption",
+                "price": "FREE"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "276",
+        "slug": "ptsanslatince"
+    },
+    "generatedAt": 1437609120636
+}

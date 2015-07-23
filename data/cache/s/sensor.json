@@ -1,0 +1,52 @@
+{
+    "name": "Sensor",
+    "url": "http://fontdeck.com/typeface/sensor",
+    "slug": "sensor",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Futuristic",
+        "Display",
+        "Decorative",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "Tour de Force",
+    "designer": [
+        "Dušan Jelesijević"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "experimental",
+        "simple",
+        "title",
+        "contemporary",
+        "display",
+        "square sans",
+        "computer"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/sensor/regular",
+            "css": {
+                "font-family": "Sensor Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1143",
+                "slug": "regular",
+                "price": "$7.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "316",
+        "slug": "sensor"
+    },
+    "generatedAt": 1437609193925
+}

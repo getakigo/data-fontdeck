@@ -1,0 +1,67 @@
+{
+    "name": "Vanyla 4F Unicase",
+    "url": "http://fontdeck.com/typeface/vanyla4funicase",
+    "slug": "vanyla4funicase",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "All caps",
+        "Symbols",
+        "Dingbats",
+        "Symbols",
+        "Arrows",
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "4th february",
+    "designer": [
+        "Sergiy S. Tkachenko"
+    ],
+    "language": [
+        "latin",
+        "cyrillic"
+    ],
+    "tags": [
+        "monoline",
+        "swashes",
+        "girly",
+        "fashion"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/vanyla4funicase/thin",
+            "css": {
+                "font-family": "Vanyla 4F Unicase Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7258",
+                "slug": "thin",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Thin Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/vanyla4funicase/thinitalic",
+            "css": {
+                "font-family": "Vanyla 4F Unicase Thin Italic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7259",
+                "slug": "thinitalic",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1711",
+        "slug": "vanyla4funicase"
+    },
+    "generatedAt": 1437611145270
+}

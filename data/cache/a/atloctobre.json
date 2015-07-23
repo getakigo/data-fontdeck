@@ -1,0 +1,54 @@
+{
+    "name": "ATL Octobre",
+    "url": "http://fontdeck.com/typeface/atloctobre",
+    "slug": "atloctobre",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Experimental"
+    ],
+    "foundry": "Nouvelle Noire",
+    "designer": [
+        "Philippe Apeloig"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "edgy",
+        "modern",
+        "block",
+        "fatface",
+        "modernism",
+        "fat",
+        "strong",
+        "blocks",
+        "square",
+        "squarish",
+        "modern font",
+        "blocky",
+        "fat face"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/atloctobre/regular",
+            "css": {
+                "font-family": "ATL Octobre Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7676",
+                "slug": "regular",
+                "price": "$25.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1769",
+        "slug": "atloctobre"
+    },
+    "generatedAt": 1437611235098
+}

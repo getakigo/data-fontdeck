@@ -1,0 +1,241 @@
+{
+    "name": "Libertad",
+    "url": "http://fontdeck.com/typeface/libertad",
+    "slug": "libertad",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif"
+    ],
+    "foundry": "TipoType",
+    "designer": [
+        "Fernando Diaz"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "display font",
+        "display sans",
+        "display",
+        "clean",
+        "clear"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/libertad/thin",
+            "css": {
+                "font-family": "Libertad Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8890",
+                "slug": "thin",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Thin Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/libertad/thinitalic",
+            "css": {
+                "font-family": "Libertad Thin Italic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8891",
+                "slug": "thinitalic",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/libertad/light",
+            "css": {
+                "font-family": "Libertad Light",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8885",
+                "slug": "light",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i3",
+            "url": "http://fontdeck.com/font/libertad/lightitalic",
+            "css": {
+                "font-family": "Libertad Light Italic",
+                "font-weight": "300",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8886",
+                "slug": "lightitalic",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Book",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/libertad/book",
+            "css": {
+                "font-family": "Libertad Book",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8880",
+                "slug": "book",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Book Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/libertad/bookitalic",
+            "css": {
+                "font-family": "Libertad Book Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8881",
+                "slug": "bookitalic",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/libertad/regular",
+            "css": {
+                "font-family": "Libertad Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8889",
+                "slug": "regular",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/libertad/italic",
+            "css": {
+                "font-family": "Libertad Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8884",
+                "slug": "italic",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/libertad/medium",
+            "css": {
+                "font-family": "Libertad Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8887",
+                "slug": "medium",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/libertad/mediumitalic",
+            "css": {
+                "font-family": "Libertad Medium Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8888",
+                "slug": "mediumitalic",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/libertad/bold",
+            "css": {
+                "font-family": "Libertad Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8878",
+                "slug": "bold",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/libertad/bolditalic",
+            "css": {
+                "font-family": "Libertad Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8879",
+                "slug": "bolditalic",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/libertad/extrabold",
+            "css": {
+                "font-family": "Libertad ExtraBold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8882",
+                "slug": "extrabold",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Extra-bold Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/libertad/extrabolditalic",
+            "css": {
+                "font-family": "Libertad ExtraBold Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8883",
+                "slug": "extrabolditalic",
+                "price": "$9.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1990",
+        "slug": "libertad"
+    },
+    "generatedAt": 1437611542798
+}

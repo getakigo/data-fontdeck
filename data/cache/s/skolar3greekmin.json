@@ -1,0 +1,155 @@
+{
+    "name": "Skolar3 Greek Min",
+    "url": "http://fontdeck.com/typeface/skolar3greekmin",
+    "slug": "skolar3greekmin",
+    "superfamily": "Skolar",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Rugged",
+        "Serif",
+        "Transitional",
+        "Serif",
+        "Neo-classical"
+    ],
+    "foundry": "Rosetta",
+    "designer": [
+        "David Březina"
+    ],
+    "opentype": [
+        "liga",
+        "lnum"
+    ],
+    "language": [
+        "latin",
+        "greek"
+    ],
+    "tags": [
+        "formal",
+        "opentype",
+        "hand hinted",
+        "21st century",
+        "text",
+        "wedge serif",
+        "contemporary",
+        "magazine",
+        "hand-hinted",
+        "news",
+        "academic",
+        "dictionary",
+        "david březina",
+        "scholarly",
+        "polytonic greek",
+        "greek",
+        "czech",
+        "low-contrast",
+        "workhorse",
+        "legible",
+        "brochure",
+        "sturdy",
+        "manually hinted",
+        "neutral",
+        "book",
+        "playful",
+        "corporate",
+        "21st century text",
+        "minified"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/skolar3greekmin/regular",
+            "css": {
+                "font-family": "Skolar3 Greek Min Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7815",
+                "slug": "regular",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/skolar3greekmin/italic",
+            "css": {
+                "font-family": "Skolar3 Greek Min Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7818",
+                "slug": "italic",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/skolar3greekmin/semibold",
+            "css": {
+                "font-family": "Skolar3 Greek Min Semibold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7816",
+                "slug": "semibold",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Semi-bold Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/skolar3greekmin/semibolditalic",
+            "css": {
+                "font-family": "Skolar3GreekMinSemiboldItalic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7819",
+                "slug": "semibolditalic",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/skolar3greekmin/bold",
+            "css": {
+                "font-family": "Skolar3 Greek Min Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7817",
+                "slug": "bold",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/skolar3greekmin/bolditalic",
+            "css": {
+                "font-family": "Skolar3 Greek Min Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7820",
+                "slug": "bolditalic",
+                "price": "$15.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1797",
+        "slug": "skolar3greekmin"
+    },
+    "generatedAt": 1437611288597
+}

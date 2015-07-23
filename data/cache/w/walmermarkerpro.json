@@ -1,0 +1,65 @@
+{
+    "name": "Walmer Marker Pro",
+    "url": "http://fontdeck.com/typeface/walmermarkerpro",
+    "slug": "walmermarkerpro",
+    "superfamily": "Walmermarker",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Handwritten",
+        "Display",
+        "Script",
+        "Display",
+        "Poster",
+        "Script",
+        "Casual"
+    ],
+    "foundry": "Typolar",
+    "designer": [
+        "Pertti Lukkarila",
+        "Emma Laiho",
+        "Jarno Lukkarila"
+    ],
+    "opentype": [
+        "calt",
+        "zero"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "marker",
+        "supermarket",
+        "opentype",
+        "price tag",
+        "grocery",
+        "hand hinted",
+        "handwriting",
+        "shopping",
+        "pen",
+        "superfamily",
+        "poster"
+    ],
+    "variations": [
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/walmermarkerpro/medium",
+            "css": {
+                "font-family": "Walmer Marker Pro Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7932",
+                "slug": "medium",
+                "price": "$25.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1824",
+        "slug": "walmermarkerpro"
+    },
+    "generatedAt": 1437611345535
+}

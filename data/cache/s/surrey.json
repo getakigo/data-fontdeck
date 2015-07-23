@@ -1,0 +1,142 @@
+{
+    "name": "Surrey",
+    "url": "http://fontdeck.com/typeface/surrey",
+    "slug": "surrey",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "Intellecta Design",
+    "designer": [
+        "Iza W"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "advertising",
+        "flourish",
+        "family",
+        "circus",
+        "catalogue",
+        "music",
+        "fancy",
+        "candy",
+        "film titling",
+        "1800s",
+        "fine crafted",
+        "fun",
+        "magazine",
+        "illuminated",
+        "antiqued",
+        "announcements",
+        "icons",
+        "victorian",
+        "anniversary",
+        "artistic",
+        "french",
+        "menus",
+        "antiques",
+        "amusement",
+        "stationery",
+        "swirls",
+        "marriage",
+        "western",
+        "european",
+        "art",
+        "casual",
+        "wedding",
+        "feminine",
+        "invitation",
+        "ornaments",
+        "menu",
+        "informal",
+        "initial",
+        "individual",
+        "scrollwork",
+        "certificate",
+        "all caps",
+        "elegant",
+        "fashion",
+        "vintage",
+        "funeral",
+        "romantic",
+        "valentine",
+        "ornate",
+        "handmade",
+        "love",
+        "swash",
+        "ornamental",
+        "birthday",
+        "bulletin",
+        "organic"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/surrey/regular",
+            "css": {
+                "font-family": "Surrey Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2541",
+                "slug": "regular",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/surrey/black",
+            "css": {
+                "font-family": "Surrey Black",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2543",
+                "slug": "black",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Black Shadow",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/surrey/blackshadow",
+            "css": {
+                "font-family": "Surrey Black Shadow",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2544",
+                "slug": "blackshadow",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Shadow",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/surrey/shadow",
+            "css": {
+                "font-family": "Surrey Shadow",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2542",
+                "slug": "shadow",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "613",
+        "slug": "surrey"
+    },
+    "generatedAt": 1437609567314
+}

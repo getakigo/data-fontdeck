@@ -1,0 +1,84 @@
+{
+    "name": "Calligraphia Latina",
+    "url": "http://fontdeck.com/typeface/calligraphialatina",
+    "slug": "calligraphialatina",
+    "use": "body",
+    "classification": [
+        "Display",
+        "All caps",
+        "Script",
+        "Decorative script",
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "Intellecta Design",
+    "designer": [
+        "Paulo W"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "flourish",
+        "invitation",
+        "feminine",
+        "fancy",
+        "handwritten",
+        "film titling",
+        "festive",
+        "all caps",
+        "flair",
+        "decorative",
+        "certificate",
+        "handletter",
+        "food",
+        "ink",
+        "handwriting",
+        "swirls",
+        "italian",
+        "fluid",
+        "fashion",
+        "fashionable",
+        "calligraphic",
+        "ornate",
+        "headline",
+        "fountain pen"
+    ],
+    "variations": [
+        {
+            "name": "Versals Two Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/calligraphialatina/versalstworegular",
+            "css": {
+                "font-family": "CalligraphiLatinVersalTwRegula",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2546",
+                "slug": "versalstworegular",
+                "price": "$9.70"
+            }
+        },
+        {
+            "name": "Soft Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/calligraphialatina/softregular",
+            "css": {
+                "font-family": "CalligraphiaLatinaSoftRegular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2545",
+                "slug": "softregular",
+                "price": "$9.70"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "614",
+        "slug": "calligraphialatina"
+    },
+    "generatedAt": 1437609567031
+}

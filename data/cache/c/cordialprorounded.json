@@ -1,0 +1,113 @@
+{
+    "name": "Cordial Pro Rounded",
+    "url": "http://fontdeck.com/typeface/cordialprorounded",
+    "slug": "cordialprorounded",
+    "superfamily": "Cordial Pro",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "All caps",
+        "Display",
+        "Art Deco",
+        "Display",
+        "Sans serif"
+    ],
+    "foundry": "Riccardo Olocco Typographic Design",
+    "designer": [
+        "Riccardo Olocco"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "all caps",
+        "elegant",
+        "cordial",
+        "italian",
+        "art deco",
+        "rounded",
+        "superfamily"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/cordialprorounded/light",
+            "css": {
+                "font-family": "Cordial Pro Rounded Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2280",
+                "slug": "light",
+                "price": "$11.99"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/cordialprorounded/regular",
+            "css": {
+                "font-family": "Cordial Pro Rounded Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2282",
+                "slug": "regular",
+                "price": "$11.99"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/cordialprorounded/medium",
+            "css": {
+                "font-family": "Cordial Pro Rounded Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2281",
+                "slug": "medium",
+                "price": "$11.99"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/cordialprorounded/semibold",
+            "css": {
+                "font-family": "Cordial Pro Rounded Semi Bold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2283",
+                "slug": "semibold",
+                "price": "$11.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/cordialprorounded/bold",
+            "css": {
+                "font-family": "Cordial Pro Rounded Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2279",
+                "slug": "bold",
+                "price": "$11.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "559",
+        "slug": "cordialprorounded"
+    },
+    "generatedAt": 1437609440782
+}

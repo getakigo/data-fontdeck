@@ -1,0 +1,75 @@
+{
+    "name": "Wayfinding Sans Pro Condensed",
+    "url": "http://fontdeck.com/typeface/wayfindingsansprocondensed",
+    "slug": "wayfindingsansprocondensed",
+    "superfamily": "Wayfinding",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Humanist"
+    ],
+    "foundry": "fonts.info",
+    "designer": [
+        "Sebastian Nagel",
+        "Ralf Herrmann"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "narrow",
+        "condensed",
+        "text",
+        "legible",
+        "wayfinding",
+        "humanist",
+        "contemporary",
+        "magazine",
+        "poster",
+        "modern",
+        "elegant",
+        "editorial",
+        "signage",
+        "sans serif",
+        "corporate",
+        "headline",
+        "clean"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/wayfindingsansprocondensed/regular",
+            "css": {
+                "font-family": "WayfindinSanPrCondense Regula",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5671",
+                "slug": "regular",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/wayfindingsansprocondensed/bold",
+            "css": {
+                "font-family": "WayfindingSansProCondensedBold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5672",
+                "slug": "bold",
+                "price": "$9.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1313",
+        "slug": "wayfindingsansprocondensed"
+    },
+    "generatedAt": 1437610762824
+}

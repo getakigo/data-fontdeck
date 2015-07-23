@@ -1,0 +1,56 @@
+{
+    "name": "Gavinha",
+    "url": "http://fontdeck.com/typeface/gavinha",
+    "slug": "gavinha",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "Intellecta Design",
+    "designer": [
+        "Paulo W"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "victoriana",
+        "decorative",
+        "victorian",
+        "flourished",
+        "flourish",
+        "tendrils",
+        "header",
+        "ornaments",
+        "valentines",
+        "flowers",
+        "fancy",
+        "intricate",
+        "cap",
+        "ornate",
+        "botanical"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/gavinha/regular",
+            "css": {
+                "font-family": "Gavinha Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4006",
+                "slug": "regular",
+                "price": "$9.10"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "942",
+        "slug": "gavinha"
+    },
+    "generatedAt": 1437610157215
+}

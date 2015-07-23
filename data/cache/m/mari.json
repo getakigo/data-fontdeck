@@ -1,0 +1,127 @@
+{
+    "name": "Mari",
+    "url": "http://fontdeck.com/typeface/mari",
+    "slug": "mari",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Poster",
+        "Sans Serif",
+        "Gothic"
+    ],
+    "foundry": "Playtype",
+    "designer": [
+        "Jonas Hecksher"
+    ],
+    "opentype": [
+        "liga"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "gothic",
+        "grotesk",
+        "light",
+        "opentype",
+        "poster",
+        "grotesque"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/mari/light",
+            "css": {
+                "font-family": "Mari Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7275",
+                "slug": "light",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Book",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/mari/book",
+            "css": {
+                "font-family": "Mari Book",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7277",
+                "slug": "book",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/mari/regular",
+            "css": {
+                "font-family": "Mari Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7279",
+                "slug": "regular",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/mari/bold",
+            "css": {
+                "font-family": "Mari Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7278",
+                "slug": "bold",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/mari/heavy",
+            "css": {
+                "font-family": "Mari Heavy",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7276",
+                "slug": "heavy",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Poster",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/mari/poster",
+            "css": {
+                "font-family": "Mari Poster",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7274",
+                "slug": "poster",
+                "price": "$40.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1713",
+        "slug": "mari"
+    },
+    "generatedAt": 1437611145479
+}

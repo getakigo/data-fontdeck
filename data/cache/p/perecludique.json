@@ -1,0 +1,120 @@
+{
+    "name": "Perec Ludique",
+    "url": "http://fontdeck.com/typeface/perecludique",
+    "slug": "perecludique",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Hybrid"
+    ],
+    "foundry": "PampaType",
+    "designer": [
+        "Alejandro Lo Celso"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "advertising",
+        "titling",
+        "literary",
+        "argentina",
+        "text",
+        "fancy",
+        "cubes",
+        "system",
+        "multi style",
+        "friendly",
+        "contemporary",
+        "humanist",
+        "news",
+        "versatile",
+        "magazine",
+        "neo grotesque",
+        "modern",
+        "french",
+        "ludic",
+        "couch fonts",
+        "diverse",
+        "funny",
+        "literature",
+        "program",
+        "headline",
+        "deco",
+        "multistyle",
+        "display",
+        "ludique",
+        "argentinian",
+        "books",
+        "novels",
+        "workhorse",
+        "sans-serif",
+        "argentinean",
+        "legible",
+        "emboss",
+        "curved",
+        "daring",
+        "true italics",
+        "comfortable",
+        "decorative",
+        "elegant",
+        "tipos latinos",
+        "grotesque",
+        "delicate",
+        "readable",
+        "chrome",
+        "audacious"
+    ],
+    "variations": [
+        {
+            "name": "Pochoir",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/perecludique/pochoir",
+            "css": {
+                "font-family": "Perec Ludique Pochoir",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "9011",
+                "slug": "pochoir",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Cubes",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/perecludique/cubes",
+            "css": {
+                "font-family": "Perec Ludique Cubes",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "9010",
+                "slug": "cubes",
+                "price": "$10.50"
+            }
+        },
+        {
+            "name": "Oncle Jaques",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/perecludique/onclejaques",
+            "css": {
+                "font-family": "Perec Ludique Oncle Jaques",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "9012",
+                "slug": "onclejaques",
+                "price": "$22.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "2017",
+        "slug": "perecludique"
+    },
+    "generatedAt": 1437611625818
+}

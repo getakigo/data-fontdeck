@@ -1,0 +1,62 @@
+{
+    "name": "Fontleroy Pro",
+    "url": "http://fontdeck.com/typeface/fontleroypro",
+    "slug": "fontleroypro",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Art Deco"
+    ],
+    "foundry": "CheapProFonts",
+    "designer": [
+        "Nick Curtis"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "decorative",
+        "retro",
+        "script",
+        "initials",
+        "fancy",
+        "art deco"
+    ],
+    "variations": [
+        {
+            "name": "Fontleroy Brown",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/fontleroypro/fontleroybrown",
+            "css": {
+                "font-family": "Fontleroy Pro Fontleroy Brown",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3038",
+                "slug": "fontleroybrown",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Little Lord Fontleroy",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/fontleroypro/littlelordfontleroy",
+            "css": {
+                "font-family": "FontleroyProLittleLordFontleroy",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3037",
+                "slug": "littlelordfontleroy",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "712",
+        "slug": "fontleroypro"
+    },
+    "generatedAt": 1437609774175
+}

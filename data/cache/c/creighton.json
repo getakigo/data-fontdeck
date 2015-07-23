@@ -1,0 +1,136 @@
+{
+    "name": "Creighton",
+    "url": "http://fontdeck.com/typeface/creighton",
+    "slug": "creighton",
+    "use": "body",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Sans Serif",
+        "Grotesque",
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "Red Rooster Collection",
+    "designer": [
+        "Ashley Muir",
+        "Steve Jackaman"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "formal",
+        "expressive",
+        "1920s",
+        "condensed",
+        "glyphic",
+        "college",
+        "geometric",
+        "correspondence",
+        "fancy",
+        "art nouveau",
+        "festive",
+        "flair",
+        "food",
+        "1950s",
+        "1940s",
+        "commercial",
+        "funny",
+        "creative",
+        "fashionable",
+        "art deco",
+        "greetings",
+        "chic",
+        "headline",
+        "art",
+        "feminine",
+        "english",
+        "cosmetics",
+        "extended",
+        "american",
+        "constructed",
+        "economic",
+        "decorative",
+        "certificate",
+        "1930s",
+        "elegant",
+        "cool",
+        "1910s",
+        "grotesque",
+        "delicate",
+        "corporate",
+        "graceful",
+        "german",
+        "1900s",
+        "clean",
+        "conservative"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/creighton/regular",
+            "css": {
+                "font-family": "Creighton Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2988",
+                "slug": "regular",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/creighton/italic",
+            "css": {
+                "font-family": "Creighton Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2987",
+                "slug": "italic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/creighton/bold",
+            "css": {
+                "font-family": "Creighton Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2985",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/creighton/bolditalic",
+            "css": {
+                "font-family": "Creighton Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2986",
+                "slug": "bolditalic",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "693",
+        "slug": "creighton"
+    },
+    "generatedAt": 1437609736265
+}

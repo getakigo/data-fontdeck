@@ -1,0 +1,73 @@
+{
+    "name": "Lacrima Serif",
+    "url": "http://fontdeck.com/typeface/lacrimaserif",
+    "slug": "lacrimaserif",
+    "superfamily": "Lacrima",
+    "use": "heading",
+    "classification": [
+        "Serif",
+        "Modern"
+    ],
+    "foundry": "Milieu Grotesque",
+    "designer": [
+        "Alexander Colby"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "superfamily"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/lacrimaserif/light",
+            "css": {
+                "font-family": "Lacrima Serif Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5602",
+                "slug": "light",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/lacrimaserif/regular",
+            "css": {
+                "font-family": "Lacrima Serif Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5603",
+                "slug": "regular",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/lacrimaserif/bold",
+            "css": {
+                "font-family": "Lacrima Serif Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5601",
+                "slug": "bold",
+                "price": "$15.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1302",
+        "slug": "lacrimaserif"
+    },
+    "generatedAt": 1437610723353
+}

@@ -1,0 +1,130 @@
+{
+    "name": "Line",
+    "url": "http://fontdeck.com/typeface/line",
+    "slug": "line",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Display"
+    ],
+    "foundry": "Letters from Sweden",
+    "designer": [
+        "Stefania Malmsten",
+        "Göran Söderström"
+    ],
+    "opentype": [
+        "calt",
+        "case",
+        "dlig",
+        "liga",
+        "onum",
+        "ss01",
+        "ss02",
+        "ss03",
+        "ss04"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "scribbles",
+        "scandinavian",
+        "monoline",
+        "tag",
+        "swedish",
+        "magazine",
+        "decorative",
+        "script",
+        "tagging",
+        "swashes",
+        "swirls",
+        "fashion",
+        "sweden",
+        "sci-fi",
+        "science fiction",
+        "display",
+        "clean"
+    ],
+    "variations": [
+        {
+            "name": "6",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/line/6",
+            "css": {
+                "font-family": "Line 6",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7495",
+                "slug": "6",
+                "price": "$17.50"
+            }
+        },
+        {
+            "name": "16",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/line/16",
+            "css": {
+                "font-family": "Line 16",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7497",
+                "slug": "16",
+                "price": "$17.50"
+            }
+        },
+        {
+            "name": "4",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/line/4",
+            "css": {
+                "font-family": "Line 4",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7494",
+                "slug": "4",
+                "price": "$17.50"
+            }
+        },
+        {
+            "name": "10",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/line/10",
+            "css": {
+                "font-family": "Line 10",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7496",
+                "slug": "10",
+                "price": "$17.50"
+            }
+        },
+        {
+            "name": "20",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/line/20",
+            "css": {
+                "font-family": "Line 20",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7498",
+                "slug": "20",
+                "price": "$17.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1743",
+        "slug": "line"
+    },
+    "generatedAt": 1437611171955
+}

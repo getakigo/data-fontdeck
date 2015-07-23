@@ -1,0 +1,46 @@
+{
+    "name": "Edo Pro",
+    "url": "http://fontdeck.com/typeface/edopro",
+    "slug": "edopro",
+    "use": "body",
+    "classification": [
+        "Display",
+        "All caps",
+        "Script",
+        "Handwritten"
+    ],
+    "foundry": "CheapProFonts",
+    "designer": [
+        "Vic Fieger"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "marker",
+        "rough",
+        "brush"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/edopro/regular",
+            "css": {
+                "font-family": "Edo Pro Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4759",
+                "slug": "regular",
+                "price": "$9.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1107",
+        "slug": "edopro"
+    },
+    "generatedAt": 1437610433770
+}

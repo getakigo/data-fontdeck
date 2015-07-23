@@ -1,0 +1,71 @@
+{
+    "name": "Old English",
+    "url": "http://fontdeck.com/typeface/oldenglish",
+    "slug": "oldenglish",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Blackletter"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "URW Studio"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "gothic",
+        "decorative",
+        "textura",
+        "formal",
+        "blackletter",
+        "invitation",
+        "quaint",
+        "english",
+        "party",
+        "american",
+        "ancient",
+        "headline",
+        "1700s",
+        "1900s",
+        "wedding"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/oldenglish/regular",
+            "css": {
+                "font-family": "Old English Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2558",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Only Shadow",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/oldenglish/onlyshadow",
+            "css": {
+                "font-family": "Old English Only Shadow",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2559",
+                "slug": "onlyshadow",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "619",
+        "slug": "oldenglish"
+    },
+    "generatedAt": 1437609575077
+}

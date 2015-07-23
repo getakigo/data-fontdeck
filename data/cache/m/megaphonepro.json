@@ -1,0 +1,103 @@
+{
+    "name": "Megaphone Pro",
+    "url": "http://fontdeck.com/typeface/megaphonepro",
+    "slug": "megaphonepro",
+    "use": "body",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Sans Serif",
+        "Geometric",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "Red Rooster Collection",
+    "designer": [
+        "Ashley Muir",
+        "Steve Jackaman"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "modern",
+        "grotesk",
+        "commercial",
+        "plain",
+        "powerful",
+        "legible",
+        "signage",
+        "corporate",
+        "headline",
+        "punch",
+        "clean",
+        "poster"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/megaphonepro/regular",
+            "css": {
+                "font-family": "Megaphone Pro Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3149",
+                "slug": "regular",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/megaphonepro/italic",
+            "css": {
+                "font-family": "Megaphone Pro Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3150",
+                "slug": "italic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/megaphonepro/bold",
+            "css": {
+                "font-family": "Megaphone Pro Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3152",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/megaphonepro/bolditalic",
+            "css": {
+                "font-family": "Megaphone Pro Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3151",
+                "slug": "bolditalic",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "738",
+        "slug": "megaphonepro"
+    },
+    "generatedAt": 1437609821536
+}

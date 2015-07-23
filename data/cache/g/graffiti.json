@@ -1,0 +1,58 @@
+{
+    "name": "Graffiti",
+    "url": "http://fontdeck.com/typeface/graffiti",
+    "slug": "graffiti",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Grunge",
+        "Display",
+        "Script"
+    ],
+    "foundry": "Robert Arnow Designs",
+    "designer": [
+        "Robert Arnow"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "hand",
+        "marker",
+        "edgy",
+        "script",
+        "expressive",
+        "new york",
+        "tagging",
+        "handwriting",
+        "graffiti",
+        "subway",
+        "handwritten",
+        "hip hop",
+        "urban",
+        "tag",
+        "street"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/graffiti/regular",
+            "css": {
+                "font-family": "Graffiti Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3799",
+                "slug": "regular",
+                "price": "$11.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "895",
+        "slug": "graffiti"
+    },
+    "generatedAt": 1437610082500
+}

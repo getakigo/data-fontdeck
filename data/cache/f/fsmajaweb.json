@@ -1,0 +1,105 @@
+{
+    "name": "FS Maja Web",
+    "url": "http://fontdeck.com/typeface/fsmajaweb",
+    "slug": "fsmajaweb",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Glyphic"
+    ],
+    "foundry": "Fontsmith",
+    "designer": [
+        "Jason Smith"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "curves",
+        "serif",
+        "warm",
+        "young",
+        "legible",
+        "soft",
+        "bubbly",
+        "rounded",
+        "bright",
+        "elegant",
+        "punchy",
+        "beautiful",
+        "cheeky",
+        "smooth",
+        "fresh",
+        "entertaining",
+        "random",
+        "distinctive",
+        "clean"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/fsmajaweb/regular",
+            "css": {
+                "font-family": "FS Maja Web Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7469",
+                "slug": "regular",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/fsmajaweb/italic",
+            "css": {
+                "font-family": "FS Maja Web Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7468",
+                "slug": "italic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/fsmajaweb/bold",
+            "css": {
+                "font-family": "FS Maja Web Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7467",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/fsmajaweb/bolditalic",
+            "css": {
+                "font-family": "FS Maja Web Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7466",
+                "slug": "bolditalic",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1736",
+        "slug": "fsmajaweb"
+    },
+    "generatedAt": 1437611171108
+}

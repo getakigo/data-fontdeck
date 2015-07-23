@@ -1,0 +1,116 @@
+{
+    "name": "Slug",
+    "url": "http://fontdeck.com/typeface/slug",
+    "slug": "slug",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Display",
+        "Futuristic"
+    ],
+    "foundry": "FaceType",
+    "designer": [
+        "Marcus Sterz"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "colors",
+        "decorative",
+        "1970s",
+        "graphic",
+        "sans-serif",
+        "geometric",
+        "3d",
+        "logo",
+        "headline",
+        "bauhaus",
+        "display",
+        "disco",
+        "pipe"
+    ],
+    "variations": [
+        {
+            "name": "Bicolor A",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/slug/bicolora",
+            "css": {
+                "font-family": "Slug Bicolor A",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5219",
+                "slug": "bicolora",
+                "price": "$4.75"
+            }
+        },
+        {
+            "name": "Bicolor B",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/slug/bicolorb",
+            "css": {
+                "font-family": "Slug Bicolor B",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5220",
+                "slug": "bicolorb",
+                "price": "$4.75"
+            }
+        },
+        {
+            "name": "Half",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/slug/half",
+            "css": {
+                "font-family": "Slug Half",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5217",
+                "slug": "half",
+                "price": "$7.00"
+            }
+        },
+        {
+            "name": "Single",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/slug/single",
+            "css": {
+                "font-family": "Slug Single",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5216",
+                "slug": "single",
+                "price": "$7.00"
+            }
+        },
+        {
+            "name": "Double",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/slug/double",
+            "css": {
+                "font-family": "Slug Double",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5218",
+                "slug": "double",
+                "price": "$7.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1235",
+        "slug": "slug"
+    },
+    "generatedAt": 1437610634571
+}

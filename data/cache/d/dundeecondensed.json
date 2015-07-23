@@ -1,0 +1,128 @@
+{
+    "name": "Dundee Condensed",
+    "url": "http://fontdeck.com/typeface/dundeecondensed",
+    "slug": "dundeecondensed",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Sans Serif",
+        "Hybrid"
+    ],
+    "foundry": "Red Rooster Collection",
+    "designer": [
+        "Pat Hickson"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "sensible",
+        "formal",
+        "1920s",
+        "condensed",
+        "dynamic",
+        "logo",
+        "letterhead",
+        "personal text",
+        "magazine",
+        "news",
+        "natural",
+        "flair",
+        "modern",
+        "movie",
+        "headline",
+        "valuable",
+        "book text",
+        "wedding",
+        "invitation",
+        "feminine",
+        "narrow",
+        "sans-serif",
+        "venetian",
+        "legible",
+        "sturdy",
+        "garalde",
+        "poster",
+        "economic",
+        "decorative",
+        "elegant",
+        "book",
+        "dutch",
+        "1910s",
+        "vintage",
+        "film",
+        "masculine",
+        "movie credits",
+        "1900s",
+        "clean",
+        "conservative"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/dundeecondensed/light",
+            "css": {
+                "font-family": "Dundee Condensed Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4181",
+                "slug": "light",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/dundeecondensed/medium",
+            "css": {
+                "font-family": "Dundee Condensed Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4180",
+                "slug": "medium",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/dundeecondensed/bold",
+            "css": {
+                "font-family": "Dundee Condensed Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4183",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/dundeecondensed/extrabold",
+            "css": {
+                "font-family": "Dundee Condensed Extra Bold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4182",
+                "slug": "extrabold",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "981",
+        "slug": "dundeecondensed"
+    },
+    "generatedAt": 1437610235544
+}

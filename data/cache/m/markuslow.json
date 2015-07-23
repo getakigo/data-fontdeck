@@ -1,0 +1,74 @@
+{
+    "name": "MarkusLow",
+    "url": "http://fontdeck.com/typeface/markuslow",
+    "slug": "markuslow",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Neo-Grotesk",
+        "Display",
+        "Sans serif"
+    ],
+    "foundry": "The Northern Block",
+    "designer": [
+        "Jonathan Hill"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "expressive",
+        "poetry",
+        "pointed",
+        "royal",
+        "jewelry",
+        "personable",
+        "classical",
+        "fancy",
+        "perfume",
+        "baroque",
+        "economical",
+        "distinguished",
+        "sophisticated",
+        "inscribed",
+        "roman",
+        "elegant",
+        "ligatures",
+        "italian",
+        "education",
+        "fashionable",
+        "money",
+        "industry",
+        "fresh",
+        "regal",
+        "delicate",
+        "greek",
+        "graceful",
+        "book text",
+        "clean",
+        "books",
+        "cosmopolitan"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/markuslow/regular",
+            "css": {
+                "font-family": "MarkusLow Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2387",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "580",
+        "slug": "markuslow"
+    },
+    "generatedAt": 1437609497229
+}

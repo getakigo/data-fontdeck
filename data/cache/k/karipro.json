@@ -1,0 +1,98 @@
+{
+    "name": "Kari Pro",
+    "url": "http://fontdeck.com/typeface/karipro",
+    "slug": "karipro",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Handwritten",
+        "Display",
+        "Script"
+    ],
+    "foundry": "Positype",
+    "designer": [
+        "Neil Summerour"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "elegant",
+        "brush-drawn",
+        "brush",
+        "curly",
+        "ligatures",
+        "baseball",
+        "connected",
+        "logo",
+        "bold",
+        "magazine"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/karipro/regular",
+            "css": {
+                "font-family": "Kari Pro Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3504",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/karipro/italic",
+            "css": {
+                "font-family": "Kari Pro Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3505",
+                "slug": "italic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Wide",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/karipro/wide",
+            "css": {
+                "font-family": "Kari Pro Wide",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3506",
+                "slug": "wide",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Wide Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/karipro/wideitalic",
+            "css": {
+                "font-family": "Kari Pro Wide Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3507",
+                "slug": "wideitalic",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "852",
+        "slug": "karipro"
+    },
+    "generatedAt": 1437609995636
+}

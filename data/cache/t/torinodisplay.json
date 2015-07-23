@@ -1,0 +1,64 @@
+{
+    "name": "Torino Display",
+    "url": "http://fontdeck.com/typeface/torinodisplay",
+    "slug": "torinodisplay",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Serif"
+    ],
+    "foundry": "Veer",
+    "designer": [
+        "Jason Walcott"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "formal",
+        "serif",
+        "elegant",
+        "swashes",
+        "1900s",
+        "italic",
+        "display",
+        "traditional"
+    ],
+    "variations": [
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/torinodisplay/italic",
+            "css": {
+                "font-family": "Torino Display Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5042",
+                "slug": "italic",
+                "price": "$11.25"
+            }
+        },
+        {
+            "name": "Swash Italic",
+            "description": "o4",
+            "url": "http://fontdeck.com/font/torinodisplay/swashitalic",
+            "css": {
+                "font-family": "Torino Display Swash Italic",
+                "font-weight": "400",
+                "font-style": "oblique"
+            },
+            "fontdeck": {
+                "id": "5043",
+                "slug": "swashitalic",
+                "price": "$11.25"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1172",
+        "slug": "torinodisplay"
+    },
+    "generatedAt": 1437610505411
+}

@@ -1,0 +1,308 @@
+{
+    "name": "Le Monde Sans Std",
+    "url": "http://fontdeck.com/typeface/lemondesansstd",
+    "slug": "lemondesansstd",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif"
+    ],
+    "foundry": "Typofonderie",
+    "designer": [
+        "Jean François Porchez"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "publishing",
+        "syntax",
+        "text",
+        "design",
+        "identity",
+        "branding",
+        "paragraph",
+        "data",
+        "newspaper",
+        "humanist",
+        "display",
+        "magazine"
+    ],
+    "variations": [
+        {
+            "name": "Extra-light",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/lemondesansstd/extralight",
+            "css": {
+                "font-family": "Le Monde Sans Std Extra Light",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8673",
+                "slug": "extralight",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Extra-light Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/lemondesansstd/extralightitalic",
+            "css": {
+                "font-family": "LeMondeSansStdExtraLightItalic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8674",
+                "slug": "extralightitalic",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/lemondesansstd/light",
+            "css": {
+                "font-family": "Le Monde Sans Std Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8675",
+                "slug": "light",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/lemondesansstd/lightitalic",
+            "css": {
+                "font-family": "Le Monde Sans Std Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8676",
+                "slug": "lightitalic",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Book",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/lemondesansstd/book",
+            "css": {
+                "font-family": "Le Monde Sans Std Book",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8679",
+                "slug": "book",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Book Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/lemondesansstd/bookitalic",
+            "css": {
+                "font-family": "Le Monde Sans Std Book Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8680",
+                "slug": "bookitalic",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/lemondesansstd/regular",
+            "css": {
+                "font-family": "Le Monde Sans Std Regular",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8677",
+                "slug": "regular",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i3",
+            "url": "http://fontdeck.com/font/lemondesansstd/italic",
+            "css": {
+                "font-family": "Le Monde Sans Std Italic",
+                "font-weight": "300",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8678",
+                "slug": "italic",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/lemondesansstd/bold",
+            "css": {
+                "font-family": "Le Monde Sans Std Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8685",
+                "slug": "bold",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/lemondesansstd/bolditalic",
+            "css": {
+                "font-family": "Le Monde Sans Std Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8686",
+                "slug": "bolditalic",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/lemondesansstd/extrabold",
+            "css": {
+                "font-family": "Le Monde Sans Std Extra Bold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8687",
+                "slug": "extrabold",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Extra-bold Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/lemondesansstd/extrabolditalic",
+            "css": {
+                "font-family": "LeMondeSansStdExtraBoldItalic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8688",
+                "slug": "extrabolditalic",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/lemondesansstd/black",
+            "css": {
+                "font-family": "Le Monde Sans Std Black",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8689",
+                "slug": "black",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/lemondesansstd/blackitalic",
+            "css": {
+                "font-family": "Le Monde Sans Std Black Italic",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8690",
+                "slug": "blackitalic",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Demi",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/lemondesansstd/demi",
+            "css": {
+                "font-family": "Le Monde Sans Std Demi",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8681",
+                "slug": "demi",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Extra Demi",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/lemondesansstd/extrademi",
+            "css": {
+                "font-family": "Le Monde Sans Std Extra Demi",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8683",
+                "slug": "extrademi",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Demi Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/lemondesansstd/demiitalic",
+            "css": {
+                "font-family": "Le Monde Sans Std Demi Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8682",
+                "slug": "demiitalic",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Extra Demi Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/lemondesansstd/extrademiitalic",
+            "css": {
+                "font-family": "LeMondeSansStdExtraDemiItalic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8684",
+                "slug": "extrademiitalic",
+                "price": "$26.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1930",
+        "slug": "lemondesansstd"
+    },
+    "generatedAt": 1437611476382
+}

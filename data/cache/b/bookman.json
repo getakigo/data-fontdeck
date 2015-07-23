@@ -1,0 +1,123 @@
+{
+    "name": "Bookman",
+    "url": "http://fontdeck.com/typeface/bookman",
+    "slug": "bookman",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Garalde"
+    ],
+    "foundry": "Veer",
+    "designer": [
+        "Jason Walcott"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "headlines",
+        "roman",
+        "retro",
+        "bookman-like",
+        "classic",
+        "old style serif",
+        "bookman"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/bookman/regular",
+            "css": {
+                "font-family": "Bookman Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "481",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/bookman/italic",
+            "css": {
+                "font-family": "Bookman Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "482",
+                "slug": "italic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Swash A",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/bookman/swasha",
+            "css": {
+                "font-family": "Bookman Swash A",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "483",
+                "slug": "swasha",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Swash B",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/bookman/swashb",
+            "css": {
+                "font-family": "Bookman Swash B",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "485",
+                "slug": "swashb",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Swash B Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/bookman/swashbitalic",
+            "css": {
+                "font-family": "Bookman Swash B Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "486",
+                "slug": "swashbitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Swash A Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/bookman/swashaitalic",
+            "css": {
+                "font-family": "Bookman Swash A Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "484",
+                "slug": "swashaitalic",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "195",
+        "slug": "bookman"
+    },
+    "generatedAt": 1437608989280
+}

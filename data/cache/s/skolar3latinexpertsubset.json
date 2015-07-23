@@ -1,0 +1,185 @@
+{
+    "name": "Skolar3 Latin Expert Subset",
+    "url": "http://fontdeck.com/typeface/skolar3latinexpertsubset",
+    "slug": "skolar3latinexpertsubset",
+    "superfamily": "Skolar",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Rugged",
+        "Serif",
+        "Transitional",
+        "Serif",
+        "Neo-classical"
+    ],
+    "foundry": "Rosetta",
+    "designer": [
+        "David Březina"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "expert subset"
+    ],
+    "variations": [
+        {
+            "name": "Bold OF",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/skolar3latinexpertsubset/boldof",
+            "css": {
+                "font-family": "Skolar3LatinExpertSubsetBoldOF",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7831",
+                "slug": "boldof",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "Regular OF",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/skolar3latinexpertsubset/regularof",
+            "css": {
+                "font-family": "SkolarLatiExperSubseRegulaO",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7827",
+                "slug": "regularof",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "Extrabold OF",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/skolar3latinexpertsubset/extraboldof",
+            "css": {
+                "font-family": "SkolarLatiExperSubseExtrabolO",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7833",
+                "slug": "extraboldof",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "Light OF",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/skolar3latinexpertsubset/lightof",
+            "css": {
+                "font-family": "Skolar3LatinExpertSubsetLightOF",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7835",
+                "slug": "lightof",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "Semibold OF",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/skolar3latinexpertsubset/semiboldof",
+            "css": {
+                "font-family": "SkolarLatiExperSubseSemibolO",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7829",
+                "slug": "semiboldof",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "Extrabold Italic OF",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/skolar3latinexpertsubset/extrabolditalicof",
+            "css": {
+                "font-family": "SkolaLatExpeSubsExtraboItal",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7834",
+                "slug": "extrabolditalicof",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "Bold Italic OF",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/skolar3latinexpertsubset/bolditalicof",
+            "css": {
+                "font-family": "SkolarLatiExperSubseBolItaliO",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7832",
+                "slug": "bolditalicof",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "Regular Italic OF",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/skolar3latinexpertsubset/italicof",
+            "css": {
+                "font-family": "SkolarLatiExperSubseItaliO",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7828",
+                "slug": "italicof",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "Light Italic OF",
+            "description": "i3",
+            "url": "http://fontdeck.com/font/skolar3latinexpertsubset/lightitalicof",
+            "css": {
+                "font-family": "SkolarLatiExperSubseLighItaliO",
+                "font-weight": "300",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7836",
+                "slug": "lightitalicof",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "Semibold Italic OF",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/skolar3latinexpertsubset/semibolditalicof",
+            "css": {
+                "font-family": "SkolaLatExpeSubsSemiboItal",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7830",
+                "slug": "semibolditalicof",
+                "price": "$3.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1799",
+        "slug": "skolar3latinexpertsubset"
+    },
+    "expert subset": [
+        "smcp"
+    ],
+    "generatedAt": 1437611300951
+}

@@ -1,0 +1,166 @@
+{
+    "name": "Hedley New Web",
+    "url": "http://fontdeck.com/typeface/hedleynewweb",
+    "slug": "hedleynewweb",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Humanist"
+    ],
+    "foundry": "Moretype",
+    "designer": [
+        "Chris Dickinson"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "true italic",
+        "hand hinted",
+        "workhorse",
+        "friendly",
+        "contemporary",
+        "news",
+        "magazine",
+        "manually hinted",
+        "modern",
+        "industrial",
+        "business",
+        "elegant",
+        "commercial",
+        "handhinted",
+        "branding",
+        "signage",
+        "corporate",
+        "headline",
+        "clean",
+        "information"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/hedleynewweb/light",
+            "css": {
+                "font-family": "Hedley New Web Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3653",
+                "slug": "light",
+                "price": "$11.50"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/hedleynewweb/lightitalic",
+            "css": {
+                "font-family": "Hedley New Web Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3655",
+                "slug": "lightitalic",
+                "price": "$11.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/hedleynewweb/regular",
+            "css": {
+                "font-family": "Hedley New Web Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3656",
+                "slug": "regular",
+                "price": "$11.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/hedleynewweb/italic",
+            "css": {
+                "font-family": "Hedley New Web Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3658",
+                "slug": "italic",
+                "price": "$11.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/hedleynewweb/medium",
+            "css": {
+                "font-family": "Hedley New Web Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3654",
+                "slug": "medium",
+                "price": "$11.50"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/hedleynewweb/mediumitalic",
+            "css": {
+                "font-family": "Hedley New Web Medium Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3657",
+                "slug": "mediumitalic",
+                "price": "$11.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/hedleynewweb/bold",
+            "css": {
+                "font-family": "Hedley New Web Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3651",
+                "slug": "bold",
+                "price": "$11.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/hedleynewweb/bolditalic",
+            "css": {
+                "font-family": "Hedley New Web Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3652",
+                "slug": "bolditalic",
+                "price": "$11.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "875",
+        "slug": "hedleynewweb"
+    },
+    "generatedAt": 1437610041778
+}

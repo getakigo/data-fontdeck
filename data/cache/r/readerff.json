@@ -1,0 +1,61 @@
+{
+    "name": "Reader FF",
+    "url": "http://fontdeck.com/typeface/readerff",
+    "slug": "readerff",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Art Deco"
+    ],
+    "foundry": "Fontfabric",
+    "designer": [
+        "Svetoslav Simov"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "retro",
+        "light",
+        "thin",
+        "condensed",
+        "art deco"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/readerff/light",
+            "css": {
+                "font-family": "Reader FF Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2961",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/readerff/bold",
+            "css": {
+                "font-family": "Reader FF Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2962",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "687",
+        "slug": "readerff"
+    },
+    "generatedAt": 1437609717264
+}

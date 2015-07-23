@@ -1,0 +1,200 @@
+{
+    "name": "Calluna Sans",
+    "url": "http://fontdeck.com/typeface/callunasans",
+    "slug": "callunasans",
+    "superfamily": "Calluna",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Hybrid"
+    ],
+    "foundry": "Exljbris",
+    "designer": [
+        "Jos Buivenga"
+    ],
+    "opentype": [
+        "c2sc",
+        "dlig",
+        "frac",
+        "hist",
+        "liga",
+        "lnum",
+        "onum",
+        "pnum",
+        "smcp",
+        "ss01",
+        "tnum",
+        "zero"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "opentype",
+        "text",
+        "venetian",
+        "super family",
+        "humanist",
+        "true italics",
+        "magazine",
+        "editorial",
+        "corporate"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/callunasans/light",
+            "css": {
+                "font-family": "Calluna Sans Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2838",
+                "slug": "light",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/callunasans/lightitalic",
+            "css": {
+                "font-family": "Calluna Sans Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2839",
+                "slug": "lightitalic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/callunasans/regular",
+            "css": {
+                "font-family": "Calluna Sans Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2840",
+                "slug": "regular",
+                "price": "FREE"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/callunasans/italic",
+            "css": {
+                "font-family": "Calluna Sans Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2837",
+                "slug": "italic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/callunasans/semibold",
+            "css": {
+                "font-family": "Calluna Sans Semibold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2841",
+                "slug": "semibold",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Semi-bold Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/callunasans/semibolditalic",
+            "css": {
+                "font-family": "Calluna Sans Semibold Italic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2842",
+                "slug": "semibolditalic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/callunasans/bold",
+            "css": {
+                "font-family": "Calluna Sans Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2835",
+                "slug": "bold",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/callunasans/bolditalic",
+            "css": {
+                "font-family": "Calluna Sans Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2836",
+                "slug": "bolditalic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/callunasans/black",
+            "css": {
+                "font-family": "Calluna Sans Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2833",
+                "slug": "black",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/callunasans/blackitalic",
+            "css": {
+                "font-family": "Calluna Sans Black Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2834",
+                "slug": "blackitalic",
+                "price": "$7.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "670",
+        "slug": "callunasans"
+    },
+    "generatedAt": 1437609681284
+}

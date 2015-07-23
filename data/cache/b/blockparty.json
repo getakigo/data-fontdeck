@@ -1,0 +1,49 @@
+{
+    "name": "Block Party",
+    "url": "http://fontdeck.com/typeface/blockparty",
+    "slug": "blockparty",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "All caps",
+        "Display",
+        "Slab serif",
+        "Display",
+        "Grunge"
+    ],
+    "foundry": "Veer",
+    "designer": [
+        "Jason Walcott"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "decorative",
+        "slab",
+        "serif",
+        "display"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/blockparty/regular",
+            "css": {
+                "font-family": "Block Party Regular",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5067",
+                "slug": "regular",
+                "price": "$11.25"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1188",
+        "slug": "blockparty"
+    },
+    "generatedAt": 1437610529628
+}

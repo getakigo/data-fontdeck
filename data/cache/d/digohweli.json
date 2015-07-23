@@ -1,0 +1,41 @@
+{
+    "name": "Digohweli",
+    "url": "http://fontdeck.com/typeface/digohweli",
+    "slug": "digohweli",
+    "use": "body",
+    "classification": [],
+    "foundry": "Languagegeek",
+    "designer": [
+        "Chris Harvey"
+    ],
+    "language": [
+        "latin",
+        "cherokee"
+    ],
+    "tags": [
+        "cherokee",
+        "old style serif"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/digohweli/regular",
+            "css": {
+                "font-family": "Digohweli Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4038",
+                "slug": "regular",
+                "price": "FREE"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "956",
+        "slug": "digohweli"
+    },
+    "generatedAt": 1437610189301
+}

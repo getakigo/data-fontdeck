@@ -1,0 +1,47 @@
+{
+    "name": "Thai One On",
+    "url": "http://fontdeck.com/typeface/thaioneon",
+    "slug": "thaioneon",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Script"
+    ],
+    "foundry": "Emboss Fonts",
+    "designer": [
+        "Stephen Boss"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "asian",
+        "ethnic",
+        "thai",
+        "display",
+        "calligraphy",
+        "calligraphic"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/thaioneon/regular",
+            "css": {
+                "font-family": "Thai One On Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6947",
+                "slug": "regular",
+                "price": "$8.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1590",
+        "slug": "thaioneon"
+    },
+    "generatedAt": 1437611055553
+}

@@ -1,0 +1,47 @@
+{
+    "name": "Babalon",
+    "url": "http://fontdeck.com/typeface/babalon",
+    "slug": "babalon",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Experimental"
+    ],
+    "foundry": "Emboss Fonts",
+    "designer": [
+        "Stephen Boss"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "bold",
+        "technical",
+        "1990s",
+        "futurist",
+        "futuristic",
+        "display"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/babalon/regular",
+            "css": {
+                "font-family": "Babalon Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6903",
+                "slug": "regular",
+                "price": "$7.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1577",
+        "slug": "babalon"
+    },
+    "generatedAt": 1437611028898
+}

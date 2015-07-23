@@ -1,0 +1,101 @@
+{
+    "name": "Cabernet",
+    "url": "http://fontdeck.com/typeface/cabernet",
+    "slug": "cabernet",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Serif",
+        "Display",
+        "Fat Face"
+    ],
+    "foundry": "Veer",
+    "designer": [
+        "Jason Walcott"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "serif",
+        "swashes",
+        "caslon",
+        "fashion",
+        "stylish",
+        "retro",
+        "transitional",
+        "curls",
+        "italic",
+        "display",
+        "fat face",
+        "sophisticated",
+        "alternates"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/cabernet/regular",
+            "css": {
+                "font-family": "Cabernet Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5069",
+                "slug": "regular",
+                "price": "$13.41"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/cabernet/italic",
+            "css": {
+                "font-family": "Cabernet Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5070",
+                "slug": "italic",
+                "price": "$13.44"
+            }
+        },
+        {
+            "name": "Swash",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/cabernet/swash",
+            "css": {
+                "font-family": "Cabernet Swash",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5071",
+                "slug": "swash",
+                "price": "$13.44"
+            }
+        },
+        {
+            "name": "Regular Italic Swash",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/cabernet/italicswash",
+            "css": {
+                "font-family": "Cabernet Italic Swash",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5072",
+                "slug": "italicswash",
+                "price": "$13.44"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1192",
+        "slug": "cabernet"
+    },
+    "generatedAt": 1437610539725
+}

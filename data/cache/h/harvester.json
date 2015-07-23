@@ -1,0 +1,46 @@
+{
+    "name": "Harvester",
+    "url": "http://fontdeck.com/typeface/harvester",
+    "slug": "harvester",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Slab serif",
+        "Display",
+        "Stencil"
+    ],
+    "foundry": "Chank Co",
+    "designer": [
+        "Chank Diesel"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "stencil",
+        "distressed",
+        "western"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/harvester/regular",
+            "css": {
+                "font-family": "Harvester Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "464",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "186",
+        "slug": "harvester"
+    },
+    "generatedAt": 1437608979612
+}

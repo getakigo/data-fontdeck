@@ -1,0 +1,237 @@
+{
+    "name": "BT1",
+    "url": "http://fontdeck.com/typeface/bt1",
+    "slug": "bt1",
+    "superfamily": "Bt1",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Neo-Grotesk"
+    ],
+    "foundry": "Playtype",
+    "designer": [
+        "Jonas Hecksher"
+    ],
+    "opentype": [
+        "liga",
+        "lnum",
+        "onum",
+        "pnum",
+        "smcp"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "modern",
+        "opentype",
+        "super ellipse",
+        "pro character set",
+        "neo-grotesque",
+        "neo-grotesk",
+        "superfamily",
+        "square sans"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/bt1/thin",
+            "css": {
+                "font-family": "BT1 Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5764",
+                "slug": "thin",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Thin Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/bt1/thinitalic",
+            "css": {
+                "font-family": "BT1 Thin Italic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5913",
+                "slug": "thinitalic",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/bt1/light",
+            "css": {
+                "font-family": "BT1 Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5769",
+                "slug": "light",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/bt1/lightitalic",
+            "css": {
+                "font-family": "BT1 Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5761",
+                "slug": "lightitalic",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/bt1/regular",
+            "css": {
+                "font-family": "BT1 Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5770",
+                "slug": "regular",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/bt1/italic",
+            "css": {
+                "font-family": "BT1 Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5766",
+                "slug": "italic",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/bt1/bold",
+            "css": {
+                "font-family": "BT1 Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5768",
+                "slug": "bold",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/bt1/bolditalic",
+            "css": {
+                "font-family": "BT1 Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5765",
+                "slug": "bolditalic",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/bt1/heavy",
+            "css": {
+                "font-family": "BT1 Heavy",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5767",
+                "slug": "heavy",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Heavy Italic",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/bt1/heavyitalic",
+            "css": {
+                "font-family": "BT1 Heavy Italic",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5760",
+                "slug": "heavyitalic",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Extra-Condensed Heavy",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/bt1/extracondensedheavy",
+            "css": {
+                "font-family": "BT1 Extra-Condensed Heavy",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5763",
+                "slug": "extracondensedheavy",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "DemiBold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/bt1/demibold",
+            "css": {
+                "font-family": "BT1 DemiBold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5762",
+                "slug": "demibold",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "DemiBold Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/bt1/demibolditalic",
+            "css": {
+                "font-family": "BT1 DemiBold Italic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5759",
+                "slug": "demibolditalic",
+                "price": "$45.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1329",
+        "slug": "bt1"
+    },
+    "generatedAt": 1437610731889
+}

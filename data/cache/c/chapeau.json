@@ -1,0 +1,59 @@
+{
+    "name": "Chapeau",
+    "url": "http://fontdeck.com/typeface/chapeau",
+    "slug": "chapeau",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif"
+    ],
+    "foundry": "Milieu Grotesque",
+    "designer": [
+        "Timo Gaessner"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "neo-grotesk",
+        "typewriter",
+        "grotesque"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/chapeau/regular",
+            "css": {
+                "font-family": "Chapeau Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5586",
+                "slug": "regular",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/chapeau/italic",
+            "css": {
+                "font-family": "Chapeau Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5585",
+                "slug": "italic",
+                "price": "$15.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1297",
+        "slug": "chapeau"
+    },
+    "generatedAt": 1437610715973
+}

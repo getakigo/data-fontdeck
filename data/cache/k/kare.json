@@ -1,0 +1,99 @@
+{
+    "name": "Kare",
+    "url": "http://fontdeck.com/typeface/kare",
+    "slug": "kare",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "Fontfabric",
+    "designer": [
+        "Svetoslav Simov"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "decorative",
+        "1970s",
+        "logo",
+        "fat",
+        "1960s",
+        "fresh",
+        "bold",
+        "retro",
+        "heavy",
+        "headline",
+        "magazine",
+        "poster",
+        "psychedelic"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/kare/light",
+            "css": {
+                "font-family": "Kare Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3002",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/kare/regular",
+            "css": {
+                "font-family": "Kare Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3005",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Shadow",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/kare/shadow",
+            "css": {
+                "font-family": "Kare Shadow",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3004",
+                "slug": "shadow",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Gradient",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/kare/gradient",
+            "css": {
+                "font-family": "Kare Gradient",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3003",
+                "slug": "gradient",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "701",
+        "slug": "kare"
+    },
+    "generatedAt": 1437609752286
+}

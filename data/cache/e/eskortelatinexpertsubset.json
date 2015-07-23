@@ -1,0 +1,152 @@
+{
+    "name": "Eskorte Latin Expert Subset",
+    "url": "http://fontdeck.com/typeface/eskortelatinexpertsubset",
+    "slug": "eskortelatinexpertsubset",
+    "superfamily": "Eskorte",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Modern"
+    ],
+    "foundry": "Rosetta",
+    "designer": [
+        "Elena Schneider"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "expert subset"
+    ],
+    "variations": [
+        {
+            "name": "Regular OF",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/eskortelatinexpertsubset/regularof",
+            "css": {
+                "font-family": "EskortLatiExperSubseRegulaO",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7841",
+                "slug": "regularof",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "Bold OF",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/eskortelatinexpertsubset/boldof",
+            "css": {
+                "font-family": "EskorteLatinExpertSubsetBoldOF",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7843",
+                "slug": "boldof",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "Semibold OF",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/eskortelatinexpertsubset/semiboldof",
+            "css": {
+                "font-family": "EskortLatiExperSubseSemibolO",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7842",
+                "slug": "semiboldof",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "Extrabold OF",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/eskortelatinexpertsubset/extraboldof",
+            "css": {
+                "font-family": "EskortLatiExperSubseExtrabolO",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7844",
+                "slug": "extraboldof",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "Semibold Italic OF",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/eskortelatinexpertsubset/semibolditalicof",
+            "css": {
+                "font-family": "EskorLatExpeSubsSemiboItal",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7846",
+                "slug": "semibolditalicof",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "Regular Italic OF",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/eskortelatinexpertsubset/italicof",
+            "css": {
+                "font-family": "EskortLatiExperSubseItaliO",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7845",
+                "slug": "italicof",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "Extrabold Italic OF",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/eskortelatinexpertsubset/extrabolditalicof",
+            "css": {
+                "font-family": "EskorLatExpeSubsExtraboItal",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7848",
+                "slug": "extrabolditalicof",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "Bold Italic OF",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/eskortelatinexpertsubset/bolditalicof",
+            "css": {
+                "font-family": "EskortLatiExperSubseBolItaliO",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7847",
+                "slug": "bolditalicof",
+                "price": "$3.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1803",
+        "slug": "eskortelatinexpertsubset"
+    },
+    "expert subset": [
+        "onum",
+        "smcp"
+    ],
+    "generatedAt": 1437611315889
+}

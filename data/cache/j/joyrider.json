@@ -1,0 +1,160 @@
+{
+    "name": "Joy Rider",
+    "url": "http://fontdeck.com/typeface/joyrider",
+    "slug": "joyrider",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif"
+    ],
+    "foundry": "The Northern Block",
+    "designer": [
+        "Jonathan Hill"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "transport",
+        "car",
+        "techno",
+        "bmx",
+        "geometric",
+        "circular",
+        "fat",
+        "bold",
+        "snowboards",
+        "heavy",
+        "bikes",
+        "football",
+        "chunky",
+        "ultra"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/joyrider/regular",
+            "css": {
+                "font-family": "Joy Rider Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7110",
+                "slug": "regular",
+                "price": "$29.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/joyrider/regularitalic",
+            "css": {
+                "font-family": "Joy Rider Regular Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7109",
+                "slug": "regularitalic",
+                "price": "$29.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/joyrider/bold",
+            "css": {
+                "font-family": "Joy Rider Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7108",
+                "slug": "bold",
+                "price": "$29.00"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/joyrider/bolditalic",
+            "css": {
+                "font-family": "Joy Rider Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7107",
+                "slug": "bolditalic",
+                "price": "$29.00"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/joyrider/black",
+            "css": {
+                "font-family": "Joy Rider Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7106",
+                "slug": "black",
+                "price": "$29.00"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/joyrider/blackitalic",
+            "css": {
+                "font-family": "Joy Rider Black Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7105",
+                "slug": "blackitalic",
+                "price": "$29.00"
+            }
+        },
+        {
+            "name": "Ultra",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/joyrider/ultra",
+            "css": {
+                "font-family": "Joy Rider Ultra",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7111",
+                "slug": "ultra",
+                "price": "$29.00"
+            }
+        },
+        {
+            "name": "Ultra Italic",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/joyrider/ultraitalic",
+            "css": {
+                "font-family": "Joy Rider Ultra Italic",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7112",
+                "slug": "ultraitalic",
+                "price": "$29.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1672",
+        "slug": "joyrider"
+    },
+    "generatedAt": 1437611115805
+}

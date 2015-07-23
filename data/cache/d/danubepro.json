@@ -1,0 +1,77 @@
+{
+    "name": "Danube Pro",
+    "url": "http://fontdeck.com/typeface/danubepro",
+    "slug": "danubepro",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Futuristic"
+    ],
+    "foundry": "CheapProFonts",
+    "designer": [
+        "Levente Halmos"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "nightclub",
+        "modular",
+        "techno",
+        "futuristic",
+        "geometric",
+        "unicase"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/danubepro/light",
+            "css": {
+                "font-family": "Danube Pro Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4708",
+                "slug": "light",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/danubepro/regular",
+            "css": {
+                "font-family": "Danube Pro Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4706",
+                "slug": "regular",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/danubepro/bold",
+            "css": {
+                "font-family": "Danube Pro Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4707",
+                "slug": "bold",
+                "price": "$9.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1093",
+        "slug": "danubepro"
+    },
+    "generatedAt": 1437610415162
+}

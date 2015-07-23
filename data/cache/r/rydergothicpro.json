@@ -1,0 +1,83 @@
+{
+    "name": "Ryder Gothic Pro",
+    "url": "http://fontdeck.com/typeface/rydergothicpro",
+    "slug": "rydergothicpro",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Funny",
+        "Display",
+        "Sans serif",
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "Red Rooster Collection",
+    "designer": [
+        "Ashley Muir",
+        "Steve Jackaman"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "modern",
+        "minimalism",
+        "1970s",
+        "clean",
+        "creative",
+        "poster",
+        "grotesque"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/rydergothicpro/light",
+            "css": {
+                "font-family": "Ryder Gothic Pro Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3174",
+                "slug": "light",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/rydergothicpro/medium",
+            "css": {
+                "font-family": "Ryder Gothic Pro Medium",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3173",
+                "slug": "medium",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/rydergothicpro/bold",
+            "css": {
+                "font-family": "Ryder Gothic Pro Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3175",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "746",
+        "slug": "rydergothicpro"
+    },
+    "generatedAt": 1437609831399
+}

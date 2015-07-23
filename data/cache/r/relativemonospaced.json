@@ -1,0 +1,96 @@
+{
+    "name": "Relative Monospaced",
+    "url": "http://fontdeck.com/typeface/relativemonospaced",
+    "slug": "relativemonospaced",
+    "superfamily": "Relative",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Monospaced",
+        "Display",
+        "Computer-related"
+    ],
+    "foundry": "Colophon",
+    "designer": [
+        "Edd Harrington",
+        "Anthony Sheret"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "gothic",
+        "grotesk",
+        "monospace",
+        "superfamily",
+        "geometric",
+        "grotesque"
+    ],
+    "variations": [
+        {
+            "name": "10 Pitch",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/relativemonospaced/10pitch",
+            "css": {
+                "font-family": "Relative Monospaced 10 Pitch",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4396",
+                "slug": "10pitch",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "11 Pitch",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/relativemonospaced/11pitch",
+            "css": {
+                "font-family": "Relative Monospaced 11 Pitch",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4397",
+                "slug": "11pitch",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Faux",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/relativemonospaced/faux",
+            "css": {
+                "font-family": "Relative Monospaced Faux",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4395",
+                "slug": "faux",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "12 Pitch",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/relativemonospaced/12pitch",
+            "css": {
+                "font-family": "Relative Monospaced 12 Pitch",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4398",
+                "slug": "12pitch",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1036",
+        "slug": "relativemonospaced"
+    },
+    "generatedAt": 1437610365152
+}

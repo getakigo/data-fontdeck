@@ -1,0 +1,273 @@
+{
+    "name": "Pembroke",
+    "url": "http://fontdeck.com/typeface/pembroke",
+    "slug": "pembroke",
+    "superfamily": "Pembroke",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "Jeremy Tankard Typography",
+    "designer": [
+        "Jeremy Tankard"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "circle",
+        "circled",
+        "square",
+        "humanist",
+        "british",
+        "geometric"
+    ],
+    "variations": [
+        {
+            "name": "Extra-light",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/pembroke/extralight",
+            "css": {
+                "font-family": "Pembroke Extra Light",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8327",
+                "slug": "extralight",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Extra-light Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/pembroke/extralightitalic",
+            "css": {
+                "font-family": "Pembroke Extra Light Italic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8328",
+                "slug": "extralightitalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/pembroke/light",
+            "css": {
+                "font-family": "Pembroke Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8329",
+                "slug": "light",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/pembroke/lightitalic",
+            "css": {
+                "font-family": "Pembroke Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8330",
+                "slug": "lightitalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/pembroke/regular",
+            "css": {
+                "font-family": "Pembroke Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8333",
+                "slug": "regular",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/pembroke/italic",
+            "css": {
+                "font-family": "Pembroke Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8336",
+                "slug": "italic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/pembroke/medium",
+            "css": {
+                "font-family": "Pembroke Medium",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8331",
+                "slug": "medium",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/pembroke/mediumitalic",
+            "css": {
+                "font-family": "Pembroke Medium Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8332",
+                "slug": "mediumitalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/pembroke/bold",
+            "css": {
+                "font-family": "Pembroke Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8323",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/pembroke/bolditalic",
+            "css": {
+                "font-family": "Pembroke Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8324",
+                "slug": "bolditalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/pembroke/extrabold",
+            "css": {
+                "font-family": "Pembroke Extra Bold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8325",
+                "slug": "extrabold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Extra-bold Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/pembroke/extrabolditalic",
+            "css": {
+                "font-family": "Pembroke Extra Bold Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8326",
+                "slug": "extrabolditalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Ultra",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/pembroke/ultra",
+            "css": {
+                "font-family": "Pembroke Ultra",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8334",
+                "slug": "ultra",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Ultra Italic",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/pembroke/ultraitalic",
+            "css": {
+                "font-family": "Pembroke Ultra Italic",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8335",
+                "slug": "ultraitalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "hair",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/pembroke/hair",
+            "css": {
+                "font-family": "Pembroke hair",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8321",
+                "slug": "hair",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Hair Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/pembroke/hairitalic",
+            "css": {
+                "font-family": "Pembroke Hair Italic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8322",
+                "slug": "hairitalic",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1901",
+        "slug": "pembroke"
+    },
+    "generatedAt": 1437611419373
+}

@@ -1,0 +1,216 @@
+{
+    "name": "Akzentica 4F",
+    "url": "http://fontdeck.com/typeface/akzentica4f",
+    "slug": "akzentica4f",
+    "use": "body",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Sans Serif",
+        "Grotesque"
+    ],
+    "foundry": "4th february",
+    "designer": [
+        "Sergiy S. Tkachenko"
+    ],
+    "language": [
+        "latin",
+        "cyrillic"
+    ],
+    "tags": [
+        "headlines",
+        "heads",
+        "workhorse",
+        "helvetica",
+        "classic",
+        "text",
+        "swiss"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/akzentica4f/light",
+            "css": {
+                "font-family": "Akzentica 4F Light",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5619",
+                "slug": "light",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/akzentica4f/lightitalic",
+            "css": {
+                "font-family": "Akzentica 4F Light Italic",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5668",
+                "slug": "lightitalic",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/akzentica4f/regular",
+            "css": {
+                "font-family": "Akzentica 4F Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5616",
+                "slug": "regular",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/akzentica4f/italic",
+            "css": {
+                "font-family": "Akzentica 4F Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5670",
+                "slug": "italic",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/akzentica4f/medium",
+            "css": {
+                "font-family": "Akzentica 4F Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5618",
+                "slug": "medium",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/akzentica4f/mediumitalic",
+            "css": {
+                "font-family": "Akzentica 4F Medium Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5667",
+                "slug": "mediumitalic",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/akzentica4f/semibold",
+            "css": {
+                "font-family": "Akzentica 4F SemiBold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5617",
+                "slug": "semibold",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Semi-bold Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/akzentica4f/semibolditalic",
+            "css": {
+                "font-family": "Akzentica 4F SemiBold Italic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5666",
+                "slug": "semibolditalic",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/akzentica4f/bold",
+            "css": {
+                "font-family": "Akzentica 4F Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5620",
+                "slug": "bold",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/akzentica4f/bolditalic",
+            "css": {
+                "font-family": "Akzentica 4F Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5669",
+                "slug": "bolditalic",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/akzentica4f/extrabold",
+            "css": {
+                "font-family": "Akzentica 4F ExtraBold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5621",
+                "slug": "extrabold",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Extra-bold Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/akzentica4f/extrabolditalic",
+            "css": {
+                "font-family": "Akzentica 4F ExtraBold Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5665",
+                "slug": "extrabolditalic",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1306",
+        "slug": "akzentica4f"
+    },
+    "generatedAt": 1437610690194
+}

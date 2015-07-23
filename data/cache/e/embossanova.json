@@ -1,0 +1,123 @@
+{
+    "name": "Embossanova",
+    "url": "http://fontdeck.com/typeface/embossanova",
+    "slug": "embossanova",
+    "use": "heading",
+    "classification": [
+        "Serif",
+        "Didone"
+    ],
+    "foundry": "Emboss Fonts",
+    "designer": [
+        "Stephen Boss"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "slab",
+        "light",
+        "serif",
+        "bodoni",
+        "didone",
+        "text",
+        "linear"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/embossanova/light",
+            "css": {
+                "font-family": "Embossanova Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6899",
+                "slug": "light",
+                "price": "$11.00"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/embossanova/lightitalic",
+            "css": {
+                "font-family": "Embossanova Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6902",
+                "slug": "lightitalic",
+                "price": "$11.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/embossanova/regular",
+            "css": {
+                "font-family": "Embossanova Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6900",
+                "slug": "regular",
+                "price": "$11.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/embossanova/italic",
+            "css": {
+                "font-family": "Embossanova Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6901",
+                "slug": "italic",
+                "price": "$11.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/embossanova/bold",
+            "css": {
+                "font-family": "Embossanova Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6897",
+                "slug": "bold",
+                "price": "$11.00"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/embossanova/bolditalic",
+            "css": {
+                "font-family": "Embossanova Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6898",
+                "slug": "bolditalic",
+                "price": "$11.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1576",
+        "slug": "embossanova"
+    },
+    "generatedAt": 1437611029435
+}

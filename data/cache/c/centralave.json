@@ -1,0 +1,51 @@
+{
+    "name": "CENTRAL ave",
+    "url": "http://fontdeck.com/typeface/centralave",
+    "slug": "centralave",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Poster",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "Colophon",
+    "designer": [
+        "StudioMakgill"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "industrial",
+        "hand drawn",
+        "1880s",
+        "18th century",
+        "1800s",
+        "birmingham",
+        "poster",
+        "hand painted"
+    ],
+    "variations": [
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/centralave/bold",
+            "css": {
+                "font-family": "CENTRAL ave Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4020",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "951",
+        "slug": "centralave"
+    },
+    "generatedAt": 1437610169438
+}

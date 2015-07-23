@@ -1,0 +1,346 @@
+{
+    "name": "Akagi",
+    "url": "http://fontdeck.com/typeface/akagi",
+    "slug": "akagi",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Sans Serif",
+        "Humanist"
+    ],
+    "foundry": "Positype",
+    "designer": [
+        "Neil Summerour"
+    ],
+    "opentype": [
+        "liga",
+        "lnum",
+        "onum",
+        "pnum",
+        "smcp",
+        "tnum",
+        "zero"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "opentype",
+        "workhorse",
+        "text",
+        "humanist",
+        "magazine",
+        "sans serif",
+        "headline",
+        "italic",
+        "clean"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/akagi/thin",
+            "css": {
+                "font-family": "Akagi Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3492",
+                "slug": "thin",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Thin Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/akagi/thinitalic",
+            "css": {
+                "font-family": "Akagi Thin Italic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3493",
+                "slug": "thinitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/akagi/light",
+            "css": {
+                "font-family": "Akagi Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3488",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/akagi/lightitalic",
+            "css": {
+                "font-family": "Akagi Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3489",
+                "slug": "lightitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Book",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/akagi/book",
+            "css": {
+                "font-family": "Akagi Book",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3480",
+                "slug": "book",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Book Italic",
+            "description": "i3",
+            "url": "http://fontdeck.com/font/akagi/bookitalic",
+            "css": {
+                "font-family": "Akagi Book Italic",
+                "font-weight": "300",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3481",
+                "slug": "bookitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/akagi/medium",
+            "css": {
+                "font-family": "Akagi Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3476",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/akagi/mediumitalic",
+            "css": {
+                "font-family": "Akagi Medium Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3477",
+                "slug": "mediumitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/akagi/semibold",
+            "css": {
+                "font-family": "Akagi SemiBold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3490",
+                "slug": "semibold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Semi-bold Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/akagi/semibolditalic",
+            "css": {
+                "font-family": "Akagi SemiBold Italic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3491",
+                "slug": "semibolditalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/akagi/bold",
+            "css": {
+                "font-family": "Akagi Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3478",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/akagi/bolditalic",
+            "css": {
+                "font-family": "Akagi Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3479",
+                "slug": "bolditalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/akagi/extrabold",
+            "css": {
+                "font-family": "Akagi Extra Bold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3484",
+                "slug": "extrabold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-bold Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/akagi/extrabolditalic",
+            "css": {
+                "font-family": "Akagi Extra Bold Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3485",
+                "slug": "extrabolditalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/akagi/black",
+            "css": {
+                "font-family": "Akagi Black",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3482",
+                "slug": "black",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/akagi/blackitalic",
+            "css": {
+                "font-family": "Akagi Black Italic",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3483",
+                "slug": "blackitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Ultra",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/akagi/ultra",
+            "css": {
+                "font-family": "Akagi Ultra",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3494",
+                "slug": "ultra",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Fat",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/akagi/fat",
+            "css": {
+                "font-family": "Akagi Fat",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3486",
+                "slug": "fat",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Ultra Italic",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/akagi/ultraitalic",
+            "css": {
+                "font-family": "Akagi Ultra Italic",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3495",
+                "slug": "ultraitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Fat Italic",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/akagi/fatitalic",
+            "css": {
+                "font-family": "Akagi Fat Italic",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3487",
+                "slug": "fatitalic",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "846",
+        "slug": "akagi"
+    },
+    "generatedAt": 1437609988336
+}

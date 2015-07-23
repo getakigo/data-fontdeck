@@ -1,0 +1,94 @@
+{
+    "name": "Marche",
+    "url": "http://fontdeck.com/typeface/marche",
+    "slug": "marche",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Display",
+        "Poster"
+    ],
+    "foundry": "Colophon",
+    "designer": [
+        "Edd Harrington",
+        "Anthony Sheret"
+    ],
+    "opentype": [
+        "calt",
+        "hist",
+        "liga",
+        "pnum",
+        "ss01",
+        "ss02",
+        "ss03",
+        "ss04",
+        "tnum",
+        "zero"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "opentype",
+        "squarish",
+        "vernacular",
+        "eurostile",
+        "french",
+        "marché",
+        "italian",
+        "signage"
+    ],
+    "variations": [
+        {
+            "name": "Super",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/marche/super",
+            "css": {
+                "font-family": "Marche Super",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8383",
+                "slug": "super",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Super Forwardslant",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/marche/superforwardslant",
+            "css": {
+                "font-family": "Marche Super Forwardslant",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8385",
+                "slug": "superforwardslant",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Super Backslant",
+            "description": "o7",
+            "url": "http://fontdeck.com/font/marche/superbackslant",
+            "css": {
+                "font-family": "Marche Super Backslant",
+                "font-weight": "700",
+                "font-style": "oblique"
+            },
+            "fontdeck": {
+                "id": "8384",
+                "slug": "superbackslant",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1914",
+        "slug": "marche"
+    },
+    "generatedAt": 1437611440589
+}

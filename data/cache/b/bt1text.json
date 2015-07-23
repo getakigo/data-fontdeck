@@ -1,0 +1,98 @@
+{
+    "name": "BT1 Text",
+    "url": "http://fontdeck.com/typeface/bt1text",
+    "slug": "bt1text",
+    "superfamily": "Bt1",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Gothic"
+    ],
+    "foundry": "Playtype",
+    "designer": [
+        "Jonas Hecksher"
+    ],
+    "opentype": [
+        "liga",
+        "lnum",
+        "onum",
+        "pnum",
+        "smcp"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "modern",
+        "opentype",
+        "square sans",
+        "superfamily"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/bt1text/regular",
+            "css": {
+                "font-family": "BT1 Text Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6963",
+                "slug": "regular",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/bt1text/italic",
+            "css": {
+                "font-family": "BT1 Text Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6961",
+                "slug": "italic",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/bt1text/bold",
+            "css": {
+                "font-family": "BT1 Text Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6962",
+                "slug": "bold",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/bt1text/bolditalic",
+            "css": {
+                "font-family": "BT1 Text Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6964",
+                "slug": "bolditalic",
+                "price": "$45.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1596",
+        "slug": "bt1text"
+    },
+    "generatedAt": 1437611055773
+}

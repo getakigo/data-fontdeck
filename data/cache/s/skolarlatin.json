@@ -1,0 +1,207 @@
+{
+    "name": "Skolar Latin",
+    "url": "http://fontdeck.com/typeface/skolarlatin",
+    "slug": "skolarlatin",
+    "superfamily": "Skolar",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Transitional"
+    ],
+    "foundry": "Rosetta",
+    "designer": [
+        "David Březina"
+    ],
+    "opentype": [
+        "liga"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "low-contrast",
+        "formal",
+        "opentype",
+        "hand hinted",
+        "workhorse",
+        "21st century",
+        "text",
+        "wedge serif",
+        "legible",
+        "sturdy",
+        "brochure",
+        "contemporary",
+        "magazine",
+        "news",
+        "manually hinted",
+        "academic",
+        "dictionary",
+        "neutral",
+        "scholarly",
+        "playful",
+        "book",
+        "handhinted",
+        "caption",
+        "corporate",
+        "conservative",
+        "superfamily",
+        "czech"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/skolarlatin/light",
+            "css": {
+                "font-family": "Skolar Latin Light",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5110",
+                "slug": "light",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i3",
+            "url": "http://fontdeck.com/font/skolarlatin/lightitalic",
+            "css": {
+                "font-family": "Skolar Latin Light Italic",
+                "font-weight": "300",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5111",
+                "slug": "lightitalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/skolarlatin/regular",
+            "css": {
+                "font-family": "Skolar Latin Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3184",
+                "slug": "regular",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/skolarlatin/italic",
+            "css": {
+                "font-family": "Skolar Latin Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3182",
+                "slug": "italic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/skolarlatin/semibold",
+            "css": {
+                "font-family": "Skolar Latin Semibold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5828",
+                "slug": "semibold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Semi-bold Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/skolarlatin/semibolditalic",
+            "css": {
+                "font-family": "Skolar Latin Semibold Italic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5829",
+                "slug": "semibolditalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/skolarlatin/bold",
+            "css": {
+                "font-family": "Skolar Latin Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3180",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/skolarlatin/bolditalic",
+            "css": {
+                "font-family": "Skolar Latin Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3183",
+                "slug": "bolditalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/skolarlatin/extrabold",
+            "css": {
+                "font-family": "Skolar Latin Extrabold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5112",
+                "slug": "extrabold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Extra-bold Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/skolarlatin/extrabolditalic",
+            "css": {
+                "font-family": "Skolar Latin Extrabold Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5113",
+                "slug": "extrabolditalic",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "751",
+        "slug": "skolarlatin"
+    },
+    "generatedAt": 1437609847482
+}

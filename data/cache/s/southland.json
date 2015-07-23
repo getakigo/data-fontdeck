@@ -1,0 +1,50 @@
+{
+    "name": "Southland",
+    "url": "http://fontdeck.com/typeface/southland",
+    "slug": "southland",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "Veer",
+    "designer": [
+        "Jason Walcott"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "industrial",
+        "retro",
+        "script",
+        "swashes",
+        "curls",
+        "display",
+        "organic"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/southland/regular",
+            "css": {
+                "font-family": "Southland Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5051",
+                "slug": "regular",
+                "price": "$11.25"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1177",
+        "slug": "southland"
+    },
+    "generatedAt": 1437610512190
+}

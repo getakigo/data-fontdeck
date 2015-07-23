@@ -1,0 +1,78 @@
+{
+    "name": "Cavetto",
+    "url": "http://fontdeck.com/typeface/cavetto",
+    "slug": "cavetto",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Serif"
+    ],
+    "foundry": "Veer",
+    "designer": [
+        "Jason Walcott"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "serif",
+        "elegant",
+        "swashes",
+        "italic",
+        "display",
+        "text",
+        "alternates"
+    ],
+    "variations": [
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/cavetto/italic",
+            "css": {
+                "font-family": "Cavetto Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5076",
+                "slug": "italic",
+                "price": "$13.44"
+            }
+        },
+        {
+            "name": "Roman",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/cavetto/roman",
+            "css": {
+                "font-family": "Cavetto Roman",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5075",
+                "slug": "roman",
+                "price": "$13.44"
+            }
+        },
+        {
+            "name": "Alternate",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/cavetto/alternate",
+            "css": {
+                "font-family": "Cavetto Alternate",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5077",
+                "slug": "alternate",
+                "price": "$13.44"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1195",
+        "slug": "cavetto"
+    },
+    "generatedAt": 1437610538805
+}

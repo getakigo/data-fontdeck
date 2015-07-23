@@ -1,0 +1,83 @@
+{
+    "name": "Bodoni Script Pro",
+    "url": "http://fontdeck.com/typeface/bodoniscriptpro",
+    "slug": "bodoniscriptpro",
+    "use": "heading",
+    "classification": [
+        "Script",
+        "Calligraphic",
+        "Script",
+        "Formal"
+    ],
+    "foundry": "Parachute",
+    "designer": [
+        "Panos Vassiliou"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "decorative",
+        "cursive",
+        "flourish",
+        "formal",
+        "bodoni",
+        "calligraphic",
+        "flowing",
+        "italic",
+        "traditional",
+        "wedding"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/bodoniscriptpro/light",
+            "css": {
+                "font-family": "Bodoni Script Pro Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3367",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/bodoniscriptpro/regular",
+            "css": {
+                "font-family": "Bodoni Script Pro Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3366",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/bodoniscriptpro/bold",
+            "css": {
+                "font-family": "Bodoni Script Pro Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3365",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "813",
+        "slug": "bodoniscriptpro"
+    },
+    "generatedAt": 1437609925098
+}

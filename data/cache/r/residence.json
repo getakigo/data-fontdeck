@@ -1,0 +1,49 @@
+{
+    "name": "Residence",
+    "url": "http://fontdeck.com/typeface/residence",
+    "slug": "residence",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Neo-Grotesk"
+    ],
+    "foundry": "A2-TYPE",
+    "designer": [
+        "Henrik Kubel"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "industrial",
+        "book",
+        "text",
+        "legible",
+        "editorial",
+        "newspaper",
+        "contemporary",
+        "magazine"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/residence/regular",
+            "css": {
+                "font-family": "Residence Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6494",
+                "slug": "regular",
+                "price": "$45.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1481",
+        "slug": "residence"
+    },
+    "generatedAt": 1437610920845
+}

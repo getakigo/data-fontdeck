@@ -1,0 +1,97 @@
+{
+    "name": "Neultica 4F",
+    "url": "http://fontdeck.com/typeface/neultica4f",
+    "slug": "neultica4f",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "All caps",
+        "Display",
+        "Sans serif",
+        "Display",
+        "Poster"
+    ],
+    "foundry": "4th february",
+    "designer": [
+        "Sergiy S. Tkachenko"
+    ],
+    "language": [
+        "latin",
+        "cyrillic"
+    ],
+    "tags": [
+        "headlines",
+        "headline",
+        "heavy",
+        "header",
+        "helvetica",
+        "swiss"
+    ],
+    "variations": [
+        {
+            "name": "Black",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/neultica4f/black",
+            "css": {
+                "font-family": "Neultica 4F Black",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4286",
+                "slug": "black",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/neultica4f/blackitalic",
+            "css": {
+                "font-family": "Neultica 4F Black Italic",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4287",
+                "slug": "blackitalic",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Alt Black",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/neultica4f/altblack",
+            "css": {
+                "font-family": "Neultica 4F Alt Black",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6202",
+                "slug": "altblack",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Alt Black Italic",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/neultica4f/altblackitalic",
+            "css": {
+                "font-family": "Waldemar 4F Alt Black Italic",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6203",
+                "slug": "altblackitalic",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1005",
+        "slug": "neultica4f"
+    },
+    "generatedAt": 1437610290576
+}

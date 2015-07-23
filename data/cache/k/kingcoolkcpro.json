@@ -1,0 +1,52 @@
+{
+    "name": "King Cool KC Pro",
+    "url": "http://fontdeck.com/typeface/kingcoolkcpro",
+    "slug": "kingcoolkcpro",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Casual"
+    ],
+    "foundry": "CheapProFonts",
+    "designer": [
+        "Kimberly Geswein"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "hand",
+        "lovable",
+        "script",
+        "cool",
+        "child writing",
+        "cute",
+        "unicase",
+        "handwritten",
+        "child",
+        "childish",
+        "heart"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/kingcoolkcpro/regular",
+            "css": {
+                "font-family": "King Cool KC Pro Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3298",
+                "slug": "regular",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "790",
+        "slug": "kingcoolkcpro"
+    },
+    "generatedAt": 1437609890012
+}

@@ -1,0 +1,199 @@
+{
+    "name": "Aveny-T",
+    "url": "http://fontdeck.com/typeface/avenyt",
+    "slug": "avenyt",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Grotesque"
+    ],
+    "foundry": "A2-TYPE",
+    "designer": [
+        "Henrik Kubel"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "book",
+        "text",
+        "legible",
+        "editorial",
+        "newspaper",
+        "contemporary",
+        "magazine",
+        "poster"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/avenyt/thin",
+            "css": {
+                "font-family": "Aveny-T Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6554",
+                "slug": "thin",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Ultra-light",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/avenyt/ultralight",
+            "css": {
+                "font-family": "Aveny-T Ultra Light",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6556",
+                "slug": "ultralight",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Extra-light",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/avenyt/extralight",
+            "css": {
+                "font-family": "Aveny-T Extra Light",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6550",
+                "slug": "extralight",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/avenyt/light",
+            "css": {
+                "font-family": "Aveny-T Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6551",
+                "slug": "light",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/avenyt/regular",
+            "css": {
+                "font-family": "Aveny-T Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6553",
+                "slug": "regular",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/avenyt/medium",
+            "css": {
+                "font-family": "Aveny-T Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6552",
+                "slug": "medium",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/avenyt/semibold",
+            "css": {
+                "font-family": "Aveny-T Semi Bold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6557",
+                "slug": "semibold",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/avenyt/bold",
+            "css": {
+                "font-family": "Aveny-T Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6548",
+                "slug": "bold",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/avenyt/extrabold",
+            "css": {
+                "font-family": "Aveny-T Extra Bold",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6549",
+                "slug": "extrabold",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/avenyt/black",
+            "css": {
+                "font-family": "Aveny-T Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6547",
+                "slug": "black",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Ultra-black",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/avenyt/ultrablack",
+            "css": {
+                "font-family": "Aveny-T Ultra Black",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6555",
+                "slug": "ultrablack",
+                "price": "$45.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1497",
+        "slug": "avenyt"
+    },
+    "generatedAt": 1437610946273
+}

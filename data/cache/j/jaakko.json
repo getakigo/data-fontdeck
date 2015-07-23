@@ -1,0 +1,57 @@
+{
+    "name": "Jaakko",
+    "url": "http://fontdeck.com/typeface/jaakko",
+    "slug": "jaakko",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Handwritten",
+        "Display",
+        "Script",
+        "Script",
+        "Casual"
+    ],
+    "foundry": "A is for…",
+    "designer": [
+        "Émilie Rigaud"
+    ],
+    "opentype": [
+        "liga",
+        "ss01"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "supermarket",
+        "opentype",
+        "scandinavian",
+        "dynamic",
+        "handwritten",
+        "lettering",
+        "friendly",
+        "finnish"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/jaakko/regular",
+            "css": {
+                "font-family": "Jaakko Regular",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7930",
+                "slug": "regular",
+                "price": "$15.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1822",
+        "slug": "jaakko"
+    },
+    "generatedAt": 1437611343679
+}

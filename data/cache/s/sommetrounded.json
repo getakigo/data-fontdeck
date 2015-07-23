@@ -1,0 +1,210 @@
+{
+    "name": "Sommet Rounded",
+    "url": "http://fontdeck.com/typeface/sommetrounded",
+    "slug": "sommetrounded",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Humanist"
+    ],
+    "foundry": "Insigne",
+    "designer": [
+        "Jeremy Dooley"
+    ],
+    "opentype": [
+        "liga"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "opentype"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/sommetrounded/thin",
+            "css": {
+                "font-family": "Sommet Rounded Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "540",
+                "slug": "thin",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Thin Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/sommetrounded/thinitalic",
+            "css": {
+                "font-family": "Sommet Rounded Thin Italic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "539",
+                "slug": "thinitalic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/sommetrounded/light",
+            "css": {
+                "font-family": "Sommet Rounded Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "537",
+                "slug": "light",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/sommetrounded/lightitalic",
+            "css": {
+                "font-family": "Sommet Rounded Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "536",
+                "slug": "lightitalic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/sommetrounded/regular",
+            "css": {
+                "font-family": "Sommet Rounded Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "538",
+                "slug": "regular",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/sommetrounded/italic",
+            "css": {
+                "font-family": "Sommet Rounded Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "535",
+                "slug": "italic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/sommetrounded/bold",
+            "css": {
+                "font-family": "Sommet Rounded Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "532",
+                "slug": "bold",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/sommetrounded/bolditalic",
+            "css": {
+                "font-family": "Sommet Rounded Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "531",
+                "slug": "bolditalic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/sommetrounded/heavy",
+            "css": {
+                "font-family": "Sommet Rounded Heavy",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "534",
+                "slug": "heavy",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Heavy Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/sommetrounded/heavyitalic",
+            "css": {
+                "font-family": "Sommet Rounded Heavy Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "533",
+                "slug": "heavyitalic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/sommetrounded/black",
+            "css": {
+                "font-family": "Sommet Rounded Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "530",
+                "slug": "black",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/sommetrounded/blackitalic",
+            "css": {
+                "font-family": "Sommet Rounded Black Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "529",
+                "slug": "blackitalic",
+                "price": "$7.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "208",
+        "slug": "sommetrounded"
+    },
+    "generatedAt": 1437609008447
+}

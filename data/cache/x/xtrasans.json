@@ -1,0 +1,216 @@
+{
+    "name": "Xtra Sans",
+    "url": "http://fontdeck.com/typeface/xtrasans",
+    "slug": "xtrasans",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Grotesque"
+    ],
+    "foundry": "Typolar",
+    "designer": [
+        "Jarno Lukkarila"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "cornered",
+        "sans-serif",
+        "text",
+        "legible",
+        "headline",
+        "true italics",
+        "humanist",
+        "sport",
+        "magazine",
+        "m-formula"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/xtrasans/regular",
+            "css": {
+                "font-family": "Xtra Sans Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3774",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/xtrasans/italic",
+            "css": {
+                "font-family": "Xtra Sans Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3773",
+                "slug": "italic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/xtrasans/bold",
+            "css": {
+                "font-family": "Xtra Sans Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3769",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/xtrasans/bolditalic",
+            "css": {
+                "font-family": "Xtra Sans Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3770",
+                "slug": "bolditalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Heavy Italic",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/xtrasans/heavyitalic",
+            "css": {
+                "font-family": "Xtra Sans Heavy Italic",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3772",
+                "slug": "heavyitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/xtrasans/heavy",
+            "css": {
+                "font-family": "Xtra Sans Heavy",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3771",
+                "slug": "heavy",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Small Caps Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/xtrasans/smallcapsbold",
+            "css": {
+                "font-family": "Xtra Sans Small Caps Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3775",
+                "slug": "smallcapsbold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Small Caps",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/xtrasans/smallcaps",
+            "css": {
+                "font-family": "Xtra Sans Small Caps",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3780",
+                "slug": "smallcaps",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Small Caps Heavy",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/xtrasans/smallcapsheavy",
+            "css": {
+                "font-family": "Xtra Sans Small Caps Heavy",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3777",
+                "slug": "smallcapsheavy",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Small Caps Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/xtrasans/smallcapsitalic",
+            "css": {
+                "font-family": "Xtra Sans Small Caps Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3779",
+                "slug": "smallcapsitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Small Caps Heavy Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/xtrasans/smallcapsheavyitalic",
+            "css": {
+                "font-family": "XtraSansSmallCapsHeavyItalic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3778",
+                "slug": "smallcapsheavyitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Small Caps Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/xtrasans/smallcapsbolditalic",
+            "css": {
+                "font-family": "XtraSansSmallCapsBoldItalic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3776",
+                "slug": "smallcapsbolditalic",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "892",
+        "slug": "xtrasans"
+    },
+    "generatedAt": 1437610073441
+}

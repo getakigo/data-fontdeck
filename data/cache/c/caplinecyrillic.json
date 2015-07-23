@@ -1,0 +1,93 @@
+{
+    "name": "Capline Cyrillic",
+    "url": "http://fontdeck.com/typeface/caplinecyrillic",
+    "slug": "caplinecyrillic",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Experimental",
+        "Display",
+        "Futuristic",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "Jeremy Tankard Typography",
+    "designer": [
+        "Jeremy Tankard"
+    ],
+    "language": [
+        "latin",
+        "cyrillic"
+    ],
+    "tags": [
+        "headline",
+        "chromatic"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/caplinecyrillic/thin",
+            "css": {
+                "font-family": "Capline Cyrillic Thin",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6224",
+                "slug": "thin",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/caplinecyrillic/regular",
+            "css": {
+                "font-family": "Capline Cyrillic Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6223",
+                "slug": "regular",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/caplinecyrillic/bold",
+            "css": {
+                "font-family": "Capline Cyrillic Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6222",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Solid",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/caplinecyrillic/solid",
+            "css": {
+                "font-family": "Capline Cyrillic Solid",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6221",
+                "slug": "solid",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1437",
+        "slug": "caplinecyrillic"
+    },
+    "generatedAt": 1437611071516
+}

@@ -1,0 +1,235 @@
+{
+    "name": "Metral",
+    "url": "http://fontdeck.com/typeface/metral",
+    "slug": "metral",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "The Northern Block",
+    "designer": [
+        "Jonathan Hill"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "architectural",
+        "techno",
+        "technical",
+        "geometric",
+        "text",
+        "linear",
+        "legible",
+        "brochure",
+        "contemporary",
+        "magazine",
+        "economical",
+        "poster",
+        "eurostile",
+        "angular",
+        "modern",
+        "neutral",
+        "swiss",
+        "identity",
+        "smooth",
+        "branding",
+        "editorial",
+        "corporate",
+        "headline",
+        "screen",
+        "german",
+        "grid",
+        "clean",
+        "display",
+        "information"
+    ],
+    "variations": [
+        {
+            "name": "Light Italic",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/metral/lightitalic",
+            "css": {
+                "font-family": "Metral Light Italic",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5380",
+                "slug": "lightitalic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/metral/light",
+            "css": {
+                "font-family": "Metral Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5374",
+                "slug": "light",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/metral/regular",
+            "css": {
+                "font-family": "Metral Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5375",
+                "slug": "regular",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/metral/italic",
+            "css": {
+                "font-family": "Metral Italic",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5381",
+                "slug": "italic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/metral/medium",
+            "css": {
+                "font-family": "Metral Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5376",
+                "slug": "medium",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/metral/mediumitalic",
+            "css": {
+                "font-family": "Metral Medium Italic",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5382",
+                "slug": "mediumitalic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/metral/bold",
+            "css": {
+                "font-family": "Metral Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5378",
+                "slug": "bold",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/metral/bolditalic",
+            "css": {
+                "font-family": "Metral Bold Italic",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5384",
+                "slug": "bolditalic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Extra-bold Italic",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/metral/extrabolditalic",
+            "css": {
+                "font-family": "Metral ExtraBold Italic",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5385",
+                "slug": "extrabolditalic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/metral/extrabold",
+            "css": {
+                "font-family": "Metral ExtraBold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5379",
+                "slug": "extrabold",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "DemiBold Italic",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/metral/demibolditalic",
+            "css": {
+                "font-family": "Metral DemiBold Italic",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5383",
+                "slug": "demibolditalic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "DemiBold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/metral/demibold",
+            "css": {
+                "font-family": "Metral DemiBold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5377",
+                "slug": "demibold",
+                "price": "$7.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1265",
+        "slug": "metral"
+    },
+    "generatedAt": 1437610605188
+}

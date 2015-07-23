@@ -1,0 +1,140 @@
+{
+    "name": "Tarocco",
+    "url": "http://fontdeck.com/typeface/tarocco",
+    "slug": "tarocco",
+    "superfamily": "Tarocco",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Garalde"
+    ],
+    "foundry": "MAC Rhino Fonts",
+    "designer": [
+        "Stefan Hattenbach"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "1920s",
+        "1910s",
+        "legible",
+        "garamond",
+        "large x-height",
+        "garalde",
+        "swedish",
+        "book text"
+    ],
+    "variations": [
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/tarocco/italic",
+            "css": {
+                "font-family": "Tarocco Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2533",
+                "slug": "italic",
+                "price": "$12.49"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/tarocco/medium",
+            "css": {
+                "font-family": "Tarocco Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2534",
+                "slug": "medium",
+                "price": "$12.49"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/tarocco/mediumitalic",
+            "css": {
+                "font-family": "Tarocco Medium Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2535",
+                "slug": "mediumitalic",
+                "price": "$12.49"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/tarocco/bold",
+            "css": {
+                "font-family": "Tarocco Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2531",
+                "slug": "bold",
+                "price": "$12.49"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/tarocco/bolditalic",
+            "css": {
+                "font-family": "Tarocco Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2532",
+                "slug": "bolditalic",
+                "price": "$12.49"
+            }
+        },
+        {
+            "name": "Smallcaps",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/tarocco/smallcaps",
+            "css": {
+                "font-family": "Tarocco Smallcaps",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4729",
+                "slug": "smallcaps",
+                "price": "$12.49"
+            }
+        },
+        {
+            "name": "Roman",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/tarocco/roman",
+            "css": {
+                "font-family": "Tarocco Roman",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2539",
+                "slug": "roman",
+                "price": "$12.49"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "612",
+        "slug": "tarocco"
+    },
+    "generatedAt": 1437609566295
+}

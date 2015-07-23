@@ -1,0 +1,46 @@
+{
+    "name": "Lisbon",
+    "url": "http://fontdeck.com/typeface/lisbon",
+    "slug": "lisbon",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Stencil"
+    ],
+    "foundry": "Colophon",
+    "designer": [
+        "Anthony Burrill"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "signage",
+        "geometric",
+        "poster",
+        "metal",
+        "portugal"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/lisbon/regular",
+            "css": {
+                "font-family": "Lisbon Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7758",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1787",
+        "slug": "lisbon"
+    },
+    "generatedAt": 1437611273478
+}

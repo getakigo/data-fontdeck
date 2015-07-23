@@ -1,0 +1,145 @@
+{
+    "name": "Baskerville",
+    "url": "http://fontdeck.com/typeface/baskerville",
+    "slug": "baskerville",
+    "superfamily": "Baskerville",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Transitional"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "John Baskerville",
+        "URW Studio"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "sensible",
+        "neutral",
+        "formal",
+        "elegant",
+        "old style",
+        "1990s",
+        "english",
+        "legible",
+        "super family",
+        "valuable",
+        "didone",
+        "german"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/baskerville/regular",
+            "css": {
+                "font-family": "Baskerville Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "971",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/baskerville/italic",
+            "css": {
+                "font-family": "Baskerville Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "969",
+                "slug": "italic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/baskerville/medium",
+            "css": {
+                "font-family": "Baskerville Medium",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "970",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/baskerville/bold",
+            "css": {
+                "font-family": "Baskerville Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "966",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Oblique",
+            "description": "o7",
+            "url": "http://fontdeck.com/font/baskerville/boldoblique",
+            "css": {
+                "font-family": "Baskerville Bold Oblique",
+                "font-weight": "700",
+                "font-style": "oblique"
+            },
+            "fontdeck": {
+                "id": "967",
+                "slug": "boldoblique",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/baskerville/extrabold",
+            "css": {
+                "font-family": "Baskerville Extra Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "968",
+                "slug": "extrabold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Ultra Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/baskerville/ultrabold",
+            "css": {
+                "font-family": "Baskerville Ultra Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "972",
+                "slug": "ultrabold",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "282",
+        "slug": "baskerville"
+    },
+    "generatedAt": 1437609132948
+}

@@ -1,0 +1,215 @@
+{
+    "name": "Eurostile",
+    "url": "http://fontdeck.com/typeface/eurostile",
+    "slug": "eurostile",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Aldo Novarese"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "static",
+        "formal",
+        "technical",
+        "italian",
+        "geometric",
+        "legible",
+        "1960s",
+        "masculine",
+        "eurostile"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/eurostile/regular",
+            "css": {
+                "font-family": "Eurostile Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "797",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Oblique",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/eurostile/regularoblique",
+            "css": {
+                "font-family": "Eurostile Regular Oblique",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "798",
+                "slug": "regularoblique",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/eurostile/medium",
+            "css": {
+                "font-family": "Eurostile Medium",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "805",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium Oblique",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/eurostile/mediumoblique",
+            "css": {
+                "font-family": "Eurostile Medium Oblique",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "806",
+                "slug": "mediumoblique",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/eurostile/bold",
+            "css": {
+                "font-family": "Eurostile Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "801",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Oblique",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/eurostile/boldoblique",
+            "css": {
+                "font-family": "Eurostile Bold Oblique",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "802",
+                "slug": "boldoblique",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/eurostile/heavy",
+            "css": {
+                "font-family": "Eurostile Heavy",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "803",
+                "slug": "heavy",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Heavy Oblique",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/eurostile/heavyoblique",
+            "css": {
+                "font-family": "Eurostile Heavy Oblique",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "804",
+                "slug": "heavyoblique",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/eurostile/black",
+            "css": {
+                "font-family": "Eurostile Black",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "799",
+                "slug": "black",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Black Oblique",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/eurostile/blackoblique",
+            "css": {
+                "font-family": "Eurostile Black Oblique",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "800",
+                "slug": "blackoblique",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Small Caps Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/eurostile/smallcapsbold",
+            "css": {
+                "font-family": "Eurostile Small Caps Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "808",
+                "slug": "smallcapsbold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Small Caps Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/eurostile/smallcapsregular",
+            "css": {
+                "font-family": "Eurostile Small Caps Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "807",
+                "slug": "smallcapsregular",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "249",
+        "slug": "eurostile"
+    },
+    "generatedAt": 1437609074801
+}

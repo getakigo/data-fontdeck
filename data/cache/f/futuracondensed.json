@@ -1,0 +1,157 @@
+{
+    "name": "Futura Condensed",
+    "url": "http://fontdeck.com/typeface/futuracondensed",
+    "slug": "futuracondensed",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "Neufville Digital",
+    "designer": [
+        "Paul Renner"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "formal",
+        "narrow",
+        "1920s",
+        "technical",
+        "condensed",
+        "legible",
+        "masculine",
+        "german",
+        "bauhaus",
+        "modest",
+        "futura"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/futuracondensed/light",
+            "css": {
+                "font-family": "Futura Condensed Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "722",
+                "slug": "light",
+                "price": "$45.25"
+            }
+        },
+        {
+            "name": "Light Oblique",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/futuracondensed/lightoblique",
+            "css": {
+                "font-family": "Futura Condensed Light Oblique",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "723",
+                "slug": "lightoblique",
+                "price": "$45.25"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/futuracondensed/medium",
+            "css": {
+                "font-family": "Futura Condensed Medium",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "724",
+                "slug": "medium",
+                "price": "$45.25"
+            }
+        },
+        {
+            "name": "Medium Oblique",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/futuracondensed/mediumoblique",
+            "css": {
+                "font-family": "Futura Condensed Medium Oblique",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "725",
+                "slug": "mediumoblique",
+                "price": "$45.25"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/futuracondensed/bold",
+            "css": {
+                "font-family": "Futura Condensed Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "718",
+                "slug": "bold",
+                "price": "$45.25"
+            }
+        },
+        {
+            "name": "Bold Oblique",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/futuracondensed/boldoblique",
+            "css": {
+                "font-family": "Futura Condensed Bold Oblique",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "719",
+                "slug": "boldoblique",
+                "price": "$45.25"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/futuracondensed/extrabold",
+            "css": {
+                "font-family": "Futura Condensed Extra Bold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "720",
+                "slug": "extrabold",
+                "price": "$45.25"
+            }
+        },
+        {
+            "name": "Extra-bold Oblique",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/futuracondensed/extraboldoblique",
+            "css": {
+                "font-family": "FuturaCondensedExtraBoldOblique",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "721",
+                "slug": "extraboldoblique",
+                "price": "$45.25"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "238",
+        "slug": "futuracondensed"
+    },
+    "generatedAt": 1437609056160
+}

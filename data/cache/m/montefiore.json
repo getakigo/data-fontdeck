@@ -1,0 +1,58 @@
+{
+    "name": "Montefiore",
+    "url": "http://fontdeck.com/typeface/montefiore",
+    "slug": "montefiore",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Gothic",
+        "Sans Serif",
+        "Grotesque"
+    ],
+    "foundry": "Colophon",
+    "designer": [
+        "Edd Harrington",
+        "Anthony Sheret"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/montefiore/regular",
+            "css": {
+                "font-family": "Montefiore Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "86",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/montefiore/bold",
+            "css": {
+                "font-family": "Montefiore Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "85",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "28",
+        "slug": "montefiore"
+    },
+    "generatedAt": 1437608885957
+}

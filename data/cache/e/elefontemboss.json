@@ -1,0 +1,63 @@
+{
+    "name": "Elefont Emboss",
+    "url": "http://fontdeck.com/typeface/elefontemboss",
+    "slug": "elefontemboss",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Fat Face"
+    ],
+    "foundry": "Emboss Fonts",
+    "designer": [
+        "Stephen Boss"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "grunge",
+        "experimental",
+        "sans serif",
+        "1990s",
+        "rounded",
+        "computer",
+        "fat face"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/elefontemboss/regular",
+            "css": {
+                "font-family": "Elefont Emboss Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6925",
+                "slug": "regular",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/elefontemboss/italic",
+            "css": {
+                "font-family": "Elefont Emboss Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6926",
+                "slug": "italic",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1583",
+        "slug": "elefontemboss"
+    },
+    "generatedAt": 1437611048609
+}

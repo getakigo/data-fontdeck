@@ -1,0 +1,46 @@
+{
+    "name": "ABF Petit",
+    "url": "http://fontdeck.com/typeface/abfpetit",
+    "slug": "abfpetit",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Experimental"
+    ],
+    "foundry": "Nouvelle Noire",
+    "designer": [
+        "Philippe Apeloig"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "functional",
+        "library",
+        "table",
+        "deconstruct",
+        "tablet"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/abfpetit/regular",
+            "css": {
+                "font-family": "ABF Petit Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7633",
+                "slug": "regular",
+                "price": "$25.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1761",
+        "slug": "abfpetit"
+    },
+    "generatedAt": 1437611212628
+}

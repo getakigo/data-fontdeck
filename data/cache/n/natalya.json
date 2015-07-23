@@ -1,0 +1,48 @@
+{
+    "name": "Natalya",
+    "url": "http://fontdeck.com/typeface/natalya",
+    "slug": "natalya",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Calligraphic",
+        "Script",
+        "Formal"
+    ],
+    "foundry": "Insigne",
+    "designer": [
+        "Jeremy Dooley"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "romantic",
+        "formal",
+        "feminine",
+        "valentine",
+        "calligraphic"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/natalya/regular",
+            "css": {
+                "font-family": "Natalya Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "646",
+                "slug": "regular",
+                "price": "$7.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "218",
+        "slug": "natalya"
+    },
+    "generatedAt": 1437609027456
+}

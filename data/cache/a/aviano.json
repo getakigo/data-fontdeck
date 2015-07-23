@@ -1,0 +1,92 @@
+{
+    "name": "Aviano",
+    "url": "http://fontdeck.com/typeface/aviano",
+    "slug": "aviano",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Art Deco"
+    ],
+    "foundry": "Insigne",
+    "designer": [
+        "Jeremy Dooley"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "small caps",
+        "roman",
+        "serif",
+        "trajan",
+        "renaissance",
+        "wide"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/aviano/light",
+            "css": {
+                "font-family": "Aviano Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "478",
+                "slug": "light",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/aviano/regular",
+            "css": {
+                "font-family": "Aviano Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "477",
+                "slug": "regular",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/aviano/bold",
+            "css": {
+                "font-family": "Aviano Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "479",
+                "slug": "bold",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/aviano/black",
+            "css": {
+                "font-family": "Aviano Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "480",
+                "slug": "black",
+                "price": "$7.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "194",
+        "slug": "aviano"
+    },
+    "generatedAt": 1437608989119
+}

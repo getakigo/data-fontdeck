@@ -1,0 +1,64 @@
+{
+    "name": "Geetype",
+    "url": "http://fontdeck.com/typeface/geetype",
+    "slug": "geetype",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "G-Type",
+    "designer": [
+        "Nick Cooke"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "feminine",
+        "1920s",
+        "gallic",
+        "cute",
+        "classical",
+        "soft",
+        "friendly",
+        "poster",
+        "decorative",
+        "french",
+        "1930s",
+        "elegant",
+        "curly",
+        "curvy",
+        "vintage",
+        "art deco",
+        "chic",
+        "unique",
+        "romantic",
+        "retro",
+        "headline",
+        "distinctive",
+        "display"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/geetype/regular",
+            "css": {
+                "font-family": "Geetype Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6329",
+                "slug": "regular",
+                "price": "$15.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1453",
+        "slug": "geetype"
+    },
+    "generatedAt": 1437611087748
+}

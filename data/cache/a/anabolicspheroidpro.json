@@ -1,0 +1,46 @@
+{
+    "name": "Anabolic Spheroid Pro",
+    "url": "http://fontdeck.com/typeface/anabolicspheroidpro",
+    "slug": "anabolicspheroidpro",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Funny"
+    ],
+    "foundry": "CheapProFonts",
+    "designer": [
+        "Levente Halmos"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "cutout",
+        "groovy",
+        "geometric",
+        "circular",
+        "round"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/anabolicspheroidpro/regular",
+            "css": {
+                "font-family": "Anabolic Spheroid Pro Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4678",
+                "slug": "regular",
+                "price": "$9.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1091",
+        "slug": "anabolicspheroidpro"
+    },
+    "generatedAt": 1437610402094
+}

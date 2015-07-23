@@ -1,0 +1,126 @@
+{
+    "name": "Aisha Arabic",
+    "url": "http://fontdeck.com/typeface/aishaarabic",
+    "slug": "aishaarabic",
+    "superfamily": "Aisha",
+    "use": "body",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Display",
+        "Script",
+        "Script",
+        "Casual"
+    ],
+    "foundry": "Rosetta",
+    "designer": [
+        "Titus Nemeth"
+    ],
+    "opentype": [
+        "calt",
+        "dlig",
+        "liga"
+    ],
+    "language": [
+        "latin",
+        "arabic"
+    ],
+    "tags": [
+        "curves",
+        "opentype",
+        "21st century",
+        "contemporary",
+        "fun",
+        "magazine",
+        "titus nemeth",
+        "french",
+        "display type",
+        "arabic",
+        "berber",
+        "display",
+        "maghribi",
+        "display font",
+        "joyful",
+        "feminine",
+        "moroccan",
+        "revival",
+        "informal",
+        "curvaceous",
+        "tdc",
+        "hinted",
+        "script",
+        "awarded",
+        "handwriting",
+        "cheeky",
+        "playful",
+        "cheerful",
+        "lettering"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/aishaarabic/regular",
+            "css": {
+                "font-family": "Aisha Arabic Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7727",
+                "slug": "regular",
+                "price": "$25.00"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/aishaarabic/semibold",
+            "css": {
+                "font-family": "Aisha Arabic Semibold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7729",
+                "slug": "semibold",
+                "price": "$25.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/aishaarabic/bold",
+            "css": {
+                "font-family": "Aisha Arabic Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7728",
+                "slug": "bold",
+                "price": "$25.00"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/aishaarabic/extrabold",
+            "css": {
+                "font-family": "Aisha Arabic Extrabold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7730",
+                "slug": "extrabold",
+                "price": "$25.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1781",
+        "slug": "aishaarabic"
+    },
+    "generatedAt": 1437611244912
+}

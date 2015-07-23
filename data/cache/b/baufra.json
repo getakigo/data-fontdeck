@@ -1,0 +1,152 @@
+{
+    "name": "Baufra",
+    "url": "http://fontdeck.com/typeface/baufra",
+    "slug": "baufra",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Humanist"
+    ],
+    "foundry": "The Northern Block",
+    "designer": [
+        "Mariya V. Pigoulevskaya"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "print",
+        "text",
+        "functional",
+        "cyrillic",
+        "humanist",
+        "contemporary",
+        "magazine",
+        "news",
+        "minimal",
+        "natural",
+        "modern",
+        "style",
+        "commercial",
+        "publishing",
+        "bold",
+        "sign",
+        "branding",
+        "headline",
+        "information",
+        "packaging",
+        "classic",
+        "legible",
+        "newspaper",
+        "poster",
+        "industrial",
+        "neutral",
+        "book",
+        "fashion",
+        "swiss",
+        "film",
+        "communication",
+        "identity",
+        "editorial",
+        "sans serif",
+        "screen",
+        "clean"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/baufra/light",
+            "css": {
+                "font-family": "Baufra Light",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6166",
+                "slug": "light",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/baufra/regular",
+            "css": {
+                "font-family": "Baufra Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6167",
+                "slug": "regular",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/baufra/medium",
+            "css": {
+                "font-family": "Baufra Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6168",
+                "slug": "medium",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/baufra/semibold",
+            "css": {
+                "font-family": "Baufra SemiBold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6170",
+                "slug": "semibold",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/baufra/bold",
+            "css": {
+                "font-family": "Baufra Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6171",
+                "slug": "bold",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "DemiBold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/baufra/demibold",
+            "css": {
+                "font-family": "Baufra DemiBold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6169",
+                "slug": "demibold",
+                "price": "$7.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1425",
+        "slug": "baufra"
+    },
+    "generatedAt": 1437610823497
+}

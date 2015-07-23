@@ -1,0 +1,138 @@
+{
+    "name": "Altrincham",
+    "url": "http://fontdeck.com/typeface/altrincham",
+    "slug": "altrincham",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Glyphic"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Coen Hofmann"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "soft",
+        "female",
+        "perfume",
+        "elegant",
+        "stressed sans",
+        "natural",
+        "legible"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/altrincham/regular",
+            "css": {
+                "font-family": "Altrincham Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1517",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Oblique",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/altrincham/regularoblique",
+            "css": {
+                "font-family": "Altrincham Regular Oblique",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1518",
+                "slug": "regularoblique",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/altrincham/bold",
+            "css": {
+                "font-family": "Altrincham Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1512",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Oblique",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/altrincham/boldoblique",
+            "css": {
+                "font-family": "Altrincham Bold Oblique",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1513",
+                "slug": "boldoblique",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/altrincham/extrabold",
+            "css": {
+                "font-family": "Altrincham Extra Bold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1515",
+                "slug": "extrabold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-bold Oblique",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/altrincham/extraboldoblique",
+            "css": {
+                "font-family": "Altrincham Extra Bold Oblique",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1516",
+                "slug": "extraboldoblique",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Small Caps",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/altrincham/smallcaps",
+            "css": {
+                "font-family": "Altrincham Small Caps",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1514",
+                "slug": "smallcaps",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "406",
+        "slug": "altrincham"
+    },
+    "generatedAt": 1437609293006
+}

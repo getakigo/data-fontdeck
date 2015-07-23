@@ -1,0 +1,84 @@
+{
+    "name": "FS Alvar",
+    "url": "http://fontdeck.com/typeface/fsalvar",
+    "slug": "fsalvar",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Futuristic",
+        "Display",
+        "Computer-related",
+        "Display",
+        "Geometric",
+        "Display",
+        "Stencil"
+    ],
+    "foundry": "Fontsmith",
+    "designer": [
+        "Jason Smith",
+        "Phil Garnham"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "headlines",
+        "advertising",
+        "cool",
+        "futuristic",
+        "display",
+        "stencil"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/fsalvar/light",
+            "css": {
+                "font-family": "FS Alvar Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4347",
+                "slug": "light",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/fsalvar/regular",
+            "css": {
+                "font-family": "FS Alvar Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4348",
+                "slug": "regular",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/fsalvar/bold",
+            "css": {
+                "font-family": "FS Alvar Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4346",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1021",
+        "slug": "fsalvar"
+    },
+    "generatedAt": 1437610310934
+}

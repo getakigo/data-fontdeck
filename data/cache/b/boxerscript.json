@@ -1,0 +1,54 @@
+{
+    "name": "Boxer Script",
+    "url": "http://fontdeck.com/typeface/boxerscript",
+    "slug": "boxerscript",
+    "use": "body",
+    "classification": [
+        "Display",
+        "Script",
+        "Script",
+        "Display"
+    ],
+    "foundry": "Veer",
+    "designer": [
+        "Jason Walcott"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "industrial",
+        "1950s",
+        "script",
+        "1940s",
+        "automobile",
+        "connected",
+        "retro",
+        "1900s",
+        "display",
+        "chrome",
+        "calligraphy"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/boxerscript/regular",
+            "css": {
+                "font-family": "Boxer Script Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4822",
+                "slug": "regular",
+                "price": "$11.25"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1126",
+        "slug": "boxerscript"
+    },
+    "generatedAt": 1437610466759
+}

@@ -1,0 +1,127 @@
+{
+    "name": "Aniuk",
+    "url": "http://fontdeck.com/typeface/aniuk",
+    "slug": "aniuk",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Display",
+        "Poster"
+    ],
+    "foundry": "Typejockeys",
+    "designer": [
+        "Thomas Gabriel"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "curves",
+        "robust",
+        "hand hinted",
+        "brush",
+        "sans-serif",
+        "young",
+        "logo",
+        "soft",
+        "strong",
+        "friendly",
+        "humanist",
+        "quirky",
+        "hand-hinted",
+        "poster",
+        "manually hinted",
+        "crazy",
+        "edgy",
+        "playful",
+        "curvy",
+        "semi-serif",
+        "handhinted",
+        "editorial",
+        "lively",
+        "heavy"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/aniuk/regular",
+            "css": {
+                "font-family": "Aniuk Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4832",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/aniuk/medium",
+            "css": {
+                "font-family": "Aniuk Medium",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4831",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/aniuk/bold",
+            "css": {
+                "font-family": "Aniuk Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4829",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/aniuk/heavy",
+            "css": {
+                "font-family": "Aniuk Heavy",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4830",
+                "slug": "heavy",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/aniuk/black",
+            "css": {
+                "font-family": "Aniuk Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4828",
+                "slug": "black",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1128",
+        "slug": "aniuk"
+    },
+    "generatedAt": 1437610480303
+}

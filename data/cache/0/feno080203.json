@@ -1,0 +1,48 @@
+{
+    "name": "080203",
+    "url": "http://fontdeck.com/typeface/feno080203",
+    "slug": "feno080203",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Futuristic"
+    ],
+    "foundry": "Fenotype",
+    "designer": [
+        "Emil Bertell"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "retro",
+        "futurism",
+        "futuristic",
+        "geometric",
+        "computer",
+        "space age",
+        "wide"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/feno080203/regular",
+            "css": {
+                "font-family": "080203 Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2996",
+                "slug": "regular",
+                "price": "$3.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "542",
+        "slug": "feno080203"
+    },
+    "generatedAt": 1437609406823
+}

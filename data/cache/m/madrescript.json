@@ -1,0 +1,76 @@
+{
+    "name": "Madre Script",
+    "url": "http://fontdeck.com/typeface/madrescript",
+    "slug": "madrescript",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Handwritten",
+        "Display",
+        "Script",
+        "Script",
+        "Casual"
+    ],
+    "foundry": "Typefolio",
+    "designer": [
+        "Marconi Lima"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "languages",
+        "ornaments",
+        "text",
+        "invites",
+        "cartography",
+        "newspapers",
+        "prints",
+        "capitals",
+        "symbols",
+        "alternates",
+        "covers",
+        "modern",
+        "icons",
+        "script",
+        "handwriting",
+        "devices",
+        "logotype",
+        "ligatures",
+        "magazines",
+        "brochures",
+        "broadcast",
+        "editorial",
+        "handmade",
+        "currencies",
+        "numerals",
+        "lettering",
+        "italic",
+        "display",
+        "figures styles",
+        "packaging",
+        "books"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/madrescript/regular",
+            "css": {
+                "font-family": "Madre Script Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8368",
+                "slug": "regular",
+                "price": "$36.25"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1911",
+        "slug": "madrescript"
+    },
+    "generatedAt": 1437611429401
+}

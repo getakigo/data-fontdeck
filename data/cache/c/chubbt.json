@@ -1,0 +1,121 @@
+{
+    "name": "Chubbét",
+    "url": "http://fontdeck.com/typeface/chubbt",
+    "slug": "chubbt",
+    "superfamily": "Chubbet",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Gothic"
+    ],
+    "foundry": "Emboss Fonts",
+    "designer": [
+        "Stephen Boss"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "modern",
+        "gothic",
+        "headline",
+        "sans serif"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/chubbt/regular",
+            "css": {
+                "font-family": "Chubbét Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6909",
+                "slug": "regular",
+                "price": "$12.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/chubbt/italic",
+            "css": {
+                "font-family": "Chubbét Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6908",
+                "slug": "italic",
+                "price": "$12.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/chubbt/bold",
+            "css": {
+                "font-family": "Chubbét Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6906",
+                "slug": "bold",
+                "price": "$12.00"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/chubbt/bolditalic",
+            "css": {
+                "font-family": "Chubbét Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6907",
+                "slug": "bolditalic",
+                "price": "$12.00"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/chubbt/black",
+            "css": {
+                "font-family": "Chubbét Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6904",
+                "slug": "black",
+                "price": "$12.00"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/chubbt/blackitalic",
+            "css": {
+                "font-family": "Chubbét Black Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6905",
+                "slug": "blackitalic",
+                "price": "$12.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1578",
+        "slug": "chubbt"
+    },
+    "generatedAt": 1437611040193
+}

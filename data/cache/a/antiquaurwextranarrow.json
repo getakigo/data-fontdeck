@@ -1,0 +1,192 @@
+{
+    "name": "Antiqua URW Extra Narrow",
+    "url": "http://fontdeck.com/typeface/antiquaurwextranarrow",
+    "slug": "antiquaurwextranarrow",
+    "superfamily": "Urw Antiqua",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Modern"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Hermann Zapf"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "sensible",
+        "narrow",
+        "condensed",
+        "news text",
+        "workhorse",
+        "text",
+        "legible",
+        "scotch",
+        "newspaper",
+        "news",
+        "urw antiqua",
+        "extra narrow",
+        "german",
+        "superfamily",
+        "books"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/antiquaurwextranarrow/regular",
+            "css": {
+                "font-family": "AntiquaURWExtraNarrowRegular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3708",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Oblique",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/antiquaurwextranarrow/oblique",
+            "css": {
+                "font-family": "AntiquaURWExtraNarrowOblique",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3713",
+                "slug": "oblique",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/antiquaurwextranarrow/medium",
+            "css": {
+                "font-family": "Antiqua URW Extra Narrow Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3709",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium Oblique",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/antiquaurwextranarrow/mediumoblique",
+            "css": {
+                "font-family": "AntiquURExtrNarroMediuObliqu",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3714",
+                "slug": "mediumoblique",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/antiquaurwextranarrow/bold",
+            "css": {
+                "font-family": "Antiqua URW Extra Narrow Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3711",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Oblique",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/antiquaurwextranarrow/boldoblique",
+            "css": {
+                "font-family": "AntiquURExtrNarroBolObliqu",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3715",
+                "slug": "boldoblique",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/antiquaurwextranarrow/extrabold",
+            "css": {
+                "font-family": "AntiquaURWExtraNarrowExtraBold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3710",
+                "slug": "extrabold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-bold Oblique",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/antiquaurwextranarrow/extraboldoblique",
+            "css": {
+                "font-family": "AntiquURExtrNarroExtrBolObliqu",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3716",
+                "slug": "extraboldoblique",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Ultra Bold",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/antiquaurwextranarrow/ultrabold",
+            "css": {
+                "font-family": "AntiquaURWExtraNarrowUltraBold",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3712",
+                "slug": "ultrabold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Ultra Bold Oblique",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/antiquaurwextranarrow/ultraboldoblique",
+            "css": {
+                "font-family": "AntiquURExtrNarroUltrBolObliqu",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3717",
+                "slug": "ultraboldoblique",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "884",
+        "slug": "antiquaurwextranarrow"
+    },
+    "generatedAt": 1437610065061
+}

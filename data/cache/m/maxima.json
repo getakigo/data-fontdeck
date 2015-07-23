@@ -1,0 +1,96 @@
+{
+    "name": "Maxima",
+    "url": "http://fontdeck.com/typeface/maxima",
+    "slug": "maxima",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "URW Studio"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "modern",
+        "static",
+        "neutral",
+        "technical",
+        "dynamic",
+        "swiss",
+        "linear sans",
+        "german",
+        "1980s",
+        "modest"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/maxima/light",
+            "css": {
+                "font-family": "Maxima Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2581",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/maxima/medium",
+            "css": {
+                "font-family": "Maxima Medium",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2580",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/maxima/bold",
+            "css": {
+                "font-family": "Maxima Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2582",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Condensed Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/maxima/condensedbold",
+            "css": {
+                "font-family": "Maxima Condensed Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2583",
+                "slug": "condensedbold",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "623",
+        "slug": "maxima"
+    },
+    "generatedAt": 1437609584388
+}

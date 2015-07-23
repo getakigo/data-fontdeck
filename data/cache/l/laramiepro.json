@@ -1,0 +1,101 @@
+{
+    "name": "Laramie Pro",
+    "url": "http://fontdeck.com/typeface/laramiepro",
+    "slug": "laramiepro",
+    "use": "heading",
+    "classification": [
+        "Script",
+        "Handwritten",
+        "Script",
+        "Casual"
+    ],
+    "foundry": "profonts",
+    "designer": [
+        "profonts"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "decorative",
+        "contrast",
+        "script",
+        "expressive",
+        "invitation",
+        "wild west",
+        "handwriting",
+        "dynamic",
+        "young",
+        "informal",
+        "upright",
+        "swinging",
+        "wedding"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/laramiepro/light",
+            "css": {
+                "font-family": "Laramie Pro Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4750",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/laramiepro/regular",
+            "css": {
+                "font-family": "Laramie Pro Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4748",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/laramiepro/bold",
+            "css": {
+                "font-family": "Laramie Pro Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4749",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Demi",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/laramiepro/demi",
+            "css": {
+                "font-family": "Laramie Pro Demi",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4751",
+                "slug": "demi",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1099",
+        "slug": "laramiepro"
+    },
+    "generatedAt": 1437610425177
+}

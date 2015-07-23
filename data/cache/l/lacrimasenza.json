@@ -1,0 +1,73 @@
+{
+    "name": "Lacrima Senza",
+    "url": "http://fontdeck.com/typeface/lacrimasenza",
+    "slug": "lacrimasenza",
+    "superfamily": "Lacrima",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Grotesque"
+    ],
+    "foundry": "Milieu Grotesque",
+    "designer": [
+        "Alexander Colby"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "superfamily"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/lacrimasenza/light",
+            "css": {
+                "font-family": "Lacrima Senza Light",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5599",
+                "slug": "light",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/lacrimasenza/regular",
+            "css": {
+                "font-family": "Lacrima Senza Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5600",
+                "slug": "regular",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/lacrimasenza/bold",
+            "css": {
+                "font-family": "Lacrima Senza Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5598",
+                "slug": "bold",
+                "price": "$15.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1301",
+        "slug": "lacrimasenza"
+    },
+    "generatedAt": 1437610715164
+}

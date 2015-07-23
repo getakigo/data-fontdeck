@@ -1,0 +1,141 @@
+{
+    "name": "ATL Poudre",
+    "url": "http://fontdeck.com/typeface/atlpoudre",
+    "slug": "atlpoudre",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Experimental"
+    ],
+    "foundry": "Nouvelle Noire",
+    "designer": [
+        "Philippe Apeloig"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "modern",
+        "moderne",
+        "pointed",
+        "dots",
+        "poetic",
+        "modernism",
+        "dotted",
+        "grid",
+        "modern font",
+        "dot matrix"
+    ],
+    "variations": [
+        {
+            "name": "One",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/atlpoudre/one",
+            "css": {
+                "font-family": "ATL Poudre One",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7695",
+                "slug": "one",
+                "price": "$25.00"
+            }
+        },
+        {
+            "name": "Two",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/atlpoudre/two",
+            "css": {
+                "font-family": "ATL Poudre Two",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7696",
+                "slug": "two",
+                "price": "$25.00"
+            }
+        },
+        {
+            "name": "Four",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/atlpoudre/four",
+            "css": {
+                "font-family": "ATL Poudre Four",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7698",
+                "slug": "four",
+                "price": "$25.00"
+            }
+        },
+        {
+            "name": "Five",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/atlpoudre/five",
+            "css": {
+                "font-family": "ATL Poudre Five",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7699",
+                "slug": "five",
+                "price": "$25.00"
+            }
+        },
+        {
+            "name": "Three",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/atlpoudre/three",
+            "css": {
+                "font-family": "ATL Poudre Three",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7697",
+                "slug": "three",
+                "price": "$25.00"
+            }
+        },
+        {
+            "name": "Six",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/atlpoudre/six",
+            "css": {
+                "font-family": "ATL Poudre Six",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7700",
+                "slug": "six",
+                "price": "$25.00"
+            }
+        },
+        {
+            "name": "Zero",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/atlpoudre/zero",
+            "css": {
+                "font-family": "ATL Poudre Zero",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7694",
+                "slug": "zero",
+                "price": "$25.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1776",
+        "slug": "atlpoudre"
+    },
+    "generatedAt": 1437611243790
+}

@@ -1,0 +1,150 @@
+{
+    "name": "LoganFive",
+    "url": "http://fontdeck.com/typeface/loganfive",
+    "slug": "loganfive",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Futuristic"
+    ],
+    "foundry": "The Northern Block",
+    "designer": [
+        "Jonathan Hill"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "technical",
+        "geometric",
+        "linear",
+        "mechanical",
+        "magazine",
+        "sans",
+        "modern",
+        "business",
+        "movie",
+        "menus",
+        "digital",
+        "commercial",
+        "modular",
+        "european",
+        "branding",
+        "headline",
+        "information",
+        "sans-serif",
+        "legible",
+        "brochure",
+        "news headline",
+        "neutral",
+        "graphic",
+        "computer",
+        "swiss",
+        "identity",
+        "sci-fi",
+        "sansserif",
+        "electronic",
+        "square",
+        "sans serif",
+        "grid",
+        "futuristic",
+        "clean"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/loganfive/light",
+            "css": {
+                "font-family": "LoganFive Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7121",
+                "slug": "light",
+                "price": "$29.00"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/loganfive/lightitalic",
+            "css": {
+                "font-family": "LoganFive Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7122",
+                "slug": "lightitalic",
+                "price": "$29.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/loganfive/regular",
+            "css": {
+                "font-family": "LoganFive Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7123",
+                "slug": "regular",
+                "price": "$29.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/loganfive/regularitalic",
+            "css": {
+                "font-family": "LoganFive Regular Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7124",
+                "slug": "regularitalic",
+                "price": "$29.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/loganfive/bold",
+            "css": {
+                "font-family": "LoganFive Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7119",
+                "slug": "bold",
+                "price": "$29.00"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/loganfive/bolditalic",
+            "css": {
+                "font-family": "LoganFive Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7120",
+                "slug": "bolditalic",
+                "price": "$29.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1674",
+        "slug": "loganfive"
+    },
+    "generatedAt": 1437611128214
+}

@@ -1,0 +1,148 @@
+{
+    "name": "VanBerger",
+    "url": "http://fontdeck.com/typeface/vanberger",
+    "slug": "vanberger",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Stencil"
+    ],
+    "foundry": "The Northern Block",
+    "designer": [
+        "Jonathan Hill"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "technical",
+        "geometric",
+        "linear",
+        "mechanical",
+        "free",
+        "magazine",
+        "modern",
+        "business",
+        "movie",
+        "menus",
+        "commercial",
+        "digital",
+        "european",
+        "modular",
+        "branding",
+        "headline",
+        "display",
+        "information",
+        "stencil",
+        "legible",
+        "brochure",
+        "news headline",
+        "neutral",
+        "graphic",
+        "dutch",
+        "computer",
+        "swiss",
+        "identity",
+        "sans serif",
+        "square",
+        "grid",
+        "clean"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/vanberger/thin",
+            "css": {
+                "font-family": "VanBerger Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7206",
+                "slug": "thin",
+                "price": "$29.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/vanberger/regular",
+            "css": {
+                "font-family": "VanBerger Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7159",
+                "slug": "regular",
+                "price": "$29.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/vanberger/italic",
+            "css": {
+                "font-family": "VanBerger Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7158",
+                "slug": "italic",
+                "price": "$29.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/vanberger/bold",
+            "css": {
+                "font-family": "VanBerger Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7204",
+                "slug": "bold",
+                "price": "$29.00"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/vanberger/heavy",
+            "css": {
+                "font-family": "VanBerger Heavy",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7157",
+                "slug": "heavy",
+                "price": "$29.00"
+            }
+        },
+        {
+            "name": "Stencil",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/vanberger/stencil",
+            "css": {
+                "font-family": "VanBerger Stencil",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7205",
+                "slug": "stencil",
+                "price": "$29.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1680",
+        "slug": "vanberger"
+    },
+    "generatedAt": 1437611136142
+}

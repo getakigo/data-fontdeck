@@ -1,0 +1,285 @@
+{
+    "name": "Parisine Std",
+    "url": "http://fontdeck.com/typeface/parisinestd",
+    "slug": "parisinestd",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "Typofonderie",
+    "designer": [
+        "Jean François Porchez"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "metro",
+        "",
+        "text",
+        "legible",
+        "data",
+        "paris",
+        "newspaper",
+        "humanist",
+        "magazine",
+        "publishing",
+        "design",
+        "grotesque",
+        "identity",
+        "signage",
+        "branding",
+        "ratp",
+        "display"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/parisinestd/regular",
+            "css": {
+                "font-family": "Parisine Std Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8612",
+                "slug": "regular",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/parisinestd/italic",
+            "css": {
+                "font-family": "Parisine Std Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8613",
+                "slug": "italic",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/parisinestd/bold",
+            "css": {
+                "font-family": "Parisine Std Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8614",
+                "slug": "bold",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/parisinestd/bolditalic",
+            "css": {
+                "font-family": "Parisine Std Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8615",
+                "slug": "bolditalic",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Sombre Regular",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/parisinestd/sombreregular",
+            "css": {
+                "font-family": "Parisine Std Sombre Regular",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8624",
+                "slug": "sombreregular",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Clair Regular",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/parisinestd/clairregular",
+            "css": {
+                "font-family": "Parisine Std Clair Regular",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8616",
+                "slug": "clairregular",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Gris Bold",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/parisinestd/grisbold",
+            "css": {
+                "font-family": "Parisine Std Gris Bold",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8622",
+                "slug": "grisbold",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Sombre Bold",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/parisinestd/sombrebold",
+            "css": {
+                "font-family": "Parisine Std Sombre Bold",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8626",
+                "slug": "sombrebold",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Gris Regular",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/parisinestd/grisregular",
+            "css": {
+                "font-family": "Parisine Std Gris Regular",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8620",
+                "slug": "grisregular",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Clair Bold",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/parisinestd/clairbold",
+            "css": {
+                "font-family": "Parisine Std Clair Bold",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8618",
+                "slug": "clairbold",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Sombre Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/parisinestd/sombreitalic",
+            "css": {
+                "font-family": "Parisine Std Sombre Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8625",
+                "slug": "sombreitalic",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Gris Italic",
+            "description": "i3",
+            "url": "http://fontdeck.com/font/parisinestd/grisitalic",
+            "css": {
+                "font-family": "Parisine Std Gris Italic",
+                "font-weight": "300",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8621",
+                "slug": "grisitalic",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Gris Bold Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/parisinestd/grisbolditalic",
+            "css": {
+                "font-family": "Parisine Std Gris Bold Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8623",
+                "slug": "grisbolditalic",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Clair Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/parisinestd/clairitalic",
+            "css": {
+                "font-family": "Parisine Std Clair Italic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8617",
+                "slug": "clairitalic",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Clair Bold Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/parisinestd/clairbolditalic",
+            "css": {
+                "font-family": "Parisine Std Clair Bold Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8619",
+                "slug": "clairbolditalic",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Sombre Bold Italic",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/parisinestd/sombrebolditalic",
+            "css": {
+                "font-family": "Parisine Std Sombre Bold Italic",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8627",
+                "slug": "sombrebolditalic",
+                "price": "$26.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1934",
+        "slug": "parisinestd"
+    },
+    "generatedAt": 1437611491543
+}

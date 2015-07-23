@@ -1,0 +1,214 @@
+{
+    "name": "Oval",
+    "url": "http://fontdeck.com/typeface/oval",
+    "slug": "oval",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Experimental",
+        "Sans Serif",
+        "Geometric",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "Fontfabric",
+    "designer": [
+        "Svetoslav Simov"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "narrow",
+        "condensed",
+        "rounded",
+        "geometric"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/oval/thin",
+            "css": {
+                "font-family": "Oval Thin",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3018",
+                "slug": "thin",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/oval/light",
+            "css": {
+                "font-family": "Oval Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3013",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Book",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/oval/book",
+            "css": {
+                "font-family": "Oval Book",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3009",
+                "slug": "book",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/oval/regular",
+            "css": {
+                "font-family": "Oval Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3015",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/oval/medium",
+            "css": {
+                "font-family": "Oval Medium",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3014",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/oval/bold",
+            "css": {
+                "font-family": "Oval Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3008",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/oval/heavy",
+            "css": {
+                "font-family": "Oval Heavy",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3012",
+                "slug": "heavy",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/oval/black",
+            "css": {
+                "font-family": "Oval Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3007",
+                "slug": "black",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Double Deco",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/oval/doubledeco",
+            "css": {
+                "font-family": "Oval Double Deco",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3010",
+                "slug": "doubledeco",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Double",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/oval/double",
+            "css": {
+                "font-family": "Oval Double",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3011",
+                "slug": "double",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Single Line",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/oval/singleline",
+            "css": {
+                "font-family": "Oval Single Line",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3016",
+                "slug": "singleline",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Single",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/oval/single",
+            "css": {
+                "font-family": "Oval Single",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3017",
+                "slug": "single",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "703",
+        "slug": "oval"
+    },
+    "generatedAt": 1437609752798
+}

@@ -1,0 +1,229 @@
+{
+    "name": "Aubaine",
+    "url": "http://fontdeck.com/typeface/aubaine",
+    "slug": "aubaine",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Sans Serif",
+        "Humanist"
+    ],
+    "foundry": "Atelier@omashuisje.nl",
+    "designer": [
+        "Jean Paul Beumer"
+    ],
+    "opentype": [
+        "c2sc",
+        "liga",
+        "onum",
+        "smcp",
+        "ss01",
+        "tnum"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "classy",
+        "family",
+        "all-purpose",
+        "opentype",
+        "open forms",
+        "dynamic",
+        "hobo",
+        "linear",
+        "small size",
+        "soft",
+        "open",
+        "alternates",
+        "sans",
+        "oldstyle figures",
+        "flair",
+        "style",
+        "harmonious",
+        "extra light",
+        "ligatures",
+        "stylish",
+        "chic",
+        "medium",
+        "feminine",
+        "accessible",
+        "sans-serif",
+        "cute",
+        "legible",
+        "new",
+        "large eye",
+        "airy",
+        "roman",
+        "neutral",
+        "elegant",
+        "alternatives",
+        "feminine headline",
+        "corporate",
+        "lively",
+        "sans serif",
+        "thin",
+        "readable",
+        "formal",
+        "female",
+        "curves",
+        "clarity",
+        "gentle",
+        "geometric",
+        "text",
+        "stylistic alternates",
+        "balanced",
+        "friendly",
+        "inferior numerals",
+        "ultralight",
+        "humanist",
+        "lining numerals",
+        "distinguished",
+        "sophisticated",
+        "old style figures",
+        "clear",
+        "smooth",
+        "fractions",
+        "multilingual",
+        "ligature",
+        "linear sans",
+        "subtle",
+        "old-style numerals",
+        "cosmopolitan",
+        "monolinear",
+        "low contrast",
+        "large x-height",
+        "geometric sans",
+        "crisp",
+        "comfortable",
+        "semilight",
+        "humanistic",
+        "beautiful",
+        "helvetica",
+        "book",
+        "advanced character set",
+        "dutch font",
+        "dutch",
+        "humanistic sans",
+        "small caps",
+        "light",
+        "sansserif",
+        "oldstyle numerals",
+        "clean",
+        "charming",
+        "easy to read"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/aubaine/thin",
+            "css": {
+                "font-family": "Aubaine Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6316",
+                "slug": "thin",
+                "price": "$5.00"
+            }
+        },
+        {
+            "name": "Ultra-light",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/aubaine/ultralight",
+            "css": {
+                "font-family": "Aubaine UltraLight",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6315",
+                "slug": "ultralight",
+                "price": "$5.00"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/aubaine/light",
+            "css": {
+                "font-family": "Aubaine Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6311",
+                "slug": "light",
+                "price": "$5.00"
+            }
+        },
+        {
+            "name": "Book",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/aubaine/book",
+            "css": {
+                "font-family": "Aubaine Book",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6310",
+                "slug": "book",
+                "price": "$5.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/aubaine/regular",
+            "css": {
+                "font-family": "Aubaine Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6309",
+                "slug": "regular",
+                "price": "$5.00"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/aubaine/medium",
+            "css": {
+                "font-family": "Aubaine Medium",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6312",
+                "slug": "medium",
+                "price": "$5.00"
+            }
+        },
+        {
+            "name": "SemiLight",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/aubaine/semilight",
+            "css": {
+                "font-family": "Aubaine SemiLight",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6313",
+                "slug": "semilight",
+                "price": "$5.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1449",
+        "slug": "aubaine"
+    },
+    "generatedAt": 1437610876235
+}

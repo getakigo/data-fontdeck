@@ -1,0 +1,66 @@
+{
+    "name": "Fertigo Pro",
+    "url": "http://fontdeck.com/typeface/fertigopro",
+    "slug": "fertigopro",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "Exljbris",
+    "designer": [
+        "Jos Buivenga"
+    ],
+    "opentype": [
+        "liga"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "opentype",
+        "commercial",
+        "legible",
+        "calligraphic",
+        "fertigo",
+        "informal",
+        "friendly"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/fertigopro/regular",
+            "css": {
+                "font-family": "Fertigo Pro Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "104",
+                "slug": "regular",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/fertigopro/italic",
+            "css": {
+                "font-family": "Fertigo Pro Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "562",
+                "slug": "italic",
+                "price": "$7.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "36",
+        "slug": "fertigopro"
+    },
+    "generatedAt": 1437608893340
+}

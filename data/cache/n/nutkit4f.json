@@ -1,0 +1,54 @@
+{
+    "name": "Nut Kit 4F",
+    "url": "http://fontdeck.com/typeface/nutkit4f",
+    "slug": "nutkit4f",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Experimental",
+        "Display",
+        "All caps",
+        "Display",
+        "Futuristic",
+        "Display",
+        "Poster",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "4th february",
+    "designer": [
+        "Sergiy S. Tkachenko"
+    ],
+    "language": [
+        "latin",
+        "cyrillic"
+    ],
+    "tags": [
+        "architectural",
+        "architecture",
+        "construction",
+        "constructed"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/nutkit4f/regular",
+            "css": {
+                "font-family": "Nut Kit 4F Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3901",
+                "slug": "regular",
+                "price": "$7.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "923",
+        "slug": "nutkit4f"
+    },
+    "generatedAt": 1437610128033
+}

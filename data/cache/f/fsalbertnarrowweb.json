@@ -1,0 +1,177 @@
+{
+    "name": "FS Albert Narrow Web",
+    "url": "http://fontdeck.com/typeface/fsalbertnarrowweb",
+    "slug": "fsalbertnarrowweb",
+    "superfamily": "Fs Albert",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "Fontsmith",
+    "designer": [
+        "Jason Smith"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "narrow",
+        "robust",
+        "publishing",
+        "legible",
+        "humanistic sans",
+        "soft",
+        "curve",
+        "super family",
+        "curvaceous",
+        "friendly",
+        "corporate",
+        "humanist",
+        "versatile"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/fsalbertnarrowweb/thin",
+            "css": {
+                "font-family": "FS Albert Narrow Web Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4591",
+                "slug": "thin",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Thin Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/fsalbertnarrowweb/thinitalic",
+            "css": {
+                "font-family": "FSAlbertNarrowWebThinItalic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4590",
+                "slug": "thinitalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/fsalbertnarrowweb/light",
+            "css": {
+                "font-family": "FS Albert Narrow Web Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4588",
+                "slug": "light",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/fsalbertnarrowweb/lightitalic",
+            "css": {
+                "font-family": "FSAlbertNarrowWebLightItalic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4587",
+                "slug": "lightitalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/fsalbertnarrowweb/regular",
+            "css": {
+                "font-family": "FS Albert Narrow Web Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4589",
+                "slug": "regular",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/fsalbertnarrowweb/italic",
+            "css": {
+                "font-family": "FS Albert Narrow Web Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4586",
+                "slug": "italic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/fsalbertnarrowweb/bold",
+            "css": {
+                "font-family": "FS Albert Narrow Web Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4584",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/fsalbertnarrowweb/bolditalic",
+            "css": {
+                "font-family": "FSAlbertNarrowWebBoldItalic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4583",
+                "slug": "bolditalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/fsalbertnarrowweb/extrabold",
+            "css": {
+                "font-family": "FS Albert Narrow Web Extra Bold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4585",
+                "slug": "extrabold",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1079",
+        "slug": "fsalbertnarrowweb"
+    },
+    "generatedAt": 1437610393496
+}

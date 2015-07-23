@@ -1,0 +1,89 @@
+{
+    "name": "Grotesk Condensed URW",
+    "url": "http://fontdeck.com/typeface/groteskcondensedurw",
+    "slug": "groteskcondensedurw",
+    "superfamily": "Urw Grotesk",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Grotesque"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Hermann Zapf"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "static",
+        "condensed",
+        "workhorse",
+        "sans-serif",
+        "urw grotesk",
+        "text",
+        "legible",
+        "sturdy",
+        "newspaper",
+        "humanist",
+        "neutral",
+        "grotesque",
+        "linear sans",
+        "transitional",
+        "german",
+        "superfamily",
+        "grotesk family"
+    ],
+    "variations": [
+        {
+            "name": "Extra-light",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/groteskcondensedurw/extralight",
+            "css": {
+                "font-family": "GroteskCondensedURWExtraLight",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2713",
+                "slug": "extralight",
+                "price": "FREE"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/groteskcondensedurw/light",
+            "css": {
+                "font-family": "Grotesk Condensed URW Light",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2712",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/groteskcondensedurw/bold",
+            "css": {
+                "font-family": "Grotesk Condensed URW Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2711",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "651",
+        "slug": "groteskcondensedurw"
+    },
+    "generatedAt": 1437609633340
+}

@@ -1,0 +1,179 @@
+{
+    "name": "Clarendon URW Extra Wide",
+    "url": "http://fontdeck.com/typeface/clarendonurwextrawide",
+    "slug": "clarendonurwextrawide",
+    "use": "heading",
+    "classification": [
+        "Slab Serif",
+        "Clarendon/Bracketed"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Hermann Eidenbenz"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "clarendon",
+        "heavy serif",
+        "wide"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/clarendonurwextrawide/light",
+            "css": {
+                "font-family": "Clarendon URW Extra Wide Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2909",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light Oblique",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/clarendonurwextrawide/lightoblique",
+            "css": {
+                "font-family": "ClarendoURExtrWidLighObliqu",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2908",
+                "slug": "lightoblique",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/clarendonurwextrawide/regular",
+            "css": {
+                "font-family": "ClarendonURWExtraWideRegular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2905",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Oblique",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/clarendonurwextrawide/oblique",
+            "css": {
+                "font-family": "ClarendonURWExtraWideOblique",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2904",
+                "slug": "oblique",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/clarendonurwextrawide/medium",
+            "css": {
+                "font-family": "Clarendon URW Extra Wide Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2907",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium Oblique",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/clarendonurwextrawide/mediumoblique",
+            "css": {
+                "font-family": "ClarendoURExtrWidMediuObliqu",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2906",
+                "slug": "mediumoblique",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/clarendonurwextrawide/bold",
+            "css": {
+                "font-family": "Clarendon URW Extra Wide Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2902",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Oblique",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/clarendonurwextrawide/boldoblique",
+            "css": {
+                "font-family": "ClarendoURExtrWidBolObliqu",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2903",
+                "slug": "boldoblique",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/clarendonurwextrawide/extrabold",
+            "css": {
+                "font-family": "ClarendonURWExtraWideExtraBold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2911",
+                "slug": "extrabold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-bold Oblique",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/clarendonurwextrawide/extraboldoblique",
+            "css": {
+                "font-family": "ClarendoURExtrWidExtrBolObliqu",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2910",
+                "slug": "extraboldoblique",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "676",
+        "slug": "clarendonurwextrawide"
+    },
+    "generatedAt": 1437609690996
+}

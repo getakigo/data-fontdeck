@@ -1,0 +1,226 @@
+{
+    "name": "Chennai Slab",
+    "url": "http://fontdeck.com/typeface/chennaislab",
+    "slug": "chennaislab",
+    "superfamily": "Chennai",
+    "use": "heading",
+    "classification": [
+        "Slab Serif",
+        "Grotesque/Geometric"
+    ],
+    "foundry": "Insigne",
+    "designer": [
+        "Jeremy Dooley"
+    ],
+    "opentype": [
+        "liga"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "opentype",
+        "feminine",
+        "legible",
+        "soft",
+        "friendly",
+        "rounded",
+        "chennai",
+        "modern",
+        "plain",
+        "insigne",
+        "fashionable",
+        "european",
+        "headline",
+        "futuristic",
+        "clean",
+        "superfamily"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/chennaislab/thin",
+            "css": {
+                "font-family": "Chennai Slab Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "595",
+                "slug": "thin",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Thin Oblique",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/chennaislab/thinoblique",
+            "css": {
+                "font-family": "Chennai Slab Thin Oblique",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "594",
+                "slug": "thinoblique",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/chennaislab/light",
+            "css": {
+                "font-family": "Chennai Slab Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "589",
+                "slug": "light",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Light Oblique",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/chennaislab/lightoblique",
+            "css": {
+                "font-family": "Chennai Slab Light Oblique",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "588",
+                "slug": "lightoblique",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/chennaislab/regular",
+            "css": {
+                "font-family": "Chennai Slab Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "593",
+                "slug": "regular",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Regular Oblique",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/chennaislab/oblique",
+            "css": {
+                "font-family": "Chennai Slab Oblique",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "592",
+                "slug": "oblique",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/chennaislab/medium",
+            "css": {
+                "font-family": "Chennai Slab Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "591",
+                "slug": "medium",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Medium Oblique",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/chennaislab/mediumoblique",
+            "css": {
+                "font-family": "Chennai Slab Medium Oblique",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "590",
+                "slug": "mediumoblique",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/chennaislab/bold",
+            "css": {
+                "font-family": "Chennai Slab Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "587",
+                "slug": "bold",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Bold Oblique",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/chennaislab/boldoblique",
+            "css": {
+                "font-family": "Chennai Slab Bold Oblique",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "586",
+                "slug": "boldoblique",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/chennaislab/black",
+            "css": {
+                "font-family": "Chennai Slab Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "585",
+                "slug": "black",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Black Oblique",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/chennaislab/blackoblique",
+            "css": {
+                "font-family": "Chennai Slab Black Oblique",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "584",
+                "slug": "blackoblique",
+                "price": "$7.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "211",
+        "slug": "chennaislab"
+    },
+    "generatedAt": 1437609016556
+}

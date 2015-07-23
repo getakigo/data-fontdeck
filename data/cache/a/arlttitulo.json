@@ -1,0 +1,149 @@
+{
+    "name": "Arlt Titulo",
+    "url": "http://fontdeck.com/typeface/arlttitulo",
+    "slug": "arlttitulo",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Baroque"
+    ],
+    "foundry": "PampaType",
+    "designer": [
+        "Alejandro Lo Celso"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "family",
+        "expressive",
+        "poetry",
+        "serif",
+        "titling",
+        "seven madmen",
+        "literary",
+        "creative review",
+        "optical sizes",
+        "openface",
+        "siete locos",
+        "text",
+        "argentina",
+        "system",
+        "contemporary",
+        "quirky",
+        "author",
+        "literature",
+        "poetic",
+        "calligraphic",
+        "typographica",
+        "headline",
+        "deco",
+        "multistyle",
+        "display",
+        "nice rhythm",
+        "argentinian",
+        "books",
+        "novels",
+        "workhorse",
+        "roberto arlt",
+        "argentinean",
+        "legible",
+        "e-books",
+        "true italics",
+        "comfortable",
+        "decorative",
+        "elegant",
+        "sensitive",
+        "expressionist",
+        "serapion",
+        "engraved",
+        "oldstyle",
+        "magazines",
+        "delicate",
+        "readable",
+        "inline",
+        "distressed"
+    ],
+    "variations": [
+        {
+            "name": "Hueca",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/arlttitulo/hueca",
+            "css": {
+                "font-family": "Arlt Titulo Hueca",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8963",
+                "slug": "hueca",
+                "price": "$20.00"
+            }
+        },
+        {
+            "name": "Blanca",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/arlttitulo/blanca",
+            "css": {
+                "font-family": "Arlt Titulo Blanca",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8959",
+                "slug": "blanca",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Negra",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/arlttitulo/negra",
+            "css": {
+                "font-family": "Arlt Titulo Negra",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8961",
+                "slug": "negra",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Blanca Italica",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/arlttitulo/blancaitalica",
+            "css": {
+                "font-family": "Arlt Titulo Blanca Italica",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8960",
+                "slug": "blancaitalica",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Negra Italica",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/arlttitulo/negraitalica",
+            "css": {
+                "font-family": "Arlt Titulo Negra Italica",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8962",
+                "slug": "negraitalica",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "2008",
+        "slug": "arlttitulo"
+    },
+    "generatedAt": 1437611588236
+}

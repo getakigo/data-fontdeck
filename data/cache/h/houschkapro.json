@@ -1,0 +1,226 @@
+{
+    "name": "Houschka Pro",
+    "url": "http://fontdeck.com/typeface/houschkapro",
+    "slug": "houschkapro",
+    "superfamily": "Houschka",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "G-Type",
+    "designer": [
+        "Nick Cooke"
+    ],
+    "opentype": [
+        "calt",
+        "dlig",
+        "liga",
+        "lnum",
+        "onum",
+        "pnum",
+        "salt",
+        "ss01",
+        "ss02",
+        "ss03",
+        "tnum"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "opentype",
+        "legible",
+        "magazine",
+        "modern",
+        "corporate",
+        "headline"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/houschkapro/thin",
+            "css": {
+                "font-family": "Houschka Pro Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6816",
+                "slug": "thin",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Thin Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/houschkapro/thinitalic",
+            "css": {
+                "font-family": "Houschka Pro Thin Italic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6817",
+                "slug": "thinitalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/houschkapro/light",
+            "css": {
+                "font-family": "Houschka Pro Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6812",
+                "slug": "light",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/houschkapro/lightitalic",
+            "css": {
+                "font-family": "Houschka Pro Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6813",
+                "slug": "lightitalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/houschkapro/medium",
+            "css": {
+                "font-family": "Houschka Pro Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6815",
+                "slug": "medium",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/houschkapro/mediumitalic",
+            "css": {
+                "font-family": "Houschka Pro Medium Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6814",
+                "slug": "mediumitalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/houschkapro/bold",
+            "css": {
+                "font-family": "Houschka Pro Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6806",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/houschkapro/bolditalic",
+            "css": {
+                "font-family": "Houschka Pro Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6807",
+                "slug": "bolditalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/houschkapro/extrabold",
+            "css": {
+                "font-family": "Houschka Pro ExtraBold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6810",
+                "slug": "extrabold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Extra-bold Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/houschkapro/extrabolditalic",
+            "css": {
+                "font-family": "Houschka Pro ExtraBold Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6811",
+                "slug": "extrabolditalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "DemiBold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/houschkapro/demibold",
+            "css": {
+                "font-family": "Houschka Pro DemiBold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6808",
+                "slug": "demibold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "DemiBold Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/houschkapro/demibolditalic",
+            "css": {
+                "font-family": "Houschka Pro DemiBold Italic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6809",
+                "slug": "demibolditalic",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1550",
+        "slug": "houschkapro"
+    },
+    "generatedAt": 1437611107780
+}

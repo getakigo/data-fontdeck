@@ -1,0 +1,49 @@
+{
+    "name": "Saf",
+    "url": "http://fontdeck.com/typeface/saf",
+    "slug": "saf",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Funny",
+        "Display",
+        "Comic Strip Lettering"
+    ],
+    "foundry": "Fontfabric",
+    "designer": [
+        "Svetoslav Simov"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "hand drawn",
+        "handwriting",
+        "heavy",
+        "funny",
+        "fun",
+        "legible"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/saf/regular",
+            "css": {
+                "font-family": "Saf Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3289",
+                "slug": "regular",
+                "price": "$3.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "787",
+        "slug": "saf"
+    },
+    "generatedAt": 1437609879315
+}

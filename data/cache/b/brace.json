@@ -1,0 +1,146 @@
+{
+    "name": "Brace",
+    "url": "http://fontdeck.com/typeface/brace",
+    "slug": "brace",
+    "use": "heading",
+    "classification": [
+        "Slab Serif",
+        "Grotesque/Geometric"
+    ],
+    "foundry": "Letters from Sweden",
+    "designer": [
+        "Göran Söderström"
+    ],
+    "opentype": [
+        "case",
+        "frac",
+        "liga",
+        "salt",
+        "ss01",
+        "ss02",
+        "ss03",
+        "zero"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "slab",
+        "robust",
+        "narrow",
+        "strong",
+        "slab serif"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/brace/thin",
+            "css": {
+                "font-family": "Brace Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8514",
+                "slug": "thin",
+                "price": "$17.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/brace/light",
+            "css": {
+                "font-family": "Brace Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8515",
+                "slug": "light",
+                "price": "$17.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/brace/regular",
+            "css": {
+                "font-family": "Brace Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8513",
+                "slug": "regular",
+                "price": "$17.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/brace/medium",
+            "css": {
+                "font-family": "Brace Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8516",
+                "slug": "medium",
+                "price": "$17.50"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/brace/semibold",
+            "css": {
+                "font-family": "Brace SemiBold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8518",
+                "slug": "semibold",
+                "price": "$17.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/brace/bold",
+            "css": {
+                "font-family": "Brace Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8517",
+                "slug": "bold",
+                "price": "$17.50"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/brace/extrabold",
+            "css": {
+                "font-family": "Brace ExtraBold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8519",
+                "slug": "extrabold",
+                "price": "$17.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1971",
+        "slug": "brace"
+    },
+    "generatedAt": 1437611501504
+}

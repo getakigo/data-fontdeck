@@ -1,0 +1,131 @@
+{
+    "name": "Epitet",
+    "url": "http://fontdeck.com/typeface/epitet",
+    "slug": "epitet",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "Tour de Force",
+    "designer": [
+        "Dušan Jelesijević"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "modern",
+        "compact",
+        "elegant",
+        "simple",
+        "sans-serif",
+        "geometric",
+        "text",
+        "comprehensive",
+        "legible",
+        "smooth",
+        "editorial",
+        "corporate",
+        "sans serif",
+        "subtle",
+        "versatile"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/epitet/thin",
+            "css": {
+                "font-family": "Epitet Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5398",
+                "slug": "thin",
+                "price": "$7.49"
+            }
+        },
+        {
+            "name": "Extra-light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/epitet/extralight",
+            "css": {
+                "font-family": "Epitet Extralight",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5399",
+                "slug": "extralight",
+                "price": "$7.49"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/epitet/light",
+            "css": {
+                "font-family": "Epitet Light",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5397",
+                "slug": "light",
+                "price": "$7.49"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/epitet/regular",
+            "css": {
+                "font-family": "Epitet Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5394",
+                "slug": "regular",
+                "price": "$7.49"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/epitet/semibold",
+            "css": {
+                "font-family": "Epitet Semibold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5396",
+                "slug": "semibold",
+                "price": "$7.49"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/epitet/bold",
+            "css": {
+                "font-family": "Epitet Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5395",
+                "slug": "bold",
+                "price": "$7.49"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1269",
+        "slug": "epitet"
+    },
+    "generatedAt": 1437610603026
+}

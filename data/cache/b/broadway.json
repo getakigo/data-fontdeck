@@ -1,0 +1,151 @@
+{
+    "name": "Broadway",
+    "url": "http://fontdeck.com/typeface/broadway",
+    "slug": "broadway",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Morris Fuller Benton"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "decorative",
+        "artdeco",
+        "american",
+        "1920s",
+        "art deco"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/broadway/regular",
+            "css": {
+                "font-family": "Broadway Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "960",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Compressed",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/broadway/compressed",
+            "css": {
+                "font-family": "Broadway Compressed",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "953",
+                "slug": "compressed",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Engraved Outline",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/broadway/engravedoutline",
+            "css": {
+                "font-family": "Broadway Engraved Outline",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "954",
+                "slug": "engravedoutline",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Outline",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/broadway/outline",
+            "css": {
+                "font-family": "Broadway Outline",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "957",
+                "slug": "outline",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Engraved Small Caps",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/broadway/engravedsmallcaps",
+            "css": {
+                "font-family": "Broadway Engraved Small Caps",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "955",
+                "slug": "engravedsmallcaps",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Small Caps",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/broadway/smallcaps",
+            "css": {
+                "font-family": "Broadway Small Caps",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "959",
+                "slug": "smallcaps",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Engraved",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/broadway/engraved",
+            "css": {
+                "font-family": "Broadway Engraved",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "956",
+                "slug": "engraved",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Round",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/broadway/round",
+            "css": {
+                "font-family": "Broadway Round",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "958",
+                "slug": "round",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "279",
+        "slug": "broadway"
+    },
+    "generatedAt": 1437609129951
+}

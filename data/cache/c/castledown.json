@@ -1,0 +1,137 @@
+{
+    "name": "Castledown",
+    "url": "http://fontdeck.com/typeface/castledown",
+    "slug": "castledown",
+    "superfamily": "Castledown",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "Colophon",
+    "designer": [
+        "Edd Harrington",
+        "Anthony Sheret"
+    ],
+    "opentype": [
+        "hist",
+        "liga",
+        "pnum",
+        "tnum"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "opentype",
+        "warm",
+        "accessible",
+        "legible",
+        "children",
+        "friendly",
+        "open",
+        "education",
+        "school",
+        "clear",
+        "readable",
+        "superfamily",
+        "easy to read"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/castledown/regular",
+            "css": {
+                "font-family": "Castledown Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7938",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/castledown/bold",
+            "css": {
+                "font-family": "Castledown Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7943",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/castledown/heavy",
+            "css": {
+                "font-family": "Castledown Heavy",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7941",
+                "slug": "heavy",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Fun",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/castledown/fun",
+            "css": {
+                "font-family": "Castledown Fun",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7939",
+                "slug": "fun",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Fun Heavy",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/castledown/funheavy",
+            "css": {
+                "font-family": "Castledown Fun Heavy",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7940",
+                "slug": "funheavy",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Fun Bold",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/castledown/funbold",
+            "css": {
+                "font-family": "Castledown Fun Bold",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7942",
+                "slug": "funbold",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1827",
+        "slug": "castledown"
+    },
+    "generatedAt": 1437611356655
+}

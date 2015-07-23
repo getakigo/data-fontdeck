@@ -1,0 +1,85 @@
+{
+    "name": "Blue Goblet Alt One",
+    "url": "http://fontdeck.com/typeface/bluegobletaltone",
+    "slug": "bluegobletaltone",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Casual"
+    ],
+    "foundry": "Insigne",
+    "designer": [
+        "Cory Godbey"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/bluegobletaltone/regular",
+            "css": {
+                "font-family": "Blue Goblet Alt One Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "514",
+                "slug": "regular",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Regular Oblique",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/bluegobletaltone/oblique",
+            "css": {
+                "font-family": "Blue Goblet Alt One Oblique",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "513",
+                "slug": "oblique",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/bluegobletaltone/bold",
+            "css": {
+                "font-family": "Blue Goblet Alt One Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "512",
+                "slug": "bold",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Bold Oblique",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/bluegobletaltone/boldoblique",
+            "css": {
+                "font-family": "BlueGobletAltOneBoldOblique",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "511",
+                "slug": "boldoblique",
+                "price": "$7.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "205",
+        "slug": "bluegobletaltone"
+    },
+    "generatedAt": 1437609008355
+}

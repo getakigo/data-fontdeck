@@ -1,0 +1,65 @@
+{
+    "name": "Byte SB",
+    "url": "http://fontdeck.com/typeface/bytesb",
+    "slug": "bytesb",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Futuristic",
+        "Display",
+        "Computer-related"
+    ],
+    "foundry": "SelfBuild Type Foundry",
+    "designer": [
+        "Craig Stainton"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "bitmap",
+        "low-res",
+        "electronic",
+        "narrow",
+        "blur",
+        "computer",
+        "space age"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/bytesb/regular",
+            "css": {
+                "font-family": "Byte SB Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1309",
+                "slug": "regular",
+                "price": "$8.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/bytesb/italic",
+            "css": {
+                "font-family": "Byte SB Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1310",
+                "slug": "italic",
+                "price": "$8.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "357",
+        "slug": "bytesb"
+    },
+    "generatedAt": 1437609224691
+}

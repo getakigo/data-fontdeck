@@ -1,0 +1,64 @@
+{
+    "name": "Laftatic 4F",
+    "url": "http://fontdeck.com/typeface/laftatic4f",
+    "slug": "laftatic4f",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Experimental",
+        "Display",
+        "Computer-related",
+        "Display",
+        "Decorative",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "4th february",
+    "designer": [
+        "Sergiy S. Tkachenko"
+    ],
+    "language": [
+        "latin",
+        "cyrillic"
+    ],
+    "tags": [
+        "monoline"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/laftatic4f/regular",
+            "css": {
+                "font-family": "Laftatic 4F Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3899",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/laftatic4f/italic",
+            "css": {
+                "font-family": "Laftatic 4F Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3900",
+                "slug": "italic",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "922",
+        "slug": "laftatic4f"
+    },
+    "generatedAt": 1437610128057
+}

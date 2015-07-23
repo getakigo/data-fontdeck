@@ -1,0 +1,174 @@
+{
+    "name": "FS Matthew Web",
+    "url": "http://fontdeck.com/typeface/fsmatthewweb",
+    "slug": "fsmatthewweb",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Humanist"
+    ],
+    "foundry": "Fontsmith",
+    "designer": [
+        "Jason Smith"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "curves",
+        "opentype",
+        "simple",
+        "condensed",
+        "open forms",
+        "sharp",
+        "legible",
+        "sound",
+        "open",
+        "structured",
+        "economical",
+        "crisp",
+        "billboard",
+        "business",
+        "efficient",
+        "radiant",
+        "swooping",
+        "logotype",
+        "flavourful",
+        "stylish",
+        "clear",
+        "drama",
+        "identity",
+        "space-saving",
+        "signage",
+        "corporate",
+        "lively",
+        "clean"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/fsmatthewweb/light",
+            "css": {
+                "font-family": "FS Matthew Web Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7475",
+                "slug": "light",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/fsmatthewweb/lightitalic",
+            "css": {
+                "font-family": "FS Matthew Web Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7473",
+                "slug": "lightitalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/fsmatthewweb/regular",
+            "css": {
+                "font-family": "FS Matthew Web Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7477",
+                "slug": "regular",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/fsmatthewweb/italic",
+            "css": {
+                "font-family": "FS Matthew Web Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7472",
+                "slug": "italic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/fsmatthewweb/medium",
+            "css": {
+                "font-family": "FS Matthew Web Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7476",
+                "slug": "medium",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/fsmatthewweb/mediumitalic",
+            "css": {
+                "font-family": "FS Matthew Web Medium Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7474",
+                "slug": "mediumitalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/fsmatthewweb/bold",
+            "css": {
+                "font-family": "FS Matthew Web Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7471",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/fsmatthewweb/bolditalic",
+            "css": {
+                "font-family": "FS Matthew Web Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7470",
+                "slug": "bolditalic",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1737",
+        "slug": "fsmatthewweb"
+    },
+    "generatedAt": 1437611171894
+}

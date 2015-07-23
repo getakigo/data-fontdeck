@@ -1,0 +1,51 @@
+{
+    "name": "Value Serif",
+    "url": "http://fontdeck.com/typeface/valueserif",
+    "slug": "valueserif",
+    "superfamily": "Value",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Venetian"
+    ],
+    "foundry": "Colophon",
+    "designer": [
+        "Benjamin Critton"
+    ],
+    "opentype": [
+        "liga"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "opentype",
+        "serif",
+        "open forms",
+        "bookman",
+        "bookman-like",
+        "superfamily"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/valueserif/regular",
+            "css": {
+                "font-family": "Value Serif Regular",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6350",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1459",
+        "slug": "valueserif"
+    },
+    "generatedAt": 1437610885949
+}

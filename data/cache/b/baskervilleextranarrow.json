@@ -1,0 +1,190 @@
+{
+    "name": "Baskerville Extra Narrow",
+    "url": "http://fontdeck.com/typeface/baskervilleextranarrow",
+    "slug": "baskervilleextranarrow",
+    "superfamily": "Baskerville",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Transitional"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "John Baskerville",
+        "URW Studio"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "sensible",
+        "neutral",
+        "formal",
+        "old style",
+        "1990s",
+        "elegante",
+        "english",
+        "legible",
+        "super family",
+        "valuable",
+        "didone",
+        "german"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/baskervilleextranarrow/regular",
+            "css": {
+                "font-family": "BaskervilleExtraNarrowRegular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2848",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Oblique",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/baskervilleextranarrow/oblique",
+            "css": {
+                "font-family": "BaskervilleExtraNarrowOblique",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2853",
+                "slug": "oblique",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/baskervilleextranarrow/medium",
+            "css": {
+                "font-family": "Baskerville Extra Narrow Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2849",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium Oblique",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/baskervilleextranarrow/mediumoblique",
+            "css": {
+                "font-family": "BaskervillExtrNarroMediuObliqu",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2854",
+                "slug": "mediumoblique",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/baskervilleextranarrow/bold",
+            "css": {
+                "font-family": "Baskerville Extra Narrow Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2850",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Oblique",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/baskervilleextranarrow/boldoblique",
+            "css": {
+                "font-family": "BaskervillExtrNarroBolObliqu",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2855",
+                "slug": "boldoblique",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/baskervilleextranarrow/extrabold",
+            "css": {
+                "font-family": "BaskervilleExtraNarrowExtraBold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2851",
+                "slug": "extrabold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-bold Oblique",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/baskervilleextranarrow/extraboldoblique",
+            "css": {
+                "font-family": "BaskervilExtNarrExtBoObliq",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2856",
+                "slug": "extraboldoblique",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Ultra Bold",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/baskervilleextranarrow/ultrabold",
+            "css": {
+                "font-family": "BaskervilleExtraNarrowUltraBold",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2852",
+                "slug": "ultrabold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Ultra Bold Oblique",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/baskervilleextranarrow/ultraboldoblique",
+            "css": {
+                "font-family": "BaskervilExtNarrUltBoObliq",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2857",
+                "slug": "ultraboldoblique",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "671",
+        "slug": "baskervilleextranarrow"
+    },
+    "generatedAt": 1437609680785
+}

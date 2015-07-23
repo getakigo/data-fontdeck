@@ -1,0 +1,102 @@
+{
+    "name": "Athelas",
+    "url": "http://fontdeck.com/typeface/athelas",
+    "slug": "athelas",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Transitional"
+    ],
+    "foundry": "TypeTogether",
+    "designer": [
+        "Veronika Burian",
+        "José Scaglione"
+    ],
+    "opentype": [
+        "liga"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "opentype",
+        "elegant",
+        "english",
+        "book",
+        "fashionable",
+        "text",
+        "legible",
+        "headline",
+        "garalde",
+        "graceful",
+        "magazine",
+        "book text"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/athelas/regular",
+            "css": {
+                "font-family": "Athelas Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1118",
+                "slug": "regular",
+                "price": "$19.99"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/athelas/italic",
+            "css": {
+                "font-family": "Athelas Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1119",
+                "slug": "italic",
+                "price": "$19.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/athelas/bold",
+            "css": {
+                "font-family": "Athelas Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1116",
+                "slug": "bold",
+                "price": "$19.99"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/athelas/bolditalic",
+            "css": {
+                "font-family": "Athelas Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1117",
+                "slug": "bolditalic",
+                "price": "$19.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "307",
+        "slug": "athelas"
+    },
+    "generatedAt": 1437609175395
+}

@@ -1,0 +1,112 @@
+{
+    "name": "Changeling Neo",
+    "url": "http://fontdeck.com/typeface/changelingneo",
+    "slug": "changelingneo",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Futuristic",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "Mark Simonson Studio",
+    "designer": [
+        "Mark Simonson"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "1970s",
+        "techno",
+        "technical",
+        "geometric",
+        "mechanical",
+        "retro",
+        "futuristic",
+        "square sans",
+        "wide"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/changelingneo/light",
+            "css": {
+                "font-family": "Changeling Neo Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1274",
+                "slug": "light",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/changelingneo/regular",
+            "css": {
+                "font-family": "Changeling Neo Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1275",
+                "slug": "regular",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/changelingneo/bold",
+            "css": {
+                "font-family": "Changeling Neo Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1272",
+                "slug": "bold",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Stencil",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/changelingneo/stencil",
+            "css": {
+                "font-family": "Changeling Neo Stencil",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1276",
+                "slug": "stencil",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Inline",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/changelingneo/inline",
+            "css": {
+                "font-family": "Changeling Neo Inline",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1273",
+                "slug": "inline",
+                "price": "$9.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "347",
+        "slug": "changelingneo"
+    },
+    "generatedAt": 1437609204766
+}

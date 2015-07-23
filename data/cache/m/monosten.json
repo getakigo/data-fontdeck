@@ -1,0 +1,122 @@
+{
+    "name": "Monosten",
+    "url": "http://fontdeck.com/typeface/monosten",
+    "slug": "monosten",
+    "use": "body",
+    "classification": [
+        "Slab Serif",
+        "Monospaced",
+        "Sans Serif",
+        "Monospaced"
+    ],
+    "foundry": "Colophon",
+    "designer": [
+        "Edd Harrington",
+        "Anthony Sheret"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "modern",
+        "monospace",
+        "stencil"
+    ],
+    "variations": [
+        {
+            "name": "A",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/monosten/a",
+            "css": {
+                "font-family": "Monosten A",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3439",
+                "slug": "a",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "D",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/monosten/d",
+            "css": {
+                "font-family": "Monosten D",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3442",
+                "slug": "d",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "B",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/monosten/b",
+            "css": {
+                "font-family": "Monosten B",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3440",
+                "slug": "b",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "F",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/monosten/f",
+            "css": {
+                "font-family": "Monosten F",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3444",
+                "slug": "f",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "E",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/monosten/e",
+            "css": {
+                "font-family": "Monosten E",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3443",
+                "slug": "e",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "C",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/monosten/c",
+            "css": {
+                "font-family": "Monosten C",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3441",
+                "slug": "c",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "835",
+        "slug": "monosten"
+    },
+    "generatedAt": 1437609965201
+}

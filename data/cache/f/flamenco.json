@@ -1,0 +1,73 @@
+{
+    "name": "Flamenco",
+    "url": "http://fontdeck.com/typeface/flamenco",
+    "slug": "flamenco",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Serif"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "URW Studio"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "sensible",
+        "1970s",
+        "1990s",
+        "english",
+        "informal",
+        "sturdy",
+        "economic",
+        "natural",
+        "black",
+        "decorative",
+        "neutral",
+        "elegant",
+        "headline",
+        "german",
+        "valuable",
+        "transitional",
+        "italic"
+    ],
+    "variations": [
+        {
+            "name": "Standard",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/flamenco/standard",
+            "css": {
+                "font-family": "Flamenco Standard",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1511",
+                "slug": "standard",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Inline Standard",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/flamenco/inlinestandard",
+            "css": {
+                "font-family": "Flamenco Inline Standard",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1510",
+                "slug": "inlinestandard",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "405",
+        "slug": "flamenco"
+    },
+    "generatedAt": 1437609292827
+}

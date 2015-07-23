@@ -1,0 +1,93 @@
+{
+    "name": "Pragmata Pro",
+    "url": "http://fontdeck.com/typeface/pragmatapro",
+    "slug": "pragmatapro",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Monospaced"
+    ],
+    "foundry": "Fabrizio Schiavi Design",
+    "designer": [
+        "Fabrizio Schiavi"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "coding",
+        "compact",
+        "less scrolling",
+        "narrow",
+        "programming",
+        "true italics",
+        "hand-hinted"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/pragmatapro/regular",
+            "css": {
+                "font-family": "Pragmata Pro Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4223",
+                "slug": "regular",
+                "price": "$25.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/pragmatapro/italic",
+            "css": {
+                "font-family": "Pragmata Pro Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4225",
+                "slug": "italic",
+                "price": "$25.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/pragmatapro/bold",
+            "css": {
+                "font-family": "Pragmata Pro Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4224",
+                "slug": "bold",
+                "price": "$25.00"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/pragmatapro/bolditalic",
+            "css": {
+                "font-family": "Pragmata Pro Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4226",
+                "slug": "bolditalic",
+                "price": "$25.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "991",
+        "slug": "pragmatapro"
+    },
+    "generatedAt": 1437610258468
+}

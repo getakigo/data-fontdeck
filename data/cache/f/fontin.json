@@ -1,0 +1,93 @@
+{
+    "name": "Fontin",
+    "url": "http://fontdeck.com/typeface/fontin",
+    "slug": "fontin",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Venetian"
+    ],
+    "foundry": "Exljbris",
+    "designer": [
+        "Jos Buivenga"
+    ],
+    "opentype": [
+        "liga"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "opentype",
+        "old style",
+        "old style serif",
+        "fontin"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/fontin/regular",
+            "css": {
+                "font-family": "Fontin Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "680",
+                "slug": "regular",
+                "price": "$2.99"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/fontin/italic",
+            "css": {
+                "font-family": "Fontin Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "681",
+                "slug": "italic",
+                "price": "$2.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/fontin/bold",
+            "css": {
+                "font-family": "Fontin Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "682",
+                "slug": "bold",
+                "price": "$2.99"
+            }
+        },
+        {
+            "name": "Small Caps",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/fontin/smallcaps",
+            "css": {
+                "font-family": "Fontin Small Caps",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "683",
+                "slug": "smallcaps",
+                "price": "$2.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "227",
+        "slug": "fontin"
+    },
+    "generatedAt": 1437609046546
+}

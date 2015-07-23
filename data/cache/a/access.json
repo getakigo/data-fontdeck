@@ -1,0 +1,192 @@
+{
+    "name": "Access",
+    "url": "http://fontdeck.com/typeface/access",
+    "slug": "access",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Neo-Grotesk"
+    ],
+    "foundry": "Playtype",
+    "designer": [
+        "Jonas Hecksher"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "square"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/access/light",
+            "css": {
+                "font-family": "Access Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5747",
+                "slug": "light",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Book",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/access/book",
+            "css": {
+                "font-family": "Access Book",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5748",
+                "slug": "book",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/access/regular",
+            "css": {
+                "font-family": "Access Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5750",
+                "slug": "regular",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/access/italic",
+            "css": {
+                "font-family": "Access Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5758",
+                "slug": "italic",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/access/bold",
+            "css": {
+                "font-family": "Access Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5751",
+                "slug": "bold",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/access/bolditalic",
+            "css": {
+                "font-family": "Access Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5752",
+                "slug": "bolditalic",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/access/extrabold",
+            "css": {
+                "font-family": "Access ExtraBold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5756",
+                "slug": "extrabold",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/access/heavy",
+            "css": {
+                "font-family": "Access Heavy",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5757",
+                "slug": "heavy",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Bold Caps",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/access/boldcaps",
+            "css": {
+                "font-family": "Access Bold Caps",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5753",
+                "slug": "boldcaps",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Access Caps",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/access/accesscaps",
+            "css": {
+                "font-family": "Access Access Caps",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5754",
+                "slug": "accesscaps",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "DemiBold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/access/demibold",
+            "css": {
+                "font-family": "Access DemiBold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5755",
+                "slug": "demibold",
+                "price": "$40.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1327",
+        "slug": "access"
+    },
+    "generatedAt": 1437610731098
+}

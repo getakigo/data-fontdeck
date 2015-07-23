@@ -1,0 +1,95 @@
+{
+    "name": "CP Company",
+    "url": "http://fontdeck.com/typeface/cpcompany",
+    "slug": "cpcompany",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "Fabrizio Schiavi Design",
+    "designer": [
+        "Fabrizio Schiavi"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "advertising",
+        "graphic",
+        "broadcasting",
+        "geometric",
+        "logo",
+        "identity",
+        "small size",
+        "strong",
+        "hand-hinted"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/cpcompany/light",
+            "css": {
+                "font-family": "CP Company Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4036",
+                "slug": "light",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/cpcompany/regular",
+            "css": {
+                "font-family": "CP Company Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4034",
+                "slug": "regular",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/cpcompany/bold",
+            "css": {
+                "font-family": "CP Company Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4035",
+                "slug": "bold",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/cpcompany/black",
+            "css": {
+                "font-family": "CP Company Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4037",
+                "slug": "black",
+                "price": "$9.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "955",
+        "slug": "cpcompany"
+    },
+    "generatedAt": 1437610170459
+}

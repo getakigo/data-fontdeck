@@ -1,0 +1,47 @@
+{
+    "name": "Oolala",
+    "url": "http://fontdeck.com/typeface/oolala",
+    "slug": "oolala",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Poster"
+    ],
+    "foundry": "Emboss Fonts",
+    "designer": [
+        "Stephen Boss"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "linoleum cut",
+        "linoleum",
+        "posters",
+        "whimsical",
+        "handout",
+        "poster"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/oolala/regular",
+            "css": {
+                "font-family": "Oolala Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6945",
+                "slug": "regular",
+                "price": "$8.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1588",
+        "slug": "oolala"
+    },
+    "generatedAt": 1437611048680
+}

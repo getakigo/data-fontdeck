@@ -1,0 +1,1391 @@
+Retriving list of fonts from Fontdeck.com
+Start time: Thu Jul 23 2015 00:43:32 GMT+0100 (BST)
+---------------------------------------------------
+
+Requesting batch 1 [1 - 10] ...
+Completed after 15.703 seconds
+
+Delaying next batch by 8.864 seconds
+
+Requesting batch 2 [11 - 20] ...
+Completed after 13.851 seconds
+
+Delaying next batch by 6.267 seconds
+
+Requesting batch 3 [21 - 30] ...
+Completed after 12.644 seconds
+
+Delaying next batch by 8.942 seconds
+
+Requesting batch 4 [31 - 40] ...
+Completed after 13.405 seconds
+
+Delaying next batch by 6.221 seconds
+
+Requesting batch 5 [41 - 50] ...
+Completed after 12.051 seconds
+
+Delaying next batch by 6.726 seconds
+
+Requesting batch 6 [51 - 60] ...
+Completed after 12.031 seconds
+
+Delaying next batch by 6.782 seconds
+
+Requesting batch 7 [61 - 70] ...
+Completed after 11.839 seconds
+
+Delaying next batch by 7.545 seconds
+
+Requesting batch 8 [71 - 80] ...
+Completed after 12.203 seconds
+
+Delaying next batch by 5.248 seconds
+
+Requesting batch 9 [81 - 90] ...
+Completed after 11.923 seconds
+
+Delaying next batch by 7.513 seconds
+
+Requesting batch 10 [91 - 100] ...
+Completed after 12.746 seconds
+
+Delaying next batch by 7.104 seconds
+
+Requesting batch 11 [101 - 110] ...
+Completed after 12.149 seconds
+
+Delaying next batch by 7.931 seconds
+
+Requesting batch 12 [111 - 120] ...
+Completed after 12.888 seconds
+
+Delaying next batch by 7.012 seconds
+
+Requesting batch 13 [121 - 130] ...
+Completed after 12.064 seconds
+
+Delaying next batch by 8.585 seconds
+
+Requesting batch 14 [131 - 140] ...
+Completed after 12.347 seconds
+
+---------------------------------------------------
+End time: Thu Jul 23 2015 00:48:05 GMT+0100 (BST)
+Duration: 272.609 seconds
+Found 1302 fonts in total
+Output cached to data/cache/font-list.json
+
+
+Retriving font data for Fontdeck.com
+Start time: Thu Jul 23 2015 00:48:05 GMT+0100 (BST)
+---------------------------------------------------
+
+Requesting batch 1 (260 left) [1 - 5] ...
+Completed after 2.241 seconds
+
+Delaying next batch by 5.037 seconds
+
+Requesting batch 2 (259 left) [6 - 10] ...
+Completed after 3.655 seconds
+
+Delaying next batch by 7.17 seconds
+
+Requesting batch 3 (258 left) [11 - 15] ...
+Completed after 2.136 seconds
+
+Delaying next batch by 7.631 seconds
+
+Requesting batch 4 (257 left) [16 - 20] ...
+Completed after 1.747 seconds
+
+Delaying next batch by 7.312 seconds
+
+Requesting batch 5 (256 left) [21 - 25] ...
+Completed after 2.008 seconds
+
+Delaying next batch by 6.881 seconds
+
+Requesting batch 6 (255 left) [26 - 30] ...
+Completed after 2.309 seconds
+
+Delaying next batch by 8.145 seconds
+
+Requesting batch 7 (254 left) [31 - 35] ...
+Completed after 5.794 seconds
+
+Delaying next batch by 5.872 seconds
+
+Requesting batch 8 (253 left) [36 - 40] ...
+Completed after 1.873 seconds
+
+Delaying next batch by 5.113 seconds
+
+Requesting batch 9 (252 left) [41 - 45] ...
+Completed after 2.615 seconds
+
+Delaying next batch by 7.814 seconds
+
+Requesting batch 10 (251 left) [46 - 50] ...
+Completed after 1.285 seconds
+
+Delaying next batch by 6.876 seconds
+
+Requesting batch 11 (250 left) [51 - 55] ...
+Completed after 1.339 seconds
+
+Delaying next batch by 8.024 seconds
+
+Requesting batch 12 (249 left) [56 - 60] ...
+Completed after 1.35 seconds
+
+Delaying next batch by 6.193 seconds
+
+Requesting batch 13 (248 left) [61 - 65] ...
+Completed after 3.771 seconds
+
+Delaying next batch by 7.376 seconds
+
+Requesting batch 14 (247 left) [66 - 70] ...
+Completed after 2.637 seconds
+
+Delaying next batch by 4.971 seconds
+
+Requesting batch 15 (246 left) [71 - 75] ...
+Completed after 2.912 seconds
+
+Delaying next batch by 8.372 seconds
+
+Requesting batch 16 (245 left) [76 - 80] ...
+Completed after 1.936 seconds
+
+Delaying next batch by 7.05 seconds
+
+Requesting batch 17 (244 left) [81 - 85] ...
+Completed after 2.094 seconds
+
+Delaying next batch by 8.84 seconds
+
+Requesting batch 18 (243 left) [86 - 90] ...
+Completed after 1.653 seconds
+
+Delaying next batch by 7.178 seconds
+
+Requesting batch 19 (242 left) [91 - 95] ...
+Completed after 1.881 seconds
+
+Delaying next batch by 7.026 seconds
+
+Requesting batch 20 (241 left) [96 - 100] ...
+Completed after 2.337 seconds
+
+Delaying next batch by 7.2 seconds
+
+Requesting batch 21 (240 left) [101 - 105] ...
+Completed after 2.074 seconds
+
+Delaying next batch by 6.757 seconds
+
+Requesting batch 22 (239 left) [106 - 110] ...
+Completed after 2.059 seconds
+
+Delaying next batch by 8.291 seconds
+
+Requesting batch 23 (238 left) [111 - 115] ...
+Completed after 2.168 seconds
+
+Delaying next batch by 8.856 seconds
+
+Requesting batch 24 (237 left) [116 - 120] ...
+Completed after 1.325 seconds
+
+Delaying next batch by 6.431 seconds
+
+Requesting batch 25 (236 left) [121 - 125] ...
+Completed after 1.217 seconds
+
+Delaying next batch by 5.451 seconds
+
+Requesting batch 26 (235 left) [126 - 130] ...
+Completed after 5.112 seconds
+
+Delaying next batch by 6.315 seconds
+
+Requesting batch 27 (234 left) [131 - 135] ...
+Completed after 4.154 seconds
+
+Delaying next batch by 7.016 seconds
+
+Requesting batch 28 (233 left) [136 - 140] ...
+Completed after 8.121 seconds
+
+Delaying next batch by 6.449 seconds
+
+Requesting batch 29 (232 left) [141 - 145] ...
+Completed after 4.333 seconds
+
+Delaying next batch by 5.086 seconds
+
+Requesting batch 30 (231 left) [146 - 150] ...
+Completed after 3.389 seconds
+
+Delaying next batch by 5.132 seconds
+
+Requesting batch 31 (230 left) [151 - 155] ...
+Completed after 5.3 seconds
+
+Delaying next batch by 5.211 seconds
+
+Requesting batch 32 (229 left) [156 - 160] ...
+Completed after 1.639 seconds
+
+Delaying next batch by 8.22 seconds
+
+Requesting batch 33 (228 left) [161 - 165] ...
+Completed after 2.22 seconds
+
+Delaying next batch by 8.351 seconds
+
+Requesting batch 34 (227 left) [166 - 170] ...
+Completed after 1.337 seconds
+
+Delaying next batch by 8.823 seconds
+
+Requesting batch 35 (226 left) [171 - 175] ...
+Completed after 1.678 seconds
+
+Delaying next batch by 8.289 seconds
+
+Requesting batch 36 (225 left) [176 - 180] ...
+Completed after 1.225 seconds
+
+Delaying next batch by 4.916 seconds
+
+Requesting batch 37 (224 left) [181 - 185] ...
+Completed after 1.33 seconds
+
+Delaying next batch by 7.508 seconds
+
+Requesting batch 38 (223 left) [186 - 190] ...
+Completed after 3.179 seconds
+
+Delaying next batch by 7.473 seconds
+
+Requesting batch 39 (222 left) [191 - 195] ...
+Completed after 3.151 seconds
+
+Delaying next batch by 6.261 seconds
+
+Requesting batch 40 (221 left) [196 - 200] ...
+Completed after 4.515 seconds
+
+Delaying next batch by 6.227 seconds
+
+Requesting batch 41 (220 left) [201 - 205] ...
+Completed after 7.01 seconds
+
+Delaying next batch by 7.753 seconds
+
+Requesting batch 42 (219 left) [206 - 210] ...
+Completed after 1.782 seconds
+
+Delaying next batch by 5.9 seconds
+
+Requesting batch 43 (218 left) [211 - 215] ...
+Completed after 1.201 seconds
+
+Delaying next batch by 8.184 seconds
+
+Requesting batch 44 (217 left) [216 - 220] ...
+Completed after 3.365 seconds
+
+Delaying next batch by 6.023 seconds
+
+Requesting batch 45 (216 left) [221 - 225] ...
+Completed after 1.627 seconds
+
+Delaying next batch by 7.825 seconds
+
+Requesting batch 46 (215 left) [226 - 230] ...
+Completed after 1.185 seconds
+
+Delaying next batch by 5.776 seconds
+
+Requesting batch 47 (214 left) [231 - 235] ...
+Completed after 16.908 seconds
+
+Delaying next batch by 7.139 seconds
+
+Requesting batch 48 (213 left) [236 - 240] ...
+Completed after 1.768 seconds
+
+Delaying next batch by 5.714 seconds
+
+Requesting batch 49 (212 left) [241 - 245] ...
+Completed after 2.115 seconds
+
+Delaying next batch by 7.973 seconds
+
+Requesting batch 50 (211 left) [246 - 250] ...
+Completed after 2.465 seconds
+
+Delaying next batch by 5.821 seconds
+
+Requesting batch 51 (210 left) [251 - 255] ...
+Completed after 1.895 seconds
+
+Delaying next batch by 8.429 seconds
+
+Requesting batch 52 (209 left) [256 - 260] ...
+Completed after 2.533 seconds
+
+Delaying next batch by 8.22 seconds
+
+Requesting batch 53 (208 left) [261 - 265] ...
+Completed after 1.144 seconds
+
+Delaying next batch by 6.356 seconds
+
+Requesting batch 54 (207 left) [266 - 270] ...
+Completed after 2.256 seconds
+
+Delaying next batch by 7.583 seconds
+
+Requesting batch 55 (206 left) [271 - 275] ...
+Completed after 1.327 seconds
+
+Delaying next batch by 9.04 seconds
+
+Requesting batch 56 (205 left) [276 - 280] ...
+Completed after 3.585 seconds
+
+Delaying next batch by 8.881 seconds
+
+Requesting batch 57 (204 left) [281 - 285] ...
+Completed after 12.783 seconds
+
+Delaying next batch by 8.436 seconds
+
+Requesting batch 58 (203 left) [286 - 290] ...
+Completed after 3.334 seconds
+
+Delaying next batch by 8.27 seconds
+
+Requesting batch 59 (202 left) [291 - 295] ...
+Completed after 6.461 seconds
+
+Delaying next batch by 7.152 seconds
+
+Requesting batch 60 (201 left) [296 - 300] ...
+Completed after 2.544 seconds
+
+Delaying next batch by 8.352 seconds
+
+Requesting batch 61 (200 left) [301 - 305] ...
+Completed after 4.244 seconds
+
+Delaying next batch by 7.079 seconds
+
+Requesting batch 62 (199 left) [306 - 310] ...
+Completed after 5.029 seconds
+
+Delaying next batch by 6.072 seconds
+
+Requesting batch 63 (198 left) [311 - 315] ...
+Completed after 3.307 seconds
+
+Delaying next batch by 7.255 seconds
+
+Requesting batch 64 (197 left) [316 - 320] ...
+Completed after 8.458 seconds
+
+Delaying next batch by 5.571 seconds
+
+Requesting batch 65 (196 left) [321 - 325] ...
+Completed after 6.282 seconds
+
+Delaying next batch by 5.558 seconds
+
+Requesting batch 66 (195 left) [326 - 330] ...
+Completed after 2.46 seconds
+
+Delaying next batch by 8.183 seconds
+
+Requesting batch 67 (194 left) [331 - 335] ...
+Completed after 2.301 seconds
+
+Delaying next batch by 6.707 seconds
+
+Requesting batch 68 (193 left) [336 - 340] ...
+Completed after 2.764 seconds
+
+Delaying next batch by 6.551 seconds
+
+Requesting batch 69 (192 left) [341 - 345] ...
+Completed after 1.578 seconds
+
+Delaying next batch by 7.81 seconds
+
+Requesting batch 70 (191 left) [346 - 350] ...
+Completed after 1.554 seconds
+
+Delaying next batch by 6.887 seconds
+
+Requesting batch 71 (190 left) [351 - 355] ...
+Completed after 3.602 seconds
+
+Delaying next batch by 6.411 seconds
+
+Requesting batch 72 (189 left) [356 - 360] ...
+Completed after 4.272 seconds
+
+Delaying next batch by 7.475 seconds
+
+Requesting batch 73 (188 left) [361 - 365] ...
+Completed after 1.453 seconds
+
+Delaying next batch by 7.529 seconds
+
+Requesting batch 74 (187 left) [366 - 370] ...
+Completed after 2.96 seconds
+
+Delaying next batch by 5.778 seconds
+
+Requesting batch 75 (186 left) [371 - 375] ...
+Completed after 2.318 seconds
+
+Delaying next batch by 8.183 seconds
+
+Requesting batch 76 (185 left) [376 - 380] ...
+Completed after 5.252 seconds
+
+Delaying next batch by 5.963 seconds
+
+Requesting batch 77 (184 left) [381 - 385] ...
+Completed after 9.57 seconds
+
+Delaying next batch by 6.674 seconds
+
+Requesting batch 78 (183 left) [386 - 390] ...
+Completed after 3.134 seconds
+
+Delaying next batch by 7.474 seconds
+
+Requesting batch 79 (182 left) [391 - 395] ...
+Completed after 5.007 seconds
+
+Delaying next batch by 8.364 seconds
+
+Requesting batch 80 (181 left) [396 - 400] ...
+Completed after 5.414 seconds
+
+Delaying next batch by 8.268 seconds
+
+Requesting batch 81 (180 left) [401 - 405] ...
+Completed after 6.249 seconds
+
+Delaying next batch by 5.833 seconds
+
+Requesting batch 82 (179 left) [406 - 410] ...
+Completed after 7.887 seconds
+
+Delaying next batch by 5.293 seconds
+
+Requesting batch 83 (178 left) [411 - 415] ...
+Completed after 2.067 seconds
+
+Delaying next batch by 7.467 seconds
+
+Requesting batch 84 (177 left) [416 - 420] ...
+Completed after 1.805 seconds
+
+Delaying next batch by 8.788 seconds
+
+Requesting batch 85 (176 left) [421 - 425] ...
+Completed after 2.494 seconds
+
+Delaying next batch by 7.93 seconds
+
+Requesting batch 86 (175 left) [426 - 430] ...
+Completed after 4.296 seconds
+
+Delaying next batch by 6.912 seconds
+
+Requesting batch 87 (174 left) [431 - 435] ...
+Completed after 6.396 seconds
+
+Delaying next batch by 6.006 seconds
+
+Requesting batch 88 (173 left) [436 - 440] ...
+Completed after 2.086 seconds
+
+Delaying next batch by 6.91 seconds
+
+Requesting batch 89 (172 left) [441 - 445] ...
+Completed after 7.335 seconds
+
+Delaying next batch by 6.784 seconds
+
+Requesting batch 90 (171 left) [446 - 450] ...
+Completed after 4.082 seconds
+
+Delaying next batch by 5.776 seconds
+
+Requesting batch 91 (170 left) [451 - 455] ...
+Completed after 2.693 seconds
+
+Delaying next batch by 8.018 seconds
+
+Requesting batch 92 (169 left) [456 - 460] ...
+Completed after 8.063 seconds
+
+Delaying next batch by 4.921 seconds
+
+Requesting batch 93 (168 left) [461 - 465] ...
+Completed after 2.294 seconds
+
+Delaying next batch by 7.9 seconds
+
+Requesting batch 94 (167 left) [466 - 470] ...
+Completed after 3.318 seconds
+
+Delaying next batch by 5.697 seconds
+
+Requesting batch 95 (166 left) [471 - 475] ...
+Completed after 1.677 seconds
+
+Delaying next batch by 4.947 seconds
+
+Requesting batch 96 (165 left) [476 - 480] ...
+Completed after 1.301 seconds
+
+Delaying next batch by 8.637 seconds
+
+Requesting batch 97 (164 left) [481 - 485] ...
+Completed after 1.83 seconds
+
+Delaying next batch by 6.308 seconds
+
+Requesting batch 98 (163 left) [486 - 490] ...
+Completed after 1.975 seconds
+
+Delaying next batch by 7.512 seconds
+
+Requesting batch 99 (162 left) [491 - 495] ...
+Completed after 2.07 seconds
+
+Delaying next batch by 6.024 seconds
+
+Requesting batch 100 (161 left) [496 - 500] ...
+Completed after 1.45 seconds
+
+Delaying next batch by 7.876 seconds
+
+Requesting batch 101 (160 left) [501 - 505] ...
+Completed after 2.573 seconds
+
+Delaying next batch by 7.68 seconds
+
+Requesting batch 102 (159 left) [506 - 510] ...
+Completed after 1.294 seconds
+
+Delaying next batch by 8.892 seconds
+
+Requesting batch 103 (158 left) [511 - 515] ...
+Completed after 1.449 seconds
+
+Delaying next batch by 9.081 seconds
+
+Requesting batch 104 (157 left) [516 - 520] ...
+Completed after 1.356 seconds
+
+Delaying next batch by 8.417 seconds
+
+Requesting batch 105 (156 left) [521 - 525] ...
+Completed after 2.339 seconds
+
+Delaying next batch by 8.183 seconds
+
+Requesting batch 106 (155 left) [526 - 530] ...
+Completed after 1.829 seconds
+
+Delaying next batch by 7.073 seconds
+
+Requesting batch 107 (154 left) [531 - 535] ...
+Completed after 4.926 seconds
+
+Delaying next batch by 5.92 seconds
+
+Requesting batch 108 (153 left) [536 - 540] ...
+Completed after 2.71 seconds
+
+Delaying next batch by 8.419 seconds
+
+Requesting batch 109 (152 left) [541 - 545] ...
+Completed after 7.188 seconds
+
+Delaying next batch by 8.512 seconds
+
+Requesting batch 110 (151 left) [546 - 550] ...
+Completed after 3.437 seconds
+
+Delaying next batch by 8.437 seconds
+
+Requesting batch 111 (150 left) [551 - 555] ...
+Completed after 1.755 seconds
+
+Delaying next batch by 5.078 seconds
+
+Requesting batch 112 (149 left) [556 - 560] ...
+Completed after 2.368 seconds
+
+Delaying next batch by 8.808 seconds
+
+Requesting batch 113 (148 left) [561 - 565] ...
+Completed after 4.128 seconds
+
+Delaying next batch by 8.058 seconds
+
+Requesting batch 114 (147 left) [566 - 570] ...
+Completed after 2.371 seconds
+
+Delaying next batch by 6.18 seconds
+
+Requesting batch 115 (146 left) [571 - 575] ...
+Completed after 2.961 seconds
+
+Delaying next batch by 5.553 seconds
+
+Requesting batch 116 (145 left) [576 - 580] ...
+Completed after 2.264 seconds
+
+Delaying next batch by 7.772 seconds
+
+Requesting batch 117 (144 left) [581 - 585] ...
+Completed after 2.662 seconds
+
+Delaying next batch by 5.149 seconds
+
+Requesting batch 118 (143 left) [586 - 590] ...
+Completed after 5.196 seconds
+
+Delaying next batch by 8.302 seconds
+
+Requesting batch 119 (142 left) [591 - 595] ...
+Completed after 1.992 seconds
+
+Delaying next batch by 5.971 seconds
+
+Requesting batch 120 (141 left) [596 - 600] ...
+Completed after 2.354 seconds
+
+Delaying next batch by 5.242 seconds
+
+Requesting batch 121 (140 left) [601 - 605] ...
+Completed after 4.57 seconds
+
+Delaying next batch by 5.669 seconds
+
+Requesting batch 122 (139 left) [606 - 610] ...
+Completed after 2.961 seconds
+
+Delaying next batch by 7.127 seconds
+
+Requesting batch 123 (138 left) [611 - 615] ...
+Completed after 2.456 seconds
+
+Delaying next batch by 6.318 seconds
+
+Requesting batch 124 (137 left) [616 - 620] ...
+Completed after 4.369 seconds
+
+Delaying next batch by 7.835 seconds
+
+Requesting batch 125 (136 left) [621 - 625] ...
+Completed after 12.339 seconds
+
+Delaying next batch by 6.856 seconds
+
+Requesting batch 126 (135 left) [626 - 630] ...
+Completed after 2.213 seconds
+
+Delaying next batch by 9.028 seconds
+
+Requesting batch 127 (134 left) [631 - 635] ...
+Completed after 2.663 seconds
+
+Delaying next batch by 5.103 seconds
+
+Requesting batch 128 (133 left) [636 - 640] ...
+Completed after 3.514 seconds
+
+Delaying next batch by 5.275 seconds
+
+Requesting batch 129 (132 left) [641 - 645] ...
+Completed after 8.454 seconds
+
+Delaying next batch by 8.65 seconds
+
+Requesting batch 130 (131 left) [646 - 650] ...
+Completed after 6.722 seconds
+
+Delaying next batch by 6.041 seconds
+
+Requesting batch 131 (130 left) [651 - 655] ...
+Completed after 6.435 seconds
+
+Delaying next batch by 5.133 seconds
+
+Requesting batch 132 (129 left) [656 - 660] ...
+Completed after 2.009 seconds
+
+Delaying next batch by 7.309 seconds
+
+Requesting batch 133 (128 left) [661 - 665] ...
+Completed after 5.351 seconds
+
+Delaying next batch by 6.83 seconds
+
+Requesting batch 134 (127 left) [666 - 670] ...
+Completed after 3.991 seconds
+
+Delaying next batch by 6.76 seconds
+
+Requesting batch 135 (126 left) [671 - 675] ...
+Completed after 2.41 seconds
+
+Delaying next batch by 5.953 seconds
+
+Requesting batch 136 (125 left) [676 - 680] ...
+Completed after 3.944 seconds
+
+Delaying next batch by 6.893 seconds
+
+Requesting batch 137 (124 left) [681 - 685] ...
+Completed after 3.842 seconds
+
+Delaying next batch by 6.692 seconds
+
+Requesting batch 138 (123 left) [686 - 690] ...
+Completed after 28.814 seconds
+
+Delaying next batch by 5.212 seconds
+
+Requesting batch 139 (122 left) [691 - 695] ...
+Completed after 2.459 seconds
+
+Delaying next batch by 8.077 seconds
+
+Requesting batch 140 (121 left) [696 - 700] ...
+Completed after 1.692 seconds
+
+Delaying next batch by 6.209 seconds
+
+Requesting batch 141 (120 left) [701 - 705] ...
+Completed after 2.727 seconds
+
+Delaying next batch by 5.732 seconds
+
+Requesting batch 142 (119 left) [706 - 710] ...
+Completed after 5.184 seconds
+
+Delaying next batch by 6.145 seconds
+
+Requesting batch 143 (118 left) [711 - 715] ...
+Completed after 3.539 seconds
+
+Delaying next batch by 6.484 seconds
+
+Requesting batch 144 (117 left) [716 - 720] ...
+Completed after 4.366 seconds
+
+Delaying next batch by 8.352 seconds
+
+Requesting batch 145 (116 left) [721 - 725] ...
+Completed after 3.16 seconds
+
+Delaying next batch by 6.59 seconds
+
+Requesting batch 146 (115 left) [726 - 730] ...
+Completed after 1.853 seconds
+
+Delaying next batch by 6.06 seconds
+
+Requesting batch 147 (114 left) [731 - 735] ...
+Completed after 2.202 seconds
+
+Delaying next batch by 5.324 seconds
+
+Requesting batch 148 (113 left) [736 - 740] ...
+Completed after 2.043 seconds
+
+Delaying next batch by 6.159 seconds
+
+Requesting batch 149 (112 left) [741 - 745] ...
+Completed after 12.537 seconds
+
+Delaying next batch by 5.839 seconds
+
+Requesting batch 150 (111 left) [746 - 750] ...
+Completed after 3.566 seconds
+
+Delaying next batch by 8.711 seconds
+
+Requesting batch 151 (110 left) [751 - 755] ...
+Completed after 3.377 seconds
+
+Delaying next batch by 6.538 seconds
+
+Requesting batch 152 (109 left) [756 - 760] ...
+Completed after 1.066 seconds
+
+Delaying next batch by 7.049 seconds
+
+Requesting batch 153 (108 left) [761 - 765] ...
+Completed after 1.712 seconds
+
+Delaying next batch by 6.606 seconds
+
+Requesting batch 154 (107 left) [766 - 770] ...
+Completed after 1.348 seconds
+
+Delaying next batch by 5.572 seconds
+
+Requesting batch 155 (106 left) [771 - 775] ...
+Completed after 1.231 seconds
+
+Delaying next batch by 6.788 seconds
+
+Requesting batch 156 (105 left) [776 - 780] ...
+Completed after 1.165 seconds
+
+Delaying next batch by 8.212 seconds
+
+Requesting batch 157 (104 left) [781 - 785] ...
+Completed after 1.179 seconds
+
+Delaying next batch by 7.249 seconds
+
+Requesting batch 158 (103 left) [786 - 790] ...
+Completed after 2.663 seconds
+
+Delaying next batch by 7.361 seconds
+
+Requesting batch 159 (102 left) [791 - 795] ...
+Completed after 2.183 seconds
+
+Delaying next batch by 8.505 seconds
+
+Requesting batch 160 (101 left) [796 - 800] ...
+Completed after 5.298 seconds
+
+Delaying next batch by 8.303 seconds
+
+Requesting batch 161 (100 left) [801 - 805] ...
+Completed after 4.607 seconds
+
+Delaying next batch by 6.421 seconds
+
+Requesting batch 162 (99 left) [806 - 810] ...
+Completed after 1.2 seconds
+
+Delaying next batch by 6.431 seconds
+
+Requesting batch 163 (98 left) [811 - 815] ...
+Completed after 3.011 seconds
+
+Delaying next batch by 8.543 seconds
+
+Requesting batch 164 (97 left) [816 - 820] ...
+Completed after 3.589 seconds
+
+Delaying next batch by 6.979 seconds
+
+Requesting batch 165 (96 left) [821 - 825] ...
+Completed after 2.43 seconds
+
+Delaying next batch by 5.625 seconds
+
+Requesting batch 166 (95 left) [826 - 830] ...
+Completed after 4.076 seconds
+
+Delaying next batch by 8.567 seconds
+
+Requesting batch 167 (94 left) [831 - 835] ...
+Completed after 2.916 seconds
+
+Delaying next batch by 6.096 seconds
+
+Requesting batch 168 (93 left) [836 - 840] ...
+Completed after 1.535 seconds
+
+Delaying next batch by 5.826 seconds
+
+Requesting batch 169 (92 left) [841 - 845] ...
+Completed after 3.128 seconds
+
+Delaying next batch by 6.635 seconds
+
+Requesting batch 170 (91 left) [846 - 850] ...
+Completed after 3.518 seconds
+
+Delaying next batch by 7.292 seconds
+
+Requesting batch 171 (90 left) [851 - 855] ...
+Completed after 1.398 seconds
+
+Delaying next batch by 8.176 seconds
+
+Requesting batch 172 (89 left) [856 - 860] ...
+Completed after 2.476 seconds
+
+Delaying next batch by 5.475 seconds
+
+Requesting batch 173 (88 left) [861 - 865] ...
+Completed after 3.676 seconds
+
+Delaying next batch by 5.813 seconds
+
+Requesting batch 174 (87 left) [866 - 870] ...
+Completed after 3.75 seconds
+
+Delaying next batch by 7.014 seconds
+
+Requesting batch 175 (86 left) [871 - 875] ...
+Completed after 1.354 seconds
+
+Delaying next batch by 5.065 seconds
+
+Requesting batch 176 (85 left) [876 - 880] ...
+Completed after 2.043 seconds
+
+Delaying next batch by 6.266 seconds
+
+Requesting batch 177 (84 left) [881 - 885] ...
+Completed after 1.24 seconds
+
+Delaying next batch by 6.411 seconds
+
+Requesting batch 178 (83 left) [886 - 890] ...
+Completed after 1.897 seconds
+
+Delaying next batch by 7.43 seconds
+
+Requesting batch 179 (82 left) [891 - 895] ...
+Completed after 4.833 seconds
+
+Delaying next batch by 6.983 seconds
+
+Requesting batch 180 (81 left) [896 - 900] ...
+Completed after 3.949 seconds
+
+Delaying next batch by 6.229 seconds
+
+Requesting batch 181 (80 left) [901 - 905] ...
+Completed after 2.108 seconds
+
+Delaying next batch by 8.536 seconds
+
+Requesting batch 182 (79 left) [906 - 910] ...
+Completed after 4.314 seconds
+
+Delaying next batch by 7.812 seconds
+
+Requesting batch 183 (78 left) [911 - 915] ...
+Completed after 4.363 seconds
+
+Delaying next batch by 8.762 seconds
+
+Requesting batch 184 (77 left) [916 - 920] ...
+Completed after 2.371 seconds
+
+Delaying next batch by 8.946 seconds
+
+Requesting batch 185 (76 left) [921 - 925] ...
+Completed after 5.236 seconds
+
+Delaying next batch by 7.558 seconds
+
+Requesting batch 186 (75 left) [926 - 930] ...
+Completed after 4.819 seconds
+
+Delaying next batch by 7.103 seconds
+
+Requesting batch 187 (74 left) [931 - 935] ...
+Completed after 3.885 seconds
+
+Delaying next batch by 7.89 seconds
+
+Requesting batch 188 (73 left) [936 - 940] ...
+Completed after 2.424 seconds
+
+Delaying next batch by 7.494 seconds
+
+Requesting batch 189 (72 left) [941 - 945] ...
+Completed after 4.478 seconds
+
+Delaying next batch by 7.446 seconds
+
+Requesting batch 190 (71 left) [946 - 950] ...
+Completed after 9.359 seconds
+
+Delaying next batch by 7.932 seconds
+
+Requesting batch 191 (70 left) [951 - 955] ...
+Completed after 8.01 seconds
+
+Delaying next batch by 7.138 seconds
+
+Requesting batch 192 (69 left) [956 - 960] ...
+Completed after 3.627 seconds
+
+Delaying next batch by 6.267 seconds
+
+Requesting batch 193 (68 left) [961 - 965] ...
+Completed after 3.45 seconds
+
+Delaying next batch by 7.279 seconds
+
+Requesting batch 194 (67 left) [966 - 970] ...
+Completed after 1.862 seconds
+
+Delaying next batch by 5.392 seconds
+
+Requesting batch 195 (66 left) [971 - 975] ...
+Completed after 2.567 seconds
+
+Delaying next batch by 7.638 seconds
+
+Requesting batch 196 (65 left) [976 - 980] ...
+Completed after 1.827 seconds
+
+Delaying next batch by 5.774 seconds
+
+Requesting batch 197 (64 left) [981 - 985] ...
+Completed after 1.747 seconds
+
+Delaying next batch by 7.176 seconds
+
+Requesting batch 198 (63 left) [986 - 990] ...
+Completed after 1.718 seconds
+
+Delaying next batch by 8.176 seconds
+
+Requesting batch 199 (62 left) [991 - 995] ...
+Completed after 4.217 seconds
+
+Delaying next batch by 8.023 seconds
+
+Requesting batch 200 (61 left) [996 - 1000] ...
+Completed after 6.083 seconds
+
+Delaying next batch by 8.833 seconds
+
+Requesting batch 201 (60 left) [1001 - 1005] ...
+Completed after 1.882 seconds
+
+Delaying next batch by 7.435 seconds
+
+Requesting batch 202 (59 left) [1006 - 1010] ...
+Completed after 1.408 seconds
+
+Delaying next batch by 8.176 seconds
+
+Requesting batch 203 (58 left) [1011 - 1015] ...
+Completed after 1.629 seconds
+
+Delaying next batch by 7.334 seconds
+
+Requesting batch 204 (57 left) [1016 - 1020] ...
+Completed after 1.074 seconds
+
+Delaying next batch by 8.039 seconds
+
+Requesting batch 205 (56 left) [1021 - 1025] ...
+Completed after 1.919 seconds
+
+Delaying next batch by 9.094 seconds
+
+Requesting batch 206 (55 left) [1026 - 1030] ...
+Completed after 1.784 seconds
+
+Delaying next batch by 7.012 seconds
+
+Requesting batch 207 (54 left) [1031 - 1035] ...
+Completed after 1.122 seconds
+
+Delaying next batch by 5.746 seconds
+
+Requesting batch 208 (53 left) [1036 - 1040] ...
+Completed after 1.115 seconds
+
+Delaying next batch by 5.382 seconds
+
+Requesting batch 209 (52 left) [1041 - 1045] ...
+Completed after 3.423 seconds
+
+Delaying next batch by 5.707 seconds
+
+Requesting batch 210 (51 left) [1046 - 1050] ...
+Completed after 8.064 seconds
+
+Delaying next batch by 8.251 seconds
+
+Requesting batch 211 (50 left) [1051 - 1055] ...
+Completed after 3.913 seconds
+
+Delaying next batch by 5.016 seconds
+
+Requesting batch 212 (49 left) [1056 - 1060] ...
+Completed after 3.352 seconds
+
+Delaying next batch by 6.52 seconds
+
+Requesting batch 213 (48 left) [1061 - 1065] ...
+Completed after 2.694 seconds
+
+Delaying next batch by 5.522 seconds
+
+Requesting batch 214 (47 left) [1066 - 1070] ...
+Completed after 4.681 seconds
+
+Delaying next batch by 7.352 seconds
+
+Requesting batch 215 (46 left) [1071 - 1075] ...
+Completed after 3.475 seconds
+
+Delaying next batch by 5.01 seconds
+
+Requesting batch 216 (45 left) [1076 - 1080] ...
+Completed after 1.992 seconds
+
+Delaying next batch by 8.089 seconds
+
+Requesting batch 217 (44 left) [1081 - 1085] ...
+Completed after 2.134 seconds
+
+Delaying next batch by 8.28 seconds
+
+Requesting batch 218 (43 left) [1086 - 1090] ...
+Completed after 6.326 seconds
+
+Delaying next batch by 8.497 seconds
+
+Requesting batch 219 (42 left) [1091 - 1095] ...
+Completed after 3.803 seconds
+
+Delaying next batch by 5.058 seconds
+
+Requesting batch 220 (41 left) [1096 - 1100] ...
+Completed after 2.578 seconds
+
+Delaying next batch by 5.515 seconds
+
+Requesting batch 221 (40 left) [1101 - 1105] ...
+Completed after 5.88 seconds
+
+Delaying next batch by 6.675 seconds
+
+Requesting batch 222 (39 left) [1106 - 1110] ...
+Completed after 4.254 seconds
+
+Delaying next batch by 8.46 seconds
+
+Requesting batch 223 (38 left) [1111 - 1115] ...
+Completed after 2.825 seconds
+
+Delaying next batch by 6.692 seconds
+
+Requesting batch 224 (37 left) [1116 - 1120] ...
+Completed after 6.616 seconds
+
+Delaying next batch by 6.397 seconds
+
+Requesting batch 225 (36 left) [1121 - 1125] ...
+Completed after 1.427 seconds
+
+Delaying next batch by 4.956 seconds
+
+Requesting batch 226 (35 left) [1126 - 1130] ...
+Completed after 4.287 seconds
+
+Delaying next batch by 6.562 seconds
+
+Requesting batch 227 (34 left) [1131 - 1135] ...
+Completed after 3.052 seconds
+
+Delaying next batch by 8.021 seconds
+
+Requesting batch 228 (33 left) [1136 - 1140] ...
+Completed after 2.351 seconds
+
+Delaying next batch by 6.735 seconds
+
+Requesting batch 229 (32 left) [1141 - 1145] ...
+Completed after 2.893 seconds
+
+Delaying next batch by 8.068 seconds
+
+Requesting batch 230 (31 left) [1146 - 1150] ...
+Completed after 8.943 seconds
+
+Delaying next batch by 8.068 seconds
+
+Requesting batch 231 (30 left) [1151 - 1155] ...
+Completed after 6.071 seconds
+
+Delaying next batch by 8.045 seconds
+
+Requesting batch 232 (29 left) [1156 - 1160] ...
+Completed after 2.164 seconds
+
+Delaying next batch by 5.755 seconds
+
+Requesting batch 233 (28 left) [1161 - 1165] ...
+Completed after 4.159 seconds
+
+Delaying next batch by 5.699 seconds
+
+Requesting batch 234 (27 left) [1166 - 1170] ...
+Completed after 3.966 seconds
+
+Delaying next batch by 6.935 seconds
+
+Requesting batch 235 (26 left) [1171 - 1175] ...
+Completed after 3.127 seconds
+
+Delaying next batch by 8.199 seconds
+
+Requesting batch 236 (25 left) [1176 - 1180] ...
+Completed after 4.848 seconds
+
+Delaying next batch by 5.834 seconds
+
+Requesting batch 237 (24 left) [1181 - 1185] ...
+Completed after 4.788 seconds
+
+Delaying next batch by 8.978 seconds
+
+Requesting batch 238 (23 left) [1186 - 1190] ...
+Completed after 3.877 seconds
+
+Delaying next batch by 7.75 seconds
+
+Requesting batch 239 (22 left) [1191 - 1195] ...
+Completed after 2.362 seconds
+
+Delaying next batch by 8.317 seconds
+
+Requesting batch 240 (21 left) [1196 - 1200] ...
+Completed after 2.395 seconds
+
+Delaying next batch by 6.102 seconds
+
+Requesting batch 241 (20 left) [1201 - 1205] ...
+Completed after 2.188 seconds
+
+Delaying next batch by 6.593 seconds
+
+Requesting batch 242 (19 left) [1206 - 1210] ...
+Completed after 1.641 seconds
+
+Delaying next batch by 8.215 seconds
+
+Requesting batch 243 (18 left) [1211 - 1215] ...
+Completed after 2.265 seconds
+
+Delaying next batch by 8.003 seconds
+
+Requesting batch 244 (17 left) [1216 - 1220] ...
+Completed after 5.641 seconds
+
+Delaying next batch by 5.549 seconds
+
+Requesting batch 245 (16 left) [1221 - 1225] ...
+Completed after 6.396 seconds
+
+Delaying next batch by 5.567 seconds
+
+Requesting batch 246 (15 left) [1226 - 1230] ...
+Completed after 6.66 seconds
+
+Delaying next batch by 6.157 seconds
+
+Requesting batch 247 (14 left) [1231 - 1235] ...
+Completed after 3.763 seconds
+
+Delaying next batch by 8.897 seconds
+
+Requesting batch 248 (13 left) [1236 - 1240] ...
+Completed after 6.608 seconds
+
+Delaying next batch by 6.338 seconds
+
+Requesting batch 249 (12 left) [1241 - 1245] ...
+Completed after 6.059 seconds
+
+Delaying next batch by 7.39 seconds
+
+Requesting batch 250 (11 left) [1246 - 1250] ...
+Completed after 7.782 seconds
+
+Delaying next batch by 6.148 seconds
+
+Requesting batch 251 (10 left) [1251 - 1255] ...
+Completed after 7.365 seconds
+
+Delaying next batch by 5.215 seconds
+
+Requesting batch 252 (9 left) [1256 - 1260] ...
+Completed after 4.753 seconds
+
+Delaying next batch by 7.548 seconds
+
+Requesting batch 253 (8 left) [1261 - 1265] ...
+Completed after 5.128 seconds
+
+Delaying next batch by 7.357 seconds
+
+Requesting batch 254 (7 left) [1266 - 1270] ...
+Completed after 2.79 seconds
+
+Delaying next batch by 7.242 seconds
+
+Requesting batch 255 (6 left) [1271 - 1275] ...
+Completed after 3.617 seconds
+
+Delaying next batch by 6.838 seconds
+
+Requesting batch 256 (5 left) [1276 - 1280] ...
+Completed after 4.366 seconds
+
+Delaying next batch by 6.016 seconds
+
+Requesting batch 257 (4 left) [1281 - 1285] ...
+Completed after 4.464 seconds
+
+Delaying next batch by 8.469 seconds
+
+Requesting batch 258 (3 left) [1286 - 1290] ...
+Completed after 6.256 seconds
+
+Delaying next batch by 8.714 seconds
+
+Requesting batch 259 (2 left) [1291 - 1295] ...
+Completed after 9.743 seconds
+
+Delaying next batch by 8.462 seconds
+
+Requesting batch 260 (1 left) [1296 - 1300] ...
+Completed after 16.816 seconds
+
+Delaying next batch by 8.715 seconds
+
+Requesting batch 261 (0 left) [1301 - 1305] ...
+Completed after 1.472 seconds
+
+---------------------------------------------------
+End time: Thu Jul 23 2015 01:34:28 GMT+0100 (BST)
+Duration: 2783.211 seconds
+Data generation complete, outputting final file...
+Data saved to data/dist/fonts.json

@@ -1,0 +1,70 @@
+{
+    "name": "Rolka",
+    "url": "http://fontdeck.com/typeface/rolka",
+    "slug": "rolka",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Decorative",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "Fontfabric",
+    "designer": [
+        "Svetoslav Simov"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "serif",
+        "techno",
+        "graphic",
+        "block",
+        "curly",
+        "spiral",
+        "strong",
+        "masculine",
+        "heavy",
+        "ultra-bold",
+        "unusual",
+        "filled counters"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/rolka/light",
+            "css": {
+                "font-family": "Rolka Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3021",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Ultra Bold",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/rolka/ultrabold",
+            "css": {
+                "font-family": "Rolka Ultra Bold",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3020",
+                "slug": "ultrabold",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "705",
+        "slug": "rolka"
+    },
+    "generatedAt": 1437609752212
+}

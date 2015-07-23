@@ -1,0 +1,239 @@
+{
+    "name": "ID00 Sans",
+    "url": "http://fontdeck.com/typeface/id00sans",
+    "slug": "id00sans",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Neo-Grotesk",
+        "Sans Serif",
+        "Humanist"
+    ],
+    "foundry": "Playtype",
+    "designer": [
+        "Jonas Hecksher"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "sans serif"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/id00sans/thin",
+            "css": {
+                "font-family": "ID00 Sans Thin",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5257",
+                "slug": "thin",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Thin Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/id00sans/thinitalic",
+            "css": {
+                "font-family": "ID00 Sans Thin Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5256",
+                "slug": "thinitalic",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/id00sans/light",
+            "css": {
+                "font-family": "ID00 Sans Light",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5255",
+                "slug": "light",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/id00sans/lightitalic",
+            "css": {
+                "font-family": "ID00 Sans Light Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5254",
+                "slug": "lightitalic",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/id00sans/regular",
+            "css": {
+                "font-family": "ID00 Sans Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5244",
+                "slug": "regular",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/id00sans/italic",
+            "css": {
+                "font-family": "ID00 Sans Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5253",
+                "slug": "italic",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/id00sans/bold",
+            "css": {
+                "font-family": "ID00 Sans Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5245",
+                "slug": "bold",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/id00sans/bolditalic",
+            "css": {
+                "font-family": "ID00 Sans Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5246",
+                "slug": "bolditalic",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/id00sans/extrabold",
+            "css": {
+                "font-family": "ID00 Sans Extra Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5250",
+                "slug": "extrabold",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Extra-bold Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/id00sans/extrabolditalic",
+            "css": {
+                "font-family": "ID00 Sans Extra Bold Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5249",
+                "slug": "extrabolditalic",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/id00sans/heavy",
+            "css": {
+                "font-family": "ID00 Sans Heavy",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5252",
+                "slug": "heavy",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Heavy Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/id00sans/heavyitalic",
+            "css": {
+                "font-family": "ID00 Sans Heavy Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5251",
+                "slug": "heavyitalic",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "DemiBold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/id00sans/demibold",
+            "css": {
+                "font-family": "ID00 Sans DemiBold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5248",
+                "slug": "demibold",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "DemiBold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/id00sans/demibolditalic",
+            "css": {
+                "font-family": "ID00 Sans DemiBold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5247",
+                "slug": "demibolditalic",
+                "price": "$45.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1204",
+        "slug": "id00sans"
+    },
+    "generatedAt": 1437610583467
+}

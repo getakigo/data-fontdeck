@@ -1,0 +1,67 @@
+{
+    "name": "Sarcastic",
+    "url": "http://fontdeck.com/typeface/sarcastic",
+    "slug": "sarcastic",
+    "use": "heading",
+    "classification": [
+        "Script",
+        "Experimental script",
+        "Script",
+        "Decorative script",
+        "Script",
+        "Simple"
+    ],
+    "foundry": "VirusFonts",
+    "designer": [
+        "Jonathan Barnbrook"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "experimental",
+        "1950s",
+        "script",
+        "monoline",
+        "neon",
+        "display",
+        "rhythmic"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/sarcastic/light",
+            "css": {
+                "font-family": "Sarcastic Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3413",
+                "slug": "light",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/sarcastic/bold",
+            "css": {
+                "font-family": "Sarcastic Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3414",
+                "slug": "bold",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "829",
+        "slug": "sarcastic"
+    },
+    "generatedAt": 1437609955373
+}

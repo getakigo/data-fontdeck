@@ -1,0 +1,74 @@
+{
+    "name": "Zetta Round",
+    "url": "http://fontdeck.com/typeface/zettaround",
+    "slug": "zettaround",
+    "superfamily": "Zetta",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Neo-Grotesk"
+    ],
+    "foundry": "Playtype",
+    "designer": [
+        "Jonas Hecksher"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "square",
+        "round"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/zettaround/light",
+            "css": {
+                "font-family": "Zetta Round Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6582",
+                "slug": "light",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/zettaround/regular",
+            "css": {
+                "font-family": "Zetta Round Regular",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6580",
+                "slug": "regular",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/zettaround/bold",
+            "css": {
+                "font-family": "Zetta Round Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6581",
+                "slug": "bold",
+                "price": "$45.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1506",
+        "slug": "zettaround"
+    },
+    "generatedAt": 1437610991865
+}

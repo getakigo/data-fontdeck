@@ -1,0 +1,137 @@
+{
+    "name": "Banque Gothique Condensed",
+    "url": "http://fontdeck.com/typeface/banquegothiquecondensed",
+    "slug": "banquegothiquecondensed",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "All caps"
+    ],
+    "foundry": "Red Rooster Collection",
+    "designer": [
+        "Morris Fuller Benton",
+        "Steve Jackaman"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "formal",
+        "bank gothic",
+        "geometric",
+        "mechanical",
+        "comercial",
+        "cap",
+        "shortcaps",
+        "magazine",
+        "minimal",
+        "flair",
+        "modern",
+        "grotesk",
+        "1950s",
+        "1940s",
+        "menus",
+        "commercial",
+        "fashionable",
+        "art deco",
+        "television",
+        "1960s",
+        "narrow",
+        "invitation",
+        "techno",
+        "engraving",
+        "legible",
+        "american",
+        "sturdy",
+        "constructed",
+        "2000s",
+        "modest",
+        "poster",
+        "all caps",
+        "decorative",
+        "1930s",
+        "cool",
+        "plain",
+        "block",
+        "clena",
+        "vintage",
+        "retro",
+        "masculine",
+        "signage",
+        "corporate",
+        "lettering",
+        "square",
+        "futuristic",
+        "sport",
+        "conservative",
+        "clean",
+        "wide"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/banquegothiquecondensed/light",
+            "css": {
+                "font-family": "Banque Gothique Condensed Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4247",
+                "slug": "light",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/banquegothiquecondensed/medium",
+            "css": {
+                "font-family": "BanqueGothiqueCondensedMedium",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4248",
+                "slug": "medium",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/banquegothiquecondensed/bold",
+            "css": {
+                "font-family": "Banque Gothique Condensed Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4245",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/banquegothiquecondensed/extrabold",
+            "css": {
+                "font-family": "BanquGothiquCondenseExtrBol",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4246",
+                "slug": "extrabold",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "997",
+        "slug": "banquegothiquecondensed"
+    },
+    "generatedAt": 1437610271570
+}

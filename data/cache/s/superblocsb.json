@@ -1,0 +1,80 @@
+{
+    "name": "Superbloc SB",
+    "url": "http://fontdeck.com/typeface/superblocsb",
+    "slug": "superblocsb",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Futuristic",
+        "Display",
+        "Computer-related"
+    ],
+    "foundry": "SelfBuild Type Foundry",
+    "designer": [
+        "Craig Stainton"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "fast",
+        "techno",
+        "geometric",
+        "avant garde",
+        "linear",
+        "music",
+        "mechanical",
+        "nightclub",
+        "all caps",
+        "modern",
+        "robot",
+        "cool",
+        "audio",
+        "computer",
+        "fashionable",
+        "retro",
+        "masculine",
+        "headline",
+        "heavy",
+        "futuristic",
+        "space age",
+        "wide"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/superblocsb/regular",
+            "css": {
+                "font-family": "Superbloc SB Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1322",
+                "slug": "regular",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/superblocsb/italic",
+            "css": {
+                "font-family": "Superbloc SB Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1323",
+                "slug": "italic",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "365",
+        "slug": "superblocsb"
+    },
+    "generatedAt": 1437609231033
+}

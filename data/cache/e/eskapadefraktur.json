@@ -1,0 +1,61 @@
+{
+    "name": "Eskapade Fraktur",
+    "url": "http://fontdeck.com/typeface/eskapadefraktur",
+    "slug": "eskapadefraktur",
+    "superfamily": "Eskapade",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Blackletter"
+    ],
+    "foundry": "TypeTogether",
+    "designer": [
+        "Alisa Nowak"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "roman",
+        "blackletter",
+        "contemporary",
+        "superfamily"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/eskapadefraktur/regular",
+            "css": {
+                "font-family": "Eskapade Fraktur Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6288",
+                "slug": "regular",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/eskapadefraktur/italic",
+            "css": {
+                "font-family": "Eskapade Fraktur Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6289",
+                "slug": "italic",
+                "price": "$15.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1445",
+        "slug": "eskapadefraktur"
+    },
+    "generatedAt": 1437610856780
+}

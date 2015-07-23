@@ -1,0 +1,100 @@
+{
+    "name": "Flexion Pro",
+    "url": "http://fontdeck.com/typeface/flexionpro",
+    "slug": "flexionpro",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "All caps",
+        "Display",
+        "Art Deco"
+    ],
+    "foundry": "Red Rooster Collection",
+    "designer": [
+        "John Langdon",
+        "Hal Taylor"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "artistic",
+        "serif",
+        "italian",
+        "art deco",
+        "romantic",
+        "film titling",
+        "latin",
+        "art",
+        "2000s",
+        "greek",
+        "christianity"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/flexionpro/regular",
+            "css": {
+                "font-family": "Flexion Pro Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3211",
+                "slug": "regular",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/flexionpro/medium",
+            "css": {
+                "font-family": "Flexion Pro Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3212",
+                "slug": "medium",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/flexionpro/bold",
+            "css": {
+                "font-family": "Flexion Pro Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3213",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/flexionpro/black",
+            "css": {
+                "font-family": "Flexion Pro Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3214",
+                "slug": "black",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "758",
+        "slug": "flexionpro"
+    },
+    "generatedAt": 1437609854413
+}

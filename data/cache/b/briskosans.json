@@ -1,0 +1,175 @@
+{
+    "name": "Brisko Sans",
+    "url": "http://fontdeck.com/typeface/briskosans",
+    "slug": "briskosans",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "Tour de Force",
+    "designer": [
+        "Slobodan Jelesijević"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/briskosans/thin",
+            "css": {
+                "font-family": "Brisko Sans Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6761",
+                "slug": "thin",
+                "price": "$7.99"
+            }
+        },
+        {
+            "name": "Thin Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/briskosans/thinitalic",
+            "css": {
+                "font-family": "Brisko Sans Thin Italic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6760",
+                "slug": "thinitalic",
+                "price": "$7.99"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/briskosans/light",
+            "css": {
+                "font-family": "Brisko Sans Light",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6757",
+                "slug": "light",
+                "price": "$7.99"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/briskosans/lightitalic",
+            "css": {
+                "font-family": "Brisko Sans Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6756",
+                "slug": "lightitalic",
+                "price": "$7.99"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/briskosans/regular",
+            "css": {
+                "font-family": "Brisko Sans Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6759",
+                "slug": "regular",
+                "price": "$7.99"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/briskosans/italic",
+            "css": {
+                "font-family": "Brisko Sans Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6758",
+                "slug": "italic",
+                "price": "$7.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/briskosans/bold",
+            "css": {
+                "font-family": "Brisko Sans Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6755",
+                "slug": "bold",
+                "price": "$7.99"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/briskosans/bolditalic",
+            "css": {
+                "font-family": "Brisko Sans Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6754",
+                "slug": "bolditalic",
+                "price": "$7.99"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/briskosans/black",
+            "css": {
+                "font-family": "Brisko Sans Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6753",
+                "slug": "black",
+                "price": "$7.99"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/briskosans/blackitalic",
+            "css": {
+                "font-family": "Brisko Sans Black Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6752",
+                "slug": "blackitalic",
+                "price": "$7.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1536",
+        "slug": "briskosans"
+    },
+    "generatedAt": 1437610992870
+}

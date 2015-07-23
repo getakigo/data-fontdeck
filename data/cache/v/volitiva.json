@@ -1,0 +1,60 @@
+{
+    "name": "Volitiva",
+    "url": "http://fontdeck.com/typeface/volitiva",
+    "slug": "volitiva",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "All caps"
+    ],
+    "foundry": "Intellecta Design",
+    "designer": [
+        "Paulo W"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "16th century",
+        "ribbon",
+        "serif",
+        "tumular",
+        "engraving",
+        "geometric",
+        "venetian",
+        "epigraphic",
+        "initial",
+        "all caps",
+        "decorative",
+        "initials",
+        "roman",
+        "elegant",
+        "fashion",
+        "chancery",
+        "monumenta",
+        "ruins",
+        "lapidary"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/volitiva/regular",
+            "css": {
+                "font-family": "Volitiva Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4005",
+                "slug": "regular",
+                "price": "$8.80"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "941",
+        "slug": "volitiva"
+    },
+    "generatedAt": 1437610148506
+}

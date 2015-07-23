@@ -1,0 +1,58 @@
+{
+    "name": "PyeMan",
+    "url": "http://fontdeck.com/typeface/pyeman",
+    "slug": "pyeman",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Experimental"
+    ],
+    "foundry": "The Northern Block",
+    "designer": [
+        "Jonathan Hill"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "flyer",
+        "curves",
+        "fat",
+        "brand",
+        "rounded",
+        "poster",
+        "ultra",
+        "modern",
+        "block",
+        "round",
+        "solid",
+        "fresh",
+        "bold",
+        "headline",
+        "heavy",
+        "square",
+        "video game"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/pyeman/regular",
+            "css": {
+                "font-family": "PyeMan Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7141",
+                "slug": "regular",
+                "price": "$29.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1677",
+        "slug": "pyeman"
+    },
+    "generatedAt": 1437611127967
+}

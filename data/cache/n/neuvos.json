@@ -1,0 +1,200 @@
+{
+    "name": "Neuvos",
+    "url": "http://fontdeck.com/typeface/neuvos",
+    "slug": "neuvos",
+    "superfamily": "Neuvos",
+    "use": "heading",
+    "classification": [
+        "Serif",
+        "Transitional"
+    ],
+    "foundry": "Typolar",
+    "designer": [
+        "Jarno Lukkarila"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "headlines",
+        "upfront",
+        "baskerville",
+        "sturdy",
+        "noble",
+        "1800s",
+        "large x-height",
+        "vertical stress",
+        "newspaper",
+        "snug serifs",
+        "vertical",
+        "modern",
+        "19th century",
+        "elegant",
+        "hard boiled",
+        "tough",
+        "signage",
+        "editorial",
+        "branding",
+        "headline",
+        "transitional",
+        "calm",
+        "superfamily"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/neuvos/thin",
+            "css": {
+                "font-family": "Neuvos Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6717",
+                "slug": "thin",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Ultra-light",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/neuvos/ultralight",
+            "css": {
+                "font-family": "Neuvos Ultra Light",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6718",
+                "slug": "ultralight",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/neuvos/light",
+            "css": {
+                "font-family": "Neuvos Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6713",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Book",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/neuvos/book",
+            "css": {
+                "font-family": "Neuvos Book",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6711",
+                "slug": "book",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/neuvos/regular",
+            "css": {
+                "font-family": "Neuvos Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6716",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/neuvos/medium",
+            "css": {
+                "font-family": "Neuvos Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6714",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/neuvos/semibold",
+            "css": {
+                "font-family": "Neuvos Semi Bold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6715",
+                "slug": "semibold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/neuvos/bold",
+            "css": {
+                "font-family": "Neuvos Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6710",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/neuvos/extrabold",
+            "css": {
+                "font-family": "Neuvos Extra Bold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6712",
+                "slug": "extrabold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/neuvos/heavy",
+            "css": {
+                "font-family": "Neuvos Heavy",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6709",
+                "slug": "heavy",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1531",
+        "slug": "neuvos"
+    },
+    "generatedAt": 1437610979836
+}

@@ -1,0 +1,82 @@
+{
+    "name": "Darlington",
+    "url": "http://fontdeck.com/typeface/darlington",
+    "slug": "darlington",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Decorative script",
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "Fenotype",
+    "designer": [
+        "Emil Bertell"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "cursive",
+        "script",
+        "rectangular",
+        "upright script",
+        "cute",
+        "geometric",
+        "monoline",
+        "modular",
+        "sweet"
+    ],
+    "variations": [
+        {
+            "name": "II",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/darlington/ii",
+            "css": {
+                "font-family": "Darlington II",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2155",
+                "slug": "ii",
+                "price": "$8.00"
+            }
+        },
+        {
+            "name": "III",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/darlington/iii",
+            "css": {
+                "font-family": "Darlington III",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2157",
+                "slug": "iii",
+                "price": "$8.00"
+            }
+        },
+        {
+            "name": "I",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/darlington/i",
+            "css": {
+                "font-family": "Darlington I",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2156",
+                "slug": "i",
+                "price": "$8.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "545",
+        "slug": "darlington"
+    },
+    "generatedAt": 1437609416663
+}

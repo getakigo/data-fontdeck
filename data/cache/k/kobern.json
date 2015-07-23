@@ -1,0 +1,330 @@
+{
+    "name": "Kobern",
+    "url": "http://fontdeck.com/typeface/kobern",
+    "slug": "kobern",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Neo-Grotesk"
+    ],
+    "foundry": "The Northern Block",
+    "designer": [
+        "Jonathan Hill"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "technical",
+        "geometric",
+        "text",
+        "linear",
+        "balanced",
+        "functional",
+        "friendly",
+        "contemporary",
+        "neo-grotesk",
+        "magazine",
+        "news",
+        "brand identity",
+        "modern",
+        "grotesk",
+        "fashionable",
+        "brochures",
+        "fractions",
+        "headline",
+        "display",
+        "information",
+        "classic",
+        "menu",
+        "legible",
+        "true italics",
+        "neutral",
+        "elegant",
+        "communication",
+        "editorial",
+        "signage",
+        "corporate",
+        "sans serif",
+        "german",
+        "readable",
+        "annual reports"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/kobern/thin",
+            "css": {
+                "font-family": "Kobern Thin",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5810",
+                "slug": "thin",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Thin Italic",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/kobern/thinitalic",
+            "css": {
+                "font-family": "Kobern Thin Italic",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5819",
+                "slug": "thinitalic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/kobern/lightitalic",
+            "css": {
+                "font-family": "Kobern Light Italic",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5820",
+                "slug": "lightitalic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/kobern/light",
+            "css": {
+                "font-family": "Kobern Light",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5811",
+                "slug": "light",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/kobern/italic",
+            "css": {
+                "font-family": "Kobern Italic",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5821",
+                "slug": "italic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/kobern/regular",
+            "css": {
+                "font-family": "Kobern Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5812",
+                "slug": "regular",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/kobern/mediumitalic",
+            "css": {
+                "font-family": "Kobern Medium Italic",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5822",
+                "slug": "mediumitalic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/kobern/medium",
+            "css": {
+                "font-family": "Kobern Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5813",
+                "slug": "medium",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/kobern/bolditalic",
+            "css": {
+                "font-family": "Kobern Bold Italic",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5824",
+                "slug": "bolditalic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/kobern/bold",
+            "css": {
+                "font-family": "Kobern Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5815",
+                "slug": "bold",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/kobern/extrabold",
+            "css": {
+                "font-family": "Kobern ExtraBold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5816",
+                "slug": "extrabold",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Extra-bold Italic",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/kobern/extrabolditalic",
+            "css": {
+                "font-family": "Kobern ExtraBold Italic",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5825",
+                "slug": "extrabolditalic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/kobern/heavy",
+            "css": {
+                "font-family": "Kobern Heavy",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5817",
+                "slug": "heavy",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Heavy Italic",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/kobern/heavyitalic",
+            "css": {
+                "font-family": "Kobern Heavy Italic",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5826",
+                "slug": "heavyitalic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/kobern/blackitalic",
+            "css": {
+                "font-family": "Kobern Black Italic",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5827",
+                "slug": "blackitalic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/kobern/black",
+            "css": {
+                "font-family": "Kobern Black",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5818",
+                "slug": "black",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "DemiBold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/kobern/demibold",
+            "css": {
+                "font-family": "Kobern DemiBold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5814",
+                "slug": "demibold",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "DemiBold Italic",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/kobern/demibolditalic",
+            "css": {
+                "font-family": "Kobern DemiBold Italic",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5823",
+                "slug": "demibolditalic",
+                "price": "$7.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1336",
+        "slug": "kobern"
+    },
+    "generatedAt": 1437610744153
+}

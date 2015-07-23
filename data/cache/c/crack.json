@@ -1,0 +1,54 @@
+{
+    "name": "Crack",
+    "url": "http://fontdeck.com/typeface/crack",
+    "slug": "crack",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "All caps",
+        "Display",
+        "Poster"
+    ],
+    "foundry": "Fontseek",
+    "designer": [
+        "Philipp Herrmann"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "modern",
+        "cool",
+        "fatface",
+        "swiss",
+        "fat",
+        "humor",
+        "rounded",
+        "bubbly",
+        "clean",
+        "fat face",
+        "overlap"
+    ],
+    "variations": [
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/crack/bold",
+            "css": {
+                "font-family": "Crack Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5830",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1337",
+        "slug": "crack"
+    },
+    "generatedAt": 1437610740429
+}

@@ -1,0 +1,57 @@
+{
+    "name": "Boul Mich",
+    "url": "http://fontdeck.com/typeface/boulmich",
+    "slug": "boulmich",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "All caps",
+        "Display",
+        "Art Deco",
+        "Display",
+        "Poster"
+    ],
+    "foundry": "Wordshape",
+    "designer": [
+        "Ian Lynam",
+        "Oswald Bruce Cooper"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "all caps",
+        "fred goudy",
+        "1930s",
+        "moderne",
+        "1920s",
+        "art deco",
+        "unicase",
+        "retro",
+        "broadway",
+        "bifur",
+        "dwiggins"
+    ],
+    "variations": [
+        {
+            "name": "Black",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/boulmich/black",
+            "css": {
+                "font-family": "Boul Mich Black",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4043",
+                "slug": "black",
+                "price": "$9.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "959",
+        "slug": "boulmich"
+    },
+    "generatedAt": 1437610189493
+}

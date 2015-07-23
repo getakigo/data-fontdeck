@@ -1,0 +1,76 @@
+{
+    "name": "Aster",
+    "url": "http://fontdeck.com/typeface/aster",
+    "slug": "aster",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Baroque"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "URW Studio"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "elegant",
+        "transitional",
+        "newspaper",
+        "news",
+        "legible"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/aster/regular",
+            "css": {
+                "font-family": "Aster Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "694",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/aster/regularitalic",
+            "css": {
+                "font-family": "Aster Regular Italic",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "695",
+                "slug": "regularitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/aster/medium",
+            "css": {
+                "font-family": "Aster Medium",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "693",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "232",
+        "slug": "aster"
+    },
+    "generatedAt": 1437609055321
+}

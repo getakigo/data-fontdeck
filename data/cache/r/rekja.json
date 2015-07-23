@@ -1,0 +1,101 @@
+{
+    "name": "Rekja",
+    "url": "http://fontdeck.com/typeface/rekja",
+    "slug": "rekja",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Serif"
+    ],
+    "foundry": "Nouvelle Noire",
+    "designer": [
+        "Anton Studer"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "book font",
+        "family",
+        "serif",
+        "dynamic",
+        "literature",
+        "text",
+        "clear",
+        "friendly",
+        "readability",
+        "newspaper",
+        "readable",
+        "italic",
+        "book text",
+        "newspaper font",
+        "books"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/rekja/regular",
+            "css": {
+                "font-family": "Rekja Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5387",
+                "slug": "regular",
+                "price": "$25.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/rekja/italic",
+            "css": {
+                "font-family": "Rekja Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5388",
+                "slug": "italic",
+                "price": "$25.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/rekja/bold",
+            "css": {
+                "font-family": "Rekja Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5444",
+                "slug": "bold",
+                "price": "$25.00"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/rekja/bolditalic",
+            "css": {
+                "font-family": "Rekja Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6018",
+                "slug": "bolditalic",
+                "price": "$25.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1267",
+        "slug": "rekja"
+    },
+    "generatedAt": 1437610602854
+}

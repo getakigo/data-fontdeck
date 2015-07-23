@@ -1,0 +1,46 @@
+{
+    "name": "ATL Izocel",
+    "url": "http://fontdeck.com/typeface/atlizocel",
+    "slug": "atlizocel",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Experimental"
+    ],
+    "foundry": "Nouvelle Noire",
+    "designer": [
+        "Philippe Apeloig"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "stroke",
+        "sound",
+        "strong",
+        "triangle",
+        "music"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/atlizocel/regular",
+            "css": {
+                "font-family": "ATL Izocel Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7672",
+                "slug": "regular",
+                "price": "$25.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1767",
+        "slug": "atlizocel"
+    },
+    "generatedAt": 1437611222182
+}

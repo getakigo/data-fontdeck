@@ -1,0 +1,58 @@
+{
+    "name": "Waldemar 4F",
+    "url": "http://fontdeck.com/typeface/waldemar4f",
+    "slug": "waldemar4f",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Poster",
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "4th february",
+    "designer": [
+        "Sergiy S. Tkachenko"
+    ],
+    "language": [
+        "latin",
+        "cyrillic"
+    ],
+    "tags": [],
+    "variations": [
+        {
+            "name": "Black",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/waldemar4f/black",
+            "css": {
+                "font-family": "Waldemar 4F Black",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6200",
+                "slug": "black",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/waldemar4f/blackitalic",
+            "css": {
+                "font-family": "Waldemar 4F Black Italic",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6201",
+                "slug": "blackitalic",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1429",
+        "slug": "waldemar4f"
+    },
+    "generatedAt": 1437610822524
+}

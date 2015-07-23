@@ -1,0 +1,70 @@
+{
+    "name": "Febrotesk 4F",
+    "url": "http://fontdeck.com/typeface/febrotesk4f",
+    "slug": "febrotesk4f",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Poster"
+    ],
+    "foundry": "4th february",
+    "designer": [
+        "Sergiy S. Tkachenko"
+    ],
+    "language": [
+        "latin",
+        "greek",
+        "cyrillic"
+    ],
+    "tags": [
+        "decorative",
+        "advertising",
+        "commercial",
+        "geometric",
+        "informal",
+        "architecture",
+        "editorial",
+        "headline",
+        "constructed",
+        "futuristic",
+        "sport",
+        "impact"
+    ],
+    "variations": [
+        {
+            "name": "Unicase Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/febrotesk4f/unicasebold",
+            "css": {
+                "font-family": "Febrotesk 4F Unicase Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3576",
+                "slug": "unicasebold",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Unicase Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/febrotesk4f/unicasebolditalic",
+            "css": {
+                "font-family": "Febrotesk4FUnicaseBoldItalic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3577",
+                "slug": "unicasebolditalic",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "862",
+        "slug": "febrotesk4f"
+    },
+    "generatedAt": 1437610023518
+}

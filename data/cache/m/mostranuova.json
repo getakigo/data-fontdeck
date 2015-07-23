@@ -1,0 +1,130 @@
+{
+    "name": "Mostra Nuova",
+    "url": "http://fontdeck.com/typeface/mostranuova",
+    "slug": "mostranuova",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Art Deco",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "Mark Simonson Studio",
+    "designer": [
+        "Mark Simonson"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "1930s",
+        "1920s",
+        "cassandre",
+        "italian",
+        "geometric",
+        "avant garde",
+        "art deco",
+        "retro",
+        "futurism",
+        "lettering",
+        "vernacular",
+        "poster"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/mostranuova/thin",
+            "css": {
+                "font-family": "Mostra Nuova Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1303",
+                "slug": "thin",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/mostranuova/light",
+            "css": {
+                "font-family": "Mostra Nuova Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1301",
+                "slug": "light",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/mostranuova/regular",
+            "css": {
+                "font-family": "Mostra Nuova Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1302",
+                "slug": "regular",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/mostranuova/bold",
+            "css": {
+                "font-family": "Mostra Nuova Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1299",
+                "slug": "bold",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/mostranuova/heavy",
+            "css": {
+                "font-family": "Mostra Nuova Heavy",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1300",
+                "slug": "heavy",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/mostranuova/black",
+            "css": {
+                "font-family": "Mostra Nuova Black",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1298",
+                "slug": "black",
+                "price": "$9.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "354",
+        "slug": "mostranuova"
+    },
+    "generatedAt": 1437609215269
+}

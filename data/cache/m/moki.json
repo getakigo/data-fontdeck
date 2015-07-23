@@ -1,0 +1,160 @@
+{
+    "name": "Moki",
+    "url": "http://fontdeck.com/typeface/moki",
+    "slug": "moki",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Display",
+        "Stencil"
+    ],
+    "foundry": "FaceType",
+    "designer": [
+        "Marcus Sterz"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "expressive",
+        "rotten",
+        "regular",
+        "cargo",
+        "fat",
+        "avantgarde",
+        "contemporary",
+        "upright",
+        "eurostile",
+        "used",
+        "decorative",
+        "lubalin",
+        "scratch",
+        "elegant",
+        "ligatures",
+        "round",
+        "creative",
+        "fashion",
+        "unicase",
+        "bold",
+        "ajar",
+        "lively",
+        "monospace",
+        "display",
+        "clean",
+        "stencil",
+        "novarese"
+    ],
+    "variations": [
+        {
+            "name": "Cut",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/moki/cut",
+            "css": {
+                "font-family": "Moki Cut",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5160",
+                "slug": "cut",
+                "price": "$8.75"
+            }
+        },
+        {
+            "name": "Dust",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/moki/dust",
+            "css": {
+                "font-family": "Moki Dust",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5161",
+                "slug": "dust",
+                "price": "$8.75"
+            }
+        },
+        {
+            "name": "Soft",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/moki/soft",
+            "css": {
+                "font-family": "Moki Soft",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5164",
+                "slug": "soft",
+                "price": "$8.75"
+            }
+        },
+        {
+            "name": "Uni",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/moki/uni",
+            "css": {
+                "font-family": "Moki Uni",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5165",
+                "slug": "uni",
+                "price": "$8.75"
+            }
+        },
+        {
+            "name": "Mono",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/moki/mono",
+            "css": {
+                "font-family": "Moki Mono",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5163",
+                "slug": "mono",
+                "price": "$8.75"
+            }
+        },
+        {
+            "name": "Lean",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/moki/lean",
+            "css": {
+                "font-family": "Moki Lean",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5162",
+                "slug": "lean",
+                "price": "$8.75"
+            }
+        },
+        {
+            "name": "Base",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/moki/base",
+            "css": {
+                "font-family": "Moki Base",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5159",
+                "slug": "base",
+                "price": "$8.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1228",
+        "slug": "moki"
+    },
+    "generatedAt": 1437610635784
+}

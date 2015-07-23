@@ -1,0 +1,95 @@
+{
+    "name": "Sycamore",
+    "url": "http://fontdeck.com/typeface/sycamore",
+    "slug": "sycamore",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "All caps"
+    ],
+    "foundry": "Red Rooster Collection",
+    "designer": [
+        "Leslie Usherwood",
+        "Steve Jackaman"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "formal",
+        "poetry",
+        "serif",
+        "1920s",
+        "diploma",
+        "logo",
+        "music",
+        "fancy",
+        "letterhead",
+        "magazine",
+        "news",
+        "movie",
+        "art deco",
+        "greetings",
+        "headline",
+        "wedding",
+        "invitation",
+        "feminine",
+        "english",
+        "engraving",
+        "legible",
+        "informal",
+        "party",
+        "american",
+        "demi-serif",
+        "poster",
+        "all caps",
+        "news headline",
+        "certificate",
+        "decorative",
+        "1930s",
+        "elegant",
+        "oldstyle",
+        "film",
+        "masculine",
+        "valentine",
+        "movie credits",
+        "graceful"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/sycamore/light",
+            "css": {
+                "font-family": "Sycamore Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4279",
+                "slug": "light",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/sycamore/bold",
+            "css": {
+                "font-family": "Sycamore Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4280",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1003",
+        "slug": "sycamore"
+    },
+    "generatedAt": 1437610281336
+}

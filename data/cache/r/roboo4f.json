@@ -1,0 +1,99 @@
+{
+    "name": "Roboo 4F",
+    "url": "http://fontdeck.com/typeface/roboo4f",
+    "slug": "roboo4f",
+    "use": "body",
+    "classification": [
+        "Display",
+        "Funny",
+        "Script",
+        "Display"
+    ],
+    "foundry": "4th february",
+    "designer": [
+        "Sergiy S. Tkachenko"
+    ],
+    "language": [
+        "latin",
+        "cyrillic"
+    ],
+    "tags": [
+        "headlines",
+        "header",
+        "funny",
+        "childlike",
+        "child",
+        "children",
+        "heads",
+        "headline",
+        "childish",
+        "heading"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/roboo4f/regular",
+            "css": {
+                "font-family": "Roboo 4F Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8355",
+                "slug": "regular",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/roboo4f/italic",
+            "css": {
+                "font-family": "Roboo 4F Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8356",
+                "slug": "italic",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/roboo4f/bold",
+            "css": {
+                "font-family": "Roboo 4F Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8357",
+                "slug": "bold",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/roboo4f/bolditalic",
+            "css": {
+                "font-family": "Roboo 4F Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8358",
+                "slug": "bolditalic",
+                "price": "FREE"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1909",
+        "slug": "roboo4f"
+    },
+    "generatedAt": 1437611419417
+}

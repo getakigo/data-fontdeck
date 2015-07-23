@@ -1,0 +1,77 @@
+{
+    "name": "Neacademia Display Expert Subset",
+    "url": "http://fontdeck.com/typeface/neacademiadisplayexpertsubset",
+    "slug": "neacademiadisplayexpertsubset",
+    "superfamily": "Neacademia",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Venetian"
+    ],
+    "foundry": "Rosetta",
+    "designer": [
+        "Sergei Egorov"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "expert subset"
+    ],
+    "variations": [
+        {
+            "name": "Regular LF",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/neacademiadisplayexpertsubset/regularlf",
+            "css": {
+                "font-family": "NeacademDisplExpeSubsRegul",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7840",
+                "slug": "regularlf",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "Regular SC",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/neacademiadisplayexpertsubset/regularsc",
+            "css": {
+                "font-family": "NeacademDisplExpeSubsReg01",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7839",
+                "slug": "regularsc",
+                "price": "$4.50"
+            }
+        },
+        {
+            "name": "Regular Italic LF",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/neacademiadisplayexpertsubset/italiclf",
+            "css": {
+                "font-family": "NeacademiDisplaExperSubseItaliL",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7934",
+                "slug": "italiclf",
+                "price": "$3.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1802",
+        "slug": "neacademiadisplayexpertsubset"
+    },
+    "expert subset": [
+        "lnum",
+        "smcp"
+    ],
+    "generatedAt": 1437611300604
+}

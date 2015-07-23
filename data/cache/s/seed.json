@@ -1,0 +1,151 @@
+{
+    "name": "Seed",
+    "url": "http://fontdeck.com/typeface/seed",
+    "slug": "seed",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Grotesque"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Hajime Kawakami"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "modern",
+        "headline",
+        "2000s",
+        "japanese",
+        "grotesque"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/seed/light",
+            "css": {
+                "font-family": "Seed Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1582",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/seed/regular",
+            "css": {
+                "font-family": "Seed Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1584",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/seed/medium",
+            "css": {
+                "font-family": "Seed Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1583",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/seed/bold",
+            "css": {
+                "font-family": "Seed Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1578",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/seed/extrabold",
+            "css": {
+                "font-family": "Seed Extra Bold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1580",
+                "slug": "extrabold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/seed/heavy",
+            "css": {
+                "font-family": "Seed Heavy",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1581",
+                "slug": "heavy",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/seed/black",
+            "css": {
+                "font-family": "Seed Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1577",
+                "slug": "black",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Demi Bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/seed/demibold",
+            "css": {
+                "font-family": "Seed Demi Bold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1579",
+                "slug": "demibold",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "421",
+        "slug": "seed"
+    },
+    "generatedAt": 1437609321222
+}

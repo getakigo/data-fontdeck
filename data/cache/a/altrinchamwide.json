@@ -1,0 +1,65 @@
+{
+    "name": "Altrincham Wide",
+    "url": "http://fontdeck.com/typeface/altrinchamwide",
+    "slug": "altrinchamwide",
+    "use": "body",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Sans Serif",
+        "Glyphic"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Coen Hofmann"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "soft",
+        "female",
+        "perfume",
+        "elegant",
+        "stressed sans",
+        "natural",
+        "legible"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/altrinchamwide/regular",
+            "css": {
+                "font-family": "Altrincham Wide Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1520",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Oblique",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/altrinchamwide/oblique",
+            "css": {
+                "font-family": "Altrincham Wide Oblique",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1521",
+                "slug": "oblique",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "408",
+        "slug": "altrinchamwide"
+    },
+    "generatedAt": 1437609292683
+}

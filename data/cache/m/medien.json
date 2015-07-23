@@ -1,0 +1,132 @@
+{
+    "name": "Medien",
+    "url": "http://fontdeck.com/typeface/medien",
+    "slug": "medien",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Humanist"
+    ],
+    "foundry": "Nouvelle Noire",
+    "designer": [
+        "Anton Studer"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "arrows",
+        "automobile",
+        "low contrast",
+        "cross",
+        "monoline",
+        "web 2.0",
+        "friendly",
+        "academic",
+        "modern",
+        "moderne",
+        "office",
+        "a machine-like typeface",
+        "humanistic sans",
+        "screen",
+        "modern font",
+        "21st century text"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/medien/regular",
+            "css": {
+                "font-family": "Medien Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5509",
+                "slug": "regular",
+                "price": "$25.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/medien/regularitalic",
+            "css": {
+                "font-family": "Medien Regular Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5512",
+                "slug": "regularitalic",
+                "price": "$25.00"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/medien/medium",
+            "css": {
+                "font-family": "Medien Medium",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5508",
+                "slug": "medium",
+                "price": "$25.00"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/medien/mediumitalic",
+            "css": {
+                "font-family": "Medien Medium Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5511",
+                "slug": "mediumitalic",
+                "price": "$25.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/medien/bold",
+            "css": {
+                "font-family": "Medien Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5507",
+                "slug": "bold",
+                "price": "$25.00"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/medien/bolditalic",
+            "css": {
+                "font-family": "Medien Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5510",
+                "slug": "bolditalic",
+                "price": "$25.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1285",
+        "slug": "medien"
+    },
+    "generatedAt": 1437610671220
+}

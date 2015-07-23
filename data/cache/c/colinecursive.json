@@ -1,0 +1,83 @@
+{
+    "name": "Coline Cursive",
+    "url": "http://fontdeck.com/typeface/colinecursive",
+    "slug": "colinecursive",
+    "superfamily": "Coline",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Garalde"
+    ],
+    "foundry": "A is for…",
+    "designer": [
+        "Émilie Rigaud"
+    ],
+    "opentype": [
+        "hist",
+        "liga",
+        "lnum",
+        "onum",
+        "pnum",
+        "ss01",
+        "ss02",
+        "ss03",
+        "ss04",
+        "ss05",
+        "tnum"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "opentype",
+        "legible",
+        "fine crafted",
+        "contemporary",
+        "upright",
+        "magazine",
+        "versatile",
+        "handwriting",
+        "book",
+        "fluid",
+        "editorial",
+        "lively",
+        "superfamily"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/colinecursive/regular",
+            "css": {
+                "font-family": "Coline Cursive Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7922",
+                "slug": "regular",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/colinecursive/bold",
+            "css": {
+                "font-family": "Coline Cursive Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7923",
+                "slug": "bold",
+                "price": "$15.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1819",
+        "slug": "colinecursive"
+    },
+    "generatedAt": 1437611332673
+}

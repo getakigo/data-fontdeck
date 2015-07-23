@@ -1,0 +1,67 @@
+{
+    "name": "Drone",
+    "url": "http://fontdeck.com/typeface/drone",
+    "slug": "drone",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Display",
+        "Serif"
+    ],
+    "foundry": "VirusFonts",
+    "designer": [
+        "Jonathan Barnbrook"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "",
+        "",
+        "",
+        "experimental",
+        "headline",
+        "",
+        "primitive",
+        "poster",
+        "historical"
+    ],
+    "variations": [
+        {
+            "name": "No666",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/drone/no666",
+            "css": {
+                "font-family": "Drone No666",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3348",
+                "slug": "no666",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "No90210",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/drone/no90210",
+            "css": {
+                "font-family": "Drone No90210",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3349",
+                "slug": "no90210",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "807",
+        "slug": "drone"
+    },
+    "generatedAt": 1437609915172
+}

@@ -1,0 +1,61 @@
+{
+    "name": "Garamond Condensed",
+    "url": "http://fontdeck.com/typeface/garamondcondensed",
+    "slug": "garamondcondensed",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Garalde"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "URW Studio"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "french",
+        "narrow",
+        "1990s",
+        "condensed",
+        "german"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/garamondcondensed/regular",
+            "css": {
+                "font-family": "Garamond Condensed Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "754",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Demi",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/garamondcondensed/demi",
+            "css": {
+                "font-family": "Garamond Condensed Demi",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "796",
+                "slug": "demi",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "248",
+        "slug": "garamondcondensed"
+    },
+    "generatedAt": 1437609074170
+}

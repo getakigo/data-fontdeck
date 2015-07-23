@@ -1,0 +1,118 @@
+{
+    "name": "Ratio Display",
+    "url": "http://fontdeck.com/typeface/ratiodisplay",
+    "slug": "ratiodisplay",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Neo-Grotesk"
+    ],
+    "foundry": "p.s.type",
+    "designer": [
+        "Mark Caneso"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "neo-grotesk",
+        "condensed"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/ratiodisplay/thin",
+            "css": {
+                "font-family": "Ratio Display Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "887",
+                "slug": "thin",
+                "price": "$8.99"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/ratiodisplay/light",
+            "css": {
+                "font-family": "Ratio Display Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "888",
+                "slug": "light",
+                "price": "$8.99"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/ratiodisplay/regular",
+            "css": {
+                "font-family": "Ratio Display Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "892",
+                "slug": "regular",
+                "price": "$8.99"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/ratiodisplay/medium",
+            "css": {
+                "font-family": "Ratio Display Medium",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "891",
+                "slug": "medium",
+                "price": "$8.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/ratiodisplay/bold",
+            "css": {
+                "font-family": "Ratio Display Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "889",
+                "slug": "bold",
+                "price": "$8.99"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/ratiodisplay/heavy",
+            "css": {
+                "font-family": "Ratio Display Heavy",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "890",
+                "slug": "heavy",
+                "price": "$8.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "267",
+        "slug": "ratiodisplay"
+    },
+    "generatedAt": 1437609103969
+}

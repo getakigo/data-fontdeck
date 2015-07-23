@@ -1,0 +1,151 @@
+{
+    "name": "Solomon",
+    "url": "http://fontdeck.com/typeface/solomon",
+    "slug": "solomon",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Geometric",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "Fontfabric",
+    "designer": [
+        "Svetoslav Simov"
+    ],
+    "opentype": [
+        "liga"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "opentype",
+        "geometric",
+        "avant garde",
+        "logo",
+        "linear",
+        "legible",
+        "american",
+        "contemporary",
+        "poster",
+        "futura",
+        "modern",
+        "spurless",
+        "1950s",
+        "cool",
+        "elegant",
+        "creative",
+        "edge",
+        "greetings",
+        "swiss",
+        "grotesque",
+        "1960s",
+        "retro",
+        "light",
+        "masculine",
+        "bold",
+        "corporate",
+        "sans serif",
+        "german",
+        "1980s",
+        "clean"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/solomon/thin",
+            "css": {
+                "font-family": "Solomon Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2832",
+                "slug": "thin",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/solomon/light",
+            "css": {
+                "font-family": "Solomon Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2830",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Book",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/solomon/book",
+            "css": {
+                "font-family": "Solomon Book",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2829",
+                "slug": "book",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/solomon/bold",
+            "css": {
+                "font-family": "Solomon Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2828",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/solomon/black",
+            "css": {
+                "font-family": "Solomon Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2827",
+                "slug": "black",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Normal",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/solomon/normal",
+            "css": {
+                "font-family": "Solomon Normal",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2831",
+                "slug": "normal",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "669",
+        "slug": "solomon"
+    },
+    "generatedAt": 1437609671950
+}

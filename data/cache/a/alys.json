@@ -1,0 +1,129 @@
+{
+    "name": "Alys",
+    "url": "http://fontdeck.com/typeface/alys",
+    "slug": "alys",
+    "use": "heading",
+    "classification": [
+        "Script",
+        "Calligraphic"
+    ],
+    "foundry": "Red Rooster Collection",
+    "designer": [
+        "Pat Hickson"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "formal",
+        "poetry",
+        "royal",
+        "fancy",
+        "scrap",
+        "festive",
+        "news",
+        "christianity",
+        "nature",
+        "flair",
+        "cursive",
+        "food",
+        "1940s",
+        "flourished",
+        "1950s",
+        "blackletter",
+        "sun",
+        "commercial",
+        "bible",
+        "curly",
+        "fashionable",
+        "renaissance",
+        "label",
+        "calligraphic",
+        "greetings",
+        "kids",
+        "calligraphy",
+        "wedding",
+        "surf",
+        "ornament",
+        "feminine",
+        "invitation",
+        "jewelry",
+        "engraving",
+        "english",
+        "copperplate",
+        "cosmetics",
+        "semiformal",
+        "summer",
+        "scrapbook",
+        "spray",
+        "spiritual",
+        "sassy",
+        "scrollwork",
+        "certificate",
+        "disconnected",
+        "script",
+        "water",
+        "1930s",
+        "elegant",
+        "swashes",
+        "italian",
+        "fairytale",
+        "letter",
+        "valentine",
+        "lettering",
+        "swash",
+        "graceful"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/alys/light",
+            "css": {
+                "font-family": "Alys Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4379",
+                "slug": "light",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/alys/medium",
+            "css": {
+                "font-family": "Alys Medium",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4380",
+                "slug": "medium",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/alys/bold",
+            "css": {
+                "font-family": "Alys Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4381",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1029",
+        "slug": "alys"
+    },
+    "generatedAt": 1437610354978
+}

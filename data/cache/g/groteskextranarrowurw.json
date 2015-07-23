@@ -1,0 +1,193 @@
+{
+    "name": "Grotesk Extra Narrow URW",
+    "url": "http://fontdeck.com/typeface/groteskextranarrowurw",
+    "slug": "groteskextranarrowurw",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Grotesque"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Hermann Zapf"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "static",
+        "narrow",
+        "condensed",
+        "workhorse",
+        "sans-serif",
+        "urw grotesk",
+        "text",
+        "legible",
+        "sturdy",
+        "newspaper",
+        "humanist",
+        "neutral",
+        "linear sans",
+        "transitional",
+        "german",
+        "superfamily",
+        "grotesk family"
+    ],
+    "variations": [
+        {
+            "name": "Extra-light",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/groteskextranarrowurw/extralight",
+            "css": {
+                "font-family": "GroteskExtraNarrowURWExtraLight",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2714",
+                "slug": "extralight",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-light Oblique",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/groteskextranarrowurw/extralightoblique",
+            "css": {
+                "font-family": "GrotesExtrNarroURExtrLighObliqu",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2719",
+                "slug": "extralightoblique",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/groteskextranarrowurw/light",
+            "css": {
+                "font-family": "Grotesk Extra Narrow URW Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2718",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light Oblique",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/groteskextranarrowurw/lightoblique",
+            "css": {
+                "font-family": "GrotesExtrNarroURLighObliqu",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2720",
+                "slug": "lightoblique",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/groteskextranarrowurw/regular",
+            "css": {
+                "font-family": "GroteskExtraNarrowURWRegular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2715",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Oblique",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/groteskextranarrowurw/oblique",
+            "css": {
+                "font-family": "GroteskExtraNarrowURWOblique",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2721",
+                "slug": "oblique",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/groteskextranarrowurw/medium",
+            "css": {
+                "font-family": "Grotesk Extra Narrow URW Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2716",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium Oblique",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/groteskextranarrowurw/mediumoblique",
+            "css": {
+                "font-family": "GrotesExtrNarroURMediuObliqu",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2722",
+                "slug": "mediumoblique",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/groteskextranarrowurw/bold",
+            "css": {
+                "font-family": "Grotesk Extra Narrow URW Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2717",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Oblique",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/groteskextranarrowurw/boldoblique",
+            "css": {
+                "font-family": "GrotesExtrNarroURBolObliqu",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2723",
+                "slug": "boldoblique",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "652",
+        "slug": "groteskextranarrowurw"
+    },
+    "generatedAt": 1437609633660
+}

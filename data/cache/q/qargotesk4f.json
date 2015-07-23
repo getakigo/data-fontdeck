@@ -1,0 +1,55 @@
+{
+    "name": "Qargotesk 4F",
+    "url": "http://fontdeck.com/typeface/qargotesk4f",
+    "slug": "qargotesk4f",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "All caps",
+        "Display",
+        "Sans serif",
+        "Display",
+        "Futuristic"
+    ],
+    "foundry": "4th february",
+    "designer": [
+        "Sergiy S. Tkachenko"
+    ],
+    "language": [
+        "latin",
+        "greek",
+        "cyrillic"
+    ],
+    "tags": [
+        "gothic",
+        "narrow",
+        "condensed",
+        "cargo",
+        "unicase",
+        "cyrillic",
+        "greek",
+        "rounded"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/qargotesk4f/regular",
+            "css": {
+                "font-family": "Qargotesk 4F Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4378",
+                "slug": "regular",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1028",
+        "slug": "qargotesk4f"
+    },
+    "generatedAt": 1437610320090
+}

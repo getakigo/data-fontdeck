@@ -1,0 +1,120 @@
+{
+    "name": "Doctrine",
+    "url": "http://fontdeck.com/typeface/doctrine",
+    "slug": "doctrine",
+    "superfamily": "Doctrine",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Neo-Grotesk"
+    ],
+    "foundry": "VirusFonts",
+    "designer": [
+        "Jonathan Barnbrook"
+    ],
+    "opentype": [
+        "dlig",
+        "liga",
+        "lnum",
+        "onum",
+        "pnum",
+        "ss01",
+        "tnum"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "opentype",
+        "geometric",
+        "text",
+        "legible",
+        "neo-grotesque",
+        "humanist",
+        "headline",
+        "display",
+        "superfamily"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/doctrine/thin",
+            "css": {
+                "font-family": "Doctrine Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6983",
+                "slug": "thin",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/doctrine/light",
+            "css": {
+                "font-family": "Doctrine Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6981",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/doctrine/regular",
+            "css": {
+                "font-family": "Doctrine Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6982",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/doctrine/bold",
+            "css": {
+                "font-family": "Doctrine Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6980",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/doctrine/black",
+            "css": {
+                "font-family": "Doctrine Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6979",
+                "slug": "black",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1598",
+        "slug": "doctrine"
+    },
+    "generatedAt": 1437611063783
+}

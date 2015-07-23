@@ -1,0 +1,180 @@
+{
+    "name": "Claremont",
+    "url": "http://fontdeck.com/typeface/claremont",
+    "slug": "claremont",
+    "use": "heading",
+    "classification": [
+        "Serif",
+        "Transitional",
+        "Slab Serif",
+        "Clarendon/Bracketed"
+    ],
+    "foundry": "Red Rooster Collection",
+    "designer": [
+        "Paul Hickson",
+        "Leslie Usherwood"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "sensible",
+        "formal",
+        "serif",
+        "realist",
+        "technical",
+        "news text",
+        "english",
+        "correspondence",
+        "legible",
+        "sturdy",
+        "clarendon",
+        "personal text",
+        "magazine",
+        "news",
+        "news headline",
+        "modern",
+        "wild west",
+        "egyptian",
+        "book",
+        "office",
+        "slab serif",
+        "masculine",
+        "bookman-like",
+        "corporate",
+        "headline",
+        "transitional",
+        "1900s",
+        "book text",
+        "clean",
+        "conservative",
+        "wide"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/claremont/light",
+            "css": {
+                "font-family": "Claremont Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4173",
+                "slug": "light",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/claremont/lightitalic",
+            "css": {
+                "font-family": "Claremont Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4172",
+                "slug": "lightitalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/claremont/medium",
+            "css": {
+                "font-family": "Claremont Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4175",
+                "slug": "medium",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/claremont/mediumitalic",
+            "css": {
+                "font-family": "Claremont Medium Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4174",
+                "slug": "mediumitalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/claremont/bold",
+            "css": {
+                "font-family": "Claremont Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4168",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/claremont/bolditalic",
+            "css": {
+                "font-family": "Claremont Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4169",
+                "slug": "bolditalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/claremont/extrabold",
+            "css": {
+                "font-family": "Claremont Extra Bold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4171",
+                "slug": "extrabold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Extra-bold Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/claremont/extrabolditalic",
+            "css": {
+                "font-family": "Claremont Extra Bold Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4170",
+                "slug": "extrabolditalic",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "979",
+        "slug": "claremont"
+    },
+    "generatedAt": 1437610239285
+}

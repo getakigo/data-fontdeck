@@ -1,0 +1,114 @@
+{
+    "name": "Ronsard Crystal",
+    "url": "http://fontdeck.com/typeface/ronsardcrystal",
+    "slug": "ronsardcrystal",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Experimental",
+        "Display",
+        "Sans serif",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "Red Rooster Collection",
+    "designer": [
+        "Ashley Muir",
+        "Steve Jackaman"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "1950s",
+        "feminine",
+        "cool",
+        "curly",
+        "wine",
+        "art deco",
+        "logo",
+        "inline"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/ronsardcrystal/light",
+            "css": {
+                "font-family": "Ronsard Crystal Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3202",
+                "slug": "light",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/ronsardcrystal/regular",
+            "css": {
+                "font-family": "Ronsard Crystal Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3204",
+                "slug": "regular",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/ronsardcrystal/medium",
+            "css": {
+                "font-family": "Ronsard Crystal Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3201",
+                "slug": "medium",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/ronsardcrystal/bold",
+            "css": {
+                "font-family": "Ronsard Crystal Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3205",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/ronsardcrystal/extrabold",
+            "css": {
+                "font-family": "Ronsard Crystal Extra Bold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3206",
+                "slug": "extrabold",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "754",
+        "slug": "ronsardcrystal"
+    },
+    "generatedAt": 1437609854699
+}

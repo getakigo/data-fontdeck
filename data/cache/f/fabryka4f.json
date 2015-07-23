@@ -1,0 +1,186 @@
+{
+    "name": "Fabryka 4F",
+    "url": "http://fontdeck.com/typeface/fabryka4f",
+    "slug": "fabryka4f",
+    "use": "body",
+    "classification": [
+        "Display",
+        "Experimental",
+        "Display",
+        "Sans serif",
+        "Display",
+        "Futuristic",
+        "Display",
+        "Computer-related",
+        "Sans Serif",
+        "Geometric",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "4th february",
+    "designer": [
+        "Sergiy S. Tkachenko"
+    ],
+    "language": [
+        "latin",
+        "cyrillic"
+    ],
+    "tags": [],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/fabryka4f/light",
+            "css": {
+                "font-family": "Fabryka 4F Light",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3864",
+                "slug": "light",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/fabryka4f/lightitalic",
+            "css": {
+                "font-family": "Fabryka 4F Light Italic",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3865",
+                "slug": "lightitalic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/fabryka4f/regular",
+            "css": {
+                "font-family": "Fabryka 4F Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3862",
+                "slug": "regular",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/fabryka4f/italic",
+            "css": {
+                "font-family": "Fabryka 4F Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3863",
+                "slug": "italic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/fabryka4f/medium",
+            "css": {
+                "font-family": "Fabryka 4F Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3866",
+                "slug": "medium",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/fabryka4f/mediumitalic",
+            "css": {
+                "font-family": "Fabryka 4F Medium Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3867",
+                "slug": "mediumitalic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/fabryka4f/bold",
+            "css": {
+                "font-family": "Fabryka 4F Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3868",
+                "slug": "bold",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/fabryka4f/bolditalic",
+            "css": {
+                "font-family": "Fabryka 4F Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3869",
+                "slug": "bolditalic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/fabryka4f/extrabold",
+            "css": {
+                "font-family": "Fabryka 4F ExtraBold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3870",
+                "slug": "extrabold",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Extra-bold Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/fabryka4f/extrabolditalic",
+            "css": {
+                "font-family": "Fabryka 4F ExtraBold Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3871",
+                "slug": "extrabolditalic",
+                "price": "$7.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "914",
+        "slug": "fabryka4f"
+    },
+    "generatedAt": 1437610113323
+}

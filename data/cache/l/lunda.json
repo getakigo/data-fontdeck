@@ -1,0 +1,62 @@
+{
+    "name": "Lunda",
+    "url": "http://fontdeck.com/typeface/lunda",
+    "slug": "lunda",
+    "use": "body",
+    "classification": [
+        "Display",
+        "Serif",
+        "Serif",
+        "Modern"
+    ],
+    "foundry": "MAC Rhino Fonts",
+    "designer": [
+        "Stefan Hattenbach"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "serif",
+        "quirky",
+        "text",
+        "slanted"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/lunda/regular",
+            "css": {
+                "font-family": "Lunda Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2506",
+                "slug": "regular",
+                "price": "$12.49"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/lunda/bold",
+            "css": {
+                "font-family": "Lunda Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2505",
+                "slug": "bold",
+                "price": "$12.49"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "608",
+        "slug": "lunda"
+    },
+    "generatedAt": 1437609555367
+}

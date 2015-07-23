@@ -1,0 +1,276 @@
+{
+    "name": "Republic",
+    "url": "http://fontdeck.com/typeface/republic",
+    "slug": "republic",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Gothic",
+        "Sans Serif",
+        "Grotesque"
+    ],
+    "foundry": "Playtype",
+    "designer": [
+        "Jonas Hecksher"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "gothic",
+        "display font",
+        "advanced character set",
+        "grotesque",
+        "legible",
+        "utility",
+        "open",
+        "readable"
+    ],
+    "variations": [
+        {
+            "name": "Ultra-light",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/republic/ultralight",
+            "css": {
+                "font-family": "Republic Ultra Light",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5326",
+                "slug": "ultralight",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Ultra-light Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/republic/ultralightitalic",
+            "css": {
+                "font-family": "Republic Ultra Light Italic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5327",
+                "slug": "ultralightitalic",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/republic/light",
+            "css": {
+                "font-family": "Republic Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4898",
+                "slug": "light",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/republic/lightitalic",
+            "css": {
+                "font-family": "Republic Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5335",
+                "slug": "lightitalic",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/republic/regular",
+            "css": {
+                "font-family": "Republic Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4897",
+                "slug": "regular",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/republic/italic",
+            "css": {
+                "font-family": "Republic Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4899",
+                "slug": "italic",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/republic/medium",
+            "css": {
+                "font-family": "Republic Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5330",
+                "slug": "medium",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/republic/mediumitalic",
+            "css": {
+                "font-family": "Republic Medium Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5329",
+                "slug": "mediumitalic",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/republic/bold",
+            "css": {
+                "font-family": "Republic Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4900",
+                "slug": "bold",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/republic/bolditalic",
+            "css": {
+                "font-family": "Republic Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5334",
+                "slug": "bolditalic",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/republic/heavy",
+            "css": {
+                "font-family": "Republic Heavy",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5332",
+                "slug": "heavy",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Heavy Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/republic/heavyitalic",
+            "css": {
+                "font-family": "Republic Heavy Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5331",
+                "slug": "heavyitalic",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Demi Bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/republic/demibold",
+            "css": {
+                "font-family": "Republic Demi Bold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7559",
+                "slug": "demibold",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Poster",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/republic/poster",
+            "css": {
+                "font-family": "Republic Poster",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5336",
+                "slug": "poster",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Demi Bold Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/republic/demibolditalic",
+            "css": {
+                "font-family": "Republic Demi Bold Italic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5333",
+                "slug": "demibolditalic",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Poster Italic",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/republic/posteritalic",
+            "css": {
+                "font-family": "Republic Poster Italic",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5328",
+                "slug": "posteritalic",
+                "price": "$45.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1146",
+        "slug": "republic"
+    },
+    "generatedAt": 1437610480919
+}

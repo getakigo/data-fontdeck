@@ -1,0 +1,77 @@
+{
+    "name": "False Idol",
+    "url": "http://fontdeck.com/typeface/falseidol",
+    "slug": "falseidol",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Experimental script",
+        "Display",
+        "Sans serif",
+        "Display",
+        "Grunge"
+    ],
+    "foundry": "VirusFonts",
+    "designer": [
+        "Jonathan Barnbrook"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "pornographic",
+        "grunge",
+        "1970s",
+        "seedy",
+        "experimental",
+        "",
+        "",
+        "poster",
+        "",
+        "rub down",
+        "glamour",
+        "",
+        "",
+        "",
+        "",
+        "rough",
+        "headline"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/falseidol/regular",
+            "css": {
+                "font-family": "False Idol Regular",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3360",
+                "slug": "regular",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/falseidol/italic",
+            "css": {
+                "font-family": "False Idol Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3361",
+                "slug": "italic",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "810",
+        "slug": "falseidol"
+    },
+    "generatedAt": 1437609925466
+}

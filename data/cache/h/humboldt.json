@@ -1,0 +1,49 @@
+{
+    "name": "Humboldt",
+    "url": "http://fontdeck.com/typeface/humboldt",
+    "slug": "humboldt",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Experimental",
+        "Display",
+        "Poster"
+    ],
+    "foundry": "Fenotype",
+    "designer": [
+        "Erik Bertell"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "tough",
+        "modular",
+        "super",
+        "ultra-bold",
+        "bloated",
+        "octagonal"
+    ],
+    "variations": [
+        {
+            "name": "Black",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/humboldt/black",
+            "css": {
+                "font-family": "Humboldt Black",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3445",
+                "slug": "black",
+                "price": "$8.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "838",
+        "slug": "humboldt"
+    },
+    "generatedAt": 1437609964893
+}

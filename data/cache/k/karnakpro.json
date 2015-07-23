@@ -1,0 +1,204 @@
+{
+    "name": "Karnak Pro",
+    "url": "http://fontdeck.com/typeface/karnakpro",
+    "slug": "karnakpro",
+    "use": "heading",
+    "classification": [
+        "Slab Serif",
+        "Grotesque/Geometric"
+    ],
+    "foundry": "Red Rooster Collection",
+    "designer": [
+        "Ashley Muir",
+        "Steve Jackaman"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "sensible",
+        "realistic",
+        "serif",
+        "technical",
+        "news text",
+        "clarendon",
+        "personal text",
+        "magazine",
+        "news",
+        "1940s",
+        "menus",
+        "egyptian",
+        "fashionable",
+        "pyramid",
+        "headline",
+        "unusual",
+        "book text",
+        "english",
+        "legible",
+        "jazz",
+        "american",
+        "sturdy",
+        "idiosyncratic",
+        "modest",
+        "poster",
+        "news headline",
+        "1930s",
+        "minimalism",
+        "cool",
+        "block",
+        "plain",
+        "wild west",
+        "book",
+        "vintage",
+        "masculine",
+        "slab serif",
+        "retro",
+        "signage",
+        "square",
+        "egyptienne",
+        "sport",
+        "clean"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/karnakpro/light",
+            "css": {
+                "font-family": "Karnak Pro Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2800",
+                "slug": "light",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/karnakpro/lightitalic",
+            "css": {
+                "font-family": "Karnak Pro Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2801",
+                "slug": "lightitalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Book",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/karnakpro/book",
+            "css": {
+                "font-family": "Karnak Pro Book",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2798",
+                "slug": "book",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Book Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/karnakpro/bookitalic",
+            "css": {
+                "font-family": "Karnak Pro Book Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2799",
+                "slug": "bookitalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/karnakpro/medium",
+            "css": {
+                "font-family": "Karnak Pro Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2802",
+                "slug": "medium",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/karnakpro/mediumitalic",
+            "css": {
+                "font-family": "Karnak Pro Medium Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2803",
+                "slug": "mediumitalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/karnakpro/bold",
+            "css": {
+                "font-family": "Karnak Pro Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2797",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/karnakpro/black",
+            "css": {
+                "font-family": "Karnak Pro Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2795",
+                "slug": "black",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/karnakpro/blackitalic",
+            "css": {
+                "font-family": "Karnak Pro Black Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2796",
+                "slug": "blackitalic",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "662",
+        "slug": "karnakpro"
+    },
+    "generatedAt": 1437609656415
+}

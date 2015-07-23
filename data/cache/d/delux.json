@@ -1,0 +1,76 @@
+{
+    "name": "Delux",
+    "url": "http://fontdeck.com/typeface/delux",
+    "slug": "delux",
+    "use": "body",
+    "classification": [
+        "Display",
+        "Slab serif",
+        "Display",
+        "Geometric",
+        "Slab Serif",
+        "Dynamic"
+    ],
+    "foundry": "VirusFonts",
+    "designer": [
+        "Jonathan Barnbrook"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "",
+        "desirable",
+        "lifestyle",
+        "deluxe",
+        "experimental",
+        "",
+        "contemporary",
+        "",
+        "poster",
+        "designer",
+        "",
+        "",
+        "",
+        "headline",
+        "",
+        "life enhancing"
+    ],
+    "variations": [
+        {
+            "name": "Plain",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/delux/plain",
+            "css": {
+                "font-family": "Delux Plain",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3344",
+                "slug": "plain",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Delux",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/delux/delux",
+            "css": {
+                "font-family": "Delux Delux",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3345",
+                "slug": "delux",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "805",
+        "slug": "delux"
+    },
+    "generatedAt": 1437609915358
+}

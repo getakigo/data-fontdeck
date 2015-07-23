@@ -1,0 +1,179 @@
+{
+    "name": "Badger Pro",
+    "url": "http://fontdeck.com/typeface/badgerpro",
+    "slug": "badgerpro",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Sans Serif",
+        "Glyphic"
+    ],
+    "foundry": "Red Rooster Collection",
+    "designer": [
+        "Ashley Muir",
+        "Steve Jackaman"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "formal",
+        "expressive",
+        "feminine",
+        "logo",
+        "legible",
+        "music",
+        "fancy",
+        "latin",
+        "baroque",
+        "magazine",
+        "news",
+        "sophisticated",
+        "decorative",
+        "movie",
+        "roman",
+        "menus",
+        "elegant",
+        "italian",
+        "fashionable",
+        "renaissance",
+        "money",
+        "chinese",
+        "european",
+        "ancient",
+        "delicate",
+        "signage",
+        "headline",
+        "graceful",
+        "greek",
+        "clean"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/badgerpro/light",
+            "css": {
+                "font-family": "Badger Pro Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2971",
+                "slug": "light",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/badgerpro/lightitalic",
+            "css": {
+                "font-family": "Badger Pro Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2972",
+                "slug": "lightitalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/badgerpro/medium",
+            "css": {
+                "font-family": "Badger Pro Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2975",
+                "slug": "medium",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/badgerpro/mediumitalic",
+            "css": {
+                "font-family": "Badger Pro Medium Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2973",
+                "slug": "mediumitalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/badgerpro/bold",
+            "css": {
+                "font-family": "Badger Pro Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2967",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/badgerpro/bolditalic",
+            "css": {
+                "font-family": "Badger Pro Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2968",
+                "slug": "bolditalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/badgerpro/extrabold",
+            "css": {
+                "font-family": "Badger Pro Extra Bold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2969",
+                "slug": "extrabold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Extra-bold Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/badgerpro/extrabolditalic",
+            "css": {
+                "font-family": "Badger Pro Extra Bold Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2970",
+                "slug": "extrabolditalic",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "689",
+        "slug": "badgerpro"
+    },
+    "generatedAt": 1437609722543
+}

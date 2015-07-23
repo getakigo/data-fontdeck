@@ -1,0 +1,134 @@
+{
+    "name": "Barbieri",
+    "url": "http://fontdeck.com/typeface/barbieri",
+    "slug": "barbieri",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Script",
+        "Script",
+        "Display",
+        "Script",
+        "Casual"
+    ],
+    "foundry": "ReType",
+    "designer": [
+        "Ramiro Espinoza"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "supermarket",
+        "brush",
+        "hand-drawn",
+        "vintage",
+        "1960s",
+        "rock and roll",
+        "informal",
+        "retro",
+        "signage",
+        "lettering",
+        "casual",
+        "gig poster",
+        "comic",
+        "funk"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/barbieri/light",
+            "css": {
+                "font-family": "Barbieri Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6197",
+                "slug": "light",
+                "price": "$16.99"
+            }
+        },
+        {
+            "name": "Book",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/barbieri/book",
+            "css": {
+                "font-family": "Barbieri Book",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6195",
+                "slug": "book",
+                "price": "$16.99"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/barbieri/regular",
+            "css": {
+                "font-family": "Barbieri Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6199",
+                "slug": "regular",
+                "price": "$16.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/barbieri/bold",
+            "css": {
+                "font-family": "Barbieri Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6194",
+                "slug": "bold",
+                "price": "$16.99"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/barbieri/heavy",
+            "css": {
+                "font-family": "Barbieri Heavy",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6198",
+                "slug": "heavy",
+                "price": "$16.99"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/barbieri/black",
+            "css": {
+                "font-family": "Barbieri Black",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6196",
+                "slug": "black",
+                "price": "$16.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1428",
+        "slug": "barbieri"
+    },
+    "generatedAt": 1437610847419
+}

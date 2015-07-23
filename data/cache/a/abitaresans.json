@@ -1,0 +1,312 @@
+{
+    "name": "Abitare Sans",
+    "url": "http://fontdeck.com/typeface/abitaresans",
+    "slug": "abitaresans",
+    "use": "body",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "Fabrizio Schiavi Design",
+    "designer": [
+        "Fabrizio Schiavi"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "display font",
+        "custom",
+        "pro character set",
+        "linear",
+        "editorial",
+        "helvetica alternative",
+        "universal",
+        "large x-height",
+        "text font",
+        "screen",
+        "magazine",
+        "superfamily",
+        "traffic",
+        "grotesk family"
+    ],
+    "variations": [
+        {
+            "name": "200",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/abitaresans/200",
+            "css": {
+                "font-family": "Abitare Sans 200",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7900",
+                "slug": "200",
+                "price": "$25.00"
+            }
+        },
+        {
+            "name": "200 Italic",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/abitaresans/200italic",
+            "css": {
+                "font-family": "Abitare Sans 200 Italic",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7910",
+                "slug": "200italic",
+                "price": "$25.00"
+            }
+        },
+        {
+            "name": "300",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/abitaresans/300",
+            "css": {
+                "font-family": "Abitare Sans 300",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7901",
+                "slug": "300",
+                "price": "$25.00"
+            }
+        },
+        {
+            "name": "500",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/abitaresans/500",
+            "css": {
+                "font-family": "Abitare Sans 500",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7903",
+                "slug": "500",
+                "price": "$25.00"
+            }
+        },
+        {
+            "name": "700",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/abitaresans/700",
+            "css": {
+                "font-family": "Abitare Sans 700",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7905",
+                "slug": "700",
+                "price": "$25.00"
+            }
+        },
+        {
+            "name": "100",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/abitaresans/100",
+            "css": {
+                "font-family": "Abitare Sans 100",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7899",
+                "slug": "100",
+                "price": "$25.00"
+            }
+        },
+        {
+            "name": "600",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/abitaresans/600",
+            "css": {
+                "font-family": "Abitare Sans 600",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7904",
+                "slug": "600",
+                "price": "$25.00"
+            }
+        },
+        {
+            "name": "800",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/abitaresans/800",
+            "css": {
+                "font-family": "Abitare Sans 800",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7906",
+                "slug": "800",
+                "price": "$25.00"
+            }
+        },
+        {
+            "name": "900",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/abitaresans/900",
+            "css": {
+                "font-family": "Abitare Sans 900",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7907",
+                "slug": "900",
+                "price": "$25.00"
+            }
+        },
+        {
+            "name": "400",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/abitaresans/400",
+            "css": {
+                "font-family": "Abitare Sans 400",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7902",
+                "slug": "400",
+                "price": "$25.00"
+            }
+        },
+        {
+            "name": "900 Italic",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/abitaresans/900italic",
+            "css": {
+                "font-family": "Abitare Sans 900 Italic",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7916",
+                "slug": "900italic",
+                "price": "$25.00"
+            }
+        },
+        {
+            "name": "600 Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/abitaresans/600italic",
+            "css": {
+                "font-family": "Abitare Sans 600 Italic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7913",
+                "slug": "600italic",
+                "price": "$25.00"
+            }
+        },
+        {
+            "name": "500 Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/abitaresans/500italic",
+            "css": {
+                "font-family": "Abitare Sans 500 Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7912",
+                "slug": "500italic",
+                "price": "$25.00"
+            }
+        },
+        {
+            "name": "400 Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/abitaresans/400italic",
+            "css": {
+                "font-family": "Abitare Sans 400 Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7911",
+                "slug": "400italic",
+                "price": "$25.00"
+            }
+        },
+        {
+            "name": "800 Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/abitaresans/800italic",
+            "css": {
+                "font-family": "Abitare Sans 800 Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7915",
+                "slug": "800italic",
+                "price": "$25.00"
+            }
+        },
+        {
+            "name": "700 Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/abitaresans/700italic",
+            "css": {
+                "font-family": "Abitare Sans 700 Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7914",
+                "slug": "700italic",
+                "price": "$25.00"
+            }
+        },
+        {
+            "name": "100 Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/abitaresans/100italic",
+            "css": {
+                "font-family": "Abitare Sans 100 Italic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7909",
+                "slug": "100italic",
+                "price": "$25.00"
+            }
+        },
+        {
+            "name": "300 Italic",
+            "description": "i3",
+            "url": "http://fontdeck.com/font/abitaresans/300italic",
+            "css": {
+                "font-family": "Abitare Sans 300 Italic",
+                "font-weight": "300",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7973",
+                "slug": "300italic",
+                "price": "$25.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1816",
+        "slug": "abitaresans"
+    },
+    "generatedAt": 1437611335472
+}

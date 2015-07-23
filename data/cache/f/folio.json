@@ -1,0 +1,114 @@
+{
+    "name": "Folio",
+    "url": "http://fontdeck.com/typeface/folio",
+    "slug": "folio",
+    "superfamily": "Folio",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Grotesque"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Walter Baum",
+        "Konrad Bauer"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "modern",
+        "static",
+        "neutral",
+        "1950s",
+        "technical",
+        "dynamic",
+        "linear",
+        "german",
+        "folio",
+        "superfamily",
+        "modest"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/folio/light",
+            "css": {
+                "font-family": "Folio Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1056",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/folio/lightitalic",
+            "css": {
+                "font-family": "Folio Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1058",
+                "slug": "lightitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/folio/medium",
+            "css": {
+                "font-family": "Folio Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1059",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/folio/extrabold",
+            "css": {
+                "font-family": "Folio Extra Bold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1055",
+                "slug": "extrabold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Extra Condensed",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/folio/boldextracondensed",
+            "css": {
+                "font-family": "Folio Bold Extra Condensed",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1054",
+                "slug": "boldextracondensed",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "299",
+        "slug": "folio"
+    },
+    "generatedAt": 1437609165475
+}

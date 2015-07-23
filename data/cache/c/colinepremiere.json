@@ -1,0 +1,81 @@
+{
+    "name": "Coline Premiere",
+    "url": "http://fontdeck.com/typeface/colinepremiere",
+    "slug": "colinepremiere",
+    "superfamily": "Coline",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Garalde"
+    ],
+    "foundry": "A is for…",
+    "designer": [
+        "Émilie Rigaud"
+    ],
+    "opentype": [
+        "hist",
+        "liga",
+        "lnum",
+        "onum",
+        "pnum",
+        "smcp",
+        "ss01",
+        "tnum"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "opentype",
+        "legible",
+        "coline première",
+        "fine crafted",
+        "contemporary",
+        "upright",
+        "magazine",
+        "versatile",
+        "handwriting",
+        "book",
+        "fluid",
+        "editorial",
+        "lively",
+        "superfamily"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/colinepremiere/regular",
+            "css": {
+                "font-family": "Coline Premiere Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7917",
+                "slug": "regular",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/colinepremiere/bold",
+            "css": {
+                "font-family": "Coline Premiere Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7918",
+                "slug": "bold",
+                "price": "$15.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1817",
+        "slug": "colinepremiere"
+    },
+    "generatedAt": 1437611332848
+}

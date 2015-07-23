@@ -1,0 +1,83 @@
+{
+    "name": "Pollen",
+    "url": "http://fontdeck.com/typeface/pollen",
+    "slug": "pollen",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Transitional",
+        "Display",
+        "Serif",
+        "Serif",
+        "Garalde"
+    ],
+    "foundry": "TypeTogether",
+    "designer": [
+        "Eduardo Berliner"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "technical",
+        "brush",
+        "fluid",
+        "calligraphic",
+        "legible",
+        "pen",
+        "readable",
+        "personality"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/pollen/regular",
+            "css": {
+                "font-family": "Pollen Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3116",
+                "slug": "regular",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/pollen/italic",
+            "css": {
+                "font-family": "Pollen Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3115",
+                "slug": "italic",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/pollen/bold",
+            "css": {
+                "font-family": "Pollen Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3114",
+                "slug": "bold",
+                "price": "$15.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "728",
+        "slug": "pollen"
+    },
+    "generatedAt": 1437609806240
+}

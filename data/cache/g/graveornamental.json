@@ -1,0 +1,63 @@
+{
+    "name": "Grave Ornamental",
+    "url": "http://fontdeck.com/typeface/graveornamental",
+    "slug": "graveornamental",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "All caps",
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "Intellecta Design",
+    "designer": [
+        "Paulo W"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "victoriana",
+        "bodoni",
+        "wedding invitation",
+        "victorian poster",
+        "1800s",
+        "didone",
+        "modern",
+        "all caps",
+        "decorative",
+        "victorian",
+        "tendrils",
+        "initials",
+        "flourished",
+        "decorative capitals",
+        "ornate",
+        "1700s",
+        "ornamental",
+        "organic",
+        "formal elegant",
+        "wedding"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/graveornamental/regular",
+            "css": {
+                "font-family": "Grave Ornamental Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4004",
+                "slug": "regular",
+                "price": "$11.20"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "940",
+        "slug": "graveornamental"
+    },
+    "generatedAt": 1437610149664
+}

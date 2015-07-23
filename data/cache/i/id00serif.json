@@ -1,0 +1,209 @@
+{
+    "name": "ID00 Serif",
+    "url": "http://fontdeck.com/typeface/id00serif",
+    "slug": "id00serif",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Neo-classical"
+    ],
+    "foundry": "Playtype",
+    "designer": [
+        "Jonas Hecksher"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "serif",
+        "garalde",
+        "advanced character set"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/id00serif/light",
+            "css": {
+                "font-family": "ID00 Serif Light",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5272",
+                "slug": "light",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/id00serif/lightitalic",
+            "css": {
+                "font-family": "ID00 Serif Light Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5271",
+                "slug": "lightitalic",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/id00serif/regular",
+            "css": {
+                "font-family": "ID00 Serif Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5261",
+                "slug": "regular",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/id00serif/italic",
+            "css": {
+                "font-family": "ID00 Serif Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5270",
+                "slug": "italic",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/id00serif/bold",
+            "css": {
+                "font-family": "ID00 Serif Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5262",
+                "slug": "bold",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/id00serif/bolditalic",
+            "css": {
+                "font-family": "ID00 Serif Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5263",
+                "slug": "bolditalic",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/id00serif/extrabold",
+            "css": {
+                "font-family": "ID00 Serif Extra Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5267",
+                "slug": "extrabold",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Extra-bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/id00serif/extrabolditalic",
+            "css": {
+                "font-family": "ID00 Serif Extra Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5266",
+                "slug": "extrabolditalic",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Heavy Italic",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/id00serif/heavyitalic",
+            "css": {
+                "font-family": "ID00 Serif Heavy Italic",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5268",
+                "slug": "heavyitalic",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/id00serif/heavy",
+            "css": {
+                "font-family": "ID00 Serif Heavy",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5269",
+                "slug": "heavy",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Demi Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/id00serif/demibold",
+            "css": {
+                "font-family": "ID00 Serif Demi Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5265",
+                "slug": "demibold",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Demi Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/id00serif/demibolditalic",
+            "css": {
+                "font-family": "ID00 Serif Demi Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5264",
+                "slug": "demibolditalic",
+                "price": "$45.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1206",
+        "slug": "id00serif"
+    },
+    "generatedAt": 1437610559849
+}

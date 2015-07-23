@@ -1,0 +1,120 @@
+{
+    "name": "Eurydome Extended",
+    "url": "http://fontdeck.com/typeface/eurydomeextended",
+    "slug": "eurydomeextended",
+    "superfamily": "Eurydome",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Grotesque"
+    ],
+    "foundry": "Emboss Fonts",
+    "designer": [
+        "Stephen Boss"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "sans serif",
+        "venus",
+        "grotesque"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/eurydomeextended/regular",
+            "css": {
+                "font-family": "Eurydome Extended Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6941",
+                "slug": "regular",
+                "price": "$11.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/eurydomeextended/italic",
+            "css": {
+                "font-family": "Eurydome Extended Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6944",
+                "slug": "italic",
+                "price": "$11.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/eurydomeextended/bold",
+            "css": {
+                "font-family": "Eurydome Extended Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6940",
+                "slug": "bold",
+                "price": "$11.00"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/eurydomeextended/bolditalic",
+            "css": {
+                "font-family": "Eurydome Extended Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6943",
+                "slug": "bolditalic",
+                "price": "$11.00"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/eurydomeextended/black",
+            "css": {
+                "font-family": "Eurydome Extended Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6939",
+                "slug": "black",
+                "price": "$11.00"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/eurydomeextended/blackitalic",
+            "css": {
+                "font-family": "Eurydome Extended Black Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6942",
+                "slug": "blackitalic",
+                "price": "$11.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1587",
+        "slug": "eurydomeextended"
+    },
+    "generatedAt": 1437611048735
+}

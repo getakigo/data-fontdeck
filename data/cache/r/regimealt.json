@@ -1,0 +1,160 @@
+{
+    "name": "Regime Alt",
+    "url": "http://fontdeck.com/typeface/regimealt",
+    "slug": "regimealt",
+    "superfamily": "Regime",
+    "use": "body",
+    "classification": [
+        "Slab Serif",
+        "Grotesque/Geometric",
+        "Slab Serif",
+        "Egyptian",
+        "Slab Serif",
+        "Humanist"
+    ],
+    "foundry": "VirusFonts",
+    "designer": [
+        "Jonathan Barnbrook"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "19th century",
+        "english",
+        "text",
+        "usable",
+        "legible",
+        "bold",
+        "contemporary",
+        "superfamily",
+        "poster"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/regimealt/regular",
+            "css": {
+                "font-family": "Regime Alt Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3432",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/regimealt/regularitalic",
+            "css": {
+                "font-family": "Regime Alt Regular Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3433",
+                "slug": "regularitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/regimealt/medium",
+            "css": {
+                "font-family": "Regime Alt Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3428",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/regimealt/mediumitalic",
+            "css": {
+                "font-family": "Regime Alt Medium Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3429",
+                "slug": "mediumitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/regimealt/bold",
+            "css": {
+                "font-family": "Regime Alt Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3424",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/regimealt/bolditalic",
+            "css": {
+                "font-family": "Regime Alt Bold Italic",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3425",
+                "slug": "bolditalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Ultra",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/regimealt/ultra",
+            "css": {
+                "font-family": "Regime Alt Ultra",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3435",
+                "slug": "ultra",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Ultra Italic",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/regimealt/ultraitalic",
+            "css": {
+                "font-family": "Regime Alt Ultra Italic",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3436",
+                "slug": "ultraitalic",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "877",
+        "slug": "regimealt"
+    },
+    "generatedAt": 1437610053897
+}

@@ -1,0 +1,52 @@
+{
+    "name": "Kremlin II Pro",
+    "url": "http://fontdeck.com/typeface/kremliniipro",
+    "slug": "kremliniipro",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "All caps",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "CheapProFonts",
+    "designer": [
+        "Vic Fieger"
+    ],
+    "language": [
+        "latin",
+        "cyrillic"
+    ],
+    "tags": [
+        "all caps",
+        "faux russian",
+        "geometric",
+        "constructivist",
+        "faux cyrillic",
+        "square",
+        "cyrillic",
+        "russian"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/kremliniipro/regular",
+            "css": {
+                "font-family": "Kremlin II Pro Regular",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4758",
+                "slug": "regular",
+                "price": "$9.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1106",
+        "slug": "kremliniipro"
+    },
+    "generatedAt": 1437610433195
+}

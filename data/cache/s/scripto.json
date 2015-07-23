@@ -1,0 +1,48 @@
+{
+    "name": "Scripto",
+    "url": "http://fontdeck.com/typeface/scripto",
+    "slug": "scripto",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Handwritten",
+        "Script",
+        "Calligraphic",
+        "Display",
+        "Script"
+    ],
+    "foundry": "Bureau des Affaires Typographiques",
+    "designer": [
+        "Franck Jalleau"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "handwritten",
+        "script",
+        "calligraphic"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/scripto/regular",
+            "css": {
+                "font-family": "Scripto Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6216",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1431",
+        "slug": "scripto"
+    },
+    "generatedAt": 1437610846847
+}

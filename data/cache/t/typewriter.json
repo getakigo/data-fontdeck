@@ -1,0 +1,73 @@
+{
+    "name": "Typewriter",
+    "url": "http://fontdeck.com/typeface/typewriter",
+    "slug": "typewriter",
+    "use": "body",
+    "classification": [
+        "Slab Serif",
+        "Dynamic"
+    ],
+    "foundry": "A2-TYPE",
+    "designer": [
+        "Henrik Kubel"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "rounded",
+        "typewriter"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/typewriter/regular",
+            "css": {
+                "font-family": "Typewriter Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6461",
+                "slug": "regular",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/typewriter/medium",
+            "css": {
+                "font-family": "Typewriter Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6462",
+                "slug": "medium",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/typewriter/bold",
+            "css": {
+                "font-family": "Typewriter Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6460",
+                "slug": "bold",
+                "price": "$45.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1472",
+        "slug": "typewriter"
+    },
+    "generatedAt": 1437610911042
+}

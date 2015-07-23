@@ -1,0 +1,110 @@
+{
+    "name": "Skolar Cyrillic",
+    "url": "http://fontdeck.com/typeface/skolarcyrillic",
+    "slug": "skolarcyrillic",
+    "superfamily": "Skolar",
+    "use": "body",
+    "classification": [],
+    "foundry": "Rosetta",
+    "designer": [
+        "David Březina"
+    ],
+    "language": [
+        "latin",
+        "cyrillic"
+    ],
+    "tags": [
+        "low-contrast",
+        "formal",
+        "hand hinted",
+        "workhorse",
+        "text",
+        "logo",
+        "wedge serif",
+        "legible",
+        "sturdy",
+        "brochure",
+        "cyrillic",
+        "contemporary",
+        "magazine",
+        "news",
+        "manually hinted",
+        "academic",
+        "dictionary",
+        "neutral",
+        "scholarly",
+        "playful",
+        "book",
+        "handhinted",
+        "caption",
+        "corporate",
+        "conservative"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/skolarcyrillic/regular",
+            "css": {
+                "font-family": "Skolar Cyrillic Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3192",
+                "slug": "regular",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/skolarcyrillic/italic",
+            "css": {
+                "font-family": "Skolar Cyrillic Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3194",
+                "slug": "italic",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/skolarcyrillic/bold",
+            "css": {
+                "font-family": "Skolar Cyrillic Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3193",
+                "slug": "bold",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/skolarcyrillic/bolditalic",
+            "css": {
+                "font-family": "Skolar Cyrillic Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3195",
+                "slug": "bolditalic",
+                "price": "$15.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "752",
+        "slug": "skolarcyrillic"
+    },
+    "generatedAt": 1437609840937
+}

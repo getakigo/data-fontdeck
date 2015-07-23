@@ -1,0 +1,55 @@
+{
+    "name": "Twister",
+    "url": "http://fontdeck.com/typeface/twister",
+    "slug": "twister",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "All caps",
+        "Display",
+        "Serif"
+    ],
+    "foundry": "Veer",
+    "designer": [
+        "Jason Walcott"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "decorative",
+        "1970s",
+        "swashes",
+        "television",
+        "1960s",
+        "retro",
+        "all capitals",
+        "mod",
+        "fun",
+        "curls",
+        "display",
+        "alternates"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/twister/regular",
+            "css": {
+                "font-family": "Twister Regular",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5049",
+                "slug": "regular",
+                "price": "$11.25"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1175",
+        "slug": "twister"
+    },
+    "generatedAt": 1437610512196
+}

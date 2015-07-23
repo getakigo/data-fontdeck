@@ -1,0 +1,64 @@
+{
+    "name": "Connemara Old Style Pro",
+    "url": "http://fontdeck.com/typeface/connemaraoldstylepro",
+    "slug": "connemaraoldstylepro",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "Red Rooster Collection",
+    "designer": [
+        "Ashley Muir",
+        "Steve Jackaman"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "celtic",
+        "middle ages",
+        "irish",
+        "poster",
+        "old style serif",
+        "uncial",
+        "art deco"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/connemaraoldstylepro/light",
+            "css": {
+                "font-family": "Connemara Old Style Pro Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3209",
+                "slug": "light",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/connemaraoldstylepro/bold",
+            "css": {
+                "font-family": "Connemara Old Style Pro Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3210",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "757",
+        "slug": "connemaraoldstylepro"
+    },
+    "generatedAt": 1437609853465
+}

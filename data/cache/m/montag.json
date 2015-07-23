@@ -1,0 +1,148 @@
+{
+    "name": "Montag",
+    "url": "http://fontdeck.com/typeface/montag",
+    "slug": "montag",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "Insigne",
+    "designer": [
+        "Jeremy Dooley"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "angular",
+        "clean"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/montag/light",
+            "css": {
+                "font-family": "Montag Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "637",
+                "slug": "light",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Light Oblique",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/montag/lightoblique",
+            "css": {
+                "font-family": "Montag Light Oblique",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "636",
+                "slug": "lightoblique",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/montag/regular",
+            "css": {
+                "font-family": "Montag Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "639",
+                "slug": "regular",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Regular Oblique",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/montag/oblique",
+            "css": {
+                "font-family": "Montag Oblique",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "638",
+                "slug": "oblique",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/montag/bold",
+            "css": {
+                "font-family": "Montag Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "635",
+                "slug": "bold",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Bold Oblique",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/montag/boldoblique",
+            "css": {
+                "font-family": "Montag Bold Oblique",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "634",
+                "slug": "boldoblique",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/montag/black",
+            "css": {
+                "font-family": "Montag Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "633",
+                "slug": "black",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Black Oblique",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/montag/blackoblique",
+            "css": {
+                "font-family": "Montag Black Oblique",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "632",
+                "slug": "blackoblique",
+                "price": "$7.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "216",
+        "slug": "montag"
+    },
+    "generatedAt": 1437609026538
+}

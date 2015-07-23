@@ -1,0 +1,87 @@
+{
+    "name": "Wurlitzer Pro",
+    "url": "http://fontdeck.com/typeface/wurlitzerpro",
+    "slug": "wurlitzerpro",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Slab serif",
+        "Slab Serif",
+        "Grotesque/Geometric"
+    ],
+    "foundry": "Red Rooster Collection",
+    "designer": [
+        "Ashley Muir",
+        "Steve Jackaman"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "sensible",
+        "formal",
+        "realist",
+        "technical",
+        "circus",
+        "english",
+        "correspondence",
+        "legible",
+        "sturdy",
+        "clarendon",
+        "news",
+        "wildwest",
+        "modern",
+        "egyptian",
+        "book",
+        "office",
+        "casino",
+        "bookman",
+        "slabserif",
+        "masculine",
+        "corporate",
+        "headline",
+        "personaltext",
+        "transitional",
+        "1900s",
+        "clean",
+        "conservative",
+        "wide"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/wurlitzerpro/light",
+            "css": {
+                "font-family": "Wurlitzer Pro Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3154",
+                "slug": "light",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/wurlitzerpro/bold",
+            "css": {
+                "font-family": "Wurlitzer Pro Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3153",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "739",
+        "slug": "wurlitzerpro"
+    },
+    "generatedAt": 1437609821529
+}

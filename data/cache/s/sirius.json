@@ -1,0 +1,91 @@
+{
+    "name": "Sirius",
+    "url": "http://fontdeck.com/typeface/sirius",
+    "slug": "sirius",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Garalde"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Coen Hofmann"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "french",
+        "elegant",
+        "garalde",
+        "german",
+        "legible"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/sirius/regular",
+            "css": {
+                "font-family": "Sirius Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1592",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/sirius/regularitalic",
+            "css": {
+                "font-family": "Sirius Regular Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1593",
+                "slug": "regularitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/sirius/bold",
+            "css": {
+                "font-family": "Sirius Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1590",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Small Caps Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/sirius/smallcapsregular",
+            "css": {
+                "font-family": "Sirius Small Caps Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1591",
+                "slug": "smallcapsregular",
+                "price": "$2.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "423",
+        "slug": "sirius"
+    },
+    "generatedAt": 1437609321037
+}

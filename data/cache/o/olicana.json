@@ -1,0 +1,84 @@
+{
+    "name": "Olicana",
+    "url": "http://fontdeck.com/typeface/olicana",
+    "slug": "olicana",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Handwritten"
+    ],
+    "foundry": "G-Type",
+    "designer": [
+        "Nick Cooke"
+    ],
+    "opentype": [
+        "liga",
+        "pnum",
+        "smcp",
+        "swsh"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "script",
+        "opentype",
+        "handwriting",
+        "calligraphic",
+        "swash",
+        "display",
+        "distressed"
+    ],
+    "variations": [
+        {
+            "name": "Rough",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/olicana/rough",
+            "css": {
+                "font-family": "Olicana Rough",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6958",
+                "slug": "rough",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Fine",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/olicana/fine",
+            "css": {
+                "font-family": "Olicana Fine",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6788",
+                "slug": "fine",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Smooth",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/olicana/smooth",
+            "css": {
+                "font-family": "Olicana Smooth",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6789",
+                "slug": "smooth",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1544",
+        "slug": "olicana"
+    },
+    "generatedAt": 1437611107824
+}

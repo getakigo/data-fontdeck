@@ -1,0 +1,46 @@
+{
+    "name": "Mrs Lolita",
+    "url": "http://fontdeck.com/typeface/mrslolita",
+    "slug": "mrslolita",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Decorative script"
+    ],
+    "foundry": "Fenotype",
+    "designer": [
+        "Emil Bertell"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "romantic",
+        "rough",
+        "valentine",
+        "handwriting",
+        "organic"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/mrslolita/regular",
+            "css": {
+                "font-family": "Mrs Lolita Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2141",
+                "slug": "regular",
+                "price": "$8.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "536",
+        "slug": "mrslolita"
+    },
+    "generatedAt": 1437609398709
+}

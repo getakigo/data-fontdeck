@@ -1,0 +1,154 @@
+{
+    "name": "Skolar3 Cyrillic Min",
+    "url": "http://fontdeck.com/typeface/skolar3cyrillicmin",
+    "slug": "skolar3cyrillicmin",
+    "superfamily": "Skolar",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Rugged",
+        "Serif",
+        "Transitional",
+        "Serif",
+        "Neo-classical"
+    ],
+    "foundry": "Rosetta",
+    "designer": [
+        "David Březina"
+    ],
+    "opentype": [
+        "liga",
+        "lnum"
+    ],
+    "language": [
+        "latin",
+        "cyrillic"
+    ],
+    "tags": [
+        "low-contrast",
+        "formal",
+        "opentype",
+        "hand hinted",
+        "workhorse",
+        "21st century",
+        "text",
+        "wedge serif",
+        "legible",
+        "sturdy",
+        "brochure",
+        "cyrillic",
+        "contemporary",
+        "magazine",
+        "hand-hinted",
+        "news",
+        "manually hinted",
+        "academic",
+        "dictionary",
+        "david březina",
+        "neutral",
+        "scholarly",
+        "playful",
+        "book",
+        "corporate",
+        "minified",
+        "21st century text",
+        "czech"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/skolar3cyrillicmin/regular",
+            "css": {
+                "font-family": "Skolar3 Cyrillic Min Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7809",
+                "slug": "regular",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/skolar3cyrillicmin/italic",
+            "css": {
+                "font-family": "Skolar3 Cyrillic Min Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7812",
+                "slug": "italic",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/skolar3cyrillicmin/semibold",
+            "css": {
+                "font-family": "Skolar3 Cyrillic Min Semibold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7810",
+                "slug": "semibold",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Semi-bold Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/skolar3cyrillicmin/semibolditalic",
+            "css": {
+                "font-family": "SkolarCyrilliMiSemibolItali",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7813",
+                "slug": "semibolditalic",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/skolar3cyrillicmin/bold",
+            "css": {
+                "font-family": "Skolar3 Cyrillic Min Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7811",
+                "slug": "bold",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/skolar3cyrillicmin/bolditalic",
+            "css": {
+                "font-family": "Skolar3CyrillicMinBoldItalic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7814",
+                "slug": "bolditalic",
+                "price": "$15.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1798",
+        "slug": "skolar3cyrillicmin"
+    },
+    "generatedAt": 1437611305681
+}

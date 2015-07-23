@@ -1,0 +1,53 @@
+{
+    "name": "Meeneralca 4F",
+    "url": "http://fontdeck.com/typeface/meeneralca4f",
+    "slug": "meeneralca4f",
+    "use": "body",
+    "classification": [
+        "Display",
+        "All caps",
+        "Display",
+        "Sans serif",
+        "Symbols",
+        "Arrows",
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "4th february",
+    "designer": [
+        "Sergiy S. Tkachenko"
+    ],
+    "language": [
+        "latin",
+        "cyrillic"
+    ],
+    "tags": [
+        "german",
+        "display",
+        "geometric sans",
+        "swiss",
+        "unicase"
+    ],
+    "variations": [
+        {
+            "name": "Unicase Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/meeneralca4f/unicasebold",
+            "css": {
+                "font-family": "Meeneralca 4F Unicase Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8058",
+                "slug": "unicasebold",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1879",
+        "slug": "meeneralca4f"
+    },
+    "generatedAt": 1437611379763
+}

@@ -1,0 +1,88 @@
+{
+    "name": "Coperto",
+    "url": "http://fontdeck.com/typeface/coperto",
+    "slug": "coperto",
+    "superfamily": "Coperto",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Poster"
+    ],
+    "foundry": "Milieu Grotesque",
+    "designer": [
+        "Alexander Colby"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "advertising",
+        "skate",
+        "narrow",
+        "title",
+        "condensed",
+        "strong",
+        "magazine",
+        "black",
+        "all caps",
+        "compact",
+        "multilingual",
+        "sansserif",
+        "square sans",
+        "sign letter",
+        "superfamily",
+        "sport"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/coperto/regular",
+            "css": {
+                "font-family": "Coperto Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7308",
+                "slug": "regular",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/coperto/italic",
+            "css": {
+                "font-family": "Coperto Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7309",
+                "slug": "italic",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Recline",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/coperto/recline",
+            "css": {
+                "font-family": "Coperto Recline",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7310",
+                "slug": "recline",
+                "price": "$15.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1716",
+        "slug": "coperto"
+    },
+    "generatedAt": 1437611155966
+}

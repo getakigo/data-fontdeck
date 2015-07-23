@@ -1,0 +1,131 @@
+{
+    "name": "Graublau Sans Pro Display",
+    "url": "http://fontdeck.com/typeface/graublausansprodisplay",
+    "slug": "graublausansprodisplay",
+    "superfamily": "Graublau",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Humanist"
+    ],
+    "foundry": "fonts.info",
+    "designer": [
+        "Georg Seifert"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "modern",
+        "elegant",
+        "workhorse",
+        "text",
+        "legible",
+        "editorial",
+        "headline",
+        "corporate",
+        "sans serif",
+        "humanist",
+        "contemporary",
+        "magazine",
+        "clean",
+        "poster"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/graublausansprodisplay/light",
+            "css": {
+                "font-family": "Graublau Sans Pro Display Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5708",
+                "slug": "light",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/graublausansprodisplay/lightitalic",
+            "css": {
+                "font-family": "GraublaSanPrDisplaLighItali",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5709",
+                "slug": "lightitalic",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/graublausansprodisplay/regular",
+            "css": {
+                "font-family": "GraublauSansProDisplayRegular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5710",
+                "slug": "regular",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/graublausansprodisplay/italic",
+            "css": {
+                "font-family": "GraublauSansProDisplayItalic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5707",
+                "slug": "italic",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/graublausansprodisplay/bold",
+            "css": {
+                "font-family": "Graublau Sans Pro Display Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5705",
+                "slug": "bold",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/graublausansprodisplay/bolditalic",
+            "css": {
+                "font-family": "GraublaSanPrDisplaBolItali",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5706",
+                "slug": "bolditalic",
+                "price": "$9.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1315",
+        "slug": "graublausansprodisplay"
+    },
+    "generatedAt": 1437610763420
+}

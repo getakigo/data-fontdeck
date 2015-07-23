@@ -1,0 +1,51 @@
+{
+    "name": "Bronson Gothic",
+    "url": "http://fontdeck.com/typeface/bronsongothic",
+    "slug": "bronsongothic",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Futuristic",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "Veer",
+    "designer": [
+        "Jason Walcott"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "industrial",
+        "gothic",
+        "decorative",
+        "retro",
+        "sci-fi",
+        "display",
+        "science fiction",
+        "science"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/bronsongothic/regular",
+            "css": {
+                "font-family": "Bronson Gothic Regular",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5068",
+                "slug": "regular",
+                "price": "$11.25"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1191",
+        "slug": "bronsongothic"
+    },
+    "generatedAt": 1437610529406
+}

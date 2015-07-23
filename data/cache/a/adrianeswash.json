@@ -1,0 +1,79 @@
+{
+    "name": "Adriane Swash",
+    "url": "http://fontdeck.com/typeface/adrianeswash",
+    "slug": "adrianeswash",
+    "superfamily": "Adriane",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Serif"
+    ],
+    "foundry": "Typefolio",
+    "designer": [
+        "Marconi Lima"
+    ],
+    "opentype": [
+        "calt",
+        "dlig",
+        "liga",
+        "lnum",
+        "onum",
+        "pnum",
+        "smcp",
+        "tnum"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "languages",
+        "opentype",
+        "serif",
+        "titling",
+        "text",
+        "fancy",
+        "prints",
+        "alternates",
+        "ligatures",
+        "italic",
+        "endings",
+        "transitional",
+        "lowercases",
+        "books",
+        "ornaments",
+        "classical",
+        "cartography",
+        "newspapers",
+        "capitals",
+        "covers",
+        "beginnings",
+        "old style",
+        "small caps",
+        "magazines",
+        "editorial",
+        "numerals",
+        "swash"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/adrianeswash/regular",
+            "css": {
+                "font-family": "Adriane Swash Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7049",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1638",
+        "slug": "adrianeswash"
+    },
+    "generatedAt": 1437611114904
+}

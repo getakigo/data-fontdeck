@@ -1,0 +1,221 @@
+{
+    "name": "Wasabi Condensed",
+    "url": "http://fontdeck.com/typeface/wasabicondensed",
+    "slug": "wasabicondensed",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "Positype",
+    "designer": [
+        "Neil Summerour"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "spurless",
+        "modern",
+        "narrow",
+        "simple",
+        "condensed",
+        "sans-serif",
+        "geometric",
+        "sansserif",
+        "headline",
+        "sans serif",
+        "thin",
+        "clean",
+        "alternates"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/wasabicondensed/thin",
+            "css": {
+                "font-family": "Wasabi Condensed Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3530",
+                "slug": "thin",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Thin Italic",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/wasabicondensed/thinitalic",
+            "css": {
+                "font-family": "Wasabi Condensed Thin Italic",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3531",
+                "slug": "thinitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-light Italic",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/wasabicondensed/extralightitalic",
+            "css": {
+                "font-family": "WasabiCondensedExtraLightItalic",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3533",
+                "slug": "extralightitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-light",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/wasabicondensed/extralight",
+            "css": {
+                "font-family": "Wasabi Condensed Extra Light",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3532",
+                "slug": "extralight",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/wasabicondensed/lightitalic",
+            "css": {
+                "font-family": "Wasabi Condensed Light Italic",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3529",
+                "slug": "lightitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/wasabicondensed/light",
+            "css": {
+                "font-family": "Wasabi Condensed Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3528",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Book Italic",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/wasabicondensed/bookitalic",
+            "css": {
+                "font-family": "Wasabi Condensed Book Italic",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3527",
+                "slug": "bookitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Book",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/wasabicondensed/book",
+            "css": {
+                "font-family": "Wasabi Condensed Book",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3526",
+                "slug": "book",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/wasabicondensed/medium",
+            "css": {
+                "font-family": "Wasabi Condensed Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3523",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/wasabicondensed/mediumitalic",
+            "css": {
+                "font-family": "Wasabi Condensed Medium Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3522",
+                "slug": "mediumitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/wasabicondensed/bold",
+            "css": {
+                "font-family": "Wasabi Condensed Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3524",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/wasabicondensed/bolditalic",
+            "css": {
+                "font-family": "Wasabi Condensed Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3525",
+                "slug": "bolditalic",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "855",
+        "slug": "wasabicondensed"
+    },
+    "generatedAt": 1437610008134
+}

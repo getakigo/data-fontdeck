@@ -1,0 +1,50 @@
+{
+    "name": "Andantino",
+    "url": "http://fontdeck.com/typeface/andantino",
+    "slug": "andantino",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Decorative script"
+    ],
+    "foundry": "Veer",
+    "designer": [
+        "Jason Walcott"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "script",
+        "formal",
+        "1950s",
+        "elegant",
+        "classic",
+        "fashionable",
+        "demi",
+        "retro",
+        "display"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/andantino/regular",
+            "css": {
+                "font-family": "Andantino Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5025",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1161",
+        "slug": "andantino"
+    },
+    "generatedAt": 1437610488911
+}

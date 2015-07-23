@@ -1,0 +1,49 @@
+{
+    "name": "Annabelle",
+    "url": "http://fontdeck.com/typeface/annabelle",
+    "slug": "annabelle",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Decorative script"
+    ],
+    "foundry": "Veer",
+    "designer": [
+        "Jason Walcott"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "script",
+        "elegant",
+        "connected",
+        "retro",
+        "calligraphy",
+        "display",
+        "sophisticated",
+        "casual-script"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/annabelle/regular",
+            "css": {
+                "font-family": "Annabelle Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5026",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1162",
+        "slug": "annabelle"
+    },
+    "generatedAt": 1437610488582
+}

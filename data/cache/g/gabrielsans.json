@@ -1,0 +1,228 @@
+{
+    "name": "Gabriel Sans",
+    "url": "http://fontdeck.com/typeface/gabrielsans",
+    "slug": "gabrielsans",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Grotesque"
+    ],
+    "foundry": "Fontfabric",
+    "designer": [
+        "Svetoslav Simov"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "all-purpose",
+        "simple",
+        "lifestyle",
+        "classic",
+        "geometric",
+        "text",
+        "logo",
+        "legible",
+        "quadratic",
+        "true italics",
+        "futura",
+        "modern",
+        "business",
+        "elegant",
+        "grotesque",
+        "bulgarian",
+        "1960s",
+        "german",
+        "transitional",
+        "square sans",
+        "clean",
+        "wide"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/gabrielsans/thin",
+            "css": {
+                "font-family": "Gabriel Sans Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2784",
+                "slug": "thin",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Thin Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/gabrielsans/thinitalic",
+            "css": {
+                "font-family": "Gabriel Sans Thin Italic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2783",
+                "slug": "thinitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/gabrielsans/light",
+            "css": {
+                "font-family": "Gabriel Sans Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2778",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/gabrielsans/lightitalic",
+            "css": {
+                "font-family": "Gabriel Sans Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2777",
+                "slug": "lightitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/gabrielsans/italic",
+            "css": {
+                "font-family": "Gabriel Sans Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2781",
+                "slug": "italic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/gabrielsans/medium",
+            "css": {
+                "font-family": "Gabriel Sans Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2780",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/gabrielsans/mediumitalic",
+            "css": {
+                "font-family": "Gabriel Sans Medium Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2779",
+                "slug": "mediumitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/gabrielsans/bold",
+            "css": {
+                "font-family": "Gabriel Sans Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2775",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/gabrielsans/bolditalic",
+            "css": {
+                "font-family": "Gabriel Sans Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2776",
+                "slug": "bolditalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/gabrielsans/black",
+            "css": {
+                "font-family": "Gabriel Sans Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2774",
+                "slug": "black",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/gabrielsans/blackitalic",
+            "css": {
+                "font-family": "Gabriel Sans Black Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2773",
+                "slug": "blackitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Normal",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/gabrielsans/normal",
+            "css": {
+                "font-family": "Gabriel Sans Normal",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2782",
+                "slug": "normal",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "659",
+        "slug": "gabrielsans"
+    },
+    "generatedAt": 1437609654370
+}

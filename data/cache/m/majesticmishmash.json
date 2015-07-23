@@ -1,0 +1,52 @@
+{
+    "name": "Majestic Mishmash",
+    "url": "http://fontdeck.com/typeface/majesticmishmash",
+    "slug": "majesticmishmash",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Slab serif",
+        "Display",
+        "Grunge"
+    ],
+    "foundry": "Fenotype",
+    "designer": [
+        "Emil Bertell"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "decorative",
+        "hand drawn",
+        "deconstruct",
+        "romantic",
+        "slab serif",
+        "1800s",
+        "valentine",
+        "ornate",
+        "ornamental"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/majesticmishmash/regular",
+            "css": {
+                "font-family": "Majestic Mishmash Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2127",
+                "slug": "regular",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "533",
+        "slug": "majesticmishmash"
+    },
+    "generatedAt": 1437609398913
+}

@@ -1,0 +1,76 @@
+{
+    "name": "Hammer",
+    "url": "http://fontdeck.com/typeface/hammer",
+    "slug": "hammer",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "All caps",
+        "Display",
+        "Sans serif",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "Fontseek",
+    "designer": [
+        "Hammer"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "gloss",
+        "highlight",
+        "sans-serif",
+        "fatface",
+        "fat",
+        "pozzi",
+        "humanist",
+        "black",
+        "modern",
+        "block",
+        "hammer",
+        "swiss",
+        "heavy",
+        "clean",
+        "fat face",
+        "heading"
+    ],
+    "variations": [
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/hammer/bold",
+            "css": {
+                "font-family": "Hammer Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5831",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Highlight",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/hammer/highlight",
+            "css": {
+                "font-family": "Hammer Highlight",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5832",
+                "slug": "highlight",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1338",
+        "slug": "hammer"
+    },
+    "generatedAt": 1437610740908
+}

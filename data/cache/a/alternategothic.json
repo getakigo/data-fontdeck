@@ -1,0 +1,85 @@
+{
+    "name": "Alternate Gothic",
+    "url": "http://fontdeck.com/typeface/alternategothic",
+    "slug": "alternategothic",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Gothic"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Morris Fuller Benton"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "headlines",
+        "coarse",
+        "advertising",
+        "19th century",
+        "linear",
+        "sturdy",
+        "american",
+        "league gothic",
+        "transitional",
+        "1900s",
+        "conservative",
+        "poster",
+        "economic",
+        "modest"
+    ],
+    "variations": [
+        {
+            "name": "No.2",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/alternategothic/no2",
+            "css": {
+                "font-family": "Alternate Gothic No.2",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "675",
+                "slug": "no2",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "No.3",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/alternategothic/no3",
+            "css": {
+                "font-family": "Alternate Gothic No.3",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "676",
+                "slug": "no3",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "No.1",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/alternategothic/no1",
+            "css": {
+                "font-family": "Alternate Gothic No.1",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "674",
+                "slug": "no1",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "224",
+        "slug": "alternategothic"
+    },
+    "generatedAt": 1437609035978
+}

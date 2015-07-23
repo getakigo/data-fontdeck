@@ -1,0 +1,89 @@
+{
+    "name": "Arlt Lanzallamas",
+    "url": "http://fontdeck.com/typeface/arltlanzallamas",
+    "slug": "arltlanzallamas",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Rugged"
+    ],
+    "foundry": "PampaType",
+    "designer": [
+        "Alejandro Lo Celso"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "family",
+        "expressive",
+        "poetry",
+        "serif",
+        "titling",
+        "seven madmen",
+        "literary",
+        "creative review",
+        "optical sizes",
+        "openface",
+        "siete locos",
+        "text",
+        "argentina",
+        "system",
+        "contemporary",
+        "quirky",
+        "author",
+        "literature",
+        "poetic",
+        "calligraphic",
+        "typographica",
+        "headline",
+        "deco",
+        "multistyle",
+        "display",
+        "nice rhythm",
+        "argentinian",
+        "books",
+        "novels",
+        "workhorse",
+        "roberto arlt",
+        "argentinean",
+        "legible",
+        "e-books",
+        "true italics",
+        "comfortable",
+        "decorative",
+        "elegant",
+        "sensitive",
+        "expressionist",
+        "serapion",
+        "engraved",
+        "oldstyle",
+        "magazines",
+        "delicate",
+        "readable",
+        "inline",
+        "distressed"
+    ],
+    "variations": [
+        {
+            "name": "Irregular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/arltlanzallamas/irregular",
+            "css": {
+                "font-family": "Arlt Lanzallamas Irregular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8993",
+                "slug": "irregular",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "2014",
+        "slug": "arltlanzallamas"
+    },
+    "generatedAt": 1437611596822
+}

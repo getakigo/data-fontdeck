@@ -1,0 +1,73 @@
+{
+    "name": "Amulet",
+    "url": "http://fontdeck.com/typeface/amulet",
+    "slug": "amulet",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Transitional",
+        "Display",
+        "Serif"
+    ],
+    "foundry": "G-Type",
+    "designer": [
+        "Nick Cooke"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "biblical",
+        "religious",
+        "irish",
+        "gaelic",
+        "classical",
+        "occult",
+        "mythical",
+        "relic",
+        "spiritual",
+        "poster",
+        "mystical",
+        "medieval",
+        "historical",
+        "decorative",
+        "celtic",
+        "blackletter",
+        "engraved",
+        "fairytale",
+        "manuscript",
+        "oldstyle",
+        "uncial",
+        "calligraphic",
+        "old",
+        "unicase",
+        "ancient",
+        "ornate",
+        "headline",
+        "display",
+        "organic",
+        "fraktur"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/amulet/regular",
+            "css": {
+                "font-family": "Amulet Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6333",
+                "slug": "regular",
+                "price": "$15.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1455",
+        "slug": "amulet"
+    },
+    "generatedAt": 1437611088034
+}

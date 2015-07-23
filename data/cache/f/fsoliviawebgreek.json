@@ -1,0 +1,92 @@
+{
+    "name": "FS Olivia Web Greek",
+    "url": "http://fontdeck.com/typeface/fsoliviawebgreek",
+    "slug": "fsoliviawebgreek",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Garalde"
+    ],
+    "foundry": "Fontsmith",
+    "designer": [
+        "Eleni Beveratou"
+    ],
+    "language": [
+        "latin",
+        "greek"
+    ],
+    "tags": [
+        "hand",
+        "booklet",
+        "british",
+        "dutch",
+        "belgian"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/fsoliviawebgreek/regular",
+            "css": {
+                "font-family": "FS Olivia Web Greek Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5537",
+                "slug": "regular",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/fsoliviawebgreek/italic",
+            "css": {
+                "font-family": "FS Olivia Web Greek Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5538",
+                "slug": "italic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/fsoliviawebgreek/bold",
+            "css": {
+                "font-family": "FS Olivia Web Greek Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5535",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/fsoliviawebgreek/bolditalic",
+            "css": {
+                "font-family": "FS Olivia Web Greek Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5536",
+                "slug": "bolditalic",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1290",
+        "slug": "fsoliviawebgreek"
+    },
+    "generatedAt": 1437610670811
+}

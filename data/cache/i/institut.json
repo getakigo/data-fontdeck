@@ -1,0 +1,66 @@
+{
+    "name": "Institut",
+    "url": "http://fontdeck.com/typeface/institut",
+    "slug": "institut",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "All caps",
+        "Display",
+        "Sans serif",
+        "Display",
+        "Poster"
+    ],
+    "foundry": "Brownfox",
+    "designer": [
+        "Gayaneh Bagdasaryan",
+        "Vyacheslav Kirilenko"
+    ],
+    "language": [
+        "latin",
+        "cyrillic"
+    ],
+    "tags": [
+        "gothic",
+        "monolinear",
+        "titling",
+        "sans-serif",
+        "geometric",
+        "strong",
+        "soft",
+        "cyrillic",
+        "sans",
+        "all caps",
+        "industrial",
+        "assertive",
+        "space",
+        "masculine",
+        "bold",
+        "heavy",
+        "headline",
+        "sans serif",
+        "display"
+    ],
+    "variations": [
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/institut/bold",
+            "css": {
+                "font-family": "Institut Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7562",
+                "slug": "bold",
+                "price": "$7.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1752",
+        "slug": "institut"
+    },
+    "generatedAt": 1437611189754
+}

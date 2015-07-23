@@ -1,0 +1,67 @@
+{
+    "name": "Ingeborg Block",
+    "url": "http://fontdeck.com/typeface/ingeborgblock",
+    "slug": "ingeborgblock",
+    "superfamily": "Ingeborg",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "All caps",
+        "Display",
+        "Serif"
+    ],
+    "foundry": "Typejockeys",
+    "designer": [
+        "Michael Hochleitner"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "stylistic set",
+        "all caps",
+        "shadow",
+        "block",
+        "wood block",
+        "open shade",
+        "stripes",
+        "superfamily"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/ingeborgblock/regular",
+            "css": {
+                "font-family": "Ingeborg Block Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4839",
+                "slug": "regular",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Striped",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/ingeborgblock/striped",
+            "css": {
+                "font-family": "Ingeborg Block Striped",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4840",
+                "slug": "striped",
+                "price": "$9.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1130",
+        "slug": "ingeborgblock"
+    },
+    "generatedAt": 1437610479217
+}

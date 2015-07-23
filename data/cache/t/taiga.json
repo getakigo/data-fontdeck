@@ -1,0 +1,40 @@
+{
+    "name": "Taiga",
+    "url": "http://fontdeck.com/typeface/taiga",
+    "slug": "taiga",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Decorative script"
+    ],
+    "foundry": "Fenotype",
+    "designer": [
+        "Emil Bertell"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/taiga/regular",
+            "css": {
+                "font-family": "Taiga Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7623",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1399",
+        "slug": "taiga"
+    },
+    "generatedAt": 1437610785523
+}

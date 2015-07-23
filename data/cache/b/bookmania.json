@@ -1,0 +1,187 @@
+{
+    "name": "Bookmania",
+    "url": "http://fontdeck.com/typeface/bookmania",
+    "slug": "bookmania",
+    "use": "heading",
+    "classification": [
+        "Serif",
+        "Garalde"
+    ],
+    "foundry": "Mark Simonson Studio",
+    "designer": [
+        "Mark Simonson"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "serif",
+        "old style",
+        "classic",
+        "revival",
+        "text",
+        "old style serif",
+        "bookman",
+        "light",
+        "bookman-like",
+        "headline",
+        "heavy"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/bookmania/light",
+            "css": {
+                "font-family": "Bookmania Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4715",
+                "slug": "light",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/bookmania/lightitalic",
+            "css": {
+                "font-family": "Bookmania Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4716",
+                "slug": "lightitalic",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/bookmania/regular",
+            "css": {
+                "font-family": "Bookmania Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4709",
+                "slug": "regular",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/bookmania/italic",
+            "css": {
+                "font-family": "Bookmania Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4710",
+                "slug": "italic",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/bookmania/semibold",
+            "css": {
+                "font-family": "Bookmania Semibold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4713",
+                "slug": "semibold",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Semi-bold Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/bookmania/semibolditalic",
+            "css": {
+                "font-family": "Bookmania Semibold Italic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4714",
+                "slug": "semibolditalic",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/bookmania/bold",
+            "css": {
+                "font-family": "Bookmania Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4711",
+                "slug": "bold",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/bookmania/bolditalic",
+            "css": {
+                "font-family": "Bookmania Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4712",
+                "slug": "bolditalic",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/bookmania/black",
+            "css": {
+                "font-family": "Bookmania Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4717",
+                "slug": "black",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/bookmania/blackitalic",
+            "css": {
+                "font-family": "Bookmania Black Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4718",
+                "slug": "blackitalic",
+                "price": "$9.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1094",
+        "slug": "bookmania"
+    },
+    "generatedAt": 1437610415801
+}

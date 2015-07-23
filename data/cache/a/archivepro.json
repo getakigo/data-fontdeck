@@ -1,0 +1,176 @@
+{
+    "name": "Archive Pro",
+    "url": "http://fontdeck.com/typeface/archivepro",
+    "slug": "archivepro",
+    "superfamily": "Archive",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Modern"
+    ],
+    "foundry": "Colophon",
+    "designer": [
+        "Edd Harrington",
+        "Anthony Sheret"
+    ],
+    "opentype": [
+        "c2sc",
+        "dlig",
+        "liga",
+        "lnum",
+        "onum",
+        "pnum",
+        "smcp",
+        "tnum"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "opentype",
+        "cyrillic",
+        "greek"
+    ],
+    "variations": [
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/archivepro/italic",
+            "css": {
+                "font-family": "Archive Pro Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7191",
+                "slug": "italic",
+                "price": "$13.75"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/archivepro/semibold",
+            "css": {
+                "font-family": "Archive Pro Semi Bold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7194",
+                "slug": "semibold",
+                "price": "$13.75"
+            }
+        },
+        {
+            "name": "Semi-bold Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/archivepro/semibolditalic",
+            "css": {
+                "font-family": "Archive Pro Semi Bold Italic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7195",
+                "slug": "semibolditalic",
+                "price": "$13.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/archivepro/bold",
+            "css": {
+                "font-family": "Archive Pro Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7187",
+                "slug": "bold",
+                "price": "$13.75"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/archivepro/bolditalic",
+            "css": {
+                "font-family": "Archive Pro Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7188",
+                "slug": "bolditalic",
+                "price": "$13.75"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/archivepro/extrabold",
+            "css": {
+                "font-family": "Archive Pro Extra Bold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7189",
+                "slug": "extrabold",
+                "price": "$13.75"
+            }
+        },
+        {
+            "name": "Extra-bold Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/archivepro/extrabolditalic",
+            "css": {
+                "font-family": "Archive Pro Extra Bold Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7190",
+                "slug": "extrabolditalic",
+                "price": "$13.75"
+            }
+        },
+        {
+            "name": "Roman",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/archivepro/roman",
+            "css": {
+                "font-family": "Archive Pro Roman",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7193",
+                "slug": "roman",
+                "price": "$13.75"
+            }
+        },
+        {
+            "name": "Mono",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/archivepro/mono",
+            "css": {
+                "font-family": "Archive Pro Mono",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7192",
+                "slug": "mono",
+                "price": "$13.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1683",
+        "slug": "archivepro"
+    },
+    "generatedAt": 1437611146367
+}

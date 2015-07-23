@@ -1,0 +1,49 @@
+{
+    "name": "Brunswick",
+    "url": "http://fontdeck.com/typeface/brunswick",
+    "slug": "brunswick",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Serif"
+    ],
+    "foundry": "Letterbox",
+    "designer": [
+        "Lan Huang"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "titling",
+        "signwriter",
+        "old style",
+        "small caps",
+        "slab serif",
+        "heavy",
+        "black",
+        "petite caps"
+    ],
+    "variations": [
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/brunswick/black",
+            "css": {
+                "font-family": "Brunswick Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5442",
+                "slug": "black",
+                "price": "$18.69"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1279",
+        "slug": "brunswick"
+    },
+    "generatedAt": 1437610659930
+}

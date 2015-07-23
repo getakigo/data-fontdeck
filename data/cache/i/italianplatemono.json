@@ -1,0 +1,48 @@
+{
+    "name": "Italian Plate Mono",
+    "url": "http://fontdeck.com/typeface/italianplatemono",
+    "slug": "italianplatemono",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Gothic",
+        "Sans Serif",
+        "Monospaced"
+    ],
+    "foundry": "Playtype",
+    "designer": [
+        "Jonas Hecksher"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "gothic",
+        "1960s",
+        "grotesk",
+        "monospace",
+        "grotesque"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/italianplatemono/regular",
+            "css": {
+                "font-family": "Italian Plate Mono Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5292",
+                "slug": "regular",
+                "price": "$40.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1212",
+        "slug": "italianplatemono"
+    },
+    "generatedAt": 1437610573696
+}

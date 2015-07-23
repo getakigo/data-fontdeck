@@ -1,0 +1,153 @@
+{
+    "name": "Kurversbrug",
+    "url": "http://fontdeck.com/typeface/kurversbrug",
+    "slug": "kurversbrug",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Display",
+        "Poster"
+    ],
+    "foundry": "ReType",
+    "designer": [
+        "Ramiro Espinoza"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "amsterdam school",
+        "1920s",
+        "plakat",
+        "bridge letter",
+        "sans-serif",
+        "bruggenletter",
+        "vernacular",
+        "amsterdam",
+        "anton kurvers",
+        "kurvers",
+        "poster",
+        "decorative",
+        "all caps",
+        "expressionist",
+        "dutch",
+        "wood type",
+        "amsterdamse school",
+        "art deco",
+        "brugletter",
+        "netherlands"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/kurversbrug/light",
+            "css": {
+                "font-family": "Kurversbrug Light",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6159",
+                "slug": "light",
+                "price": "$16.99"
+            }
+        },
+        {
+            "name": "Book",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/kurversbrug/book",
+            "css": {
+                "font-family": "Kurversbrug Book",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8363",
+                "slug": "book",
+                "price": "$16.99"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/kurversbrug/regular",
+            "css": {
+                "font-family": "Kurversbrug Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6161",
+                "slug": "regular",
+                "price": "$16.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/kurversbrug/bold",
+            "css": {
+                "font-family": "Kurversbrug Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8365",
+                "slug": "bold",
+                "price": "$16.99"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/kurversbrug/black",
+            "css": {
+                "font-family": "Kurversbrug Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6160",
+                "slug": "black",
+                "price": "$16.99"
+            }
+        },
+        {
+            "name": "Fat",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/kurversbrug/fat",
+            "css": {
+                "font-family": "Kurversbrug Fat",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8366",
+                "slug": "fat",
+                "price": "$16.99"
+            }
+        },
+        {
+            "name": "Stencil",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/kurversbrug/stencil",
+            "css": {
+                "font-family": "Kurversbrug Stencil",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8364",
+                "slug": "stencil",
+                "price": "$16.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1423",
+        "slug": "kurversbrug"
+    },
+    "generatedAt": 1437610835829
+}

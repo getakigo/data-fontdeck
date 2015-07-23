@@ -1,0 +1,301 @@
+{
+    "name": "Siri",
+    "url": "http://fontdeck.com/typeface/siri",
+    "slug": "siri",
+    "superfamily": "Siri",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Grotesque"
+    ],
+    "foundry": "Letters from Sweden",
+    "designer": [
+        "Göran Söderström"
+    ],
+    "opentype": [
+        "liga",
+        "lnum",
+        "numr",
+        "onum",
+        "pnum",
+        "smcp",
+        "ss01",
+        "ss02",
+        "ss03",
+        "ss04",
+        "ss05",
+        "ss06"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "opentype",
+        "personal",
+        "friendly",
+        "swedish",
+        "magazine",
+        "sans",
+        "clear",
+        "headline",
+        "scandinavian",
+        "super family",
+        "new",
+        "elegant",
+        "grotesque",
+        "vital",
+        "fresh",
+        "nordic",
+        "editorial",
+        "corporate",
+        "superfamily",
+        "clean"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/siri/thin",
+            "css": {
+                "font-family": "Siri Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4448",
+                "slug": "thin",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Thin Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/siri/thinitalic",
+            "css": {
+                "font-family": "Siri Thin Italic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4449",
+                "slug": "thinitalic",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/siri/light",
+            "css": {
+                "font-family": "Siri Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4444",
+                "slug": "light",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/siri/lightitalic",
+            "css": {
+                "font-family": "Siri Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4445",
+                "slug": "lightitalic",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/siri/regular",
+            "css": {
+                "font-family": "Siri Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4493",
+                "slug": "regular",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/siri/italic",
+            "css": {
+                "font-family": "Siri Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4494",
+                "slug": "italic",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/siri/medium",
+            "css": {
+                "font-family": "Siri Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4446",
+                "slug": "medium",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/siri/mediumitalic",
+            "css": {
+                "font-family": "Siri Medium Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4447",
+                "slug": "mediumitalic",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/siri/semibold",
+            "css": {
+                "font-family": "Siri SemiBold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4450",
+                "slug": "semibold",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Semi-bold Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/siri/semibolditalic",
+            "css": {
+                "font-family": "Siri SemiBold Italic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4451",
+                "slug": "semibolditalic",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/siri/bold",
+            "css": {
+                "font-family": "Siri Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4495",
+                "slug": "bold",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/siri/bolditalic",
+            "css": {
+                "font-family": "Siri Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4496",
+                "slug": "bolditalic",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/siri/extrabold",
+            "css": {
+                "font-family": "Siri ExtraBold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4442",
+                "slug": "extrabold",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Extra-bold Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/siri/extrabolditalic",
+            "css": {
+                "font-family": "Siri ExtraBold Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4443",
+                "slug": "extrabolditalic",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/siri/black",
+            "css": {
+                "font-family": "Siri Black",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4440",
+                "slug": "black",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/siri/blackitalic",
+            "css": {
+                "font-family": "Siri Black Italic",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4441",
+                "slug": "blackitalic",
+                "price": "$15.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1012",
+        "slug": "siri"
+    },
+    "generatedAt": 1437610301464
+}

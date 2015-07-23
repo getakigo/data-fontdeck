@@ -1,0 +1,67 @@
+{
+    "name": "Buenos Aires",
+    "url": "http://fontdeck.com/typeface/buenosaires",
+    "slug": "buenosaires",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "Luzi Type",
+    "designer": [
+        "Luzi Gantenbein"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "headlines",
+        "body text",
+        "open forms",
+        "playful",
+        "avenir",
+        "legible",
+        "titles",
+        "generous",
+        "friendly",
+        "subtle",
+        "futura"
+    ],
+    "variations": [
+        {
+            "name": "Medium",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/buenosaires/medium",
+            "css": {
+                "font-family": "Buenos Aires Medium",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7853",
+                "slug": "medium",
+                "price": "$23.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/buenosaires/bold",
+            "css": {
+                "font-family": "Buenos Aires Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7852",
+                "slug": "bold",
+                "price": "$23.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1807",
+        "slug": "buenosaires"
+    },
+    "generatedAt": 1437611315217
+}

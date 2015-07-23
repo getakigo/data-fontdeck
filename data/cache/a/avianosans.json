@@ -1,0 +1,154 @@
+{
+    "name": "Aviano Sans",
+    "url": "http://fontdeck.com/typeface/avianosans",
+    "slug": "avianosans",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Art Deco"
+    ],
+    "foundry": "Insigne",
+    "designer": [
+        "Jeremy Dooley"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "formal",
+        "1920s",
+        "trajan",
+        "glyphic",
+        "geometric",
+        "capitalis",
+        "latin",
+        "magazine",
+        "bauhaus",
+        "sophisticated",
+        "modern",
+        "food",
+        "1940s",
+        "menus",
+        "commercial",
+        "fashionable",
+        "renaissance",
+        "caps only",
+        "exotic",
+        "art deco",
+        "greetings",
+        "model",
+        "headline",
+        "wedding",
+        "narrow",
+        "invitation",
+        "feminine",
+        "jewelry",
+        "cute",
+        "english",
+        "cosmetics",
+        "legible",
+        "experimental",
+        "jazz",
+        "poster",
+        "new",
+        "angular",
+        "decorative",
+        "1930s",
+        "roman",
+        "cool",
+        "elegant",
+        "plain",
+        "italian",
+        "small caps",
+        "retro",
+        "delicate",
+        "valentine",
+        "signage",
+        "graceful",
+        "conservative",
+        "clean",
+        "wide"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/avianosans/thin",
+            "css": {
+                "font-family": "Aviano Sans Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "496",
+                "slug": "thin",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/avianosans/light",
+            "css": {
+                "font-family": "Aviano Sans Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "495",
+                "slug": "light",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/avianosans/regular",
+            "css": {
+                "font-family": "Aviano Sans Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "492",
+                "slug": "regular",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/avianosans/bold",
+            "css": {
+                "font-family": "Aviano Sans Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "494",
+                "slug": "bold",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/avianosans/black",
+            "css": {
+                "font-family": "Aviano Sans Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "493",
+                "slug": "black",
+                "price": "$7.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "199",
+        "slug": "avianosans"
+    },
+    "generatedAt": 1437608999245
+}

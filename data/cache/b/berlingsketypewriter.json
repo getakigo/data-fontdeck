@@ -1,0 +1,303 @@
+{
+    "name": "Berlingske Typewriter",
+    "url": "http://fontdeck.com/typeface/berlingsketypewriter",
+    "slug": "berlingsketypewriter",
+    "superfamily": "Berlingske",
+    "use": "heading",
+    "classification": [
+        "Slab Serif",
+        "Humanist"
+    ],
+    "foundry": "Playtype",
+    "designer": [
+        "Jonas Hecksher"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "vietnamese",
+        "eastern european languages",
+        "cyrillic",
+        "baltic",
+        "greek",
+        "legible"
+    ],
+    "variations": [
+        {
+            "name": "Thin Italic",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/berlingsketypewriter/thinitalic",
+            "css": {
+                "font-family": "BerlingskeTypewriterThinItalic",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8162",
+                "slug": "thinitalic",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/berlingsketypewriter/thin",
+            "css": {
+                "font-family": "Berlingske Typewriter Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8161",
+                "slug": "thin",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/berlingsketypewriter/light",
+            "css": {
+                "font-family": "Berlingske Typewriter Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8154",
+                "slug": "light",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/berlingsketypewriter/lightitalic",
+            "css": {
+                "font-family": "BerlingskeTypewriterLightItalic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8155",
+                "slug": "lightitalic",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/berlingsketypewriter/regular",
+            "css": {
+                "font-family": "Berlingske Typewriter Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8160",
+                "slug": "regular",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/berlingsketypewriter/italic",
+            "css": {
+                "font-family": "Berlingske Typewriter Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8153",
+                "slug": "italic",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/berlingsketypewriter/medium",
+            "css": {
+                "font-family": "Berlingske Typewriter Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8156",
+                "slug": "medium",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/berlingsketypewriter/mediumitalic",
+            "css": {
+                "font-family": "BerlingskTypewriteMediuItali",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8157",
+                "slug": "mediumitalic",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/berlingsketypewriter/bold",
+            "css": {
+                "font-family": "Berlingske Typewriter Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8147",
+                "slug": "bold",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/berlingsketypewriter/bolditalic",
+            "css": {
+                "font-family": "BerlingskeTypewriterBoldItalic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8148",
+                "slug": "bolditalic",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/berlingsketypewriter/extrabold",
+            "css": {
+                "font-family": "BerlingskeTypewriterExtraBold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8163",
+                "slug": "extrabold",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Extra-bold Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/berlingsketypewriter/extrabolditalic",
+            "css": {
+                "font-family": "BerlingskTypewriteExtrBolItali",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8164",
+                "slug": "extrabolditalic",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/berlingsketypewriter/black",
+            "css": {
+                "font-family": "Berlingske Typewriter Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8149",
+                "slug": "black",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/berlingsketypewriter/blackitalic",
+            "css": {
+                "font-family": "BerlingskeTypewriterBlackItalic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8150",
+                "slug": "blackitalic",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Poster",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/berlingsketypewriter/poster",
+            "css": {
+                "font-family": "Berlingske Typewriter Poster",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8158",
+                "slug": "poster",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Demi Bold",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/berlingsketypewriter/demibold",
+            "css": {
+                "font-family": "Berlingske Typewriter Demi Bold",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8151",
+                "slug": "demibold",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Poster Italic",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/berlingsketypewriter/posteritalic",
+            "css": {
+                "font-family": "BerlingskTypewritePosteItali",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8159",
+                "slug": "posteritalic",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Demi Bold Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/berlingsketypewriter/demibolditalic",
+            "css": {
+                "font-family": "BerlingskTypewriteDemBolItali",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8152",
+                "slug": "demibolditalic",
+                "price": "$40.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1888",
+        "slug": "berlingsketypewriter"
+    },
+    "generatedAt": 1437611391509
+}

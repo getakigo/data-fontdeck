@@ -1,0 +1,54 @@
+{
+    "name": "Digitalis",
+    "url": "http://fontdeck.com/typeface/digitalis",
+    "slug": "digitalis",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Futuristic",
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "G-Type",
+    "designer": [
+        "Nick Cooke"
+    ],
+    "opentype": [
+        "liga"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "high-tech",
+        "modern",
+        "opentype",
+        "curved",
+        "headline",
+        "hi-tech",
+        "display",
+        "rounded"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/digitalis/regular",
+            "css": {
+                "font-family": "Digitalis Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6772",
+                "slug": "regular",
+                "price": "$15.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1538",
+        "slug": "digitalis"
+    },
+    "generatedAt": 1437611096572
+}

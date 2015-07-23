@@ -1,0 +1,81 @@
+{
+    "name": "Berber",
+    "url": "http://fontdeck.com/typeface/berber",
+    "slug": "berber",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Display",
+        "Poster",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "Letterbox",
+    "designer": [
+        "Lan Huang",
+        "Stephen Banham",
+        "Niels Oeltjen"
+    ],
+    "opentype": [
+        "lnum",
+        "onum",
+        "smcp",
+        "ss01",
+        "ss02",
+        "ss03",
+        "ss04"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "opentype",
+        "titling",
+        "text",
+        "all caps",
+        "block",
+        "small caps",
+        "retro",
+        "european",
+        "signage",
+        "blocky"
+    ],
+    "variations": [
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/berber/bold",
+            "css": {
+                "font-family": "Berber Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5429",
+                "slug": "bold",
+                "price": "$18.69"
+            }
+        },
+        {
+            "name": "Caps",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/berber/caps",
+            "css": {
+                "font-family": "Berber Caps",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5428",
+                "slug": "caps",
+                "price": "$18.69"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1273",
+        "slug": "berber"
+    },
+    "generatedAt": 1437610652373
+}

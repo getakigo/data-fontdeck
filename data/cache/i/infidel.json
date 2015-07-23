@@ -1,0 +1,99 @@
+{
+    "name": "Infidel",
+    "url": "http://fontdeck.com/typeface/infidel",
+    "slug": "infidel",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Slab serif"
+    ],
+    "foundry": "VirusFonts",
+    "designer": [
+        "Jonathan Barnbrook"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "religious",
+        "",
+        "",
+        "experimental",
+        "middle ages",
+        "idiosyncratic",
+        "",
+        "headline",
+        "",
+        "",
+        "poster",
+        "",
+        "historical"
+    ],
+    "variations": [
+        {
+            "name": "C",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/infidel/c",
+            "css": {
+                "font-family": "Infidel C",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3382",
+                "slug": "c",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "A",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/infidel/a",
+            "css": {
+                "font-family": "Infidel A",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3380",
+                "slug": "a",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "D",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/infidel/d",
+            "css": {
+                "font-family": "Infidel D",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3383",
+                "slug": "d",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "B",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/infidel/b",
+            "css": {
+                "font-family": "Infidel B",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3381",
+                "slug": "b",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "814",
+        "slug": "infidel"
+    },
+    "generatedAt": 1437609934692
+}

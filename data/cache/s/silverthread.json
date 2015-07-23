@@ -1,0 +1,48 @@
+{
+    "name": "Silver Thread",
+    "url": "http://fontdeck.com/typeface/silverthread",
+    "slug": "silverthread",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Art Deco",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "Veer",
+    "designer": [
+        "Jason Walcott"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "retro",
+        "headline",
+        "display",
+        "sans-serif",
+        "alternates"
+    ],
+    "variations": [
+        {
+            "name": "Alternate",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/silverthread/alternate",
+            "css": {
+                "font-family": "Silver Thread Alternate",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5040",
+                "slug": "alternate",
+                "price": "$13.44"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1170",
+        "slug": "silverthread"
+    },
+    "generatedAt": 1437610505256
+}

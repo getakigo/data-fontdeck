@@ -1,0 +1,50 @@
+{
+    "name": "Candy Apple",
+    "url": "http://fontdeck.com/typeface/candyapple",
+    "slug": "candyapple",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Comic Strip Lettering",
+        "Display",
+        "Sans serif",
+        "Display",
+        "Poster"
+    ],
+    "foundry": "Veer",
+    "designer": [
+        "Jason Walcott"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "1950s",
+        "display",
+        "playful",
+        "sans-serif",
+        "inline"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/candyapple/regular",
+            "css": {
+                "font-family": "Candy Apple Regular",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5073",
+                "slug": "regular",
+                "price": "FREE"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1193",
+        "slug": "candyapple"
+    },
+    "generatedAt": 1437610538266
+}

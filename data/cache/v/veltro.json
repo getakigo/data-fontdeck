@@ -1,0 +1,62 @@
+{
+    "name": "Veltro",
+    "url": "http://fontdeck.com/typeface/veltro",
+    "slug": "veltro",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Handwritten"
+    ],
+    "foundry": "profonts",
+    "designer": [
+        "Ralph Unger"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "informal",
+        "romantic",
+        "1930s",
+        "valentine",
+        "handwriting",
+        "italian"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/veltro/regular",
+            "css": {
+                "font-family": "Veltro Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "906",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/veltro/bold",
+            "css": {
+                "font-family": "Veltro Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "907",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "271",
+        "slug": "veltro"
+    },
+    "generatedAt": 1437609111602
+}

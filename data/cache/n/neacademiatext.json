@@ -1,0 +1,86 @@
+{
+    "name": "Neacademia Text",
+    "url": "http://fontdeck.com/typeface/neacademiatext",
+    "slug": "neacademiatext",
+    "superfamily": "Neacademia",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Venetian"
+    ],
+    "foundry": "Rosetta",
+    "designer": [
+        "Sergei Egorov"
+    ],
+    "opentype": [
+        "c2sc",
+        "calt",
+        "case",
+        "dnom",
+        "frac",
+        "hist",
+        "liga",
+        "lnum",
+        "numr",
+        "ordn",
+        "pnum",
+        "sinf",
+        "smcp",
+        "subs",
+        "sups",
+        "tnum"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "macedonian",
+        "opentype",
+        "aldine",
+        "text",
+        "sergei egorov",
+        "cyrillic",
+        "text font",
+        "russian",
+        "serbian",
+        "historical",
+        "hinted"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/neacademiatext/regular",
+            "css": {
+                "font-family": "Neacademia Text Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7780",
+                "slug": "regular",
+                "price": "$13.75"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/neacademiatext/italic",
+            "css": {
+                "font-family": "Neacademia Text Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7781",
+                "slug": "italic",
+                "price": "$13.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1792",
+        "slug": "neacademiatext"
+    },
+    "generatedAt": 1437611286814
+}

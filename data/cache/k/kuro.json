@@ -1,0 +1,195 @@
+{
+    "name": "Kuro",
+    "url": "http://fontdeck.com/typeface/kuro",
+    "slug": "kuro",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "The Northern Block",
+    "designer": [
+        "Jonathan Hill"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "advertising",
+        "optic",
+        "geometric",
+        "text",
+        "linear",
+        "functional",
+        "balanced",
+        "contemporary",
+        "magazine",
+        "minimal",
+        "modern",
+        "business text",
+        "japan",
+        "european",
+        "branding",
+        "universal",
+        "headline",
+        "information",
+        "true italic",
+        "sans-serif",
+        "legible",
+        "brochure",
+        "industrial",
+        "airy",
+        "neutral",
+        "cool",
+        "fashion",
+        "swiss",
+        "identity",
+        "editorial",
+        "corporate",
+        "readable",
+        "clean",
+        "charming"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/kuro/light",
+            "css": {
+                "font-family": "Kuro Light",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4333",
+                "slug": "light",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/kuro/italic",
+            "css": {
+                "font-family": "Kuro Italic",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4339",
+                "slug": "italic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/kuro/regular",
+            "css": {
+                "font-family": "Kuro Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4338",
+                "slug": "regular",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/kuro/medium",
+            "css": {
+                "font-family": "Kuro Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4340",
+                "slug": "medium",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/kuro/bold",
+            "css": {
+                "font-family": "Kuro Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4342",
+                "slug": "bold",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/kuro/extrabold",
+            "css": {
+                "font-family": "Kuro ExtraBold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4343",
+                "slug": "extrabold",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/kuro/heavy",
+            "css": {
+                "font-family": "Kuro Heavy",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4344",
+                "slug": "heavy",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/kuro/black",
+            "css": {
+                "font-family": "Kuro Black",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4345",
+                "slug": "black",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "DemiBold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/kuro/demibold",
+            "css": {
+                "font-family": "Kuro DemiBold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4341",
+                "slug": "demibold",
+                "price": "$7.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1020",
+        "slug": "kuro"
+    },
+    "generatedAt": 1437610311462
+}

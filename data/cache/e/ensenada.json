@@ -1,0 +1,70 @@
+{
+    "name": "Ensenada",
+    "url": "http://fontdeck.com/typeface/ensenada",
+    "slug": "ensenada",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Experimental",
+        "Display",
+        "Grunge",
+        "Display",
+        "Symbol",
+        "Display",
+        "Futuristic",
+        "Display",
+        "Poster"
+    ],
+    "foundry": "Wordshape",
+    "designer": [
+        "Ian Lynam"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "designers republic",
+        "techno",
+        "mexico",
+        "califone",
+        "geometric",
+        "abold",
+        "tokyo foundry",
+        "postmodern",
+        "mexicali",
+        "tokyo typography",
+        "geometric sans",
+        "tdr",
+        "post-tdr",
+        "polygonal",
+        "display type",
+        "retro",
+        "calexico",
+        "square",
+        "futuristic",
+        "sign letter",
+        "fat face"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/ensenada/regular",
+            "css": {
+                "font-family": "Ensenada Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4773",
+                "slug": "regular",
+                "price": "$12.49"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1114",
+        "slug": "ensenada"
+    },
+    "generatedAt": 1437610441135
+}

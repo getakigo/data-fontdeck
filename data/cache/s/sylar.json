@@ -1,0 +1,289 @@
+{
+    "name": "Sylar",
+    "url": "http://fontdeck.com/typeface/sylar",
+    "slug": "sylar",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Futuristic"
+    ],
+    "foundry": "The Northern Block",
+    "designer": [
+        "Jonathan Hill"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "geometric",
+        "linear",
+        "legible",
+        "mechanical",
+        "outline",
+        "magazine",
+        "rounded",
+        "modern",
+        "movie",
+        "neutral",
+        "computer",
+        "swiss",
+        "modular",
+        "european",
+        "electronic",
+        "square",
+        "headline",
+        "sans serif",
+        "futuristic",
+        "grid",
+        "technical.",
+        "clean",
+        "information"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/sylar/thin",
+            "css": {
+                "font-family": "Sylar Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7156",
+                "slug": "thin",
+                "price": "$29.00"
+            }
+        },
+        {
+            "name": "Thin Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/sylar/thinitalic",
+            "css": {
+                "font-family": "Sylar Thin Italic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7201",
+                "slug": "thinitalic",
+                "price": "$29.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/sylar/regular",
+            "css": {
+                "font-family": "Sylar Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7154",
+                "slug": "regular",
+                "price": "$29.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/sylar/regularitalic",
+            "css": {
+                "font-family": "Sylar Regular Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7199",
+                "slug": "regularitalic",
+                "price": "$29.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/sylar/bold",
+            "css": {
+                "font-family": "Sylar Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7150",
+                "slug": "bold",
+                "price": "$29.00"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/sylar/bolditalic",
+            "css": {
+                "font-family": "Sylar Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7151",
+                "slug": "bolditalic",
+                "price": "$29.00"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/sylar/extrabold",
+            "css": {
+                "font-family": "Sylar Extra Bold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7152",
+                "slug": "extrabold",
+                "price": "$29.00"
+            }
+        },
+        {
+            "name": "Extra-bold Italic",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/sylar/extrabolditalic",
+            "css": {
+                "font-family": "Sylar Extra Bold Italic",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7197",
+                "slug": "extrabolditalic",
+                "price": "$29.00"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/sylar/black",
+            "css": {
+                "font-family": "Sylar Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7149",
+                "slug": "black",
+                "price": "$29.00"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/sylar/blackitalic",
+            "css": {
+                "font-family": "Sylar Black Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7196",
+                "slug": "blackitalic",
+                "price": "$29.00"
+            }
+        },
+        {
+            "name": "Ultra",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/sylar/ultra",
+            "css": {
+                "font-family": "Sylar Ultra",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7203",
+                "slug": "ultra",
+                "price": "$29.00"
+            }
+        },
+        {
+            "name": "Round Ultra",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/sylar/roundultra",
+            "css": {
+                "font-family": "Sylar Round Ultra",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7200",
+                "slug": "roundultra",
+                "price": "$29.00"
+            }
+        },
+        {
+            "name": "Outline",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/sylar/outline",
+            "css": {
+                "font-family": "Sylar Outline",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7198",
+                "slug": "outline",
+                "price": "$29.00"
+            }
+        },
+        {
+            "name": "Round Ultra Italic",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/sylar/roundultraitalic",
+            "css": {
+                "font-family": "Sylar Round Ultra Italic",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7155",
+                "slug": "roundultraitalic",
+                "price": "$29.00"
+            }
+        },
+        {
+            "name": "Ultra Italic",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/sylar/ultraitalic",
+            "css": {
+                "font-family": "Sylar Ultra Italic",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7202",
+                "slug": "ultraitalic",
+                "price": "$29.00"
+            }
+        },
+        {
+            "name": "Outline Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/sylar/outlineitalic",
+            "css": {
+                "font-family": "Sylar Outline Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7153",
+                "slug": "outlineitalic",
+                "price": "$29.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1679",
+        "slug": "sylar"
+    },
+    "generatedAt": 1437611129138
+}

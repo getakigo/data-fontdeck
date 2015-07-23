@@ -1,0 +1,117 @@
+{
+    "name": "Eskorte Arabic",
+    "url": "http://fontdeck.com/typeface/eskortearabic",
+    "slug": "eskortearabic",
+    "superfamily": "Eskorte",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Modern"
+    ],
+    "foundry": "Rosetta",
+    "designer": [
+        "Elena Schneider"
+    ],
+    "opentype": [
+        "calt",
+        "liga"
+    ],
+    "language": [
+        "latin",
+        "arabic"
+    ],
+    "tags": [
+        "advertising",
+        "formal",
+        "opentype",
+        "multiple-purpose",
+        "hand hinted",
+        "businesslike",
+        "accessible",
+        "workhorse",
+        "text",
+        "text font",
+        "hand-hinted",
+        "crisp",
+        "manually hinted",
+        "academic",
+        "business",
+        "advanced character set",
+        "office",
+        "arabic",
+        "original",
+        "multilingual",
+        "elena scheider",
+        "corporate",
+        "annual reports",
+        "german",
+        "legal"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/eskortearabic/regular",
+            "css": {
+                "font-family": "Eskorte Arabic Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7778",
+                "slug": "regular",
+                "price": "$25.00"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/eskortearabic/semibold",
+            "css": {
+                "font-family": "Eskorte Arabic Semibold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7776",
+                "slug": "semibold",
+                "price": "$25.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/eskortearabic/bold",
+            "css": {
+                "font-family": "Eskorte Arabic Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7777",
+                "slug": "bold",
+                "price": "$25.00"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/eskortearabic/extrabold",
+            "css": {
+                "font-family": "Eskorte Arabic Extrabold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7775",
+                "slug": "extrabold",
+                "price": "$25.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1789",
+        "slug": "eskortearabic"
+    },
+    "generatedAt": 1437611273964
+}

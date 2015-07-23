@@ -1,0 +1,63 @@
+{
+    "name": "Perfopunto 4F",
+    "url": "http://fontdeck.com/typeface/perfopunto4f",
+    "slug": "perfopunto4f",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Experimental",
+        "Display",
+        "Futuristic",
+        "Display",
+        "Poster",
+        "Display",
+        "Computer-related",
+        "Display",
+        "Decorative",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "4th february",
+    "designer": [
+        "Sergiy S. Tkachenko"
+    ],
+    "language": [
+        "latin",
+        "cyrillic"
+    ],
+    "tags": [
+        "all lowercase",
+        "dots",
+        "geometric",
+        "computer",
+        "circles",
+        "slits",
+        "unicase",
+        "perforated",
+        "unique",
+        "modular",
+        "ultra-bold"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/perfopunto4f/regular",
+            "css": {
+                "font-family": "Perfopunto 4F Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3811",
+                "slug": "regular",
+                "price": "$7.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "903",
+        "slug": "perfopunto4f"
+    },
+    "generatedAt": 1437610092633
+}

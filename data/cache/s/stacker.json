@@ -1,0 +1,116 @@
+{
+    "name": "Stacker",
+    "url": "http://fontdeck.com/typeface/stacker",
+    "slug": "stacker",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Experimental",
+        "Display",
+        "Sans serif",
+        "Display",
+        "Poster"
+    ],
+    "foundry": "Wordshape",
+    "designer": [
+        "Ian Lynam"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "nu rave",
+        "gothic",
+        "display font",
+        "y.a.c.h.t",
+        "extruded",
+        "hip-hop",
+        "supergraphics",
+        "chromatic",
+        "sports",
+        "sans-serif",
+        "punk rock",
+        "electro font",
+        "beautiful decay",
+        "soccer jersey",
+        "nokia",
+        "shade",
+        "layer font",
+        "no age",
+        "motion graphics",
+        "pop font",
+        "3d font",
+        "stacker",
+        "layer",
+        "unique",
+        "extrusion",
+        "apparel"
+    ],
+    "variations": [
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/stacker/bold",
+            "css": {
+                "font-family": "Stacker Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4779",
+                "slug": "bold",
+                "price": "$12.49"
+            }
+        },
+        {
+            "name": "Extrusion 3",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/stacker/extrusion3",
+            "css": {
+                "font-family": "Stacker Extrusion 3",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4782",
+                "slug": "extrusion3",
+                "price": "$12.49"
+            }
+        },
+        {
+            "name": "Extrusion 2",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/stacker/extrusion2",
+            "css": {
+                "font-family": "Stacker Extrusion 2",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4781",
+                "slug": "extrusion2",
+                "price": "$12.49"
+            }
+        },
+        {
+            "name": "Extrusion 1",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/stacker/extrusion1",
+            "css": {
+                "font-family": "Stacker Extrusion 1",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4780",
+                "slug": "extrusion1",
+                "price": "$12.49"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1120",
+        "slug": "stacker"
+    },
+    "generatedAt": 1437611529661
+}

@@ -1,0 +1,130 @@
+{
+    "name": "Bohemian",
+    "url": "http://fontdeck.com/typeface/bohemian",
+    "slug": "bohemian",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Hybrid"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Philip Kraft"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "sensible",
+        "modern",
+        "static",
+        "neutral",
+        "feminine",
+        "elegant",
+        "semi-serif",
+        "signage",
+        "headline",
+        "hybrid",
+        "2000s",
+        "valuable",
+        "transitional",
+        "german"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/bohemian/regular",
+            "css": {
+                "font-family": "Bohemian Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1534",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/bohemian/italic",
+            "css": {
+                "font-family": "Bohemian Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1530",
+                "slug": "italic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/bohemian/bold",
+            "css": {
+                "font-family": "Bohemian Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1528",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/bohemian/bolditalic",
+            "css": {
+                "font-family": "Bohemian Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1529",
+                "slug": "bolditalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Ultra Bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/bohemian/ultrabold",
+            "css": {
+                "font-family": "Bohemian Ultra Bold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1533",
+                "slug": "ultrabold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Ultra Bold Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/bohemian/ultrabolditalic",
+            "css": {
+                "font-family": "Bohemian Ultra Bold Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1537",
+                "slug": "ultrabolditalic",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "410",
+        "slug": "bohemian"
+    },
+    "generatedAt": 1437609302825
+}

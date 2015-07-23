@@ -1,0 +1,112 @@
+{
+    "name": "Danmark",
+    "url": "http://fontdeck.com/typeface/danmark",
+    "slug": "danmark",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Stencil"
+    ],
+    "foundry": "A2-TYPE",
+    "designer": [
+        "Henrik Kubel"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "industrial",
+        "modern",
+        "book",
+        "text",
+        "legible",
+        "slab serif",
+        "editorial",
+        "newspaper",
+        "contemporary",
+        "magazine",
+        "stencil"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/danmark/thin",
+            "css": {
+                "font-family": "Danmark Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6504",
+                "slug": "thin",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/danmark/light",
+            "css": {
+                "font-family": "Danmark Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6505",
+                "slug": "light",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/danmark/regular",
+            "css": {
+                "font-family": "Danmark Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6503",
+                "slug": "regular",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/danmark/medium",
+            "css": {
+                "font-family": "Danmark Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6502",
+                "slug": "medium",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/danmark/bold",
+            "css": {
+                "font-family": "Danmark Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6501",
+                "slug": "bold",
+                "price": "$45.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1489",
+        "slug": "danmark"
+    },
+    "generatedAt": 1437610928831
+}

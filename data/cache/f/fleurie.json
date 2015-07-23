@@ -1,0 +1,62 @@
+{
+    "name": "Fleurie",
+    "url": "http://fontdeck.com/typeface/fleurie",
+    "slug": "fleurie",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "Fontseek",
+    "designer": [
+        "FLAG"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "decorative",
+        "flourish",
+        "feminine",
+        "monospace",
+        "typewriter",
+        "flowers"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/fleurie/regular",
+            "css": {
+                "font-family": "Fleurie Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5918",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/fleurie/bold",
+            "css": {
+                "font-family": "Fleurie Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5919",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1348",
+        "slug": "fleurie"
+    },
+    "generatedAt": 1437610772898
+}

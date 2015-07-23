@@ -1,0 +1,63 @@
+{
+    "name": "Doll",
+    "url": "http://fontdeck.com/typeface/doll",
+    "slug": "doll",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Display",
+        "Poster",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "FaceType",
+    "designer": [
+        "Marcus Sterz"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "bubble",
+        "filled",
+        "logo",
+        "filled counters",
+        "rounded",
+        "plump",
+        "poster",
+        "decorative",
+        "circled",
+        "cool",
+        "funny",
+        "round",
+        "solid",
+        "creative",
+        "kids",
+        "heavy",
+        "headline",
+        "1980s"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/doll/regular",
+            "css": {
+                "font-family": "Doll Regular",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5123",
+                "slug": "regular",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1219",
+        "slug": "doll"
+    },
+    "generatedAt": 1437610622448
+}

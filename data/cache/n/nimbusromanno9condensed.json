@@ -1,0 +1,88 @@
+{
+    "name": "Nimbus Roman No. 9 Condensed",
+    "url": "http://fontdeck.com/typeface/nimbusromanno9condensed",
+    "slug": "nimbusromanno9condensed",
+    "superfamily": "Nimbus Roman No. 9",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Modern"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Stanley Morison"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "family",
+        "serif",
+        "narrow",
+        "condensed",
+        "classic",
+        "english",
+        "workhorse",
+        "legible",
+        "sturdy",
+        "times",
+        "economical",
+        "1930s",
+        "antiqua",
+        "corporate",
+        "clean",
+        "superfamily"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/nimbusromanno9condensed/regular",
+            "css": {
+                "font-family": "NimbusRomanNo.9CondensedRegular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3754",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/nimbusromanno9condensed/italic",
+            "css": {
+                "font-family": "NimbusRomanNo.9CondensedItalic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3757",
+                "slug": "italic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/nimbusromanno9condensed/bold",
+            "css": {
+                "font-family": "NimbusRomanNo.9CondensedBold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3756",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "890",
+        "slug": "nimbusromanno9condensed"
+    },
+    "generatedAt": 1437610073300
+}

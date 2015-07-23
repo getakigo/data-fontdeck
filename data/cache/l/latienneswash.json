@@ -1,0 +1,159 @@
+{
+    "name": "Latienne Swash",
+    "url": "http://fontdeck.com/typeface/latienneswash",
+    "slug": "latienneswash",
+    "superfamily": "Latienne",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Transitional"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Mark Jamra"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "inscribed",
+        "sensible",
+        "elegant",
+        "swashes",
+        "1990s",
+        "tiny serif",
+        "legible",
+        "american",
+        "valuable",
+        "transitional",
+        "german",
+        "superfamily"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/latienneswash/regular",
+            "css": {
+                "font-family": "Latienne Swash Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2566",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/latienneswash/italic",
+            "css": {
+                "font-family": "Latienne Swash Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2567",
+                "slug": "italic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/latienneswash/medium",
+            "css": {
+                "font-family": "Latienne Swash Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2568",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/latienneswash/mediumitalic",
+            "css": {
+                "font-family": "Latienne Swash Medium Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2569",
+                "slug": "mediumitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/latienneswash/bold",
+            "css": {
+                "font-family": "Latienne Swash Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2570",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/latienneswash/bolditalic",
+            "css": {
+                "font-family": "Latienne Swash Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2571",
+                "slug": "bolditalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Alternative Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/latienneswash/alternativebolditalic",
+            "css": {
+                "font-family": "LatiennSwasAlternativBolItali",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3791",
+                "slug": "alternativebolditalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Alternative Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/latienneswash/alternativeitalic",
+            "css": {
+                "font-family": "LatienneSwashAlternativeItalic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3790",
+                "slug": "alternativeitalic",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "621",
+        "slug": "latienneswash"
+    },
+    "generatedAt": 1437609584918
+}

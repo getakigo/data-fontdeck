@@ -1,0 +1,104 @@
+{
+    "name": "Vibe SB",
+    "url": "http://fontdeck.com/typeface/vibesb",
+    "slug": "vibesb",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Futuristic",
+        "Display",
+        "Computer-related"
+    ],
+    "foundry": "SelfBuild Type Foundry",
+    "designer": [
+        "Craig Stainton"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "dance",
+        "techno",
+        "1990s",
+        "geometric",
+        "logo",
+        "monoline",
+        "nightclub",
+        "modern",
+        "decorative",
+        "retro",
+        "sansserif",
+        "linear sans",
+        "futuristic",
+        "square sans",
+        "wide",
+        "space age"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/vibesb/regular",
+            "css": {
+                "font-family": "Vibe SB Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1326",
+                "slug": "regular",
+                "price": "$8.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/vibesb/italic",
+            "css": {
+                "font-family": "Vibe SB Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1327",
+                "slug": "italic",
+                "price": "$8.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/vibesb/bold",
+            "css": {
+                "font-family": "Vibe SB Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1328",
+                "slug": "bold",
+                "price": "$8.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/vibesb/bolditalic",
+            "css": {
+                "font-family": "Vibe SB Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1329",
+                "slug": "bolditalic",
+                "price": "$8.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "367",
+        "slug": "vibesb"
+    },
+    "generatedAt": 1437609240164
+}

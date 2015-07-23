@@ -1,0 +1,46 @@
+{
+    "name": "Celtic Garamond Pro",
+    "url": "http://fontdeck.com/typeface/celticgaramondpro",
+    "slug": "celticgaramondpro",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Serif"
+    ],
+    "foundry": "CheapProFonts",
+    "designer": [
+        "Levente Halmos"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "celtic",
+        "serif",
+        "cross",
+        "classic",
+        "text"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/celticgaramondpro/regular",
+            "css": {
+                "font-family": "Celtic Garamond Pro Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4737",
+                "slug": "regular",
+                "price": "$9.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1098",
+        "slug": "celticgaramondpro"
+    },
+    "generatedAt": 1437610415706
+}

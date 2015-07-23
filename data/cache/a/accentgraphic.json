@@ -1,0 +1,89 @@
+{
+    "name": "Accent Graphic",
+    "url": "http://fontdeck.com/typeface/accentgraphic",
+    "slug": "accentgraphic",
+    "use": "heading",
+    "classification": [
+        "Serif",
+        "Modern"
+    ],
+    "foundry": "G-Type",
+    "designer": [
+        "Nick Cooke"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "formal",
+        "feminine",
+        "text",
+        "legible",
+        "classical",
+        "magazine",
+        "poster",
+        "sophisticated",
+        "optima",
+        "elegant",
+        "fashion",
+        "stylish",
+        "vintage",
+        "delicate",
+        "graceful",
+        "serious",
+        "flared",
+        "packaging"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/accentgraphic/light",
+            "css": {
+                "font-family": "Accent Graphic Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6331",
+                "slug": "light",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/accentgraphic/medium",
+            "css": {
+                "font-family": "Accent Graphic Medium",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6332",
+                "slug": "medium",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/accentgraphic/bold",
+            "css": {
+                "font-family": "Accent Graphic Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6330",
+                "slug": "bold",
+                "price": "$15.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1454",
+        "slug": "accentgraphic"
+    },
+    "generatedAt": 1437611088757
+}

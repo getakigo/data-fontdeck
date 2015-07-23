@@ -1,0 +1,40 @@
+{
+    "name": "A2 60 Display",
+    "url": "http://fontdeck.com/typeface/a260display",
+    "slug": "a260display",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif"
+    ],
+    "foundry": "A2-TYPE",
+    "designer": [
+        "Henrik Kubel"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/a260display/regular",
+            "css": {
+                "font-family": "A2 60 Display Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6628",
+                "slug": "regular",
+                "price": "$45.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1516",
+        "slug": "a260display"
+    },
+    "generatedAt": 1437610954781
+}

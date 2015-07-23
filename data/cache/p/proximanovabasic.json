@@ -1,0 +1,95 @@
+{
+    "name": "Proxima Nova Basic",
+    "url": "http://fontdeck.com/typeface/proximanovabasic",
+    "slug": "proximanovabasic",
+    "superfamily": "Proxima Nova",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Hybrid"
+    ],
+    "foundry": "Mark Simonson Studio",
+    "designer": [
+        "Mark Simonson"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "gotham",
+        "gothic",
+        "workhorse",
+        "geometric",
+        "grotesque",
+        "informal",
+        "superfamily",
+        "clean"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/proximanovabasic/regular",
+            "css": {
+                "font-family": "Proxima Nova Basic Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5612",
+                "slug": "regular",
+                "price": "$9.49"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/proximanovabasic/italic",
+            "css": {
+                "font-family": "Proxima Nova Basic Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5613",
+                "slug": "italic",
+                "price": "$9.49"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/proximanovabasic/bold",
+            "css": {
+                "font-family": "Proxima Nova Basic Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5614",
+                "slug": "bold",
+                "price": "$9.49"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/proximanovabasic/bolditalic",
+            "css": {
+                "font-family": "Proxima Nova Basic Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5615",
+                "slug": "bolditalic",
+                "price": "$9.49"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1305",
+        "slug": "proximanovabasic"
+    },
+    "generatedAt": 1437610688703
+}

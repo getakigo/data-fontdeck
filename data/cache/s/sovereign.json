@@ -1,0 +1,50 @@
+{
+    "name": "Sovereign",
+    "url": "http://fontdeck.com/typeface/sovereign",
+    "slug": "sovereign",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "G-Type",
+    "designer": [
+        "Nick Cooke"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "wood cut",
+        "decorative",
+        "all caps",
+        "wood block",
+        "engraved",
+        "wood type",
+        "slab serif",
+        "headline",
+        "poster"
+    ],
+    "variations": [
+        {
+            "name": "Display",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/sovereign/display",
+            "css": {
+                "font-family": "Sovereign Display",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6959",
+                "slug": "display",
+                "price": "$15.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1510",
+        "slug": "sovereign"
+    },
+    "generatedAt": 1437611087537
+}

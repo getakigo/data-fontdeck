@@ -1,0 +1,213 @@
+{
+    "name": "David",
+    "url": "http://fontdeck.com/typeface/david",
+    "slug": "david",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "A is for…",
+    "designer": [
+        "Émilie Rigaud"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "true italic",
+        "sturdy",
+        "family",
+        "extended",
+        "robust",
+        "sans serif",
+        "genuine"
+    ],
+    "variations": [
+        {
+            "name": "Extra-light",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/david/extralight",
+            "css": {
+                "font-family": "David Extralight",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8071",
+                "slug": "extralight",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Extra-light Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/david/extralightitalic",
+            "css": {
+                "font-family": "David Extralight Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8372",
+                "slug": "extralightitalic",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/david/light",
+            "css": {
+                "font-family": "David Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8072",
+                "slug": "light",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/david/lightitalic",
+            "css": {
+                "font-family": "David Light Italic",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8373",
+                "slug": "lightitalic",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/david/regular",
+            "css": {
+                "font-family": "David Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8367",
+                "slug": "regular",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/david/regularitalic",
+            "css": {
+                "font-family": "David Regular Italic",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8374",
+                "slug": "regularitalic",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/david/mediumitalic",
+            "css": {
+                "font-family": "David Medium Italic",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8375",
+                "slug": "mediumitalic",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/david/medium",
+            "css": {
+                "font-family": "David Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8369",
+                "slug": "medium",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/david/bolditalic",
+            "css": {
+                "font-family": "David Bold Italic",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8376",
+                "slug": "bolditalic",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/david/bold",
+            "css": {
+                "font-family": "David Bold",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8370",
+                "slug": "bold",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/david/heavy",
+            "css": {
+                "font-family": "David Heavy",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8371",
+                "slug": "heavy",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Heavy Italic",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/david/heavyitalic",
+            "css": {
+                "font-family": "David Heavy Italic",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8377",
+                "slug": "heavyitalic",
+                "price": "$15.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1880",
+        "slug": "david"
+    },
+    "generatedAt": 1437611380006
+}

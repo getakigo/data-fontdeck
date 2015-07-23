@@ -1,0 +1,159 @@
+{
+    "name": "Cedra 4F",
+    "url": "http://fontdeck.com/typeface/cedra4f",
+    "slug": "cedra4f",
+    "use": "body",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Display",
+        "Futuristic",
+        "Sans Serif",
+        "Grotesque",
+        "Sans Serif",
+        "Geometric",
+        "Display",
+        "Decorative",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "4th february",
+    "designer": [
+        "Sergiy S. Tkachenko"
+    ],
+    "language": [
+        "latin",
+        "cyrillic"
+    ],
+    "tags": [
+        "modern",
+        "monoline"
+    ],
+    "variations": [
+        {
+            "name": "Light Italic",
+            "description": "i3",
+            "url": "http://fontdeck.com/font/cedra4f/lightitalic",
+            "css": {
+                "font-family": "Cedra 4F Light Italic",
+                "font-weight": "300",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7031",
+                "slug": "lightitalic",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/cedra4f/regular",
+            "css": {
+                "font-family": "Cedra 4F Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7032",
+                "slug": "regular",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/cedra4f/italic",
+            "css": {
+                "font-family": "Cedra 4F Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7033",
+                "slug": "italic",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Wide UltraLight",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/cedra4f/wideultralight",
+            "css": {
+                "font-family": "Cedra 4F Wide UltraLight",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7028",
+                "slug": "wideultralight",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Wide Light",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/cedra4f/widelight",
+            "css": {
+                "font-family": "Cedra 4F Wide Light",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7030",
+                "slug": "widelight",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Wide Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/cedra4f/widethin",
+            "css": {
+                "font-family": "Cedra 4F Wide Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6112",
+                "slug": "widethin",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Wide Thin Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/cedra4f/widethinitalic",
+            "css": {
+                "font-family": "Cedra 4F Wide Thin Italic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6113",
+                "slug": "widethinitalic",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Wide UltraLight Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/cedra4f/wideultralightitalic",
+            "css": {
+                "font-family": "Cedra 4F Wide UltraLight Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7029",
+                "slug": "wideultralightitalic",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1415",
+        "slug": "cedra4f"
+    },
+    "generatedAt": 1437610810563
+}

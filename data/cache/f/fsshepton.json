@@ -1,0 +1,79 @@
+{
+    "name": "FS Shepton",
+    "url": "http://fontdeck.com/typeface/fsshepton",
+    "slug": "fsshepton",
+    "use": "heading",
+    "classification": [
+        "Script",
+        "Handwritten",
+        "Display",
+        "Script",
+        "Script",
+        "Casual"
+    ],
+    "foundry": "Fontsmith",
+    "designer": [
+        "Andy Lethbridge"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "informal",
+        "supermarket",
+        "handwriting",
+        "label"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/fsshepton/light",
+            "css": {
+                "font-family": "FS Shepton Light",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "9101",
+                "slug": "light",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/fsshepton/regular",
+            "css": {
+                "font-family": "FS Shepton Regular",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "9102",
+                "slug": "regular",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/fsshepton/bold",
+            "css": {
+                "font-family": "FS Shepton Bold",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "9100",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "2059",
+        "slug": "fsshepton"
+    },
+    "generatedAt": 1437611667824
+}

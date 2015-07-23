@@ -1,0 +1,142 @@
+{
+    "name": "Battersea SLAB",
+    "url": "http://fontdeck.com/typeface/batterseaslab",
+    "slug": "batterseaslab",
+    "superfamily": "Battersea",
+    "use": "heading",
+    "classification": [
+        "Slab Serif",
+        "Grotesque/Geometric"
+    ],
+    "foundry": "A2-TYPE",
+    "designer": [
+        "Henrik Kubel"
+    ],
+    "opentype": [
+        "liga"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "modern",
+        "slab",
+        "opentype",
+        "egyptian",
+        "legible",
+        "superfamily",
+        "clean"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/batterseaslab/thin",
+            "css": {
+                "font-family": "Battersea SLAB Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6207",
+                "slug": "thin",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/batterseaslab/light",
+            "css": {
+                "font-family": "Battersea SLAB Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6204",
+                "slug": "light",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/batterseaslab/regular",
+            "css": {
+                "font-family": "Battersea SLAB Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6210",
+                "slug": "regular",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/batterseaslab/medium",
+            "css": {
+                "font-family": "Battersea SLAB Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6206",
+                "slug": "medium",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/batterseaslab/semibold",
+            "css": {
+                "font-family": "Battersea SLAB Semibold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6205",
+                "slug": "semibold",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/batterseaslab/bold",
+            "css": {
+                "font-family": "Battersea SLAB Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6208",
+                "slug": "bold",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/batterseaslab/extrabold",
+            "css": {
+                "font-family": "Battersea SLAB Extrabold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6209",
+                "slug": "extrabold",
+                "price": "$45.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1430",
+        "slug": "batterseaslab"
+    },
+    "generatedAt": 1437610846203
+}

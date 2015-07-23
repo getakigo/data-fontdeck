@@ -1,0 +1,130 @@
+{
+    "name": "Trilogy Egyptian",
+    "url": "http://fontdeck.com/typeface/trilogyegyptian",
+    "slug": "trilogyegyptian",
+    "superfamily": "Trilogy",
+    "use": "body",
+    "classification": [
+        "Display",
+        "Slab serif",
+        "Slab Serif",
+        "Clarendon/Bracketed"
+    ],
+    "foundry": "Jeremy Tankard Typography",
+    "designer": [
+        "Jeremy Tankard"
+    ],
+    "opentype": [
+        "liga"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "advertising",
+        "19th century",
+        "opentype",
+        "egyptian",
+        "slab serif",
+        "signage",
+        "super family",
+        "display"
+    ],
+    "variations": [
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/trilogyegyptian/bold",
+            "css": {
+                "font-family": "Trilogy Egyptian Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1710",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/trilogyegyptian/bolditalic",
+            "css": {
+                "font-family": "Trilogy Egyptian Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1711",
+                "slug": "bolditalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/trilogyegyptian/extrabold",
+            "css": {
+                "font-family": "Trilogy Egyptian ExtraBold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1714",
+                "slug": "extrabold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Extra-bold Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/trilogyegyptian/extrabolditalic",
+            "css": {
+                "font-family": "TrilogyEgyptianExtraBoldItalic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1715",
+                "slug": "extrabolditalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/trilogyegyptian/heavy",
+            "css": {
+                "font-family": "Trilogy Egyptian Heavy",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1712",
+                "slug": "heavy",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Heavy Italic",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/trilogyegyptian/heavyitalic",
+            "css": {
+                "font-family": "Trilogy Egyptian Heavy Italic",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1713",
+                "slug": "heavyitalic",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "441",
+        "slug": "trilogyegyptian"
+    },
+    "generatedAt": 1437609370508
+}

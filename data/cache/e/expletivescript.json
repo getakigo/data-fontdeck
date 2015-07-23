@@ -1,0 +1,152 @@
+{
+    "name": "Expletive Script",
+    "url": "http://fontdeck.com/typeface/expletivescript",
+    "slug": "expletivescript",
+    "use": "heading",
+    "classification": [
+        "Script",
+        "Experimental script"
+    ],
+    "foundry": "VirusFonts",
+    "designer": [
+        "Jonathan Barnbrook"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "experimental",
+        "script",
+        "monoline",
+        "modular",
+        "baseline",
+        "circular"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/expletivescript/light",
+            "css": {
+                "font-family": "Expletive Script Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3353",
+                "slug": "light",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/expletivescript/regular",
+            "css": {
+                "font-family": "Expletive Script Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3352",
+                "slug": "regular",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Light Alt",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/expletivescript/lightalt",
+            "css": {
+                "font-family": "Expletive Script Light Alt",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3354",
+                "slug": "lightalt",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Light Slant Alt",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/expletivescript/lightslantalt",
+            "css": {
+                "font-family": "ExpletiveScriptLightSlantAlt",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3358",
+                "slug": "lightslantalt",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Slant Alt",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/expletivescript/slantalt",
+            "css": {
+                "font-family": "Expletive Script Slant Alt",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3357",
+                "slug": "slantalt",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Light Slant",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/expletivescript/lightslant",
+            "css": {
+                "font-family": "Expletive Script Light Slant",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3359",
+                "slug": "lightslant",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Slant",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/expletivescript/slant",
+            "css": {
+                "font-family": "Expletive Script Slant",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3356",
+                "slug": "slant",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Alt",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/expletivescript/alt",
+            "css": {
+                "font-family": "Expletive Script Alt",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3355",
+                "slug": "alt",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "809",
+        "slug": "expletivescript"
+    },
+    "generatedAt": 1437609925806
+}

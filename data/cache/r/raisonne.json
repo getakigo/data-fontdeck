@@ -1,0 +1,60 @@
+{
+    "name": "Raisonne",
+    "url": "http://fontdeck.com/typeface/raisonne",
+    "slug": "raisonne",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif"
+    ],
+    "foundry": "Colophon",
+    "designer": [
+        "Benjamin Critton"
+    ],
+    "opentype": [
+        "liga",
+        "ss01"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "headlines",
+        "honest",
+        "opentype",
+        "candid",
+        "geometric",
+        "avant garde",
+        "blunt",
+        "fun",
+        "affable",
+        "parody",
+        "futura",
+        "french",
+        "modernism",
+        "dumb",
+        "display"
+    ],
+    "variations": [
+        {
+            "name": "Demibold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/raisonne/demibold",
+            "css": {
+                "font-family": "Raisonne Demibold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4677",
+                "slug": "demibold",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1090",
+        "slug": "raisonne"
+    },
+    "generatedAt": 1437610402244
+}

@@ -1,0 +1,53 @@
+{
+    "name": "Nove",
+    "url": "http://fontdeck.com/typeface/nove",
+    "slug": "nove",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "Fabrizio Schiavi Design",
+    "designer": [
+        "Fabrizio Schiavi"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "hand drawn",
+        "1970s",
+        "splatter",
+        "narrow",
+        "funny",
+        "playful",
+        "vintage",
+        "doodles",
+        "1960s",
+        "retro",
+        "fun",
+        "geometric sans"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/nove/regular",
+            "css": {
+                "font-family": "Nove Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8343",
+                "slug": "regular",
+                "price": "$48.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1905",
+        "slug": "nove"
+    },
+    "generatedAt": 1437611418659
+}

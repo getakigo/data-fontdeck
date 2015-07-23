@@ -1,0 +1,212 @@
+{
+    "name": "Adso",
+    "url": "http://fontdeck.com/typeface/adso",
+    "slug": "adso",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Blackletter"
+    ],
+    "foundry": "Bureau des Affaires Typographiques",
+    "designer": [
+        "Bruno Bernard"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "ancient",
+        "blackletter",
+        "2000s",
+        "contemporary",
+        "true italics",
+        "fraktur"
+    ],
+    "variations": [
+        {
+            "name": "Ultra-light",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/adso/ultralight",
+            "css": {
+                "font-family": "Adso Ultralight",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2377",
+                "slug": "ultralight",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Ultra-light Italic",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/adso/ultralightitalic",
+            "css": {
+                "font-family": "Adso Ultralight Italic",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2376",
+                "slug": "ultralightitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/adso/lightitalic",
+            "css": {
+                "font-family": "Adso Light Italic",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2374",
+                "slug": "lightitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/adso/light",
+            "css": {
+                "font-family": "Adso Light",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2375",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/adso/regular",
+            "css": {
+                "font-family": "Adso Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2373",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/adso/italic",
+            "css": {
+                "font-family": "Adso Italic",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2372",
+                "slug": "italic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/adso/medium",
+            "css": {
+                "font-family": "Adso Medium",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2371",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/adso/mediumitalic",
+            "css": {
+                "font-family": "Adso Medium Italic",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2370",
+                "slug": "mediumitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/adso/bolditalic",
+            "css": {
+                "font-family": "Adso Bold Italic",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2368",
+                "slug": "bolditalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/adso/bold",
+            "css": {
+                "font-family": "Adso Bold",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2369",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/adso/extrabold",
+            "css": {
+                "font-family": "Adso Extrabold",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2367",
+                "slug": "extrabold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-bold Italic",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/adso/extrabolditalic",
+            "css": {
+                "font-family": "Adso Extrabold Italic",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2366",
+                "slug": "extrabolditalic",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "577",
+        "slug": "adso"
+    },
+    "generatedAt": 1437609486118
+}

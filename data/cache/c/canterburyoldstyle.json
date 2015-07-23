@@ -1,0 +1,104 @@
+{
+    "name": "Canterbury Old Style",
+    "url": "http://fontdeck.com/typeface/canterburyoldstyle",
+    "slug": "canterburyoldstyle",
+    "superfamily": "Canterbury",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Art Deco",
+        "Display",
+        "Serif"
+    ],
+    "foundry": "Red Rooster Collection",
+    "designer": [
+        "Morris Fuller Benton"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "serif",
+        "feminine",
+        "1920s",
+        "quaint",
+        "tiny serif",
+        "perfume",
+        "low x-height",
+        "christianity",
+        "elegant",
+        "commercial",
+        "art deco",
+        "valentine",
+        "superfamily",
+        "spur serif",
+        "wedding"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/canterburyoldstyle/regular",
+            "css": {
+                "font-family": "Canterbury Old Style Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4184",
+                "slug": "regular",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/canterburyoldstyle/bold",
+            "css": {
+                "font-family": "Canterbury Old Style Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4186",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold Swash",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/canterburyoldstyle/boldswash",
+            "css": {
+                "font-family": "Canterbury Old Style Bold Swash",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4187",
+                "slug": "boldswash",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Regular Swash",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/canterburyoldstyle/regularswash",
+            "css": {
+                "font-family": "CanterburyOldStyleRegularSwash",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4185",
+                "slug": "regularswash",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "982",
+        "slug": "canterburyoldstyle"
+    },
+    "generatedAt": 1437610234362
+}

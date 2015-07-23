@@ -1,0 +1,168 @@
+{
+    "name": "Mic 32 New Web",
+    "url": "http://fontdeck.com/typeface/mic32newweb",
+    "slug": "mic32newweb",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Geometric",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "Moretype",
+    "designer": [
+        "Chris Dickinson"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "true italic",
+        "hand hinted",
+        "geometric",
+        "contemporary",
+        "rounded",
+        "magazine",
+        "manually hinted",
+        "modern",
+        "spurless",
+        "business",
+        "elegant",
+        "commercial",
+        "handhinted",
+        "pop",
+        "branding",
+        "signage",
+        "corporate",
+        "headline",
+        "clean",
+        "information"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/mic32newweb/light",
+            "css": {
+                "font-family": "Mic 32 New Web Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3659",
+                "slug": "light",
+                "price": "$11.50"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/mic32newweb/lightitalic",
+            "css": {
+                "font-family": "Mic 32 New Web Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3660",
+                "slug": "lightitalic",
+                "price": "$11.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/mic32newweb/regular",
+            "css": {
+                "font-family": "Mic 32 New Web Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3663",
+                "slug": "regular",
+                "price": "$11.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/mic32newweb/italic",
+            "css": {
+                "font-family": "Mic 32 New Web Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3665",
+                "slug": "italic",
+                "price": "$11.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/mic32newweb/medium",
+            "css": {
+                "font-family": "Mic 32 New Web Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3661",
+                "slug": "medium",
+                "price": "$11.50"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/mic32newweb/mediumitalic",
+            "css": {
+                "font-family": "Mic 32 New Web Medium Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3662",
+                "slug": "mediumitalic",
+                "price": "$11.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/mic32newweb/bold",
+            "css": {
+                "font-family": "Mic 32 New Web Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3664",
+                "slug": "bold",
+                "price": "$11.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/mic32newweb/bolditalic",
+            "css": {
+                "font-family": "Mic 32 New Web Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3666",
+                "slug": "bolditalic",
+                "price": "$11.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "876",
+        "slug": "mic32newweb"
+    },
+    "generatedAt": 1437610054204
+}

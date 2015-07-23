@@ -1,0 +1,59 @@
+{
+    "name": "Mustang",
+    "url": "http://fontdeck.com/typeface/mustang",
+    "slug": "mustang",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Grunge",
+        "Display",
+        "Script"
+    ],
+    "foundry": "Robert Arnow Designs",
+    "designer": [
+        "Robert Arnow"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "fast",
+        "wild",
+        "brush-drawn",
+        "brush",
+        "dynamic",
+        "textured",
+        "handwritten",
+        "passion",
+        "paint",
+        "sumi",
+        "ink",
+        "texture",
+        "hand-drawn",
+        "rough",
+        "passionate",
+        "lively"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/mustang/regular",
+            "css": {
+                "font-family": "Mustang Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3800",
+                "slug": "regular",
+                "price": "$11.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "896",
+        "slug": "mustang"
+    },
+    "generatedAt": 1437610081556
+}

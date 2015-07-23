@@ -1,0 +1,99 @@
+{
+    "name": "Fusion Sans Pro Cyrillic",
+    "url": "http://fontdeck.com/typeface/fusionsansprocyrillic",
+    "slug": "fusionsansprocyrillic",
+    "superfamily": "Fusion Sans Pro",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Display",
+        "Poster"
+    ],
+    "foundry": "Parachute",
+    "designer": [
+        "Panos Vassiliou"
+    ],
+    "language": [
+        "latin",
+        "cyrillic"
+    ],
+    "tags": [
+        "gothic",
+        "grotesk",
+        "narrow",
+        "condensed",
+        "bold",
+        "super family",
+        "impact",
+        "poster",
+        "black"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/fusionsansprocyrillic/light",
+            "css": {
+                "font-family": "Fusion Sans Pro Cyrillic Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4002",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/fusionsansprocyrillic/medium",
+            "css": {
+                "font-family": "Fusion Sans Pro Cyrillic Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4003",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/fusionsansprocyrillic/heavy",
+            "css": {
+                "font-family": "Fusion Sans Pro Cyrillic Heavy",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4001",
+                "slug": "heavy",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/fusionsansprocyrillic/black",
+            "css": {
+                "font-family": "Fusion Sans Pro Cyrillic Black",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4000",
+                "slug": "black",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "938",
+        "slug": "fusionsansprocyrillic"
+    },
+    "generatedAt": 1437610149020
+}

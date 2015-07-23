@@ -1,0 +1,114 @@
+{
+    "name": "Shamus Pro",
+    "url": "http://fontdeck.com/typeface/shamuspro",
+    "slug": "shamuspro",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "All caps",
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "Red Rooster Collection",
+    "designer": [
+        "Ashley Muir",
+        "Steve Jackaman"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "magic",
+        "poetry",
+        "video",
+        "music",
+        "letterhead",
+        "middle ages",
+        "memo",
+        "magazine",
+        "festive",
+        "celtic",
+        "runes",
+        "holiday",
+        "movie",
+        "funny",
+        "renaissance",
+        "uncial",
+        "art deco",
+        "greetings",
+        "announcement",
+        "festival",
+        "headline",
+        "viking",
+        "casual",
+        "clover",
+        "display",
+        "wedding",
+        "invitation",
+        "ethnic",
+        "irish",
+        "legible",
+        "party",
+        "informal",
+        "concert",
+        "poster",
+        "decorative",
+        "elegant",
+        "old style",
+        "drinking",
+        "",
+        "masculine"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/shamuspro/light",
+            "css": {
+                "font-family": "Shamus Pro Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3160",
+                "slug": "light",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/shamuspro/medium",
+            "css": {
+                "font-family": "Shamus Pro Medium",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3158",
+                "slug": "medium",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/shamuspro/bold",
+            "css": {
+                "font-family": "Shamus Pro Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3159",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "742",
+        "slug": "shamuspro"
+    },
+    "generatedAt": 1437609822929
+}

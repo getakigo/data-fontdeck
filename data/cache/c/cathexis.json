@@ -1,0 +1,77 @@
+{
+    "name": "Cathexis",
+    "url": "http://fontdeck.com/typeface/cathexis",
+    "slug": "cathexis",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Display",
+        "Poster"
+    ],
+    "foundry": "Veer",
+    "designer": [
+        "Jason Walcott"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "audio equipment",
+        "equipment",
+        "communicates",
+        "compressed",
+        "titling",
+        "condensed",
+        "consumer electronicstechnical",
+        "communicating",
+        "home entertainment",
+        "alternates",
+        "communicate",
+        "technologies",
+        "jukeboxes",
+        "communications",
+        "weight",
+        "technology",
+        "written communications",
+        "alternate",
+        "display",
+        "technological",
+        "narrow",
+        "audio electronics",
+        "sans-serif",
+        "jukebox",
+        "poster",
+        "tech",
+        "concept",
+        "alternatives",
+        "communication",
+        "posters",
+        "all capitals",
+        "small capitals",
+        "heavy",
+        "showcard"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/cathexis/regular",
+            "css": {
+                "font-family": "Cathexis Regular",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5074",
+                "slug": "regular",
+                "price": "$17.19"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1194",
+        "slug": "cathexis"
+    },
+    "generatedAt": 1437610538730
+}

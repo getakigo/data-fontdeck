@@ -1,0 +1,164 @@
+{
+    "name": "FS Sinclair Web",
+    "url": "http://fontdeck.com/typeface/fssinclairweb",
+    "slug": "fssinclairweb",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Computer-related",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "Fontsmith",
+    "designer": [
+        "Jason Smith",
+        "Phil Garnham"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "static",
+        "technical",
+        "sans-serif",
+        "geometric",
+        "computer",
+        "legible",
+        "european",
+        "modular",
+        "square",
+        "utilitarian",
+        "squarish",
+        "grid",
+        "square sans",
+        "1980s",
+        "eurostile"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/fssinclairweb/light",
+            "css": {
+                "font-family": "FS Sinclair Web Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3093",
+                "slug": "light",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/fssinclairweb/lightitalic",
+            "css": {
+                "font-family": "FS Sinclair Web Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3092",
+                "slug": "lightitalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/fssinclairweb/regular",
+            "css": {
+                "font-family": "FS Sinclair Web Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3096",
+                "slug": "regular",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/fssinclairweb/italic",
+            "css": {
+                "font-family": "FS Sinclair Web Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3091",
+                "slug": "italic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/fssinclairweb/medium",
+            "css": {
+                "font-family": "FS Sinclair Web Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3095",
+                "slug": "medium",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/fssinclairweb/mediumitalic",
+            "css": {
+                "font-family": "FS Sinclair Web Medium Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3094",
+                "slug": "mediumitalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/fssinclairweb/bold",
+            "css": {
+                "font-family": "FS Sinclair Web Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3090",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/fssinclairweb/bolditalic",
+            "css": {
+                "font-family": "FS Sinclair Web Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3089",
+                "slug": "bolditalic",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "719",
+        "slug": "fssinclairweb"
+    },
+    "generatedAt": 1437609788909
+}

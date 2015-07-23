@@ -1,0 +1,107 @@
+{
+    "name": "Luminance",
+    "url": "http://fontdeck.com/typeface/luminance",
+    "slug": "luminance",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Modern"
+    ],
+    "foundry": "MAC Rhino Fonts",
+    "designer": [
+        "Stefan Hattenbach"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "serif",
+        "plakatstil",
+        "quirky",
+        "directional serif",
+        "text",
+        "czech"
+    ],
+    "variations": [
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/luminance/italic",
+            "css": {
+                "font-family": "Luminance Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2502",
+                "slug": "italic",
+                "price": "$12.49"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/luminance/bold",
+            "css": {
+                "font-family": "Luminance Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2500",
+                "slug": "bold",
+                "price": "$12.49"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/luminance/bolditalic",
+            "css": {
+                "font-family": "Luminance Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2501",
+                "slug": "bolditalic",
+                "price": "$12.49"
+            }
+        },
+        {
+            "name": "Normal",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/luminance/normal",
+            "css": {
+                "font-family": "Luminance Normal",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2503",
+                "slug": "normal",
+                "price": "$12.49"
+            }
+        },
+        {
+            "name": "Small Caps",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/luminance/smallcaps",
+            "css": {
+                "font-family": "Luminance Small Caps",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2504",
+                "slug": "smallcaps",
+                "price": "$12.49"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "606",
+        "slug": "luminance"
+    },
+    "generatedAt": 1437609555622
+}

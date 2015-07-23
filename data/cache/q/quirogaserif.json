@@ -1,0 +1,129 @@
+{
+    "name": "Quiroga Serif",
+    "url": "http://fontdeck.com/typeface/quirogaserif",
+    "slug": "quirogaserif",
+    "use": "body",
+    "classification": [
+        "Slab Serif",
+        "Egyptian"
+    ],
+    "foundry": "TipoType",
+    "designer": [
+        "Fernando Diaz"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "space saving",
+        "serif",
+        "latin american",
+        "narrow",
+        "warm",
+        "condensed",
+        "text",
+        "wedge serif",
+        "legible",
+        "uruguay",
+        "readable",
+        "newspaper",
+        "economic"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/quirogaserif/regular",
+            "css": {
+                "font-family": "Quiroga Serif Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8839",
+                "slug": "regular",
+                "price": "$11.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/quirogaserif/italic",
+            "css": {
+                "font-family": "Quiroga Serif Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8838",
+                "slug": "italic",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/quirogaserif/bold",
+            "css": {
+                "font-family": "Quiroga Serif Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8834",
+                "slug": "bold",
+                "price": "$11.00"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/quirogaserif/bolditalic",
+            "css": {
+                "font-family": "Quiroga Serif Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8835",
+                "slug": "bolditalic",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Demibold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/quirogaserif/demibold",
+            "css": {
+                "font-family": "Quiroga Serif Demibold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8836",
+                "slug": "demibold",
+                "price": "$11.00"
+            }
+        },
+        {
+            "name": "Demibold Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/quirogaserif/demibolditalic",
+            "css": {
+                "font-family": "Quiroga Serif Demibold Italic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8837",
+                "slug": "demibolditalic",
+                "price": "$9.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1982",
+        "slug": "quirogaserif"
+    },
+    "generatedAt": 1437611566700
+}

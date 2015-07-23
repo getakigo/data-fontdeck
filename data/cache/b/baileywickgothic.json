@@ -1,0 +1,57 @@
+{
+    "name": "Baileywick Gothic",
+    "url": "http://fontdeck.com/typeface/baileywickgothic",
+    "slug": "baileywickgothic",
+    "superfamily": "Baileywick",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Funny",
+        "Display",
+        "Sans serif"
+    ],
+    "foundry": "Veer",
+    "designer": [
+        "Jason Walcott"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "eccentric",
+        "gothic",
+        "whimsical",
+        "vintage",
+        "1960s",
+        "childlike",
+        "retro",
+        "fun",
+        "casual",
+        "quirky",
+        "1900s",
+        "display",
+        "superfamily"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/baileywickgothic/regular",
+            "css": {
+                "font-family": "Baileywick Gothic Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5029",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1165",
+        "slug": "baileywickgothic"
+    },
+    "generatedAt": 1437610497590
+}

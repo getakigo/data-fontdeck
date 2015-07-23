@@ -1,0 +1,50 @@
+{
+    "name": "Steelplate Gothic",
+    "url": "http://fontdeck.com/typeface/steelplategothic",
+    "slug": "steelplategothic",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "All caps"
+    ],
+    "foundry": "Red Rooster Collection",
+    "designer": [
+        "Steve Jackaman"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "all caps",
+        "block",
+        "sans-serif",
+        "greetings",
+        "logo",
+        "letterhead",
+        "line shade",
+        "american",
+        "wide"
+    ],
+    "variations": [
+        {
+            "name": "Shaded",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/steelplategothic/shaded",
+            "css": {
+                "font-family": "Steelplate Gothic Shaded",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4198",
+                "slug": "shaded",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "985",
+        "slug": "steelplategothic"
+    },
+    "generatedAt": 1437610247519
+}

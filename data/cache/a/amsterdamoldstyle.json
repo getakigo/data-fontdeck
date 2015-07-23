@@ -1,0 +1,109 @@
+{
+    "name": "Amsterdam Old Style",
+    "url": "http://fontdeck.com/typeface/amsterdamoldstyle",
+    "slug": "amsterdamoldstyle",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Art Deco",
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "Red Rooster Collection",
+    "designer": [
+        "Steve Jackaman"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "grunge",
+        "poetry",
+        "serif",
+        "music",
+        "soft",
+        "rubber stamp",
+        "perfume",
+        "scrap",
+        "news",
+        "festive",
+        "christianity",
+        "nature",
+        "cursive",
+        "1940s",
+        "movie",
+        "food",
+        "sun",
+        "commercial",
+        "funny",
+        "fashionable",
+        "renaissance",
+        "label",
+        "kids",
+        "bouncy",
+        "headline",
+        "wedding",
+        "surf",
+        "invitation",
+        "feminine",
+        "jewelry",
+        "cosmetics",
+        "summer",
+        "informal",
+        "scrapbook",
+        "spray",
+        "crafts",
+        "poster",
+        "certificate",
+        "decorative",
+        "artsy",
+        "script",
+        "water",
+        "1930s",
+        "elegant",
+        "fairytale",
+        "informal text",
+        "letter",
+        "chancery",
+        "valentine",
+        "lettering",
+        "vacation"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/amsterdamoldstyle/light",
+            "css": {
+                "font-family": "Amsterdam Old Style Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4383",
+                "slug": "light",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/amsterdamoldstyle/bold",
+            "css": {
+                "font-family": "Amsterdam Old Style Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4384",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1031",
+        "slug": "amsterdamoldstyle"
+    },
+    "generatedAt": 1437610355381
+}

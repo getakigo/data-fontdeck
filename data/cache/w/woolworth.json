@@ -1,0 +1,155 @@
+{
+    "name": "Woolworth",
+    "url": "http://fontdeck.com/typeface/woolworth",
+    "slug": "woolworth",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Neo-Grotesk"
+    ],
+    "foundry": "The Northern Block",
+    "designer": [
+        "Jonathan Hill"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "advertising",
+        "news text",
+        "sans-serif",
+        "legible",
+        "brochure",
+        "balanced",
+        "neo-grotesk",
+        "contemporary",
+        "magazine",
+        "versatile",
+        "modern",
+        "minimalism",
+        "commercial",
+        "book",
+        "business text",
+        "identity",
+        "european",
+        "sansserif",
+        "editorial",
+        "corporate",
+        "sans serif",
+        "annual reports",
+        "german",
+        "clean"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/woolworth/light",
+            "css": {
+                "font-family": "Woolworth Light",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2689",
+                "slug": "light",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Book",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/woolworth/book",
+            "css": {
+                "font-family": "Woolworth Book",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2690",
+                "slug": "book",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/woolworth/italic",
+            "css": {
+                "font-family": "Woolworth Italic",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2691",
+                "slug": "italic",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/woolworth/medium",
+            "css": {
+                "font-family": "Woolworth Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2692",
+                "slug": "medium",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/woolworth/bold",
+            "css": {
+                "font-family": "Woolworth Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2694",
+                "slug": "bold",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/woolworth/extrabold",
+            "css": {
+                "font-family": "Woolworth ExtraBold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2695",
+                "slug": "extrabold",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "DemiBold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/woolworth/demibold",
+            "css": {
+                "font-family": "Woolworth DemiBold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2693",
+                "slug": "demibold",
+                "price": "$9.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "649",
+        "slug": "woolworth"
+    },
+    "generatedAt": 1437609633804
+}

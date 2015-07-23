@@ -1,0 +1,69 @@
+{
+    "name": "Phosphate Pro",
+    "url": "http://fontdeck.com/typeface/phosphatepro",
+    "slug": "phosphatepro",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "All caps",
+        "Display",
+        "Art Deco",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "Red Rooster Collection",
+    "designer": [
+        "Ashley Muir",
+        "Steve Jackaman"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "headlines",
+        "1930s",
+        "1920s",
+        "solid",
+        "constructed",
+        "headline",
+        "construction",
+        "inline"
+    ],
+    "variations": [
+        {
+            "name": "Solid",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/phosphatepro/solid",
+            "css": {
+                "font-family": "Phosphate Pro Solid",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3208",
+                "slug": "solid",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Inline",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/phosphatepro/inline",
+            "css": {
+                "font-family": "Phosphate Pro Inline",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3207",
+                "slug": "inline",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "756",
+        "slug": "phosphatepro"
+    },
+    "generatedAt": 1437609853921
+}

@@ -1,0 +1,63 @@
+{
+    "name": "Isotext Pro",
+    "url": "http://fontdeck.com/typeface/isotextpro",
+    "slug": "isotextpro",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "Parachute",
+    "designer": [
+        "Panos Vassiliou"
+    ],
+    "opentype": [
+        "liga"
+    ],
+    "language": [
+        "latin",
+        "greek"
+    ],
+    "tags": [
+        "opentype",
+        "computer",
+        "legible"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/isotextpro/regular",
+            "css": {
+                "font-family": "Isotext Pro Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "435",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/isotextpro/bold",
+            "css": {
+                "font-family": "Isotext Pro Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "436",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "175",
+        "slug": "isotextpro"
+    },
+    "generatedAt": 1437608961266
+}

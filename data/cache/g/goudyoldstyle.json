@@ -1,0 +1,98 @@
+{
+    "name": "Goudy Old Style",
+    "url": "http://fontdeck.com/typeface/goudyoldstyle",
+    "slug": "goudyoldstyle",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Garalde"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "URW Studio"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "goudy",
+        "elegant",
+        "dynamic",
+        "old style serif",
+        "1910s",
+        "legible",
+        "american",
+        "balanced",
+        "valuable",
+        "graceful",
+        "sorts mill goudy",
+        "old-style"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/goudyoldstyle/regular",
+            "css": {
+                "font-family": "Goudy Old Style Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "835",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/goudyoldstyle/italic",
+            "css": {
+                "font-family": "Goudy Old Style Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "836",
+                "slug": "italic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/goudyoldstyle/bold",
+            "css": {
+                "font-family": "Goudy Old Style Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "833",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/goudyoldstyle/extrabold",
+            "css": {
+                "font-family": "Goudy Old Style Extra Bold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "834",
+                "slug": "extrabold",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "256",
+        "slug": "goudyoldstyle"
+    },
+    "generatedAt": 1437609093030
+}

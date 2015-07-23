@@ -1,0 +1,173 @@
+{
+    "name": "Hemingway Pro",
+    "url": "http://fontdeck.com/typeface/hemingwaypro",
+    "slug": "hemingwaypro",
+    "use": "heading",
+    "classification": [
+        "Script",
+        "Calligraphic",
+        "Sans Serif",
+        "Humanist"
+    ],
+    "foundry": "Red Rooster Collection",
+    "designer": [
+        "Alessandro Segalini"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "modern",
+        "initials",
+        "sharp",
+        "calligraphic",
+        "art deco",
+        "announcement",
+        "initial",
+        "paint",
+        "humanist",
+        "calligraphy"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/hemingwaypro/light",
+            "css": {
+                "font-family": "Hemingway Pro Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3185",
+                "slug": "light",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/hemingwaypro/lightitalic",
+            "css": {
+                "font-family": "Hemingway Pro Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3186",
+                "slug": "lightitalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Book",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/hemingwaypro/book",
+            "css": {
+                "font-family": "Hemingway Pro Book",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3187",
+                "slug": "book",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Book Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/hemingwaypro/bookitalic",
+            "css": {
+                "font-family": "Hemingway Pro Book Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3188",
+                "slug": "bookitalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/hemingwaypro/medium",
+            "css": {
+                "font-family": "Hemingway Pro Medium",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3179",
+                "slug": "medium",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/hemingwaypro/mediumitalic",
+            "css": {
+                "font-family": "Hemingway Pro Medium Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3181",
+                "slug": "mediumitalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/hemingwaypro/bold",
+            "css": {
+                "font-family": "Hemingway Pro Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3189",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/hemingwaypro/bolditalic",
+            "css": {
+                "font-family": "Hemingway Pro Bold  Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3190",
+                "slug": "bolditalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Deco Initials",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/hemingwaypro/decoinitials",
+            "css": {
+                "font-family": "Hemingway Pro Deco Initials",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3191",
+                "slug": "decoinitials",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "749",
+        "slug": "hemingwaypro"
+    },
+    "generatedAt": 1437609841137
+}

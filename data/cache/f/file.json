@@ -1,0 +1,47 @@
+{
+    "name": "File",
+    "url": "http://fontdeck.com/typeface/file",
+    "slug": "file",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Futuristic",
+        "Display",
+        "Computer-related"
+    ],
+    "foundry": "Fontfabric",
+    "designer": [
+        "Svetoslav Simov"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "heavy",
+        "futuristic",
+        "rounded",
+        "display"
+    ],
+    "variations": [
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/file/bold",
+            "css": {
+                "font-family": "File Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3276",
+                "slug": "bold",
+                "price": "$3.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "779",
+        "slug": "file"
+    },
+    "generatedAt": 1437609873295
+}

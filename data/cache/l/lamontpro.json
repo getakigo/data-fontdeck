@@ -1,0 +1,153 @@
+{
+    "name": "Lamont Pro",
+    "url": "http://fontdeck.com/typeface/lamontpro",
+    "slug": "lamontpro",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Michael Herold"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "versal",
+        "modern",
+        "elegant",
+        "economic",
+        "organic",
+        "legible",
+        "clear"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/lamontpro/light",
+            "css": {
+                "font-family": "Lamont Pro Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2572",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/lamontpro/lightitalic",
+            "css": {
+                "font-family": "Lamont Pro Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2576",
+                "slug": "lightitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/lamontpro/regular",
+            "css": {
+                "font-family": "Lamont Pro Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2573",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/lamontpro/italic",
+            "css": {
+                "font-family": "Lamont Pro Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2577",
+                "slug": "italic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/lamontpro/bold",
+            "css": {
+                "font-family": "Lamont Pro Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2575",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/lamontpro/bolditalic",
+            "css": {
+                "font-family": "Lamont Pro Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2579",
+                "slug": "bolditalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Demi",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/lamontpro/demi",
+            "css": {
+                "font-family": "Lamont Pro Demi",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2574",
+                "slug": "demi",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Demi Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/lamontpro/demiitalic",
+            "css": {
+                "font-family": "Lamont Pro Demi Italic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2578",
+                "slug": "demiitalic",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "622",
+        "slug": "lamontpro"
+    },
+    "generatedAt": 1437609584578
+}

@@ -1,0 +1,48 @@
+{
+    "name": "Val",
+    "url": "http://fontdeck.com/typeface/val",
+    "slug": "val",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "All caps",
+        "Display",
+        "Experimental"
+    ],
+    "foundry": "Fontfabric",
+    "designer": [
+        "Svetoslav Simov"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "bold",
+        "headline",
+        "display",
+        "rounded",
+        "round"
+    ],
+    "variations": [
+        {
+            "name": "Stencil",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/val/stencil",
+            "css": {
+                "font-family": "Val Stencil",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3291",
+                "slug": "stencil",
+                "price": "$3.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "788",
+        "slug": "val"
+    },
+    "generatedAt": 1437609889231
+}

@@ -1,0 +1,115 @@
+{
+    "name": "Aeronaut",
+    "url": "http://fontdeck.com/typeface/aeronaut",
+    "slug": "aeronaut",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Blackletter"
+    ],
+    "foundry": "FaceType",
+    "designer": [
+        "Georg Herold-Wildfellner"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "gothic",
+        "expressive",
+        "poetry",
+        "aeronaut",
+        "logo",
+        "music",
+        "1800s",
+        "magazine",
+        "antiqued",
+        "textura",
+        "edgy",
+        "blackletter",
+        "ligatures",
+        "curly",
+        "color",
+        "fashionable",
+        "exotic",
+        "ancient",
+        "headline",
+        "unusual",
+        "tattoos",
+        "heavy metal",
+        "wedding",
+        "invitation",
+        "narrow",
+        "church",
+        "biker",
+        "motorcycle",
+        "bastard",
+        "poster",
+        "decorative",
+        "initials",
+        "xmas",
+        "vintage",
+        "unique",
+        "germany",
+        "ornate",
+        "heavy",
+        "1900s",
+        "swash",
+        "german",
+        "ornamental",
+        "fraktur",
+        "flourishes"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/aeronaut/regular",
+            "css": {
+                "font-family": "Aeronaut Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5114",
+                "slug": "regular",
+                "price": "$12.25"
+            }
+        },
+        {
+            "name": "Base",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/aeronaut/base",
+            "css": {
+                "font-family": "Aeronaut Base",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5115",
+                "slug": "base",
+                "price": "$11.00"
+            }
+        },
+        {
+            "name": "Plain",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/aeronaut/plain",
+            "css": {
+                "font-family": "Aeronaut Plain",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5116",
+                "slug": "plain",
+                "price": "$12.25"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1215",
+        "slug": "aeronaut"
+    },
+    "generatedAt": 1437610614183
+}

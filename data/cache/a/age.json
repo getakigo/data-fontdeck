@@ -1,0 +1,49 @@
+{
+    "name": "Age",
+    "url": "http://fontdeck.com/typeface/age",
+    "slug": "age",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "All caps",
+        "Display",
+        "Futuristic"
+    ],
+    "foundry": "Fontfabric",
+    "designer": [
+        "Svetoslav Simov"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "futurism",
+        "headline",
+        "heavy",
+        "futuristic",
+        "display",
+        "clean"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/age/regular",
+            "css": {
+                "font-family": "Age Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3269",
+                "slug": "regular",
+                "price": "$3.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "775",
+        "slug": "age"
+    },
+    "generatedAt": 1437609863924
+}

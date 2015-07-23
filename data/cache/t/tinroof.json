@@ -1,0 +1,50 @@
+{
+    "name": "Tin Roof",
+    "url": "http://fontdeck.com/typeface/tinroof",
+    "slug": "tinroof",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "All caps",
+        "Display",
+        "Grunge"
+    ],
+    "foundry": "Veer",
+    "designer": [
+        "Jason Walcott"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "all capitals",
+        "condensed",
+        "eerie",
+        "scary",
+        "display",
+        "spooky",
+        "halloween"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/tinroof/regular",
+            "css": {
+                "font-family": "Tin Roof Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5041",
+                "slug": "regular",
+                "price": "$11.25"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1171",
+        "slug": "tinroof"
+    },
+    "generatedAt": 1437610505540
+}

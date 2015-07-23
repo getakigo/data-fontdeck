@@ -1,0 +1,88 @@
+{
+    "name": "Aviano Serif",
+    "url": "http://fontdeck.com/typeface/avianoserif",
+    "slug": "avianoserif",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Art Deco"
+    ],
+    "foundry": "Insigne",
+    "designer": [
+        "Jeremy Dooley"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "serif",
+        "aviano"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/avianoserif/light",
+            "css": {
+                "font-family": "Aviano Serif Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "506",
+                "slug": "light",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/avianoserif/regular",
+            "css": {
+                "font-family": "Aviano Serif Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "503",
+                "slug": "regular",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/avianoserif/bold",
+            "css": {
+                "font-family": "Aviano Serif Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "504",
+                "slug": "bold",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/avianoserif/black",
+            "css": {
+                "font-family": "Aviano Serif Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "505",
+                "slug": "black",
+                "price": "$7.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "201",
+        "slug": "avianoserif"
+    },
+    "generatedAt": 1437608997523
+}

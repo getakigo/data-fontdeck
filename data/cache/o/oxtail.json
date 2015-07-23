@@ -1,0 +1,128 @@
+{
+    "name": "Oxtail",
+    "url": "http://fontdeck.com/typeface/oxtail",
+    "slug": "oxtail",
+    "use": "body",
+    "classification": [
+        "Display",
+        "Slab serif",
+        "Slab Serif",
+        "Clarendon/Bracketed"
+    ],
+    "foundry": "MAC Rhino Fonts",
+    "designer": [
+        "Stefan Hattenbach"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "story",
+        "feminine",
+        "personal",
+        "egyptian",
+        "storybook",
+        "romantic",
+        "upright italic",
+        "clarendon",
+        "valentine",
+        "true italics"
+    ],
+    "variations": [
+        {
+            "name": "Medium",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/oxtail/medium",
+            "css": {
+                "font-family": "Oxtail Medium",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2511",
+                "slug": "medium",
+                "price": "$12.49"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/oxtail/mediumitalic",
+            "css": {
+                "font-family": "Oxtail Medium Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2512",
+                "slug": "mediumitalic",
+                "price": "$12.49"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/oxtail/bold",
+            "css": {
+                "font-family": "Oxtail Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2509",
+                "slug": "bold",
+                "price": "$12.49"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/oxtail/bolditalic",
+            "css": {
+                "font-family": "Oxtail Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2510",
+                "slug": "bolditalic",
+                "price": "$12.49"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/oxtail/black",
+            "css": {
+                "font-family": "Oxtail Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2507",
+                "slug": "black",
+                "price": "$12.49"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/oxtail/blackitalic",
+            "css": {
+                "font-family": "Oxtail Black Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2508",
+                "slug": "blackitalic",
+                "price": "$12.49"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "609",
+        "slug": "oxtail"
+    },
+    "generatedAt": 1437609556829
+}

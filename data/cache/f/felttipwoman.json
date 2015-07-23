@@ -1,0 +1,68 @@
+{
+    "name": "Felt Tip Woman",
+    "url": "http://fontdeck.com/typeface/felttipwoman",
+    "slug": "felttipwoman",
+    "superfamily": "Felt Tip",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Handwritten"
+    ],
+    "foundry": "Mark Simonson Studio",
+    "designer": [
+        "Mark Simonson"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "script",
+        "handwriting",
+        "felt tip",
+        "romantic",
+        "informal",
+        "valentine",
+        "fun",
+        "pen",
+        "superfamily",
+        "organic",
+        "wide"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/felttipwoman/regular",
+            "css": {
+                "font-family": "Felt Tip Woman Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1281",
+                "slug": "regular",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/felttipwoman/bold",
+            "css": {
+                "font-family": "Felt Tip Woman Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1282",
+                "slug": "bold",
+                "price": "$9.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "350",
+        "slug": "felttipwoman"
+    },
+    "generatedAt": 1437609204299
+}

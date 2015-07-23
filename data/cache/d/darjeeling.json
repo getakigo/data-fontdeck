@@ -1,0 +1,99 @@
+{
+    "name": "Darjeeling",
+    "url": "http://fontdeck.com/typeface/darjeeling",
+    "slug": "darjeeling",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Art Deco",
+        "Display",
+        "Sans serif"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Marcus Sterz"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "contrast",
+        "1910",
+        "text",
+        "britain",
+        "perfume",
+        "fun",
+        "contemporary",
+        "steampunk",
+        "humanist",
+        "magazine",
+        "sans",
+        "fin de siecle",
+        "lavish",
+        "capital",
+        "19th",
+        "india",
+        "british",
+        "ligatures",
+        "england",
+        "creative",
+        "literature",
+        "colonial",
+        "monogram",
+        "headline",
+        "display",
+        "century",
+        "wedding",
+        "bollywood",
+        "ornament",
+        "bodoni",
+        "invitation",
+        "london",
+        "classic",
+        "sans-serif",
+        "calcutta",
+        "sc",
+        "initial",
+        "fragrance",
+        "parfum",
+        "contextual",
+        "pure",
+        "poster",
+        "optima",
+        "celebration",
+        "decorative",
+        "elegant",
+        "history",
+        "1900",
+        "fashion",
+        "tea",
+        "vintage",
+        "small caps",
+        "retro",
+        "curry",
+        "elegance",
+        "flared"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/darjeeling/regular",
+            "css": {
+                "font-family": "Darjeeling Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5121",
+                "slug": "regular",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1218",
+        "slug": "darjeeling"
+    },
+    "generatedAt": 1437610573934
+}

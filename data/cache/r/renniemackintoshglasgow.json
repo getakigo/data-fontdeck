@@ -1,0 +1,89 @@
+{
+    "name": "Rennie Mackintosh Glasgow",
+    "url": "http://fontdeck.com/typeface/renniemackintoshglasgow",
+    "slug": "renniemackintoshglasgow",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Art Deco"
+    ],
+    "foundry": "CRM Font Company",
+    "designer": [
+        "George Grant"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "artdeco",
+        "arts and crafts",
+        "art deco"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/renniemackintoshglasgow/regular",
+            "css": {
+                "font-family": "RennieMackintoshGlasgowRegular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "652",
+                "slug": "regular",
+                "price": "$5.95"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/renniemackintoshglasgow/italic",
+            "css": {
+                "font-family": "RennieMackintoshGlasgowItalic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "653",
+                "slug": "italic",
+                "price": "$5.95"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/renniemackintoshglasgow/bold",
+            "css": {
+                "font-family": "Rennie Mackintosh Glasgow Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "654",
+                "slug": "bold",
+                "price": "$5.95"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/renniemackintoshglasgow/bolditalic",
+            "css": {
+                "font-family": "RenniMackintosGlasgoBolItali",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "655",
+                "slug": "bolditalic",
+                "price": "$5.95"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "221",
+        "slug": "renniemackintoshglasgow"
+    },
+    "generatedAt": 1437609036459
+}

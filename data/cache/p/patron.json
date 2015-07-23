@@ -1,0 +1,232 @@
+{
+    "name": "Patron",
+    "url": "http://fontdeck.com/typeface/patron",
+    "slug": "patron",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Neo-Grotesk",
+        "Sans Serif",
+        "Grotesque",
+        "Sans Serif",
+        "Humanist"
+    ],
+    "foundry": "Milieu Grotesque",
+    "designer": [
+        "Timo Gaessner"
+    ],
+    "opentype": [
+        "c2sc",
+        "calt",
+        "clig",
+        "hist",
+        "liga",
+        "lnum",
+        "onum",
+        "pnum",
+        "smcp",
+        "ss01",
+        "tnum"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "expressive",
+        "opentype",
+        "large x-height",
+        "grotesk",
+        "humanistic",
+        "humanistic sans",
+        "sans serif",
+        "grotesk family",
+        "wide"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/patron/thin",
+            "css": {
+                "font-family": "Patron Thin",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7974",
+                "slug": "thin",
+                "price": "$20.00"
+            }
+        },
+        {
+            "name": "Thin Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/patron/thinitalic",
+            "css": {
+                "font-family": "Patron Thin Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7975",
+                "slug": "thinitalic",
+                "price": "$20.00"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/patron/light",
+            "css": {
+                "font-family": "Patron Light",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7976",
+                "slug": "light",
+                "price": "$20.00"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i3",
+            "url": "http://fontdeck.com/font/patron/lightitalic",
+            "css": {
+                "font-family": "Patron Light Italic",
+                "font-weight": "300",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7977",
+                "slug": "lightitalic",
+                "price": "$20.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/patron/regular",
+            "css": {
+                "font-family": "Patron Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7978",
+                "slug": "regular",
+                "price": "$20.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/patron/italic",
+            "css": {
+                "font-family": "Patron Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7979",
+                "slug": "italic",
+                "price": "$20.00"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/patron/medium",
+            "css": {
+                "font-family": "Patron Medium",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7980",
+                "slug": "medium",
+                "price": "$20.00"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/patron/mediumitalic",
+            "css": {
+                "font-family": "Patron Medium Italic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7981",
+                "slug": "mediumitalic",
+                "price": "$20.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/patron/bold",
+            "css": {
+                "font-family": "Patron Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7982",
+                "slug": "bold",
+                "price": "$20.00"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/patron/bolditalic",
+            "css": {
+                "font-family": "Patron Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7983",
+                "slug": "bolditalic",
+                "price": "$20.00"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/patron/black",
+            "css": {
+                "font-family": "Patron Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7984",
+                "slug": "black",
+                "price": "$20.00"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/patron/blackitalic",
+            "css": {
+                "font-family": "Patron Black Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7985",
+                "slug": "blackitalic",
+                "price": "$20.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1834",
+        "slug": "patron"
+    },
+    "generatedAt": 1437611369208
+}

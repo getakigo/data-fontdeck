@@ -1,0 +1,316 @@
+{
+    "name": "Allumi Std",
+    "url": "http://fontdeck.com/typeface/allumistd",
+    "slug": "allumistd",
+    "use": "heading",
+    "classification": [
+        "Symbols",
+        "Dingbats",
+        "Display",
+        "Sans serif",
+        "Display",
+        "Futuristic",
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "Typofonderie",
+    "designer": [
+        "Jean François Porchez"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "modern",
+        "simple",
+        "techno",
+        "publishing",
+        "design",
+        "legible",
+        "squared",
+        "identity",
+        "extended",
+        "branding",
+        "newspaper",
+        "contemporary",
+        "display",
+        "magazine"
+    ],
+    "variations": [
+        {
+            "name": "Extra-light",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/allumistd/extralight",
+            "css": {
+                "font-family": "Allumi Std Extra Light",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8787",
+                "slug": "extralight",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Extra-light Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/allumistd/extralightitalic",
+            "css": {
+                "font-family": "Allumi Std Extra Light Italic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8788",
+                "slug": "extralightitalic",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/allumistd/light",
+            "css": {
+                "font-family": "Allumi Std Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8789",
+                "slug": "light",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/allumistd/lightitalic",
+            "css": {
+                "font-family": "Allumi Std Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8790",
+                "slug": "lightitalic",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Book",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/allumistd/book",
+            "css": {
+                "font-family": "Allumi Std Book",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8793",
+                "slug": "book",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Book Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/allumistd/bookitalic",
+            "css": {
+                "font-family": "Allumi Std Book Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8731",
+                "slug": "bookitalic",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/allumistd/regular",
+            "css": {
+                "font-family": "Allumi Std Regular",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8791",
+                "slug": "regular",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i3",
+            "url": "http://fontdeck.com/font/allumistd/italic",
+            "css": {
+                "font-family": "Allumi Std Italic",
+                "font-weight": "300",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8792",
+                "slug": "italic",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/allumistd/bold",
+            "css": {
+                "font-family": "Allumi Std Bold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8796",
+                "slug": "bold",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/allumistd/bolditalic",
+            "css": {
+                "font-family": "Allumi Std Bold Italic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8797",
+                "slug": "bolditalic",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/allumistd/extrabold",
+            "css": {
+                "font-family": "Allumi Std Extra Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8798",
+                "slug": "extrabold",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Extra-bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/allumistd/extrabolditalic",
+            "css": {
+                "font-family": "Allumi Std Extra Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8799",
+                "slug": "extrabolditalic",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/allumistd/heavy",
+            "css": {
+                "font-family": "Allumi Std Heavy",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8800",
+                "slug": "heavy",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Heavy Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/allumistd/heavyitalic",
+            "css": {
+                "font-family": "Allumi Std Heavy Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8801",
+                "slug": "heavyitalic",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/allumistd/black",
+            "css": {
+                "font-family": "Allumi Std Black",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8802",
+                "slug": "black",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/allumistd/blackitalic",
+            "css": {
+                "font-family": "Allumi Std Black Italic",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8803",
+                "slug": "blackitalic",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Demi",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/allumistd/demi",
+            "css": {
+                "font-family": "Allumi Std Demi",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8794",
+                "slug": "demi",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Demi Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/allumistd/demiitalic",
+            "css": {
+                "font-family": "Allumi Std Demi Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8795",
+                "slug": "demiitalic",
+                "price": "$26.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1917",
+        "slug": "allumistd"
+    },
+    "generatedAt": 1437611455488
+}

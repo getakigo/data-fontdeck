@@ -1,0 +1,120 @@
+{
+    "name": "JP Special Sans",
+    "url": "http://fontdeck.com/typeface/jpspecialsans",
+    "slug": "jpspecialsans",
+    "superfamily": "Jp Special",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "Playtype",
+    "designer": [
+        "Jonas Hecksher"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "square",
+        "non-grotesque",
+        "sans"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/jpspecialsans/light",
+            "css": {
+                "font-family": "JP Special Sans Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6870",
+                "slug": "light",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/jpspecialsans/regular",
+            "css": {
+                "font-family": "JP Special Sans Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6866",
+                "slug": "regular",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/jpspecialsans/semibold",
+            "css": {
+                "font-family": "JP Special Sans Semi Bold",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6868",
+                "slug": "semibold",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/jpspecialsans/bold",
+            "css": {
+                "font-family": "JP Special Sans Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6867",
+                "slug": "bold",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/jpspecialsans/heavy",
+            "css": {
+                "font-family": "JP Special Sans Heavy",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6869",
+                "slug": "heavy",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Poster",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/jpspecialsans/poster",
+            "css": {
+                "font-family": "JP Special Sans Poster",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6871",
+                "slug": "poster",
+                "price": "$45.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1570",
+        "slug": "jpspecialsans"
+    },
+    "generatedAt": 1437611019932
+}

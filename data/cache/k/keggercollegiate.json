@@ -1,0 +1,42 @@
+{
+    "name": "Kegger Collegiate",
+    "url": "http://fontdeck.com/typeface/keggercollegiate",
+    "slug": "keggercollegiate",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Slab serif"
+    ],
+    "foundry": "Chank Co",
+    "designer": [
+        "Chank Diesel"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "college"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/keggercollegiate/regular",
+            "css": {
+                "font-family": "Kegger Collegiate Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "466",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "188",
+        "slug": "keggercollegiate"
+    },
+    "generatedAt": 1437608979607
+}

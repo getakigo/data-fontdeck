@@ -1,0 +1,48 @@
+{
+    "name": "Medusa",
+    "url": "http://fontdeck.com/typeface/medusa",
+    "slug": "medusa",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Formal"
+    ],
+    "foundry": "ReType",
+    "designer": [
+        "Ramiro Espinoza"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "spencerian",
+        "script",
+        "19th century",
+        "women",
+        "copperplate",
+        "fashion",
+        "formal elegant"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/medusa/regular",
+            "css": {
+                "font-family": "Medusa Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6446",
+                "slug": "regular",
+                "price": "$16.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1469",
+        "slug": "medusa"
+    },
+    "generatedAt": 1437610900376
+}

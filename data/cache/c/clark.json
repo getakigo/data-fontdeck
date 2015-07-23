@@ -1,0 +1,68 @@
+{
+    "name": "Clark",
+    "url": "http://fontdeck.com/typeface/clark",
+    "slug": "clark",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif"
+    ],
+    "foundry": "Typemade",
+    "designer": [
+        "Santiago Orozco"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "headlines",
+        "feminine",
+        "simple",
+        "cute",
+        "avant garde",
+        "fancy",
+        "experimental",
+        "neo-grotesk",
+        "minimal",
+        "sans",
+        "sophisticated",
+        "decorative",
+        "elegant",
+        "cool",
+        "fashionable",
+        "fashion",
+        "calligraphic",
+        "hairline",
+        "chic",
+        "identity",
+        "fresh",
+        "editorial",
+        "hybrid",
+        "thin",
+        "clean",
+        "display",
+        "organic"
+    ],
+    "variations": [
+        {
+            "name": "Hairline",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/clark/hairline",
+            "css": {
+                "font-family": "Clark Hairline",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3203",
+                "slug": "hairline",
+                "price": "$50.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "755",
+        "slug": "clark"
+    },
+    "generatedAt": 1437609853677
+}

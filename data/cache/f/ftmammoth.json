@@ -1,0 +1,45 @@
+{
+    "name": "FT Mammoth",
+    "url": "http://fontdeck.com/typeface/ftmammoth",
+    "slug": "ftmammoth",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif"
+    ],
+    "foundry": "Fenotype",
+    "designer": [
+        "Emil Bertell"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "all caps",
+        "bold",
+        "heavy",
+        "sans serif"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/ftmammoth/regular",
+            "css": {
+                "font-family": "FT Mammoth Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2426",
+                "slug": "regular",
+                "price": "$8.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "589",
+        "slug": "ftmammoth"
+    },
+    "generatedAt": 1437609508685
+}

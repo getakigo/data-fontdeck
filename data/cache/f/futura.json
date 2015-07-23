@@ -1,0 +1,216 @@
+{
+    "name": "Futura",
+    "url": "http://fontdeck.com/typeface/futura",
+    "slug": "futura",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "Neufville Digital",
+    "designer": [
+        "Paul Renner"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "formal",
+        "1920s",
+        "technical",
+        "geometric",
+        "legible",
+        "masculine",
+        "german",
+        "bauhaus",
+        "modest",
+        "futura"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/futura/light",
+            "css": {
+                "font-family": "Futura Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "392",
+                "slug": "light",
+                "price": "$45.25"
+            }
+        },
+        {
+            "name": "Light Oblique",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/futura/lightoblique",
+            "css": {
+                "font-family": "Futura Light Oblique",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "711",
+                "slug": "lightoblique",
+                "price": "$45.25"
+            }
+        },
+        {
+            "name": "Book",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/futura/book",
+            "css": {
+                "font-family": "Futura Book",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "393",
+                "slug": "book",
+                "price": "$45.25"
+            }
+        },
+        {
+            "name": "Book Oblique",
+            "description": "i3",
+            "url": "http://fontdeck.com/font/futura/bookoblique",
+            "css": {
+                "font-family": "Futura Book Oblique",
+                "font-weight": "300",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2165",
+                "slug": "bookoblique",
+                "price": "$45.25"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/futura/medium",
+            "css": {
+                "font-family": "Futura Medium",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "389",
+                "slug": "medium",
+                "price": "$45.25"
+            }
+        },
+        {
+            "name": "Medium Oblique",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/futura/mediumoblique",
+            "css": {
+                "font-family": "Futura Medium Oblique",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "712",
+                "slug": "mediumoblique",
+                "price": "$45.25"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/futura/bold",
+            "css": {
+                "font-family": "Futura Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "391",
+                "slug": "bold",
+                "price": "$45.25"
+            }
+        },
+        {
+            "name": "Bold Oblique",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/futura/boldoblique",
+            "css": {
+                "font-family": "Futura Bold Oblique",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "709",
+                "slug": "boldoblique",
+                "price": "$45.25"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/futura/extrabold",
+            "css": {
+                "font-family": "Futura Extra Bold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "388",
+                "slug": "extrabold",
+                "price": "$45.25"
+            }
+        },
+        {
+            "name": "Extra-bold Oblique",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/futura/extraboldoblique",
+            "css": {
+                "font-family": "Futura Extra Bold Oblique",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "717",
+                "slug": "extraboldoblique",
+                "price": "$45.25"
+            }
+        },
+        {
+            "name": "Demi Bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/futura/demibold",
+            "css": {
+                "font-family": "Futura Demi Bold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "386",
+                "slug": "demibold",
+                "price": "$45.25"
+            }
+        },
+        {
+            "name": "Demi Bold Oblique",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/futura/demiboldoblique",
+            "css": {
+                "font-family": "Futura Demi Bold Oblique",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "710",
+                "slug": "demiboldoblique",
+                "price": "$45.25"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "162",
+        "slug": "futura"
+    },
+    "generatedAt": 1437608947108
+}

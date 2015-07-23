@@ -1,0 +1,121 @@
+{
+    "name": "Ambroise Firmin Std",
+    "url": "http://fontdeck.com/typeface/ambroisefirminstd",
+    "slug": "ambroisefirminstd",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Didone",
+        "Serif",
+        "French",
+        "Display",
+        "Poster",
+        "Serif",
+        "Modern",
+        "Serif",
+        "Neo-classical",
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "Typofonderie",
+    "designer": [
+        "Jean François Porchez"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "narrow",
+        "condensed",
+        "publishing",
+        "design",
+        "identity",
+        "branding",
+        "headline",
+        "newspaper",
+        "display",
+        "magazine"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/ambroisefirminstd/light",
+            "css": {
+                "font-family": "Ambroise Firmin Std Light",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8778",
+                "slug": "light",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/ambroisefirminstd/regular",
+            "css": {
+                "font-family": "Ambroise Firmin Std Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8779",
+                "slug": "regular",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/ambroisefirminstd/bold",
+            "css": {
+                "font-family": "Ambroise Firmin Std Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8781",
+                "slug": "bold",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/ambroisefirminstd/black",
+            "css": {
+                "font-family": "Ambroise Firmin Std Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8782",
+                "slug": "black",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Demi",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/ambroisefirminstd/demi",
+            "css": {
+                "font-family": "Ambroise Firmin Std Demi",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8780",
+                "slug": "demi",
+                "price": "$26.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "2001",
+        "slug": "ambroisefirminstd"
+    },
+    "generatedAt": 1437611554644
+}

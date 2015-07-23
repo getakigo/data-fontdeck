@@ -1,0 +1,53 @@
+{
+    "name": "Horrorama",
+    "url": "http://fontdeck.com/typeface/horrorama",
+    "slug": "horrorama",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Grunge",
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "Tour de Force",
+    "designer": [
+        "Dušan Jelesijević"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "grunge",
+        "decorative",
+        "all caps",
+        "title",
+        "horror",
+        "b-movies",
+        "rough",
+        "headline",
+        "display",
+        "poster"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/horrorama/regular",
+            "css": {
+                "font-family": "Horrorama Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1138",
+                "slug": "regular",
+                "price": "$7.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "312",
+        "slug": "horrorama"
+    },
+    "generatedAt": 1437609184210
+}

@@ -1,0 +1,335 @@
+{
+    "name": "Gunar",
+    "url": "http://fontdeck.com/typeface/gunar",
+    "slug": "gunar",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "The Northern Block",
+    "designer": [
+        "Jonathan Hill"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "technical",
+        "geometric",
+        "text",
+        "linear",
+        "strong",
+        "functional",
+        "contemporary",
+        "magazine",
+        "news",
+        "minimal",
+        "modern",
+        "business",
+        "european",
+        "tough",
+        "branding",
+        "headline",
+        "information",
+        "true italic",
+        "techno",
+        "legible",
+        "brochure",
+        "authority",
+        "poster",
+        "eurostile",
+        "industrial",
+        "neutral",
+        "cool",
+        "fashion",
+        "communication",
+        "identity",
+        "editorial",
+        "square",
+        "corporate",
+        "sans serif",
+        "german",
+        "futuristic",
+        "screen",
+        "sport",
+        "clean"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/gunar/thin",
+            "css": {
+                "font-family": "Gunar Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7160",
+                "slug": "thin",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Thin Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/gunar/thinitalic",
+            "css": {
+                "font-family": "Gunar Thin Italic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7169",
+                "slug": "thinitalic",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/gunar/light",
+            "css": {
+                "font-family": "Gunar Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7161",
+                "slug": "light",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/gunar/lightitalic",
+            "css": {
+                "font-family": "Gunar Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7170",
+                "slug": "lightitalic",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/gunar/regular",
+            "css": {
+                "font-family": "Gunar Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7162",
+                "slug": "regular",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/gunar/italic",
+            "css": {
+                "font-family": "Gunar Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7171",
+                "slug": "italic",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/gunar/medium",
+            "css": {
+                "font-family": "Gunar Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7163",
+                "slug": "medium",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/gunar/mediumitalic",
+            "css": {
+                "font-family": "Gunar Medium Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7172",
+                "slug": "mediumitalic",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/gunar/bold",
+            "css": {
+                "font-family": "Gunar Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7165",
+                "slug": "bold",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/gunar/bolditalic",
+            "css": {
+                "font-family": "Gunar Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7174",
+                "slug": "bolditalic",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/gunar/extrabold",
+            "css": {
+                "font-family": "Gunar ExtraBold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7166",
+                "slug": "extrabold",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Extra-bold Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/gunar/extrabolditalic",
+            "css": {
+                "font-family": "Gunar ExtraBold Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7175",
+                "slug": "extrabolditalic",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/gunar/heavy",
+            "css": {
+                "font-family": "Gunar Heavy",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7167",
+                "slug": "heavy",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Heavy Italic",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/gunar/heavyitalic",
+            "css": {
+                "font-family": "Gunar Heavy Italic",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7176",
+                "slug": "heavyitalic",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/gunar/black",
+            "css": {
+                "font-family": "Gunar Black",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7168",
+                "slug": "black",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/gunar/blackitalic",
+            "css": {
+                "font-family": "Gunar Black Italic",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7177",
+                "slug": "blackitalic",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "DemiBold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/gunar/demibold",
+            "css": {
+                "font-family": "Gunar DemiBold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7164",
+                "slug": "demibold",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "DemiBold Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/gunar/demibolditalic",
+            "css": {
+                "font-family": "Gunar DemiBold Italic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7173",
+                "slug": "demibolditalic",
+                "price": "$9.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1681",
+        "slug": "gunar"
+    },
+    "generatedAt": 1437611118309
+}

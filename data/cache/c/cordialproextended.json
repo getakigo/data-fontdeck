@@ -1,0 +1,113 @@
+{
+    "name": "Cordial Pro Extended",
+    "url": "http://fontdeck.com/typeface/cordialproextended",
+    "slug": "cordialproextended",
+    "superfamily": "Cordial Pro",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "All caps",
+        "Display",
+        "Art Deco",
+        "Display",
+        "Sans serif"
+    ],
+    "foundry": "Riccardo Olocco Typographic Design",
+    "designer": [
+        "Riccardo Olocco"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "all caps",
+        "elegant",
+        "cordial",
+        "italian",
+        "art deco",
+        "extended",
+        "superfamily"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/cordialproextended/light",
+            "css": {
+                "font-family": "Cordial Pro Extended Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2275",
+                "slug": "light",
+                "price": "$11.99"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/cordialproextended/regular",
+            "css": {
+                "font-family": "Cordial Pro Extended Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2277",
+                "slug": "regular",
+                "price": "$11.99"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/cordialproextended/medium",
+            "css": {
+                "font-family": "Cordial Pro Extended Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2276",
+                "slug": "medium",
+                "price": "$11.99"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/cordialproextended/semibold",
+            "css": {
+                "font-family": "Cordial Pro Extended Semi Bold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2278",
+                "slug": "semibold",
+                "price": "$11.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/cordialproextended/bold",
+            "css": {
+                "font-family": "Cordial Pro Extended Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2274",
+                "slug": "bold",
+                "price": "$11.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "558",
+        "slug": "cordialproextended"
+    },
+    "generatedAt": 1437609441581
+}

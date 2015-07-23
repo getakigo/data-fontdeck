@@ -1,0 +1,122 @@
+{
+    "name": "EuroSans Pro",
+    "url": "http://fontdeck.com/typeface/eurosanspro",
+    "slug": "eurosanspro",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Neo-Grotesk"
+    ],
+    "foundry": "profonts",
+    "designer": [
+        "Ralph Unger",
+        "profonts"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "modern",
+        "sans serif",
+        "2000s",
+        "german",
+        "21st century"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/eurosanspro/light",
+            "css": {
+                "font-family": "EuroSans Pro Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3459",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light Oblique",
+            "description": "o2",
+            "url": "http://fontdeck.com/font/eurosanspro/lightoblique",
+            "css": {
+                "font-family": "EuroSans Pro Light Oblique",
+                "font-weight": "200",
+                "font-style": "oblique"
+            },
+            "fontdeck": {
+                "id": "3461",
+                "slug": "lightoblique",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/eurosanspro/regular",
+            "css": {
+                "font-family": "EuroSans Pro Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3458",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Oblique",
+            "description": "o4",
+            "url": "http://fontdeck.com/font/eurosanspro/oblique",
+            "css": {
+                "font-family": "EuroSans Pro Oblique",
+                "font-weight": "400",
+                "font-style": "oblique"
+            },
+            "fontdeck": {
+                "id": "3462",
+                "slug": "oblique",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/eurosanspro/bold",
+            "css": {
+                "font-family": "EuroSans Pro Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3460",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Oblique",
+            "description": "o7",
+            "url": "http://fontdeck.com/font/eurosanspro/boldoblique",
+            "css": {
+                "font-family": "EuroSans Pro Bold Oblique",
+                "font-weight": "700",
+                "font-style": "oblique"
+            },
+            "fontdeck": {
+                "id": "3463",
+                "slug": "boldoblique",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "843",
+        "slug": "eurosanspro"
+    },
+    "generatedAt": 1437609975598
+}

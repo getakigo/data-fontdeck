@@ -1,0 +1,105 @@
+{
+    "name": "Satura Parts",
+    "url": "http://fontdeck.com/typeface/saturaparts",
+    "slug": "saturaparts",
+    "superfamily": "Satura",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Stencil"
+    ],
+    "foundry": "Letters from Sweden",
+    "designer": [
+        "Göran Söderström",
+        "Peter Bruhn"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "advertising",
+        "warm",
+        "series",
+        "geometric",
+        "text",
+        "contemporary",
+        "magazine",
+        "sans",
+        "modern",
+        "headline",
+        "unusual",
+        "display",
+        "suite",
+        "stencil",
+        "core",
+        "rare",
+        "layering",
+        "classic",
+        "sans-serif",
+        "legible",
+        "line",
+        "super family",
+        "true italics",
+        "lineal",
+        "poster",
+        "spurless",
+        "decorative",
+        "reverse contrast",
+        "unique",
+        "sans serif",
+        "thin",
+        "clean"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/saturaparts/regular",
+            "css": {
+                "font-family": "Satura Parts Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4470",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/saturaparts/medium",
+            "css": {
+                "font-family": "Satura Parts Medium",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4471",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/saturaparts/bold",
+            "css": {
+                "font-family": "Satura Parts Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4472",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1052",
+        "slug": "saturaparts"
+    },
+    "generatedAt": 1437610699823
+}

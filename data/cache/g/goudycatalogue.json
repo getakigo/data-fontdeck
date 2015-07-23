@@ -1,0 +1,87 @@
+{
+    "name": "Goudy Catalogue",
+    "url": "http://fontdeck.com/typeface/goudycatalogue",
+    "slug": "goudycatalogue",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Garalde"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Frederic William Goudy",
+        "Morris Fuller Benton"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "serif",
+        "elegant",
+        "1920s",
+        "old style",
+        "dynamic",
+        "venetian",
+        "1910s",
+        "legible",
+        "informal",
+        "american",
+        "masculine",
+        "complex",
+        "garalde",
+        "valuable",
+        "natural"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/goudycatalogue/regular",
+            "css": {
+                "font-family": "Goudy Catalogue Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2064",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/goudycatalogue/italic",
+            "css": {
+                "font-family": "Goudy Catalogue Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2065",
+                "slug": "italic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Small Caps",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/goudycatalogue/smallcaps",
+            "css": {
+                "font-family": "Goudy Catalogue Small Caps",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2066",
+                "slug": "smallcaps",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "523",
+        "slug": "goudycatalogue"
+    },
+    "generatedAt": 1437609389771
+}

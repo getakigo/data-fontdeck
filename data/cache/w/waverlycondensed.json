@@ -1,0 +1,122 @@
+{
+    "name": "Waverly Condensed",
+    "url": "http://fontdeck.com/typeface/waverlycondensed",
+    "slug": "waverlycondensed",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Serif",
+        "Serif",
+        "Garalde"
+    ],
+    "foundry": "Red Rooster Collection",
+    "designer": [
+        "Leslie Usherwood",
+        "Steve Jackaman"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "formal",
+        "serif",
+        "condensed",
+        "correspondence",
+        "fancy",
+        "baroque",
+        "magazine",
+        "sophisticated",
+        "inscribed",
+        "french",
+        "menus",
+        "renaissance",
+        "greek",
+        "transitional",
+        "narrow",
+        "english",
+        "venetian",
+        "legible",
+        "american",
+        "garalde",
+        "roman",
+        "elegant",
+        "old style",
+        "italian",
+        "money",
+        "office",
+        "delicate",
+        "signage",
+        "corporate",
+        "graceful",
+        "conservative",
+        "clean",
+        "wide"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/waverlycondensed/light",
+            "css": {
+                "font-family": "Waverly Condensed Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4276",
+                "slug": "light",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/waverlycondensed/medium",
+            "css": {
+                "font-family": "Waverly Condensed Medium",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4277",
+                "slug": "medium",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/waverlycondensed/bold",
+            "css": {
+                "font-family": "Waverly Condensed Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4278",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/waverlycondensed/extrabold",
+            "css": {
+                "font-family": "Waverly Condensed Extra Bold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4275",
+                "slug": "extrabold",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1002",
+        "slug": "waverlycondensed"
+    },
+    "generatedAt": 1437610282393
+}

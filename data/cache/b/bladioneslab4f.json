@@ -1,0 +1,132 @@
+{
+    "name": "Bladi One Slab 4F",
+    "url": "http://fontdeck.com/typeface/bladioneslab4f",
+    "slug": "bladioneslab4f",
+    "use": "body",
+    "classification": [
+        "Display",
+        "Slab serif",
+        "Slab Serif",
+        "Grotesque/Geometric",
+        "Display",
+        "Serif",
+        "Display",
+        "Poster",
+        "Display",
+        "Decorative",
+        "Slab Serif",
+        "Dynamic",
+        "Display",
+        "Geometric",
+        "Display",
+        "All caps",
+        "Slab Serif",
+        "Egyptian"
+    ],
+    "foundry": "4th february",
+    "designer": [
+        "Sergiy S. Tkachenko"
+    ],
+    "language": [
+        "latin",
+        "cyrillic"
+    ],
+    "tags": [],
+    "variations": [
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/bladioneslab4f/bold",
+            "css": {
+                "font-family": "Bladi One Slab 4F Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3856",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/bladioneslab4f/bolditalic",
+            "css": {
+                "font-family": "Bladi One Slab 4F Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3857",
+                "slug": "bolditalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Heavy Italic",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/bladioneslab4f/heavyitalic",
+            "css": {
+                "font-family": "Bladi One Slab 4F Heavy Italic",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3859",
+                "slug": "heavyitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/bladioneslab4f/heavy",
+            "css": {
+                "font-family": "Bladi One Slab 4F Heavy",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3858",
+                "slug": "heavy",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Wide Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/bladioneslab4f/widebold",
+            "css": {
+                "font-family": "Bladi One Slab 4F Wide Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3860",
+                "slug": "widebold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Wide Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/bladioneslab4f/widebolditalic",
+            "css": {
+                "font-family": "BladiOneSlab4FWideBoldItalic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3861",
+                "slug": "widebolditalic",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "913",
+        "slug": "bladioneslab4f"
+    },
+    "generatedAt": 1437610113150
+}

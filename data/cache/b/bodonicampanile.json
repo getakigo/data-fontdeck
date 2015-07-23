@@ -1,0 +1,84 @@
+{
+    "name": "Bodoni Campanile",
+    "url": "http://fontdeck.com/typeface/bodonicampanile",
+    "slug": "bodonicampanile",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Fat Face"
+    ],
+    "foundry": "Red Rooster Collection",
+    "designer": [
+        "Robert Hunter Middleton"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "sensible",
+        "formal",
+        "poetry",
+        "serif",
+        "1920s",
+        "condensed",
+        "diploma",
+        "logo",
+        "linear",
+        "music",
+        "mechanical",
+        "art nouveau",
+        "1800s",
+        "magazine",
+        "news",
+        "sophisticated",
+        "modern",
+        "fashionable",
+        "art deco",
+        "headline",
+        "1700s",
+        "valuable",
+        "transitional",
+        "cosmopolitan",
+        "static",
+        "feminine",
+        "bodoni",
+        "narrow",
+        "english",
+        "didone",
+        "poster",
+        "economic",
+        "certificate",
+        "decorative",
+        "neutral",
+        "1930s",
+        "elegant",
+        "italian",
+        "industry",
+        "vintage",
+        "movie credits",
+        "1900s",
+        "conservative"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/bodonicampanile/regular",
+            "css": {
+                "font-family": "Bodoni Campanile Regular",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4228",
+                "slug": "regular",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "993",
+        "slug": "bodonicampanile"
+    },
+    "generatedAt": 1437610258168
+}

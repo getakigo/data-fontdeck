@@ -1,0 +1,56 @@
+{
+    "name": "Castledown Dotted",
+    "url": "http://fontdeck.com/typeface/castledowndotted",
+    "slug": "castledowndotted",
+    "superfamily": "Castledown",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "Colophon",
+    "designer": [
+        "Edd Harrington",
+        "Anthony Sheret"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "accessible",
+        "education",
+        "school",
+        "dotted",
+        "legible",
+        "clear",
+        "children",
+        "friendly",
+        "open",
+        "readable",
+        "superfamily",
+        "easy to read",
+        "dot matrix"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/castledowndotted/regular",
+            "css": {
+                "font-family": "Castledown Dotted Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7944",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1828",
+        "slug": "castledowndotted"
+    },
+    "generatedAt": 1437611355020
+}

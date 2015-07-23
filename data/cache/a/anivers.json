@@ -1,0 +1,90 @@
+{
+    "name": "Anivers",
+    "url": "http://fontdeck.com/typeface/anivers",
+    "slug": "anivers",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Hybrid"
+    ],
+    "foundry": "Exljbris",
+    "designer": [
+        "Jos Buivenga"
+    ],
+    "opentype": [
+        "liga"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "opentype"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/anivers/regular",
+            "css": {
+                "font-family": "Anivers Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "92",
+                "slug": "regular",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/anivers/italic",
+            "css": {
+                "font-family": "Anivers Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "543",
+                "slug": "italic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/anivers/bold",
+            "css": {
+                "font-family": "Anivers Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "542",
+                "slug": "bold",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Small Caps",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/anivers/smallcaps",
+            "css": {
+                "font-family": "Anivers Small Caps",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "544",
+                "slug": "smallcaps",
+                "price": "$7.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "30",
+        "slug": "anivers"
+    },
+    "generatedAt": 1437608885906
+}

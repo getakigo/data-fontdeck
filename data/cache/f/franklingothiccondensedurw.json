@@ -1,0 +1,160 @@
+{
+    "name": "Franklin Gothic Condensed URW",
+    "url": "http://fontdeck.com/typeface/franklingothiccondensedurw",
+    "slug": "franklingothiccondensedurw",
+    "superfamily": "Franklin Gothic",
+    "use": "body",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Sans Serif",
+        "Gothic"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "URW Studio",
+        "Morris Fuller Benton"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "headlines",
+        "gothic",
+        "narrow",
+        "realist",
+        "condensed",
+        "linear",
+        "super family",
+        "linear sans",
+        "transitional",
+        "economical"
+    ],
+    "variations": [
+        {
+            "name": "Book",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/franklingothiccondensedurw/book",
+            "css": {
+                "font-family": "FranklinGothicCondensedURWBook",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4082",
+                "slug": "book",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Book Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/franklingothiccondensedurw/bookitalic",
+            "css": {
+                "font-family": "FrankliGothiCondenseURBooItali",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4085",
+                "slug": "bookitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/franklingothiccondensedurw/medium",
+            "css": {
+                "font-family": "FrankliGothiCondenseURMediu",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4083",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/franklingothiccondensedurw/mediumitalic",
+            "css": {
+                "font-family": "FranklGothCondensUMediItal",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4087",
+                "slug": "mediumitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Small Caps Book",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/franklingothiccondensedurw/smallcapsbook",
+            "css": {
+                "font-family": "FranklGothCondensUSmaCaBo",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4088",
+                "slug": "smallcapsbook",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Small Caps Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/franklingothiccondensedurw/smallcapsmedium",
+            "css": {
+                "font-family": "FranklGothCondensUSmaCaMedi",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4089",
+                "slug": "smallcapsmedium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Demi Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/franklingothiccondensedurw/demibold",
+            "css": {
+                "font-family": "FrankliGothiCondenseURDemBol",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4084",
+                "slug": "demibold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Demi Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/franklingothiccondensedurw/demibolditalic",
+            "css": {
+                "font-family": "FranklGothCondensUDeBoItal",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4086",
+                "slug": "demibolditalic",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "966",
+        "slug": "franklingothiccondensedurw"
+    },
+    "generatedAt": 1437610210181
+}

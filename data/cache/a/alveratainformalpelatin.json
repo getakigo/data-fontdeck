@@ -1,0 +1,136 @@
+{
+    "name": "Alverata Informal PE Latin",
+    "url": "http://fontdeck.com/typeface/alveratainformalpelatin",
+    "slug": "alveratainformalpelatin",
+    "superfamily": "Alverata",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Sans Serif",
+        "Glyphic"
+    ],
+    "foundry": "TypeTogether",
+    "designer": [
+        "Gerard Unger"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "attractive",
+        "formal",
+        "robust",
+        "glyphic",
+        "legible",
+        "informal",
+        "romanesque",
+        "insular",
+        "friendly",
+        "open",
+        "contemporary",
+        "refined",
+        "medieval",
+        "harmonious",
+        "european",
+        "lively",
+        "superfamily"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/alveratainformalpelatin/light",
+            "css": {
+                "font-family": "AlverataInformalPELatinLight",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7722",
+                "slug": "light",
+                "price": "$15.49"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/alveratainformalpelatin/regular",
+            "css": {
+                "font-family": "AlverataInformalPELatinRegular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7724",
+                "slug": "regular",
+                "price": "$15.49"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/alveratainformalpelatin/medium",
+            "css": {
+                "font-family": "AlverataInformalPELatinMedium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7723",
+                "slug": "medium",
+                "price": "$15.49"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/alveratainformalpelatin/semibold",
+            "css": {
+                "font-family": "AlverataInformalPELatinSemibold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7725",
+                "slug": "semibold",
+                "price": "$15.49"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/alveratainformalpelatin/bold",
+            "css": {
+                "font-family": "Alverata Informal PE Latin Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7721",
+                "slug": "bold",
+                "price": "$15.49"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/alveratainformalpelatin/black",
+            "css": {
+                "font-family": "AlverataInformalPELatinBlack",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7726",
+                "slug": "black",
+                "price": "$15.49"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1780",
+        "slug": "alveratainformalpelatin"
+    },
+    "generatedAt": 1437611254015
+}

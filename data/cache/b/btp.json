@@ -1,0 +1,61 @@
+{
+    "name": "BTP",
+    "url": "http://fontdeck.com/typeface/btp",
+    "slug": "btp",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Experimental",
+        "Display",
+        "Computer-related",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "A is for…",
+    "designer": [
+        "Jeremy Perrodeau",
+        "Guillaume Grall"
+    ],
+    "opentype": [
+        "hist",
+        "liga",
+        "pnum",
+        "ss01",
+        "ss02",
+        "tnum"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "architectural",
+        "angular",
+        "opentype",
+        "geometric",
+        "experimental",
+        "architecture",
+        "contemporary"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/btp/regular",
+            "css": {
+                "font-family": "BTP Regular",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7931",
+                "slug": "regular",
+                "price": "$15.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1823",
+        "slug": "btp"
+    },
+    "generatedAt": 1437611344378
+}

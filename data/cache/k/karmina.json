@@ -1,0 +1,106 @@
+{
+    "name": "Karmina",
+    "url": "http://fontdeck.com/typeface/karmina",
+    "slug": "karmina",
+    "superfamily": "Karmina",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Transitional"
+    ],
+    "foundry": "TypeTogether",
+    "designer": [
+        "Veronika Burian",
+        "José Scaglione"
+    ],
+    "opentype": [
+        "liga"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "opentype",
+        "low contrast",
+        "narrow",
+        "text",
+        "legible",
+        "sturdy",
+        "super family",
+        "contemporary",
+        "magazine",
+        "news",
+        "economic",
+        "efficient",
+        "book",
+        "fashionable",
+        "book text"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/karmina/regular",
+            "css": {
+                "font-family": "Karmina Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1151",
+                "slug": "regular",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/karmina/italic",
+            "css": {
+                "font-family": "Karmina Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1150",
+                "slug": "italic",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/karmina/bold",
+            "css": {
+                "font-family": "Karmina Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1148",
+                "slug": "bold",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/karmina/bolditalic",
+            "css": {
+                "font-family": "Karmina Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1149",
+                "slug": "bolditalic",
+                "price": "$15.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "318",
+        "slug": "karmina"
+    },
+    "generatedAt": 1437609195077
+}

@@ -1,0 +1,153 @@
+{
+    "name": "Trim Cyrillic",
+    "url": "http://fontdeck.com/typeface/trimcyrillic",
+    "slug": "trimcyrillic",
+    "superfamily": "Trim",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Grotesque",
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "Letters from Sweden",
+    "designer": [
+        "Göran Söderström"
+    ],
+    "opentype": [
+        "liga",
+        "ss01"
+    ],
+    "language": [
+        "latin",
+        "cyrillic"
+    ],
+    "tags": [
+        "narrow",
+        "robust",
+        "hand hinted",
+        "condensed",
+        "strong",
+        "cyrillic",
+        "constructed",
+        "hand-hinted",
+        "economical",
+        "manually hinted",
+        "grotesque",
+        "headline",
+        "sans serif",
+        "display"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/trimcyrillic/thin",
+            "css": {
+                "font-family": "Trim Cyrillic Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7990",
+                "slug": "thin",
+                "price": "$20.00"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/trimcyrillic/light",
+            "css": {
+                "font-family": "Trim Cyrillic Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7986",
+                "slug": "light",
+                "price": "$20.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/trimcyrillic/regular",
+            "css": {
+                "font-family": "Trim Cyrillic Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7992",
+                "slug": "regular",
+                "price": "$20.00"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/trimcyrillic/medium",
+            "css": {
+                "font-family": "Trim Cyrillic Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7988",
+                "slug": "medium",
+                "price": "$20.00"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/trimcyrillic/semibold",
+            "css": {
+                "font-family": "Trim Cyrillic SemiBold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7989",
+                "slug": "semibold",
+                "price": "$20.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/trimcyrillic/bold",
+            "css": {
+                "font-family": "Trim Cyrillic Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7991",
+                "slug": "bold",
+                "price": "$20.00"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/trimcyrillic/extrabold",
+            "css": {
+                "font-family": "Trim Cyrillic ExtraBold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7987",
+                "slug": "extrabold",
+                "price": "$20.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1835",
+        "slug": "trimcyrillic"
+    },
+    "generatedAt": 1437611368237
+}

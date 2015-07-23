@@ -1,0 +1,100 @@
+{
+    "name": "Grotesqa 4F",
+    "url": "http://fontdeck.com/typeface/grotesqa4f",
+    "slug": "grotesqa4f",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Poster"
+    ],
+    "foundry": "4th february",
+    "designer": [
+        "Sergiy S. Tkachenko"
+    ],
+    "language": [
+        "latin",
+        "cyrillic"
+    ],
+    "tags": [
+        "headlines",
+        "advertising",
+        "titling",
+        "logo",
+        "legible",
+        "identity",
+        "logotypes",
+        "strong",
+        "curve",
+        "bold",
+        "headline",
+        "sans serif",
+        "identity."
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/grotesqa4f/light",
+            "css": {
+                "font-family": "Grotesqa 4F Light",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4461",
+                "slug": "light",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i3",
+            "url": "http://fontdeck.com/font/grotesqa4f/lightitalic",
+            "css": {
+                "font-family": "Grotesqa 4F Light Italic",
+                "font-weight": "300",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4462",
+                "slug": "lightitalic",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/grotesqa4f/regular",
+            "css": {
+                "font-family": "Grotesqa 4F Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3578",
+                "slug": "regular",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/grotesqa4f/italic",
+            "css": {
+                "font-family": "Grotesqa 4F Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3579",
+                "slug": "italic",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "863",
+        "slug": "grotesqa4f"
+    },
+    "generatedAt": 1437610022712
+}

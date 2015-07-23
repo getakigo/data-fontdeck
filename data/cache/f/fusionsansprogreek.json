@@ -1,0 +1,99 @@
+{
+    "name": "Fusion Sans Pro Greek",
+    "url": "http://fontdeck.com/typeface/fusionsansprogreek",
+    "slug": "fusionsansprogreek",
+    "superfamily": "Fusion Sans Pro",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Display",
+        "Poster"
+    ],
+    "foundry": "Parachute",
+    "designer": [
+        "Panos Vassiliou"
+    ],
+    "language": [
+        "latin",
+        "greek"
+    ],
+    "tags": [
+        "gothic",
+        "grotesk",
+        "narrow",
+        "condensed",
+        "bold",
+        "super family",
+        "impact",
+        "poster",
+        "black"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/fusionsansprogreek/light",
+            "css": {
+                "font-family": "Fusion Sans Pro Greek Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3998",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/fusionsansprogreek/medium",
+            "css": {
+                "font-family": "Fusion Sans Pro Greek Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3999",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/fusionsansprogreek/heavy",
+            "css": {
+                "font-family": "Fusion Sans Pro Greek Heavy",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3997",
+                "slug": "heavy",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/fusionsansprogreek/black",
+            "css": {
+                "font-family": "Fusion Sans Pro Greek Black",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3996",
+                "slug": "black",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "939",
+        "slug": "fusionsansprogreek"
+    },
+    "generatedAt": 1437610149143
+}

@@ -1,0 +1,70 @@
+{
+    "name": "Maza",
+    "url": "http://fontdeck.com/typeface/maza",
+    "slug": "maza",
+    "use": "body",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Sans Serif",
+        "Geometric",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "Gaslight",
+    "designer": [
+        "Valery Zaveryaev"
+    ],
+    "language": [
+        "latin",
+        "cyrillic"
+    ],
+    "tags": [
+        "modern",
+        "techno",
+        "sans-serif",
+        "text",
+        "cyrillic",
+        "russian",
+        "squarish",
+        "screen",
+        "clean"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/maza/regular",
+            "css": {
+                "font-family": "Maza Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5426",
+                "slug": "regular",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/maza/bold",
+            "css": {
+                "font-family": "Maza Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5427",
+                "slug": "bold",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1272",
+        "slug": "maza"
+    },
+    "generatedAt": 1437610643373
+}

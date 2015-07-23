@@ -1,0 +1,77 @@
+{
+    "name": "Anziano Pro",
+    "url": "http://fontdeck.com/typeface/anzianopro",
+    "slug": "anzianopro",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Didone"
+    ],
+    "foundry": "MAC Rhino Fonts",
+    "designer": [
+        "Stefan Hattenbach"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "strong",
+        "delicato",
+        "classic",
+        "distinct",
+        "legible",
+        "traditional"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/anzianopro/regular",
+            "css": {
+                "font-family": "Anziano Pro Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4844",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/anzianopro/italic",
+            "css": {
+                "font-family": "Anziano Pro Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4846",
+                "slug": "italic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/anzianopro/bold",
+            "css": {
+                "font-family": "Anziano Pro Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4845",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1133",
+        "slug": "anzianopro"
+    },
+    "generatedAt": 1437610708711
+}

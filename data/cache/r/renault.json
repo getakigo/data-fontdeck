@@ -1,0 +1,111 @@
+{
+    "name": "Renault",
+    "url": "http://fontdeck.com/typeface/renault",
+    "slug": "renault",
+    "use": "heading",
+    "classification": [
+        "Slab Serif",
+        "Clarendon/Bracketed",
+        "Serif",
+        "Garalde"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Wolff Olins"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "transport",
+        "1970s",
+        "heavy serif",
+        "identity",
+        "masculine",
+        "slab serif",
+        "heavy",
+        "garalde"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/renault/light",
+            "css": {
+                "font-family": "Renault Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2664",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/renault/lightitalic",
+            "css": {
+                "font-family": "Renault Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2667",
+                "slug": "lightitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/renault/medium",
+            "css": {
+                "font-family": "Renault Medium",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2665",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/renault/bold",
+            "css": {
+                "font-family": "Renault Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2666",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/renault/bolditalic",
+            "css": {
+                "font-family": "Renault Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2668",
+                "slug": "bolditalic",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "643",
+        "slug": "renault"
+    },
+    "generatedAt": 1437609624389
+}

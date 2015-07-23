@@ -1,0 +1,76 @@
+{
+    "name": "Sharktooth",
+    "url": "http://fontdeck.com/typeface/sharktooth",
+    "slug": "sharktooth",
+    "use": "body",
+    "classification": [
+        "Display",
+        "Comic Strip Lettering",
+        "Script",
+        "Casual"
+    ],
+    "foundry": "Mark Simonson Studio",
+    "designer": [
+        "Mark Simonson"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "sansserif",
+        "geometric",
+        "felt tip"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/sharktooth/regular",
+            "css": {
+                "font-family": "Sharktooth Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1042",
+                "slug": "regular",
+                "price": "$9.95"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/sharktooth/bold",
+            "css": {
+                "font-family": "Sharktooth Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1043",
+                "slug": "bold",
+                "price": "$9.95"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/sharktooth/heavy",
+            "css": {
+                "font-family": "Sharktooth Heavy",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1044",
+                "slug": "heavy",
+                "price": "$9.95"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "295",
+        "slug": "sharktooth"
+    },
+    "generatedAt": 1437609155452
+}

@@ -1,0 +1,62 @@
+{
+    "name": "Good Wood Display",
+    "url": "http://fontdeck.com/typeface/goodwooddisplay",
+    "slug": "goodwooddisplay",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Didone",
+        "Display",
+        "Serif"
+    ],
+    "foundry": "Playtype",
+    "designer": [
+        "Jonas Hecksher"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "high contrast",
+        "serif",
+        "bodoni",
+        "didone"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/goodwooddisplay/regular",
+            "css": {
+                "font-family": "Good Wood Display Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5350",
+                "slug": "regular",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/goodwooddisplay/bold",
+            "css": {
+                "font-family": "Good Wood Display Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5351",
+                "slug": "bold",
+                "price": "$45.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1250",
+        "slug": "goodwooddisplay"
+    },
+    "generatedAt": 1437610591955
+}

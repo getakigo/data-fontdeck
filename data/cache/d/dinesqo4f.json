@@ -1,0 +1,70 @@
+{
+    "name": "Dinesqo 4F",
+    "url": "http://fontdeck.com/typeface/dinesqo4f",
+    "slug": "dinesqo4f",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Display",
+        "Computer-related",
+        "Sans Serif",
+        "Geometric",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "4th february",
+    "designer": [
+        "Sergiy S. Tkachenko"
+    ],
+    "language": [
+        "latin",
+        "cyrillic"
+    ],
+    "tags": [
+        "monoline",
+        "strong",
+        "din",
+        "tall",
+        "elegant",
+        "elegante",
+        "geometric"
+    ],
+    "variations": [
+        {
+            "name": "Ultra-light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/dinesqo4f/ultralight",
+            "css": {
+                "font-family": "Dinesqo 4F UltraLight",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4517",
+                "slug": "ultralight",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Ultra-light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/dinesqo4f/ultralightitalic",
+            "css": {
+                "font-family": "Dinesqo 4F UltraLight Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4518",
+                "slug": "ultralightitalic",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1059",
+        "slug": "dinesqo4f"
+    },
+    "generatedAt": 1437610373354
+}

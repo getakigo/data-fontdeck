@@ -1,0 +1,224 @@
+{
+    "name": "Baucher Gothic",
+    "url": "http://fontdeck.com/typeface/bauchergothic",
+    "slug": "bauchergothic",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "URW Studio"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "static",
+        "formal",
+        "romanserif",
+        "narrow",
+        "technical",
+        "1990s",
+        "geometric",
+        "legible",
+        "american",
+        "didone",
+        "modest",
+        "modern",
+        "decorative",
+        "masculine",
+        "signage",
+        "sans serif",
+        "headline",
+        "linear sans"
+    ],
+    "variations": [
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/bauchergothic/medium",
+            "css": {
+                "font-family": "Baucher Gothic Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2620",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/bauchergothic/bold",
+            "css": {
+                "font-family": "Baucher Gothic Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2614",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium Extended Alternates",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/bauchergothic/mediumextendedalternates",
+            "css": {
+                "font-family": "BauchGothMediExtendAlternat",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2623",
+                "slug": "mediumextendedalternates",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Extended Alternates",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/bauchergothic/boldextendedalternates",
+            "css": {
+                "font-family": "BaucheGothiBolExtendeAlternate",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2617",
+                "slug": "boldextendedalternates",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extended",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/bauchergothic/extended",
+            "css": {
+                "font-family": "Baucher Gothic Extended",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2618",
+                "slug": "extended",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Alternates",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/bauchergothic/alternates",
+            "css": {
+                "font-family": "Baucher Gothic Alternates",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2613",
+                "slug": "alternates",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Normal",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/bauchergothic/normal",
+            "css": {
+                "font-family": "Baucher Gothic Normal",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2624",
+                "slug": "normal",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Extended",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/bauchergothic/boldextended",
+            "css": {
+                "font-family": "Baucher Gothic Bold Extended",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2616",
+                "slug": "boldextended",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium Alternates",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/bauchergothic/mediumalternates",
+            "css": {
+                "font-family": "BaucherGothicMediumAlternates",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2621",
+                "slug": "mediumalternates",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Alternates",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/bauchergothic/boldalternates",
+            "css": {
+                "font-family": "Baucher Gothic Bold Alternates",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2615",
+                "slug": "boldalternates",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extended Alternates",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/bauchergothic/extendedalternates",
+            "css": {
+                "font-family": "BaucherGothicExtendedAlternates",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2619",
+                "slug": "extendedalternates",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium Extended",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/bauchergothic/mediumextended",
+            "css": {
+                "font-family": "Baucher Gothic Medium Extended",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2622",
+                "slug": "mediumextended",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "634",
+        "slug": "bauchergothic"
+    },
+    "generatedAt": 1437609604775
+}

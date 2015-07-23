@@ -1,0 +1,45 @@
+{
+    "name": "It Aint Rocket Science Pro",
+    "url": "http://fontdeck.com/typeface/itaintrocketsciencepro",
+    "slug": "itaintrocketsciencepro",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Handwritten"
+    ],
+    "foundry": "CheapProFonts",
+    "designer": [
+        "Kimberly Geswein"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "handwritten",
+        "lovable",
+        "feminine",
+        "handwriting"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/itaintrocketsciencepro/regular",
+            "css": {
+                "font-family": "ItAintRocketScienceProRegular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3303",
+                "slug": "regular",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "795",
+        "slug": "itaintrocketsciencepro"
+    },
+    "generatedAt": 1437609897327
+}

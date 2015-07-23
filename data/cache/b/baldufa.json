@@ -1,0 +1,85 @@
+{
+    "name": "Baldufa",
+    "url": "http://fontdeck.com/typeface/baldufa",
+    "slug": "baldufa",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Serif"
+    ],
+    "foundry": "Letterjuice",
+    "designer": [
+        "Pilar Cano",
+        "Ferran Milan"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "attractive",
+        "arrows",
+        "serif",
+        "approachable",
+        "curvy",
+        "text",
+        "legible",
+        "multilingual",
+        "editorial",
+        "text font",
+        "contemporary",
+        "quirky",
+        "unconventional"
+    ],
+    "variations": [
+        {
+            "name": "Regular Italic",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/baldufa/italic",
+            "css": {
+                "font-family": "Baldufa Italic",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7860",
+                "slug": "italic",
+                "price": "$17.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/baldufa/regular",
+            "css": {
+                "font-family": "Baldufa Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7859",
+                "slug": "regular",
+                "price": "$17.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/baldufa/bold",
+            "css": {
+                "font-family": "Baldufa Bold",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7861",
+                "slug": "bold",
+                "price": "$17.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1809",
+        "slug": "baldufa"
+    },
+    "generatedAt": 1437611315554
+}

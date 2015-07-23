@@ -1,0 +1,96 @@
+{
+    "name": "Bee",
+    "url": "http://fontdeck.com/typeface/bee",
+    "slug": "bee",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "URW Studio"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "modern",
+        "technical",
+        "1990s",
+        "geometric",
+        "legible",
+        "american",
+        "masculine",
+        "signage",
+        "linear sans",
+        "headline"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/bee/light",
+            "css": {
+                "font-family": "Bee Light",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "713",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/bee/regular",
+            "css": {
+                "font-family": "Bee Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "714",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/bee/bold",
+            "css": {
+                "font-family": "Bee Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "715",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/bee/black",
+            "css": {
+                "font-family": "Bee Black",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "716",
+                "slug": "black",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "237",
+        "slug": "bee"
+    },
+    "generatedAt": 1437609055557
+}

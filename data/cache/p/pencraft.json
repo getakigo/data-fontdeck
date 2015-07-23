@@ -1,0 +1,64 @@
+{
+    "name": "Pencraft",
+    "url": "http://fontdeck.com/typeface/pencraft",
+    "slug": "pencraft",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Simple",
+        "Script",
+        "Casual"
+    ],
+    "foundry": "Intellecta Design",
+    "designer": [
+        "Chyrllene K"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "letters",
+        "fancy",
+        "art nouveau",
+        "personal text",
+        "gritty",
+        "historical",
+        "sophisticated",
+        "decorative",
+        "elegant",
+        "stationery",
+        "school",
+        "greetings",
+        "historiated",
+        "romantic",
+        "handmade",
+        "valentine",
+        "ornate",
+        "exaggerated",
+        "unusual",
+        "swash",
+        "ornamental"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/pencraft/regular",
+            "css": {
+                "font-family": "Pencraft Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2807",
+                "slug": "regular",
+                "price": "$9.37"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "664",
+        "slug": "pencraft"
+    },
+    "generatedAt": 1437609669982
+}

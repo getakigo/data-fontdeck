@@ -1,0 +1,63 @@
+{
+    "name": "Cheltenham Old Style",
+    "url": "http://fontdeck.com/typeface/cheltenhamoldstyle",
+    "slug": "cheltenhamoldstyle",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Garalde"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Morris Fuller Benton"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "sensible",
+        "1970s",
+        "static",
+        "formal",
+        "feminine",
+        "narrow",
+        "news text",
+        "legible",
+        "american",
+        "stub serif",
+        "fax",
+        "memos",
+        "personal text",
+        "news",
+        "magazine",
+        "news headline",
+        "neutral",
+        "elegant",
+        "slab serif",
+        "valuable",
+        "1900s",
+        "1980s"
+    ],
+    "variations": [
+        {
+            "name": "Standard",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/cheltenhamoldstyle/standard",
+            "css": {
+                "font-family": "Cheltenham Old Style Standard",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1479",
+                "slug": "standard",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "397",
+        "slug": "cheltenhamoldstyle"
+    },
+    "generatedAt": 1437609270896
+}

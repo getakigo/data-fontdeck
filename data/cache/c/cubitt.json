@@ -1,0 +1,109 @@
+{
+    "name": "Cubitt",
+    "url": "http://fontdeck.com/typeface/cubitt",
+    "slug": "cubitt",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "A2-TYPE",
+    "designer": [
+        "Henrik Kubel"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "book",
+        "text",
+        "legible",
+        "editorial",
+        "square",
+        "newspaper",
+        "contemporary",
+        "magazine"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/cubitt/regular",
+            "css": {
+                "font-family": "Cubitt Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6540",
+                "slug": "regular",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/cubitt/semibold",
+            "css": {
+                "font-family": "Cubitt Semi Bold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6541",
+                "slug": "semibold",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Light Narrow",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/cubitt/lightnarrow",
+            "css": {
+                "font-family": "Cubitt Light Narrow",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6538",
+                "slug": "lightnarrow",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Medium Narrow",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/cubitt/mediumnarrow",
+            "css": {
+                "font-family": "Cubitt Medium Narrow",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6539",
+                "slug": "mediumnarrow",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Bold Narrow",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/cubitt/boldnarrow",
+            "css": {
+                "font-family": "Cubitt Bold Narrow",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6537",
+                "slug": "boldnarrow",
+                "price": "$45.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1495",
+        "slug": "cubitt"
+    },
+    "generatedAt": 1437610946200
+}

@@ -1,0 +1,49 @@
+{
+    "name": "FS Rome",
+    "url": "http://fontdeck.com/typeface/fsrome",
+    "slug": "fsrome",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "All caps",
+        "Display",
+        "Serif"
+    ],
+    "foundry": "Fontsmith",
+    "designer": [
+        "Jason Smith"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "all caps",
+        "roman",
+        "movie",
+        "serif",
+        "trajan",
+        "classical"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/fsrome/regular",
+            "css": {
+                "font-family": "FS Rome Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4375",
+                "slug": "regular",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1025",
+        "slug": "fsrome"
+    },
+    "generatedAt": 1437610320608
+}

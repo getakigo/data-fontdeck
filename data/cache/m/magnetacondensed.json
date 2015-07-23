@@ -1,0 +1,230 @@
+{
+    "name": "Magneta Condensed",
+    "url": "http://fontdeck.com/typeface/magnetacondensed",
+    "slug": "magnetacondensed",
+    "superfamily": "Magneta",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Serif",
+        "Serif",
+        "Garalde",
+        "Serif",
+        "Modern"
+    ],
+    "foundry": "Positype",
+    "designer": [
+        "Neil Summerour"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "headlines",
+        "serif",
+        "narrow",
+        "condensed",
+        "ornaments",
+        "text",
+        "legible",
+        "newstext",
+        "contemporary",
+        "true italics",
+        "magazine",
+        "news",
+        "traditional",
+        "modern",
+        "ligatures",
+        "editorial",
+        "corporate",
+        "headline",
+        "clean"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/magnetacondensed/thin",
+            "css": {
+                "font-family": "Magneta Condensed Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3555",
+                "slug": "thin",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Thin Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/magnetacondensed/thinitalic",
+            "css": {
+                "font-family": "Magneta Condensed Thin Italic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3556",
+                "slug": "thinitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Book",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/magnetacondensed/book",
+            "css": {
+                "font-family": "Magneta Condensed Book",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3549",
+                "slug": "book",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Book Italic",
+            "description": "i3",
+            "url": "http://fontdeck.com/font/magnetacondensed/bookitalic",
+            "css": {
+                "font-family": "Magneta Condensed Book Italic",
+                "font-weight": "300",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3550",
+                "slug": "bookitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/magnetacondensed/medium",
+            "css": {
+                "font-family": "Magneta Condensed Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3545",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/magnetacondensed/mediumitalic",
+            "css": {
+                "font-family": "Magneta Condensed Medium Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3546",
+                "slug": "mediumitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/magnetacondensed/semibold",
+            "css": {
+                "font-family": "Magneta Condensed SemiBold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3553",
+                "slug": "semibold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Semi-bold Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/magnetacondensed/semibolditalic",
+            "css": {
+                "font-family": "MagnetaCondensedSemiBoldItalic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3554",
+                "slug": "semibolditalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/magnetacondensed/bold",
+            "css": {
+                "font-family": "Magneta Condensed Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3547",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/magnetacondensed/bolditalic",
+            "css": {
+                "font-family": "Magneta Condensed Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3548",
+                "slug": "bolditalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/magnetacondensed/black",
+            "css": {
+                "font-family": "Magneta Condensed Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3551",
+                "slug": "black",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/magnetacondensed/blackitalic",
+            "css": {
+                "font-family": "Magneta Condensed Black Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3552",
+                "slug": "blackitalic",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "857",
+        "slug": "magnetacondensed"
+    },
+    "generatedAt": 1437610010446
+}

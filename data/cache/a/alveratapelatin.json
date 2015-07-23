@@ -1,0 +1,224 @@
+{
+    "name": "Alverata PE Latin",
+    "url": "http://fontdeck.com/typeface/alveratapelatin",
+    "slug": "alveratapelatin",
+    "superfamily": "Alverata",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Glyphic"
+    ],
+    "foundry": "TypeTogether",
+    "designer": [
+        "Gerard Unger"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "attractive",
+        "formal",
+        "robust",
+        "glyphic",
+        "legible",
+        "informal",
+        "romanesque",
+        "insular",
+        "friendly",
+        "open",
+        "contemporary",
+        "refined",
+        "medieval",
+        "harmonious",
+        "european",
+        "lively",
+        "superfamily"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/alveratapelatin/light",
+            "css": {
+                "font-family": "Alverata PE Latin Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7706",
+                "slug": "light",
+                "price": "$15.49"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/alveratapelatin/lightitalic",
+            "css": {
+                "font-family": "Alverata PE Latin Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7707",
+                "slug": "lightitalic",
+                "price": "$15.49"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/alveratapelatin/regular",
+            "css": {
+                "font-family": "Alverata PE Latin Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7710",
+                "slug": "regular",
+                "price": "$15.49"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/alveratapelatin/italic",
+            "css": {
+                "font-family": "Alverata PE Latin Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7705",
+                "slug": "italic",
+                "price": "$15.49"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/alveratapelatin/medium",
+            "css": {
+                "font-family": "Alverata PE Latin Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7708",
+                "slug": "medium",
+                "price": "$15.49"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/alveratapelatin/mediumitalic",
+            "css": {
+                "font-family": "Alverata PE Latin Medium Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7709",
+                "slug": "mediumitalic",
+                "price": "$15.49"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/alveratapelatin/semibold",
+            "css": {
+                "font-family": "Alverata PE Latin Semibold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7711",
+                "slug": "semibold",
+                "price": "$15.49"
+            }
+        },
+        {
+            "name": "Semi-bold Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/alveratapelatin/semibolditalic",
+            "css": {
+                "font-family": "AlverataPELatinSemiboldItalic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7712",
+                "slug": "semibolditalic",
+                "price": "$15.49"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/alveratapelatin/bold",
+            "css": {
+                "font-family": "Alverata PE Latin Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7703",
+                "slug": "bold",
+                "price": "$15.49"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/alveratapelatin/bolditalic",
+            "css": {
+                "font-family": "Alverata PE Latin Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7704",
+                "slug": "bolditalic",
+                "price": "$15.49"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/alveratapelatin/black",
+            "css": {
+                "font-family": "Alverata PE Latin Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7701",
+                "slug": "black",
+                "price": "$15.49"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/alveratapelatin/blackitalic",
+            "css": {
+                "font-family": "Alverata PE Latin Black Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7702",
+                "slug": "blackitalic",
+                "price": "$15.49"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1777",
+        "slug": "alveratapelatin"
+    },
+    "generatedAt": 1437611254024
+}

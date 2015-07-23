@@ -1,0 +1,45 @@
+{
+    "name": "DNA",
+    "url": "http://fontdeck.com/typeface/dna",
+    "slug": "dna",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Experimental"
+    ],
+    "foundry": "Emboss Fonts",
+    "designer": [
+        "Stephen Boss"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "experimental",
+        "connecting",
+        "connected",
+        "organic"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/dna/regular",
+            "css": {
+                "font-family": "DNA Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6910",
+                "slug": "regular",
+                "price": "$6.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1579",
+        "slug": "dna"
+    },
+    "generatedAt": 1437611039968
+}

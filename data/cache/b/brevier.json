@@ -1,0 +1,93 @@
+{
+    "name": "Brevier",
+    "url": "http://fontdeck.com/typeface/brevier",
+    "slug": "brevier",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Humanist",
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "Riccardo Olocco Typographic Design",
+    "designer": [
+        "Riccardo Olocco"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "humanistic sans",
+        "compact",
+        "efficient",
+        "humanist",
+        "legible"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/brevier/regular",
+            "css": {
+                "font-family": "Brevier Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2303",
+                "slug": "regular",
+                "price": "$11.99"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/brevier/italic",
+            "css": {
+                "font-family": "Brevier Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2304",
+                "slug": "italic",
+                "price": "$11.99"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/brevier/medium",
+            "css": {
+                "font-family": "Brevier Medium",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2305",
+                "slug": "medium",
+                "price": "$11.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/brevier/bold",
+            "css": {
+                "font-family": "Brevier Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2306",
+                "slug": "bold",
+                "price": "$11.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "566",
+        "slug": "brevier"
+    },
+    "generatedAt": 1437609460535
+}

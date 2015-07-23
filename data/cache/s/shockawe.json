@@ -1,0 +1,62 @@
+{
+    "name": "Shock & Awe",
+    "url": "http://fontdeck.com/typeface/shockawe",
+    "slug": "shockawe",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif"
+    ],
+    "foundry": "VirusFonts",
+    "designer": [
+        "Jonathan Barnbrook"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "missile",
+        "experimental",
+        "bold",
+        "headline",
+        "dynamic",
+        "poster"
+    ],
+    "variations": [
+        {
+            "name": "Tomahawk",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/shockawe/tomahawk",
+            "css": {
+                "font-family": "Shock & Awe Tomahawk",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3416",
+                "slug": "tomahawk",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Enola Gay",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/shockawe/enolagay",
+            "css": {
+                "font-family": "Shock & Awe Enola Gay",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3415",
+                "slug": "enolagay",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "830",
+        "slug": "shockawe"
+    },
+    "generatedAt": 1437609955563
+}

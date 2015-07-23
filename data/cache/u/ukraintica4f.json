@@ -1,0 +1,46 @@
+{
+    "name": "Ukraintica 4F",
+    "url": "http://fontdeck.com/typeface/ukraintica4f",
+    "slug": "ukraintica4f",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Sans Serif",
+        "Grotesque"
+    ],
+    "foundry": "4th february",
+    "designer": [
+        "Sergiy S. Tkachenko"
+    ],
+    "language": [
+        "latin",
+        "cyrillic"
+    ],
+    "tags": [
+        "awesome",
+        "swiss"
+    ],
+    "variations": [
+        {
+            "name": "Wide Ultra Light",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/ukraintica4f/wideultralight",
+            "css": {
+                "font-family": "Ukraintica 4F Wide Ultra Light",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4019",
+                "slug": "wideultralight",
+                "price": "$7.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "950",
+        "slug": "ukraintica4f"
+    },
+    "generatedAt": 1437610169384
+}

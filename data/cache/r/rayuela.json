@@ -1,0 +1,267 @@
+{
+    "name": "Rayuela",
+    "url": "http://fontdeck.com/typeface/rayuela",
+    "slug": "rayuela",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "French"
+    ],
+    "foundry": "PampaType",
+    "designer": [
+        "Alejandro Lo Celso"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "poetry",
+        "serif",
+        "literary",
+        "dynamic",
+        "openface",
+        "text",
+        "argentina",
+        "puzzle",
+        "hollow",
+        "friendly",
+        "scrabble",
+        "school paper",
+        "fleuron",
+        "dingbats",
+        "latin american",
+        "literature",
+        "poetic",
+        "cortazar",
+        "some-serifs",
+        "deco",
+        "argentinian",
+        "books",
+        "novels",
+        "ornaments",
+        "workhorse",
+        "legible",
+        "flowers",
+        "spanish",
+        "argentinean",
+        "informal",
+        "julio cortazar",
+        "true italics",
+        "hueca",
+        "tdc",
+        "lyric",
+        "decorative",
+        "picture",
+        "elegant",
+        "word games",
+        "engraved",
+        "informal text",
+        "magazines",
+        "upright italic",
+        "lively",
+        "inline",
+        "symbol"
+    ],
+    "variations": [
+        {
+            "name": "Luz",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/rayuela/luz",
+            "css": {
+                "font-family": "Rayuela Luz",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8980",
+                "slug": "luz",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Gris Versalita",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/rayuela/grisversalita",
+            "css": {
+                "font-family": "Rayuela Gris Versalita",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8974",
+                "slug": "grisversalita",
+                "price": "$6.50"
+            }
+        },
+        {
+            "name": "Gris",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/rayuela/gris",
+            "css": {
+                "font-family": "Rayuela Gris",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8972",
+                "slug": "gris",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Miscelanea",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/rayuela/miscelanea",
+            "css": {
+                "font-family": "Rayuela Miscelanea",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8981",
+                "slug": "miscelanea",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Negra Versalita",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/rayuela/negraversalita",
+            "css": {
+                "font-family": "Rayuela Negra Versalita",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8977",
+                "slug": "negraversalita",
+                "price": "$6.50"
+            }
+        },
+        {
+            "name": "Blanca",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/rayuela/blanca",
+            "css": {
+                "font-family": "Rayuela Blanca",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8969",
+                "slug": "blanca",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Blanca Versalita",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/rayuela/blancaversalita",
+            "css": {
+                "font-family": "Rayuela Blanca Versalita",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8971",
+                "slug": "blancaversalita",
+                "price": "$6.50"
+            }
+        },
+        {
+            "name": "Chocolate",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/rayuela/chocolate",
+            "css": {
+                "font-family": "Rayuela Chocolate",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8978",
+                "slug": "chocolate",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Negra",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/rayuela/negra",
+            "css": {
+                "font-family": "Rayuela Negra",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8975",
+                "slug": "negra",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Negra Italica",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/rayuela/negraitalica",
+            "css": {
+                "font-family": "Rayuela Negra Italica",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8976",
+                "slug": "negraitalica",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Chocolate Italica",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/rayuela/chocolateitalica",
+            "css": {
+                "font-family": "Rayuela Chocolate Italica",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8979",
+                "slug": "chocolateitalica",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Gris Italica",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/rayuela/grisitalica",
+            "css": {
+                "font-family": "Rayuela Gris Italica",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8973",
+                "slug": "grisitalica",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Blanca Italica",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/rayuela/blancaitalica",
+            "css": {
+                "font-family": "Rayuela Blanca Italica",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8970",
+                "slug": "blancaitalica",
+                "price": "$7.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "2010",
+        "slug": "rayuela"
+    },
+    "generatedAt": 1437611599581
+}

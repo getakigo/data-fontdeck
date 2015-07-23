@@ -1,0 +1,100 @@
+{
+    "name": "Fusion Sans Pro",
+    "url": "http://fontdeck.com/typeface/fusionsanspro",
+    "slug": "fusionsanspro",
+    "superfamily": "Fusion Sans Pro",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Display",
+        "Poster",
+        "Sans Serif",
+        "Gothic"
+    ],
+    "foundry": "Parachute",
+    "designer": [
+        "Panos Vassiliou"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "gothic",
+        "grotesk",
+        "narrow",
+        "condensed",
+        "bold",
+        "super family",
+        "impact",
+        "poster",
+        "black"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/fusionsanspro/light",
+            "css": {
+                "font-family": "Fusion Sans Pro Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3982",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/fusionsanspro/medium",
+            "css": {
+                "font-family": "Fusion Sans Pro Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3983",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/fusionsanspro/heavy",
+            "css": {
+                "font-family": "Fusion Sans Pro Heavy",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3981",
+                "slug": "heavy",
+                "price": "FREE"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/fusionsanspro/black",
+            "css": {
+                "font-family": "Fusion Sans Pro Black",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3980",
+                "slug": "black",
+                "price": "FREE"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "936",
+        "slug": "fusionsanspro"
+    },
+    "generatedAt": 1437610139138
+}

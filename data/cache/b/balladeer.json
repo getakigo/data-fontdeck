@@ -1,0 +1,97 @@
+{
+    "name": "Balladeer",
+    "url": "http://fontdeck.com/typeface/balladeer",
+    "slug": "balladeer",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Script",
+        "Script",
+        "Formal"
+    ],
+    "foundry": "profonts",
+    "designer": [
+        "profonts"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "female",
+        "formal",
+        "poetry",
+        "oldsytle",
+        "invitation",
+        "royal",
+        "correspondence",
+        "cosmetics",
+        "classical",
+        "music",
+        "espousal",
+        "perfume",
+        "festive",
+        "crafts",
+        "certificate",
+        "script",
+        "elegant",
+        "non-connection",
+        "oldstyle",
+        "calligraphic",
+        "italic",
+        "graceful",
+        "wedding",
+        "ceremony"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/balladeer/light",
+            "css": {
+                "font-family": "Balladeer Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3450",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/balladeer/medium",
+            "css": {
+                "font-family": "Balladeer Medium",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3448",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/balladeer/bold",
+            "css": {
+                "font-family": "Balladeer Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3449",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "840",
+        "slug": "balladeer"
+    },
+    "generatedAt": 1437609976335
+}

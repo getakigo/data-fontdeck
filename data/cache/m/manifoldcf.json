@@ -1,0 +1,195 @@
+{
+    "name": "Manifold CF",
+    "url": "http://fontdeck.com/typeface/manifoldcf",
+    "slug": "manifoldcf",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Neo-Grotesk",
+        "Display",
+        "Sans serif",
+        "Display",
+        "Futuristic"
+    ],
+    "foundry": "Connary Fagen Typography",
+    "designer": [
+        "Connary Fagen"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "80s",
+        "modern",
+        "terminal",
+        "efficient",
+        "technical",
+        "",
+        "21st century",
+        "computer",
+        "streamlined",
+        "technology",
+        "2000s",
+        "structured",
+        "cold",
+        "clean",
+        "straight"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/manifoldcf/light",
+            "css": {
+                "font-family": "Manifold CF Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8534",
+                "slug": "light",
+                "price": "$8.50"
+            }
+        },
+        {
+            "name": "Light Oblique",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/manifoldcf/lightoblique",
+            "css": {
+                "font-family": "Manifold CF Light Oblique",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8535",
+                "slug": "lightoblique",
+                "price": "$8.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/manifoldcf/regular",
+            "css": {
+                "font-family": "Manifold CF Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8536",
+                "slug": "regular",
+                "price": "$8.50"
+            }
+        },
+        {
+            "name": "Regular Oblique",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/manifoldcf/regularoblique",
+            "css": {
+                "font-family": "Manifold CF Regular Oblique",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8537",
+                "slug": "regularoblique",
+                "price": "$8.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/manifoldcf/bold",
+            "css": {
+                "font-family": "Manifold CF Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8540",
+                "slug": "bold",
+                "price": "$8.50"
+            }
+        },
+        {
+            "name": "Bold Oblique",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/manifoldcf/boldoblique",
+            "css": {
+                "font-family": "Manifold CF Bold Oblique",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8541",
+                "slug": "boldoblique",
+                "price": "$8.50"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/manifoldcf/extrabold",
+            "css": {
+                "font-family": "Manifold CF Extra Bold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8542",
+                "slug": "extrabold",
+                "price": "$8.50"
+            }
+        },
+        {
+            "name": "Extra-bold Oblique",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/manifoldcf/extraboldoblique",
+            "css": {
+                "font-family": "Manifold CF Extra Bold Oblique",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8543",
+                "slug": "extraboldoblique",
+                "price": "$8.50"
+            }
+        },
+        {
+            "name": "Demi Bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/manifoldcf/demibold",
+            "css": {
+                "font-family": "Manifold CF Demi Bold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8538",
+                "slug": "demibold",
+                "price": "$8.50"
+            }
+        },
+        {
+            "name": "Demi Bold Oblique",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/manifoldcf/demiboldoblique",
+            "css": {
+                "font-family": "Manifold CF Demi Bold Oblique",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8539",
+                "slug": "demiboldoblique",
+                "price": "$8.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1973",
+        "slug": "manifoldcf"
+    },
+    "generatedAt": 1437611516452
+}

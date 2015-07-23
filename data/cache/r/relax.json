@@ -1,0 +1,55 @@
+{
+    "name": "Relax",
+    "url": "http://fontdeck.com/typeface/relax",
+    "slug": "relax",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Slab serif",
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "Weathersbee Type",
+    "designer": [
+        "Derek Weathersbee"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "relax",
+        "all caps",
+        "geometric",
+        "curvy",
+        "stylish",
+        "art deco",
+        "unicase",
+        "lively",
+        "deco",
+        "swash",
+        "fun",
+        "quirky"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/relax/regular",
+            "css": {
+                "font-family": "Relax Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8339",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1903",
+        "slug": "relax"
+    },
+    "generatedAt": 1437611410091
+}

@@ -1,0 +1,99 @@
+{
+    "name": "Nassim Latin",
+    "url": "http://fontdeck.com/typeface/nassimlatin",
+    "slug": "nassimlatin",
+    "superfamily": "Nassim",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Transitional"
+    ],
+    "foundry": "Rosetta",
+    "designer": [
+        "Titus Nemeth"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "hinted",
+        "harmonious",
+        "news text",
+        "text",
+        "classical",
+        "calligraphic",
+        "sturdy",
+        "editorial",
+        "contemporary",
+        "magazine",
+        "news",
+        "versatile"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/nassimlatin/regular",
+            "css": {
+                "font-family": "Nassim Latin Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4325",
+                "slug": "regular",
+                "price": "$11.50"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/nassimlatin/semibold",
+            "css": {
+                "font-family": "Nassim Latin Semibold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4327",
+                "slug": "semibold",
+                "price": "$11.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/nassimlatin/bold",
+            "css": {
+                "font-family": "Nassim Latin Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4326",
+                "slug": "bold",
+                "price": "$11.50"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/nassimlatin/extrabold",
+            "css": {
+                "font-family": "Nassim Latin Extrabold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4328",
+                "slug": "extrabold",
+                "price": "$11.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1017",
+        "slug": "nassimlatin"
+    },
+    "generatedAt": 1437610299516
+}

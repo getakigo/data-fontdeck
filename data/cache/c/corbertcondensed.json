@@ -1,0 +1,327 @@
+{
+    "name": "Corbert Condensed",
+    "url": "http://fontdeck.com/typeface/corbertcondensed",
+    "slug": "corbertcondensed",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "The Northern Block",
+    "designer": [
+        "Jonathan Hill"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "gotham",
+        "narrow",
+        "1920s",
+        "web",
+        "technical",
+        "condensed",
+        "classic",
+        "geometric",
+        "text",
+        "avant garde",
+        "menu",
+        "legible",
+        "brand",
+        "functional",
+        "magazine",
+        "bauhaus",
+        "lineal",
+        "poster",
+        "alternates",
+        "futura",
+        "modern",
+        "fashionable",
+        "art deco",
+        "swiss",
+        "grotesque",
+        "fractions",
+        "1930",
+        "sans serif",
+        "screen",
+        "readable",
+        "german"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/corbertcondensed/thin",
+            "css": {
+                "font-family": "Corbert Condensed Thin",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7050",
+                "slug": "thin",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Thin Italic",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/corbertcondensed/thinitalic",
+            "css": {
+                "font-family": "Corbert Condensed Thin Italic",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7059",
+                "slug": "thinitalic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/corbertcondensed/light",
+            "css": {
+                "font-family": "Corbert Condensed Light",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7051",
+                "slug": "light",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/corbertcondensed/lightitalic",
+            "css": {
+                "font-family": "Corbert Condensed Light Italic",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7060",
+                "slug": "lightitalic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/corbertcondensed/regular",
+            "css": {
+                "font-family": "Corbert Condensed Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7052",
+                "slug": "regular",
+                "price": "FREE"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/corbertcondensed/italic",
+            "css": {
+                "font-family": "Corbert Condensed Italic",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7061",
+                "slug": "italic",
+                "price": "FREE"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/corbertcondensed/mediumitalic",
+            "css": {
+                "font-family": "Corbert Condensed Medium Italic",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7062",
+                "slug": "mediumitalic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/corbertcondensed/medium",
+            "css": {
+                "font-family": "Corbert Condensed Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7053",
+                "slug": "medium",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/corbertcondensed/bold",
+            "css": {
+                "font-family": "Corbert Condensed Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7055",
+                "slug": "bold",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/corbertcondensed/bolditalic",
+            "css": {
+                "font-family": "Corbert Condensed Bold Italic",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7064",
+                "slug": "bolditalic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Extra-bold Italic",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/corbertcondensed/extrabolditalic",
+            "css": {
+                "font-family": "CorbertCondensedExtraBoldItalic",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7065",
+                "slug": "extrabolditalic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/corbertcondensed/extrabold",
+            "css": {
+                "font-family": "Corbert Condensed ExtraBold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7056",
+                "slug": "extrabold",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Heavy Italic",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/corbertcondensed/heavyitalic",
+            "css": {
+                "font-family": "Corbert Condensed Heavy Italic",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7066",
+                "slug": "heavyitalic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/corbertcondensed/heavy",
+            "css": {
+                "font-family": "Corbert Condensed Heavy",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7057",
+                "slug": "heavy",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/corbertcondensed/black",
+            "css": {
+                "font-family": "Corbert Condensed Black",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7058",
+                "slug": "black",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/corbertcondensed/blackitalic",
+            "css": {
+                "font-family": "Corbert Condensed Black Italic",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7067",
+                "slug": "blackitalic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "DemiBold Italic",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/corbertcondensed/demibolditalic",
+            "css": {
+                "font-family": "CorbertCondensedDemiBoldItalic",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7063",
+                "slug": "demibolditalic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "DemiBold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/corbertcondensed/demibold",
+            "css": {
+                "font-family": "Corbert Condensed DemiBold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7054",
+                "slug": "demibold",
+                "price": "$7.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1639",
+        "slug": "corbertcondensed"
+    },
+    "generatedAt": 1437611117691
+}

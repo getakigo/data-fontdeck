@@ -1,0 +1,125 @@
+{
+    "name": "Cora",
+    "url": "http://fontdeck.com/typeface/cora",
+    "slug": "cora",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Humanist"
+    ],
+    "foundry": "TypeTogether",
+    "designer": [
+        "Bart Blubaugh"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "elegant",
+        "fashionable",
+        "text",
+        "legible",
+        "experimental",
+        "headline",
+        "magazine",
+        "news",
+        "high-contrast"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/cora/regular",
+            "css": {
+                "font-family": "Cora Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1124",
+                "slug": "regular",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/cora/italic",
+            "css": {
+                "font-family": "Cora Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1123",
+                "slug": "italic",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/cora/medium",
+            "css": {
+                "font-family": "Cora Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1121",
+                "slug": "medium",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/cora/mediumitalic",
+            "css": {
+                "font-family": "Cora Medium Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1125",
+                "slug": "mediumitalic",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/cora/bold",
+            "css": {
+                "font-family": "Cora Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1122",
+                "slug": "bold",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/cora/bolditalic",
+            "css": {
+                "font-family": "Cora Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1120",
+                "slug": "bolditalic",
+                "price": "$15.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "308",
+        "slug": "cora"
+    },
+    "generatedAt": 1437609174468
+}

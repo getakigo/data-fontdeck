@@ -1,0 +1,122 @@
+{
+    "name": "Kade",
+    "url": "http://fontdeck.com/typeface/kade",
+    "slug": "kade",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "ReType",
+    "designer": [
+        "David Quay"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "mechanical",
+        "strong",
+        "din",
+        "netherlands",
+        "technical",
+        "vernacular"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/kade/regular",
+            "css": {
+                "font-family": "Kade Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6574",
+                "slug": "regular",
+                "price": "$16.99"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/kade/italic",
+            "css": {
+                "font-family": "Kade Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6575",
+                "slug": "italic",
+                "price": "$16.99"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/kade/medium",
+            "css": {
+                "font-family": "Kade Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6578",
+                "slug": "medium",
+                "price": "$16.99"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/kade/mediumitalic",
+            "css": {
+                "font-family": "Kade Medium Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6579",
+                "slug": "mediumitalic",
+                "price": "$16.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/kade/bold",
+            "css": {
+                "font-family": "Kade Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6576",
+                "slug": "bold",
+                "price": "$16.99"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/kade/bolditalic",
+            "css": {
+                "font-family": "Kade Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6577",
+                "slug": "bolditalic",
+                "price": "$16.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1505",
+        "slug": "kade"
+    },
+    "generatedAt": 1437610946055
+}

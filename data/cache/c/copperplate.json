@@ -1,0 +1,130 @@
+{
+    "name": "Copperplate",
+    "url": "http://fontdeck.com/typeface/copperplate",
+    "slug": "copperplate",
+    "use": "heading",
+    "classification": [
+        "Serif",
+        "Glyphic"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Frederic William Goudy"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "inscribed",
+        "sensible",
+        "certificate",
+        "invitation",
+        "romanserif",
+        "engraving",
+        "caps only",
+        "office",
+        "linear",
+        "small caps",
+        "american",
+        "1900s",
+        "economic",
+        "wide"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/copperplate/light",
+            "css": {
+                "font-family": "Copperplate Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1494",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/copperplate/medium",
+            "css": {
+                "font-family": "Copperplate Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1496",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/copperplate/bold",
+            "css": {
+                "font-family": "Copperplate Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1492",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Condensed",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/copperplate/boldcondensed",
+            "css": {
+                "font-family": "Copperplate Bold Condensed",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1493",
+                "slug": "boldcondensed",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium Condensed",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/copperplate/mediumcondensed",
+            "css": {
+                "font-family": "Copperplate Medium Condensed",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1497",
+                "slug": "mediumcondensed",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light Condensed",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/copperplate/lightcondensed",
+            "css": {
+                "font-family": "Copperplate Light Condensed",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1495",
+                "slug": "lightcondensed",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "401",
+        "slug": "copperplate"
+    },
+    "generatedAt": 1437609285427
+}

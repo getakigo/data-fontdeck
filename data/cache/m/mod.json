@@ -1,0 +1,48 @@
+{
+    "name": "Mod",
+    "url": "http://fontdeck.com/typeface/mod",
+    "slug": "mod",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "All caps",
+        "Display",
+        "Poster"
+    ],
+    "foundry": "Fontfabric",
+    "designer": [
+        "Svetoslav Simov"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "experimental",
+        "heavy",
+        "square",
+        "display",
+        "sharp"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/mod/regular",
+            "css": {
+                "font-family": "Mod Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3282",
+                "slug": "regular",
+                "price": "$3.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "783",
+        "slug": "mod"
+    },
+    "generatedAt": 1437609879119
+}

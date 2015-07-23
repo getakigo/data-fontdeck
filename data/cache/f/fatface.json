@@ -1,0 +1,52 @@
+{
+    "name": "Fat Face",
+    "url": "http://fontdeck.com/typeface/fatface",
+    "slug": "fatface",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Didone",
+        "Display",
+        "Fat Face",
+        "Serif",
+        "Modern"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Phil Martin"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "american",
+        "static",
+        "female",
+        "1970s",
+        "elegant",
+        "fat face",
+        "economic"
+    ],
+    "variations": [
+        {
+            "name": "Normal",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/fatface/normal",
+            "css": {
+                "font-family": "Fat Face Normal",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2637",
+                "slug": "normal",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "638",
+        "slug": "fatface"
+    },
+    "generatedAt": 1437609612334
+}

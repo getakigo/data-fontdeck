@@ -1,0 +1,177 @@
+{
+    "name": "Barber",
+    "url": "http://fontdeck.com/typeface/barber",
+    "slug": "barber",
+    "use": "heading",
+    "classification": [
+        "Script",
+        "Handwritten",
+        "Script",
+        "Calligraphic",
+        "Script",
+        "Decorative script",
+        "Script",
+        "Casual"
+    ],
+    "foundry": "Fenotype",
+    "designer": [
+        "Emil Bertell"
+    ],
+    "opentype": [
+        "liga"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "high contrast",
+        "hand drawn",
+        "opentype",
+        "invitation",
+        "brush",
+        "ornaments",
+        "fancy",
+        "soft",
+        "upright",
+        "poster",
+        "decorative",
+        "1950s",
+        "script",
+        "upright script",
+        "vintage",
+        "retro",
+        "ball terminals",
+        "bold",
+        "delicate",
+        "handmade",
+        "swash",
+        "display"
+    ],
+    "variations": [
+        {
+            "name": "4",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/barber/4",
+            "css": {
+                "font-family": "Barber 4",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3847",
+                "slug": "4",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "2",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/barber/2",
+            "css": {
+                "font-family": "Barber 2",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3844",
+                "slug": "2",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "3",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/barber/3",
+            "css": {
+                "font-family": "Barber 3",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3846",
+                "slug": "3",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "1",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/barber/1",
+            "css": {
+                "font-family": "Barber 1",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3842",
+                "slug": "1",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "1 Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/barber/1italic",
+            "css": {
+                "font-family": "Barber 1 Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3841",
+                "slug": "1italic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "4 Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/barber/4italic",
+            "css": {
+                "font-family": "Barber 4 Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3848",
+                "slug": "4italic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "2 Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/barber/2italic",
+            "css": {
+                "font-family": "Barber 2 Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3843",
+                "slug": "2italic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "3 Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/barber/3italic",
+            "css": {
+                "font-family": "Barber 3 Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3845",
+                "slug": "3italic",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "911",
+        "slug": "barber"
+    },
+    "generatedAt": 1437610103284
+}

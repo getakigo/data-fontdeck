@@ -1,0 +1,100 @@
+{
+    "name": "Ivory",
+    "url": "http://fontdeck.com/typeface/ivory",
+    "slug": "ivory",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Serif",
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "FaceType",
+    "designer": [
+        "Marcus Sterz"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "serif",
+        "invitation",
+        "chromatic",
+        "card",
+        "caps",
+        "majestic",
+        "noble",
+        "1800s",
+        "capitals",
+        "distinguished",
+        "victorian",
+        "decorative",
+        "tendrils",
+        "initials",
+        "1882",
+        "elegant",
+        "greeting",
+        "xmas",
+        "upper case",
+        "antiqua",
+        "british",
+        "old",
+        "vintage",
+        "ornate",
+        "ornamental",
+        "wedding",
+        "christmas"
+    ],
+    "variations": [
+        {
+            "name": "Headline",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/ivory/headline",
+            "css": {
+                "font-family": "Ivory Headline",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5138",
+                "slug": "headline",
+                "price": "$8.50"
+            }
+        },
+        {
+            "name": "No Swashes",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/ivory/noswashes",
+            "css": {
+                "font-family": "Ivory No Swashes",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5140",
+                "slug": "noswashes",
+                "price": "$5.50"
+            }
+        },
+        {
+            "name": "Swashes",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/ivory/swashes",
+            "css": {
+                "font-family": "Ivory Swashes",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5139",
+                "slug": "swashes",
+                "price": "$5.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1221",
+        "slug": "ivory"
+    },
+    "generatedAt": 1437610622664
+}

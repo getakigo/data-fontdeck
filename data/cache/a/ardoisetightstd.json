@@ -1,0 +1,180 @@
+{
+    "name": "Ardoise Tight Std",
+    "url": "http://fontdeck.com/typeface/ardoisetightstd",
+    "slug": "ardoisetightstd",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Neo-Grotesk",
+        "Display",
+        "Sans serif",
+        "Sans Serif",
+        "Hybrid",
+        "Sans Serif",
+        "Humanist"
+    ],
+    "foundry": "Typofonderie",
+    "designer": [
+        "Jean François Porchez"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "compact",
+        "narrow",
+        "condensed",
+        "publishing",
+        "text",
+        "design",
+        "identity",
+        "branding",
+        "data",
+        "paragraph",
+        "newspaper",
+        "display",
+        "magazine"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/ardoisetightstd/thin",
+            "css": {
+                "font-family": "Ardoise Tight Std Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8664",
+                "slug": "thin",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Extra-light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/ardoisetightstd/extralight",
+            "css": {
+                "font-family": "Ardoise Tight Std Extra Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8665",
+                "slug": "extralight",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/ardoisetightstd/light",
+            "css": {
+                "font-family": "Ardoise Tight Std Light",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8666",
+                "slug": "light",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/ardoisetightstd/regular",
+            "css": {
+                "font-family": "Ardoise Tight Std Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8667",
+                "slug": "regular",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/ardoisetightstd/bold",
+            "css": {
+                "font-family": "Ardoise Tight Std Bold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8669",
+                "slug": "bold",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/ardoisetightstd/extrabold",
+            "css": {
+                "font-family": "Ardoise Tight Std Extra Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8670",
+                "slug": "extrabold",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/ardoisetightstd/heavy",
+            "css": {
+                "font-family": "Ardoise Tight Std Heavy",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8671",
+                "slug": "heavy",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/ardoisetightstd/black",
+            "css": {
+                "font-family": "Ardoise Tight Std Black",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8672",
+                "slug": "black",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Demi",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/ardoisetightstd/demi",
+            "css": {
+                "font-family": "Ardoise Tight Std Demi",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8668",
+                "slug": "demi",
+                "price": "$26.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1997",
+        "slug": "ardoisetightstd"
+    },
+    "generatedAt": 1437611544205
+}

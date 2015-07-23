@@ -1,0 +1,124 @@
+{
+    "name": "Huronia Latin Expert Subset",
+    "url": "http://fontdeck.com/typeface/huronialatinexpertsubset",
+    "slug": "huronialatinexpertsubset",
+    "superfamily": "Huronia",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Rugged",
+        "Serif",
+        "Neo-classical"
+    ],
+    "foundry": "Rosetta",
+    "designer": [
+        "Ross Mills"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "expert subset"
+    ],
+    "variations": [
+        {
+            "name": "Bold SC",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/huronialatinexpertsubset/boldsc",
+            "css": {
+                "font-family": "HuroniaLatinExpertSubsetBoldSC",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7822",
+                "slug": "boldsc",
+                "price": "$4.50"
+            }
+        },
+        {
+            "name": "Bold LF",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/huronialatinexpertsubset/boldlf",
+            "css": {
+                "font-family": "HuroniaLatinExpertSubsetBoldLF",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7825",
+                "slug": "boldlf",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "Regular LF",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/huronialatinexpertsubset/regularlf",
+            "css": {
+                "font-family": "HuroniLatiExperSubseRegulaL",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7824",
+                "slug": "regularlf",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "Regular SC",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/huronialatinexpertsubset/regularsc",
+            "css": {
+                "font-family": "HuroniLatiExperSubseRegulaS",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7821",
+                "slug": "regularsc",
+                "price": "$4.50"
+            }
+        },
+        {
+            "name": "Regular Italic SC",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/huronialatinexpertsubset/italicsc",
+            "css": {
+                "font-family": "HuroniLatiExperSubseItaliS",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7823",
+                "slug": "italicsc",
+                "price": "$4.50"
+            }
+        },
+        {
+            "name": "Regular Italic LF",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/huronialatinexpertsubset/italiclf",
+            "css": {
+                "font-family": "HuroniLatiExperSubseItaliL",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7826",
+                "slug": "italiclf",
+                "price": "$3.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1800",
+        "slug": "huronialatinexpertsubset"
+    },
+    "expert subset": [
+        "lnum",
+        "smcp"
+    ],
+    "generatedAt": 1437611300833
+}

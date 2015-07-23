@@ -1,0 +1,82 @@
+{
+    "name": "Sutturah Latin",
+    "url": "http://fontdeck.com/typeface/sutturahlatin",
+    "slug": "sutturahlatin",
+    "superfamily": "Sutturah",
+    "use": "body",
+    "classification": [
+        "Display",
+        "Experimental",
+        "Blackletters",
+        "Experimental blackletter",
+        "Display",
+        "Script",
+        "Display",
+        "Fat Face",
+        "Display",
+        "Poster",
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "Rosetta",
+    "designer": [
+        "Octavio Pardo"
+    ],
+    "opentype": [
+        "calt",
+        "liga",
+        "salt",
+        "ss01",
+        "ss02",
+        "swsh"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "expressive",
+        "opentype",
+        "octavio pardo",
+        "21st century",
+        "sharp",
+        "spanish",
+        "logo",
+        "fat",
+        "informal",
+        "latin",
+        "magazine",
+        "tdc",
+        "poster",
+        "black",
+        "granshan",
+        "hinted",
+        "script",
+        "awarded",
+        "swashes",
+        "handwriting",
+        "playful",
+        "display"
+    ],
+    "variations": [
+        {
+            "name": "Fat",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/sutturahlatin/fat",
+            "css": {
+                "font-family": "Sutturah Latin Fat",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6699",
+                "slug": "fat",
+                "price": "$13.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1528",
+        "slug": "sutturahlatin"
+    },
+    "generatedAt": 1437610979546
+}

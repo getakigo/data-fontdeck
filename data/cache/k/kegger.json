@@ -1,0 +1,45 @@
+{
+    "name": "Kegger",
+    "url": "http://fontdeck.com/typeface/kegger",
+    "slug": "kegger",
+    "use": "body",
+    "classification": [
+        "Display",
+        "Slab serif",
+        "Slab Serif",
+        "Static"
+    ],
+    "foundry": "Chank Co",
+    "designer": [
+        "Chank Diesel"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "college",
+        "geometric"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/kegger/regular",
+            "css": {
+                "font-family": "Kegger Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "465",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "187",
+        "slug": "kegger"
+    },
+    "generatedAt": 1437608979618
+}

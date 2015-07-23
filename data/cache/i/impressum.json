@@ -1,0 +1,110 @@
+{
+    "name": "Impressum",
+    "url": "http://fontdeck.com/typeface/impressum",
+    "slug": "impressum",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Modern"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "URW Studio"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "sensible",
+        "formal",
+        "feminine",
+        "elegant",
+        "legible",
+        "1960s",
+        "small caps",
+        "valuable",
+        "didone"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/impressum/light",
+            "css": {
+                "font-family": "Impressum Light",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "896",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/impressum/lightitalic",
+            "css": {
+                "font-family": "Impressum Light Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "897",
+                "slug": "lightitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/impressum/medium",
+            "css": {
+                "font-family": "Impressum Medium",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "898",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Small Caps Medium",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/impressum/smallcapsmedium",
+            "css": {
+                "font-family": "Impressum Small Caps Medium",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "900",
+                "slug": "smallcapsmedium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Small Caps Light",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/impressum/smallcapslight",
+            "css": {
+                "font-family": "Impressum Small Caps Light",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "899",
+                "slug": "smallcapslight",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "269",
+        "slug": "impressum"
+    },
+    "generatedAt": 1437609111912
+}

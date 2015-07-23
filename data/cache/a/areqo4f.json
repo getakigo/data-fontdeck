@@ -1,0 +1,40 @@
+{
+    "name": "Areqo 4F",
+    "url": "http://fontdeck.com/typeface/areqo4f",
+    "slug": "areqo4f",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "All caps"
+    ],
+    "foundry": "4th february",
+    "designer": [
+        "Sergiy S. Tkachenko"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [],
+    "variations": [
+        {
+            "name": "Ultra-light",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/areqo4f/ultralight",
+            "css": {
+                "font-family": "Areqo 4F UltraLight",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8350",
+                "slug": "ultralight",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1907",
+        "slug": "areqo4f"
+    },
+    "generatedAt": 1437611418694
+}

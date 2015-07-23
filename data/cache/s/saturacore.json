@@ -1,0 +1,116 @@
+{
+    "name": "Satura Core",
+    "url": "http://fontdeck.com/typeface/saturacore",
+    "slug": "saturacore",
+    "superfamily": "Satura",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Neo-Grotesk",
+        "Display",
+        "Sans serif"
+    ],
+    "foundry": "Letters from Sweden",
+    "designer": [
+        "Göran Söderström",
+        "Peter Bruhn"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "advertising",
+        "rare",
+        "warm",
+        "series",
+        "layering",
+        "classic",
+        "geometric",
+        "text",
+        "legible",
+        "line",
+        "super family",
+        "contemporary",
+        "magazine",
+        "lineal",
+        "poster",
+        "spurless",
+        "decorative",
+        "modern",
+        "unique",
+        "headline",
+        "thin",
+        "unusual",
+        "display",
+        "clean",
+        "suite",
+        "core"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/saturacore/thin",
+            "css": {
+                "font-family": "Satura Core Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4476",
+                "slug": "thin",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/saturacore/extralight",
+            "css": {
+                "font-family": "Satura Core Extra Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4473",
+                "slug": "extralight",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/saturacore/light",
+            "css": {
+                "font-family": "Satura Core Light",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4474",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/saturacore/regular",
+            "css": {
+                "font-family": "Satura Core Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4475",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1053",
+        "slug": "saturacore"
+    },
+    "generatedAt": 1437610700593
+}

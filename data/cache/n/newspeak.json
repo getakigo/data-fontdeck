@@ -1,0 +1,65 @@
+{
+    "name": "Newspeak",
+    "url": "http://fontdeck.com/typeface/newspeak",
+    "slug": "newspeak",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Slab serif",
+        "Display",
+        "Poster"
+    ],
+    "foundry": "VirusFonts",
+    "designer": [
+        "Jonathan Barnbrook"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "experimental",
+        "architectural",
+        "sinister",
+        "bold",
+        "headline",
+        "stalinist",
+        "poster"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/newspeak/light",
+            "css": {
+                "font-family": "Newspeak Light",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3390",
+                "slug": "light",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/newspeak/heavy",
+            "css": {
+                "font-family": "Newspeak Heavy",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3389",
+                "slug": "heavy",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "818",
+        "slug": "newspeak"
+    },
+    "generatedAt": 1437609934460
+}

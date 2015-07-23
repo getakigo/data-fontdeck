@@ -1,0 +1,250 @@
+{
+    "name": "Nordic Narrow",
+    "url": "http://fontdeck.com/typeface/nordicnarrow",
+    "slug": "nordicnarrow",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Sans Serif",
+        "Hybrid"
+    ],
+    "foundry": "Characters Font Foundry",
+    "designer": [
+        "René Verkaart"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "narrow",
+        "warm",
+        "condensed",
+        "scandinavian",
+        "diagonal mid-strokes",
+        "geometric",
+        "light",
+        "super family",
+        "nordic",
+        "headline",
+        "heavy",
+        "analogue"
+    ],
+    "variations": [
+        {
+            "name": "Thin Italic",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/nordicnarrow/thinitalic",
+            "css": {
+                "font-family": "Nordic Narrow Thin Italic",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4416",
+                "slug": "thinitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/nordicnarrow/thin",
+            "css": {
+                "font-family": "Nordic Narrow Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4415",
+                "slug": "thin",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/nordicnarrow/extralight",
+            "css": {
+                "font-family": "Nordic Narrow Extra Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4408",
+                "slug": "extralight",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/nordicnarrow/extralightitalic",
+            "css": {
+                "font-family": "NordicNarrowExtraLightItalic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4409",
+                "slug": "extralightitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/nordicnarrow/light",
+            "css": {
+                "font-family": "Nordic Narrow Light",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4411",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i3",
+            "url": "http://fontdeck.com/font/nordicnarrow/lightitalic",
+            "css": {
+                "font-family": "Nordic Narrow Light Italic",
+                "font-weight": "300",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4412",
+                "slug": "lightitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/nordicnarrow/regular",
+            "css": {
+                "font-family": "Nordic Narrow Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4417",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/nordicnarrow/italic",
+            "css": {
+                "font-family": "Nordic Narrow Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4410",
+                "slug": "italic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/nordicnarrow/semibold",
+            "css": {
+                "font-family": "Nordic Narrow Semi Bold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4413",
+                "slug": "semibold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Semi-bold Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/nordicnarrow/semibolditalic",
+            "css": {
+                "font-family": "Nordic Narrow Semi Bold Italic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4414",
+                "slug": "semibolditalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/nordicnarrow/bold",
+            "css": {
+                "font-family": "Nordic Narrow Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4404",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/nordicnarrow/bolditalic",
+            "css": {
+                "font-family": "Nordic Narrow Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4405",
+                "slug": "bolditalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/nordicnarrow/extrabold",
+            "css": {
+                "font-family": "Nordic Narrow Extra Bold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4406",
+                "slug": "extrabold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-bold Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/nordicnarrow/extrabolditalic",
+            "css": {
+                "font-family": "Nordic Narrow Extra Bold Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4407",
+                "slug": "extrabolditalic",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1040",
+        "slug": "nordicnarrow"
+    },
+    "generatedAt": 1437610690907
+}

@@ -1,0 +1,172 @@
+{
+    "name": "Stat Display Pro",
+    "url": "http://fontdeck.com/typeface/statdisplaypro",
+    "slug": "statdisplaypro",
+    "superfamily": "Stat Pro",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif"
+    ],
+    "foundry": "Jure Kožuh",
+    "designer": [
+        "Jure Kožuh"
+    ],
+    "opentype": [
+        "c2sc",
+        "liga",
+        "lnum",
+        "onum",
+        "pnum",
+        "smcp",
+        "tnum"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "opentype",
+        "table",
+        "text",
+        "legible",
+        "information design",
+        "wayfinding",
+        "infographic",
+        "sans",
+        "distance",
+        "stat",
+        "body text",
+        "design",
+        "size",
+        "movement",
+        "superfamily",
+        "legibility"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/statdisplaypro/light",
+            "css": {
+                "font-family": "Stat Display Pro Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6694",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light Oblique",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/statdisplaypro/lightoblique",
+            "css": {
+                "font-family": "Stat Display Pro Light Oblique",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6693",
+                "slug": "lightoblique",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/statdisplaypro/regular",
+            "css": {
+                "font-family": "Stat Display Pro Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6697",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Oblique",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/statdisplaypro/oblique",
+            "css": {
+                "font-family": "Stat Display Pro Oblique",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6698",
+                "slug": "oblique",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/statdisplaypro/medium",
+            "css": {
+                "font-family": "Stat Display Pro Medium",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6695",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium Oblique",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/statdisplaypro/mediumoblique",
+            "css": {
+                "font-family": "Stat Display Pro Medium Oblique",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6696",
+                "slug": "mediumoblique",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/statdisplaypro/bold",
+            "css": {
+                "font-family": "Stat Display Pro Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6691",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Oblique",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/statdisplaypro/boldoblique",
+            "css": {
+                "font-family": "Stat Display Pro Bold Oblique",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6692",
+                "slug": "boldoblique",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1527",
+        "slug": "statdisplaypro"
+    },
+    "generatedAt": 1437610965835
+}

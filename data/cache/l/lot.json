@@ -1,0 +1,50 @@
+{
+    "name": "Lot",
+    "url": "http://fontdeck.com/typeface/lot",
+    "slug": "lot",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Experimental",
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "Fontfabric",
+    "designer": [
+        "Svetoslav Simov"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "experimental",
+        "decorative",
+        "triangle",
+        "square",
+        "quirky",
+        "display",
+        "sharp"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/lot/regular",
+            "css": {
+                "font-family": "Lot Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3281",
+                "slug": "regular",
+                "price": "$3.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "782",
+        "slug": "lot"
+    },
+    "generatedAt": 1437609872514
+}

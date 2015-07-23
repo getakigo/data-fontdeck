@@ -1,0 +1,79 @@
+{
+    "name": "November Script",
+    "url": "http://fontdeck.com/typeface/novemberscript",
+    "slug": "novemberscript",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Handwritten"
+    ],
+    "foundry": "Fenotype",
+    "designer": [
+        "Emil Bertell"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "cursive",
+        "script",
+        "handwriting",
+        "romantic",
+        "monoline",
+        "valentine",
+        "flowing",
+        "casual script"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/novemberscript/regular",
+            "css": {
+                "font-family": "November Script Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2443",
+                "slug": "regular",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/novemberscript/medium",
+            "css": {
+                "font-family": "November Script Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2445",
+                "slug": "medium",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/novemberscript/black",
+            "css": {
+                "font-family": "November Script Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2444",
+                "slug": "black",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "594",
+        "slug": "novemberscript"
+    },
+    "generatedAt": 1437609519049
+}

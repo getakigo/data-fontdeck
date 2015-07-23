@@ -1,0 +1,214 @@
+{
+    "name": "Maison Neue",
+    "url": "http://fontdeck.com/typeface/maisonneue",
+    "slug": "maisonneue",
+    "superfamily": "Maison",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Grotesque"
+    ],
+    "foundry": "Milieu Grotesque",
+    "designer": [
+        "Timo Gaessner"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "modern",
+        "grotesk",
+        "modernism",
+        "grotesque",
+        "monoline",
+        "friendly",
+        "superfamily"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/maisonneue/light",
+            "css": {
+                "font-family": "Maison Neue Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5858",
+                "slug": "light",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/maisonneue/lightitalic",
+            "css": {
+                "font-family": "Maison Neue Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5859",
+                "slug": "lightitalic",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Book",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/maisonneue/book",
+            "css": {
+                "font-family": "Maison Neue Book",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5856",
+                "slug": "book",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Book Italic",
+            "description": "i3",
+            "url": "http://fontdeck.com/font/maisonneue/bookitalic",
+            "css": {
+                "font-family": "Maison Neue Book Italic",
+                "font-weight": "300",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5857",
+                "slug": "bookitalic",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/maisonneue/medium",
+            "css": {
+                "font-family": "Maison Neue Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5854",
+                "slug": "medium",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/maisonneue/mediumitalic",
+            "css": {
+                "font-family": "Maison Neue Medium Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5855",
+                "slug": "mediumitalic",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/maisonneue/bold",
+            "css": {
+                "font-family": "Maison Neue Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5851",
+                "slug": "bold",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/maisonneue/bolditalic",
+            "css": {
+                "font-family": "Maison Neue Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5852",
+                "slug": "bolditalic",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Mono",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/maisonneue/mono",
+            "css": {
+                "font-family": "Maison Neue Mono",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5860",
+                "slug": "mono",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Demi",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/maisonneue/demi",
+            "css": {
+                "font-family": "Maison Neue Demi",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5853",
+                "slug": "demi",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Demi Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/maisonneue/demiitalic",
+            "css": {
+                "font-family": "Maison Neue Demi Italic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5850",
+                "slug": "demiitalic",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Mono Italic",
+            "description": "i3",
+            "url": "http://fontdeck.com/font/maisonneue/monoitalic",
+            "css": {
+                "font-family": "Maison Neue Mono Italic",
+                "font-weight": "300",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5861",
+                "slug": "monoitalic",
+                "price": "$15.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1341",
+        "slug": "maisonneue"
+    },
+    "generatedAt": 1437610740718
+}

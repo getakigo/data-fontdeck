@@ -1,0 +1,51 @@
+{
+    "name": "Qiltray",
+    "url": "http://fontdeck.com/typeface/qiltray",
+    "slug": "qiltray",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Handwritten"
+    ],
+    "foundry": "Tour de Force",
+    "designer": [
+        "Dušan Jelesijević"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "modern",
+        "narrow",
+        "handwriting",
+        "condensed",
+        "rough",
+        "soft",
+        "cyrillic",
+        "headline",
+        "readable",
+        "newspaper"
+    ],
+    "variations": [
+        {
+            "name": "Regular Condensed",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/qiltray/regularcondensed",
+            "css": {
+                "font-family": "Qiltray Regular Condensed",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1139",
+                "slug": "regularcondensed",
+                "price": "$7.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "313",
+        "slug": "qiltray"
+    },
+    "generatedAt": 1437609183989
+}

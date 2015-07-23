@@ -1,0 +1,175 @@
+{
+    "name": "Skolar3 PE",
+    "url": "http://fontdeck.com/typeface/skolar3pe",
+    "slug": "skolar3pe",
+    "superfamily": "Skolar",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Rugged",
+        "Serif",
+        "Transitional",
+        "Serif",
+        "Neo-classical"
+    ],
+    "foundry": "Rosetta",
+    "designer": [
+        "David Březina"
+    ],
+    "opentype": [
+        "c2sc",
+        "case",
+        "dnom",
+        "frac",
+        "hist",
+        "liga",
+        "lnum",
+        "numr",
+        "onum",
+        "ordn",
+        "pnum",
+        "sinf",
+        "smcp",
+        "subs",
+        "sups",
+        "tnum",
+        "zero"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "formal",
+        "opentype",
+        "hand hinted",
+        "21st century",
+        "text",
+        "wedge serif",
+        "latin",
+        "cyrillic",
+        "contemporary",
+        "magazine",
+        "hand-hinted",
+        "news",
+        "academic",
+        "dictionary",
+        "david březina",
+        "scholarly",
+        "linguistics",
+        "pan-european",
+        "polytonic greek",
+        "greek",
+        "czech",
+        "low-contrast",
+        "workhorse",
+        "legible",
+        "pe",
+        "sturdy",
+        "brochure",
+        "manually hinted",
+        "neutral",
+        "playful",
+        "book",
+        "light",
+        "corporate",
+        "superfamily",
+        "21st century text"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/skolar3pe/regular",
+            "css": {
+                "font-family": "Skolar3 PE Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7783",
+                "slug": "regular",
+                "price": "$25.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/skolar3pe/italic",
+            "css": {
+                "font-family": "Skolar3 PE Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7784",
+                "slug": "italic",
+                "price": "$25.00"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/skolar3pe/semibold",
+            "css": {
+                "font-family": "Skolar3 PE Semibold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7785",
+                "slug": "semibold",
+                "price": "$25.00"
+            }
+        },
+        {
+            "name": "Semi-bold Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/skolar3pe/semibolditalic",
+            "css": {
+                "font-family": "Skolar3 PE Semibold Italic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7786",
+                "slug": "semibolditalic",
+                "price": "$25.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/skolar3pe/bold",
+            "css": {
+                "font-family": "Skolar3 PE Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7787",
+                "slug": "bold",
+                "price": "$25.00"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/skolar3pe/bolditalic",
+            "css": {
+                "font-family": "Skolar3 PE Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7788",
+                "slug": "bolditalic",
+                "price": "$25.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1794",
+        "slug": "skolar3pe"
+    },
+    "generatedAt": 1437611289239
+}

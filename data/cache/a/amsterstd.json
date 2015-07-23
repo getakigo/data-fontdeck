@@ -1,0 +1,204 @@
+{
+    "name": "Amster Std",
+    "url": "http://fontdeck.com/typeface/amsterstd",
+    "slug": "amsterstd",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Neo-classical"
+    ],
+    "foundry": "PampaType",
+    "designer": [
+        "Francisco Gálvez Pizarro"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "latino",
+        "opentype",
+        "simple",
+        "text",
+        "sharp",
+        "spanish",
+        "legible",
+        "friendly",
+        "contemporary",
+        "chilechilean",
+        "illuminated",
+        "sophisticated",
+        "comfortable",
+        "initials",
+        "latin american",
+        "argentine",
+        "all figures",
+        "poetic",
+        "calligraphic",
+        "pampatype",
+        "delicate",
+        "typographica",
+        "precise",
+        "energetic",
+        "readable",
+        "display",
+        "argentinian",
+        "francisco-galvez"
+    ],
+    "variations": [
+        {
+            "name": "Negra",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/amsterstd/negra",
+            "css": {
+                "font-family": "Amster Std Negra",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "9027",
+                "slug": "negra",
+                "price": "$16.25"
+            }
+        },
+        {
+            "name": "Gris",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/amsterstd/gris",
+            "css": {
+                "font-family": "Amster Std Gris",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "9025",
+                "slug": "gris",
+                "price": "$16.25"
+            }
+        },
+        {
+            "name": "SuperNegra",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/amsterstd/supernegra",
+            "css": {
+                "font-family": "Amster Std SuperNegra",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "9029",
+                "slug": "supernegra",
+                "price": "$16.25"
+            }
+        },
+        {
+            "name": "Fina",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/amsterstd/fina",
+            "css": {
+                "font-family": "Amster Std Fina",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "9023",
+                "slug": "fina",
+                "price": "$16.25"
+            }
+        },
+        {
+            "name": "Blanca",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/amsterstd/blanca",
+            "css": {
+                "font-family": "Amster Std Blanca",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "9021",
+                "slug": "blanca",
+                "price": "$16.25"
+            }
+        },
+        {
+            "name": "Blanca Italica",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/amsterstd/blancaitalica",
+            "css": {
+                "font-family": "Amster Std Blanca Italica",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "9022",
+                "slug": "blancaitalica",
+                "price": "$16.25"
+            }
+        },
+        {
+            "name": "Gris Italica",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/amsterstd/grisitalica",
+            "css": {
+                "font-family": "Amster Std Gris Italica",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "9026",
+                "slug": "grisitalica",
+                "price": "$16.25"
+            }
+        },
+        {
+            "name": "Negra Italica",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/amsterstd/negraitalica",
+            "css": {
+                "font-family": "Amster Std Negra Italica",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "9028",
+                "slug": "negraitalica",
+                "price": "$16.25"
+            }
+        },
+        {
+            "name": "Fina Italica",
+            "description": "i3",
+            "url": "http://fontdeck.com/font/amsterstd/finaitalica",
+            "css": {
+                "font-family": "Amster Std Fina Italica",
+                "font-weight": "300",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "9024",
+                "slug": "finaitalica",
+                "price": "$16.25"
+            }
+        },
+        {
+            "name": "SuperNegra Italica",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/amsterstd/supernegraitalica",
+            "css": {
+                "font-family": "Amster Std SuperNegra Italica",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "9030",
+                "slug": "supernegraitalica",
+                "price": "$16.25"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "2019",
+        "slug": "amsterstd"
+    },
+    "generatedAt": 1437611626030
+}

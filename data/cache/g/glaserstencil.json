@@ -1,0 +1,77 @@
+{
+    "name": "Glaser Stencil",
+    "url": "http://fontdeck.com/typeface/glaserstencil",
+    "slug": "glaserstencil",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Stencil"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Milton Glaser"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "decorative",
+        "graphic",
+        "sans-serif",
+        "geometric",
+        "stencil",
+        "avant garde"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/glaserstencil/regular",
+            "css": {
+                "font-family": "Glaser Stencil Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2061",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Shadow",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/glaserstencil/shadow",
+            "css": {
+                "font-family": "Glaser Stencil Shadow",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2063",
+                "slug": "shadow",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Small Caps",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/glaserstencil/smallcaps",
+            "css": {
+                "font-family": "Glaser Stencil Small Caps",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2062",
+                "slug": "smallcaps",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "521",
+        "slug": "glaserstencil"
+    },
+    "generatedAt": 1437609378808
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Basic",
+    "url": "http://fontdeck.com/typeface/basic",
+    "slug": "basic",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "Freddy Taylor",
+    "designer": [
+        "Freddy Taylor"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "simple",
+        "clean",
+        "legible"
+    ],
+    "variations": [
+        {
+            "name": "Semi-bold",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/basic/semibold",
+            "css": {
+                "font-family": "Basic SemiBold",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6622",
+                "slug": "semibold",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1514",
+        "slug": "basic"
+    },
+    "generatedAt": 1437610955653
+}

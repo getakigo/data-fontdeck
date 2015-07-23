@@ -1,0 +1,106 @@
+{
+    "name": "Century Schoolbook",
+    "url": "http://fontdeck.com/typeface/centuryschoolbook",
+    "slug": "centuryschoolbook",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Transitional"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Morris Fuller Benton"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "coarse",
+        "1970s",
+        "romanserif",
+        "technical",
+        "legible",
+        "american",
+        "fax",
+        "clarendon",
+        "memos",
+        "didone",
+        "news",
+        "magazine",
+        "modern",
+        "heavy serif",
+        "1910s",
+        "masculine",
+        "complex",
+        "transitional",
+        "book text",
+        "books"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/centuryschoolbook/regular",
+            "css": {
+                "font-family": "Century Schoolbook Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1467",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/centuryschoolbook/italic",
+            "css": {
+                "font-family": "Century Schoolbook Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1468",
+                "slug": "italic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/centuryschoolbook/bold",
+            "css": {
+                "font-family": "Century Schoolbook Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1465",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/centuryschoolbook/bolditalic",
+            "css": {
+                "font-family": "Century Schoolbook Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1466",
+                "slug": "bolditalic",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "395",
+        "slug": "centuryschoolbook"
+    },
+    "generatedAt": 1437609271225
+}

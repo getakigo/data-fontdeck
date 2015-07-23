@@ -1,0 +1,224 @@
+{
+    "name": "Sophisto",
+    "url": "http://fontdeck.com/typeface/sophisto",
+    "slug": "sophisto",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "MAC Rhino Fonts",
+    "designer": [
+        "Stefan Hattenbach"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "monoline",
+        "personal",
+        "true italics"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/sophisto/light",
+            "css": {
+                "font-family": "Sophisto Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2518",
+                "slug": "light",
+                "price": "$12.49"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/sophisto/lightitalic",
+            "css": {
+                "font-family": "Sophisto Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2519",
+                "slug": "lightitalic",
+                "price": "$12.49"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/sophisto/regular",
+            "css": {
+                "font-family": "Sophisto Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2520",
+                "slug": "regular",
+                "price": "$12.49"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/sophisto/italic",
+            "css": {
+                "font-family": "Sophisto Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2521",
+                "slug": "italic",
+                "price": "$12.49"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/sophisto/bold",
+            "css": {
+                "font-family": "Sophisto Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2522",
+                "slug": "bold",
+                "price": "$12.49"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/sophisto/bolditalic",
+            "css": {
+                "font-family": "Sophisto Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2523",
+                "slug": "bolditalic",
+                "price": "$12.49"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/sophisto/heavy",
+            "css": {
+                "font-family": "Sophisto Heavy",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2526",
+                "slug": "heavy",
+                "price": "$12.49"
+            }
+        },
+        {
+            "name": "Heavy Italic",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/sophisto/heavyitalic",
+            "css": {
+                "font-family": "Sophisto Heavy Italic",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2527",
+                "slug": "heavyitalic",
+                "price": "$12.49"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/sophisto/black",
+            "css": {
+                "font-family": "Sophisto Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2524",
+                "slug": "black",
+                "price": "$12.49"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/sophisto/blackitalic",
+            "css": {
+                "font-family": "Sophisto Black Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2525",
+                "slug": "blackitalic",
+                "price": "$12.49"
+            }
+        },
+        {
+            "name": "Small Caps Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/sophisto/smallcapslight",
+            "css": {
+                "font-family": "Sophisto Small Caps Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2528",
+                "slug": "smallcapslight",
+                "price": "$12.49"
+            }
+        },
+        {
+            "name": "Small Caps Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/sophisto/smallcapsbold",
+            "css": {
+                "font-family": "Sophisto Small Caps Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2530",
+                "slug": "smallcapsbold",
+                "price": "$12.49"
+            }
+        },
+        {
+            "name": "Small Caps Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/sophisto/smallcapsregular",
+            "css": {
+                "font-family": "Sophisto Small Caps Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2529",
+                "slug": "smallcapsregular",
+                "price": "$12.49"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "611",
+        "slug": "sophisto"
+    },
+    "generatedAt": 1437609566105
+}

@@ -1,0 +1,222 @@
+{
+    "name": "Chennai",
+    "url": "http://fontdeck.com/typeface/chennai",
+    "slug": "chennai",
+    "superfamily": "Chennai",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "Insigne",
+    "designer": [
+        "Jeremy Dooley"
+    ],
+    "opentype": [
+        "liga"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "decorative",
+        "opentype",
+        "feminine",
+        "plain",
+        "insigne",
+        "geometric",
+        "fashionable",
+        "legible",
+        "fun",
+        "futuristic",
+        "rounded",
+        "superfamily"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/chennai/thin",
+            "css": {
+                "font-family": "Chennai Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "528",
+                "slug": "thin",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Thin Oblique",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/chennai/thinoblique",
+            "css": {
+                "font-family": "Chennai Thin Oblique",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "527",
+                "slug": "thinoblique",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/chennai/light",
+            "css": {
+                "font-family": "Chennai Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "521",
+                "slug": "light",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Light Oblique",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/chennai/lightoblique",
+            "css": {
+                "font-family": "Chennai Light Oblique",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "522",
+                "slug": "lightoblique",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/chennai/regular",
+            "css": {
+                "font-family": "Chennai Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "526",
+                "slug": "regular",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Regular Oblique",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/chennai/oblique",
+            "css": {
+                "font-family": "Chennai Oblique",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "525",
+                "slug": "oblique",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/chennai/medium",
+            "css": {
+                "font-family": "Chennai Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "524",
+                "slug": "medium",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Medium Oblique",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/chennai/mediumoblique",
+            "css": {
+                "font-family": "Chennai Medium Oblique",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "523",
+                "slug": "mediumoblique",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/chennai/bold",
+            "css": {
+                "font-family": "Chennai Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "520",
+                "slug": "bold",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Bold Oblique",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/chennai/boldoblique",
+            "css": {
+                "font-family": "Chennai Bold Oblique",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "519",
+                "slug": "boldoblique",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/chennai/black",
+            "css": {
+                "font-family": "Chennai Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "518",
+                "slug": "black",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Black Oblique",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/chennai/blackoblique",
+            "css": {
+                "font-family": "Chennai Black Oblique",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "517",
+                "slug": "blackoblique",
+                "price": "$7.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "207",
+        "slug": "chennai"
+    },
+    "generatedAt": 1437609009261
+}

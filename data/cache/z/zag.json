@@ -1,0 +1,147 @@
+{
+    "name": "Zag",
+    "url": "http://fontdeck.com/typeface/zag",
+    "slug": "zag",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Art Deco"
+    ],
+    "foundry": "Fontfabric",
+    "designer": [
+        "Svetoslav Simov"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "narrow",
+        "hairlines",
+        "logo",
+        "personality",
+        "magazine",
+        "poster",
+        "decorative",
+        "elegant",
+        "funny",
+        "curly",
+        "fashionable",
+        "art deco",
+        "fresh",
+        "retro",
+        "thin",
+        "headline"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/zag/thin",
+            "css": {
+                "font-family": "Zag Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2981",
+                "slug": "thin",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/zag/light",
+            "css": {
+                "font-family": "Zag Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2978",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Book",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/zag/book",
+            "css": {
+                "font-family": "Zag Book",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2979",
+                "slug": "book",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/zag/regular",
+            "css": {
+                "font-family": "Zag Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2980",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/zag/bold",
+            "css": {
+                "font-family": "Zag Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2974",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Deco Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/zag/decothin",
+            "css": {
+                "font-family": "Zag Deco Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2976",
+                "slug": "decothin",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Drops Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/zag/dropsthin",
+            "css": {
+                "font-family": "Zag Drops Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2977",
+                "slug": "dropsthin",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "690",
+        "slug": "zag"
+    },
+    "generatedAt": 1437609730377
+}

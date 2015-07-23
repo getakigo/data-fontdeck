@@ -1,0 +1,100 @@
+{
+    "name": "Refrigerator Deluxe",
+    "url": "http://fontdeck.com/typeface/refrigeratordeluxe",
+    "slug": "refrigeratordeluxe",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Art Deco",
+        "Sans Serif",
+        "Geometric",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "Mark Simonson Studio",
+    "designer": [
+        "Mark Simonson"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "1950s",
+        "narrow",
+        "condensed",
+        "art deco",
+        "grotesque",
+        "mechanical",
+        "retro",
+        "gaspipe",
+        "vernacular",
+        "square sans"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/refrigeratordeluxe/light",
+            "css": {
+                "font-family": "Refrigerator Deluxe Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1306",
+                "slug": "light",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/refrigeratordeluxe/regular",
+            "css": {
+                "font-family": "Refrigerator Deluxe Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1307",
+                "slug": "regular",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/refrigeratordeluxe/bold",
+            "css": {
+                "font-family": "Refrigerator Deluxe Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1304",
+                "slug": "bold",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/refrigeratordeluxe/heavy",
+            "css": {
+                "font-family": "Refrigerator Deluxe Heavy",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1305",
+                "slug": "heavy",
+                "price": "$9.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "355",
+        "slug": "refrigeratordeluxe"
+    },
+    "generatedAt": 1437609215180
+}

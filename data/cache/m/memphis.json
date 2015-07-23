@@ -1,0 +1,102 @@
+{
+    "name": "Memphis",
+    "url": "http://fontdeck.com/typeface/memphis",
+    "slug": "memphis",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Slab serif",
+        "Slab Serif",
+        "Grotesque/Geometric"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Emil Rudolph Weiss"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "news headline",
+        "1930s",
+        "technical",
+        "geometric",
+        "legible",
+        "masculine",
+        "fax",
+        "heavy",
+        "memos",
+        "german",
+        "news",
+        "magazine",
+        "economic",
+        "primitive"
+    ],
+    "variations": [
+        {
+            "name": "Extra-light",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/memphis/extralight",
+            "css": {
+                "font-family": "Memphis Extra Light",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1625",
+                "slug": "extralight",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/memphis/light",
+            "css": {
+                "font-family": "Memphis Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1626",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/memphis/medium",
+            "css": {
+                "font-family": "Memphis Medium",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1627",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/memphis/bold",
+            "css": {
+                "font-family": "Memphis Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1624",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "428",
+        "slug": "memphis"
+    },
+    "generatedAt": 1437609328594
+}

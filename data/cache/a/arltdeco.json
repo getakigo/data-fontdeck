@@ -1,0 +1,104 @@
+{
+    "name": "Arlt Deco",
+    "url": "http://fontdeck.com/typeface/arltdeco",
+    "slug": "arltdeco",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "All caps"
+    ],
+    "foundry": "PampaType",
+    "designer": [
+        "Alejandro Lo Celso"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "family",
+        "expressive",
+        "poetry",
+        "serif",
+        "titling",
+        "seven madmen",
+        "literary",
+        "creative review",
+        "optical sizes",
+        "openface",
+        "siete locos",
+        "text",
+        "argentina",
+        "system",
+        "contemporary",
+        "quirky",
+        "author",
+        "literature",
+        "poetic",
+        "calligraphic",
+        "typographica",
+        "headline",
+        "deco",
+        "multistyle",
+        "display",
+        "nice rhythm",
+        "argentinian",
+        "books",
+        "novels",
+        "workhorse",
+        "roberto arlt",
+        "argentinean",
+        "legible",
+        "e-books",
+        "true italics",
+        "comfortable",
+        "decorative",
+        "elegant",
+        "sensitive",
+        "expressionist",
+        "serapion",
+        "engraved",
+        "oldstyle",
+        "magazines",
+        "delicate",
+        "readable",
+        "inline",
+        "distressed"
+    ],
+    "variations": [
+        {
+            "name": "1",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/arltdeco/1",
+            "css": {
+                "font-family": "Arlt Deco 1",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8989",
+                "slug": "1",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "2",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/arltdeco/2",
+            "css": {
+                "font-family": "Arlt Deco 2",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8990",
+                "slug": "2",
+                "price": "$25.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "2012",
+        "slug": "arltdeco"
+    },
+    "generatedAt": 1437611597833
+}

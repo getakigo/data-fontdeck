@@ -1,0 +1,160 @@
+{
+    "name": "Generika",
+    "url": "http://fontdeck.com/typeface/generika",
+    "slug": "generika",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Sans Serif",
+        "Grotesque",
+        "Sans Serif",
+        "Monospaced"
+    ],
+    "foundry": "Milieu Grotesque",
+    "designer": [
+        "Alexander Colby"
+    ],
+    "opentype": [
+        "liga",
+        "ss02",
+        "zero"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "opentype",
+        "condensed",
+        "rounded",
+        "typewriter",
+        "poster"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/generika/light",
+            "css": {
+                "font-family": "Generika Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5589",
+                "slug": "light",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/generika/lightitalic",
+            "css": {
+                "font-family": "Generika Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5590",
+                "slug": "lightitalic",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/generika/regular",
+            "css": {
+                "font-family": "Generika Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5591",
+                "slug": "regular",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/generika/italic",
+            "css": {
+                "font-family": "Generika Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5592",
+                "slug": "italic",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/generika/bold",
+            "css": {
+                "font-family": "Generika Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5587",
+                "slug": "bold",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/generika/bolditalic",
+            "css": {
+                "font-family": "Generika Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5588",
+                "slug": "bolditalic",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Mono",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/generika/mono",
+            "css": {
+                "font-family": "Generika Mono",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5593",
+                "slug": "mono",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Mono Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/generika/monoitalic",
+            "css": {
+                "font-family": "Generika Mono Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5594",
+                "slug": "monoitalic",
+                "price": "$15.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1299",
+        "slug": "generika"
+    },
+    "generatedAt": 1437610716073
+}

@@ -1,0 +1,48 @@
+{
+    "name": "Apercu Mono Pro",
+    "url": "http://fontdeck.com/typeface/apercumonopro",
+    "slug": "apercumonopro",
+    "superfamily": "Apercu",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Monospaced"
+    ],
+    "foundry": "Colophon",
+    "designer": [
+        "Edd Harrington",
+        "Anthony Sheret"
+    ],
+    "language": [
+        "latin",
+        "cyrillic"
+    ],
+    "tags": [
+        "realist",
+        "monospace",
+        "superfamily",
+        "aperçu"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/apercumonopro/regular",
+            "css": {
+                "font-family": "Apercu Mono Pro Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5212",
+                "slug": "regular",
+                "price": "$13.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1232",
+        "slug": "apercumonopro"
+    },
+    "generatedAt": 1437610572420
+}

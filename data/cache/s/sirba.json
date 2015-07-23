@@ -1,0 +1,124 @@
+{
+    "name": "Sirba",
+    "url": "http://fontdeck.com/typeface/sirba",
+    "slug": "sirba",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Transitional"
+    ],
+    "foundry": "TypeTogether",
+    "designer": [
+        "Nicolien van der Keur"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "serif",
+        "text",
+        "legible",
+        "fine crafted",
+        "contemporary",
+        "humanist",
+        "magazine",
+        "versatile",
+        "traditional",
+        "academic",
+        "dictionary",
+        "elegant",
+        "old style",
+        "vivid",
+        "book",
+        "directional serif",
+        "fluid",
+        "dutch",
+        "dark",
+        "editorial",
+        "oldstyle numerals",
+        "annual reports",
+        "graceful"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/sirba/regular",
+            "css": {
+                "font-family": "Sirba Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2118",
+                "slug": "regular",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/sirba/italic",
+            "css": {
+                "font-family": "Sirba Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2117",
+                "slug": "italic",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/sirba/bold",
+            "css": {
+                "font-family": "Sirba Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2115",
+                "slug": "bold",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/sirba/bolditalic",
+            "css": {
+                "font-family": "Sirba Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2116",
+                "slug": "bolditalic",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/sirba/black",
+            "css": {
+                "font-family": "Sirba Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2114",
+                "slug": "black",
+                "price": "$15.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "531",
+        "slug": "sirba"
+    },
+    "generatedAt": 1437609388872
+}

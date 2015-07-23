@@ -1,0 +1,77 @@
+{
+    "name": "EmBauhaus",
+    "url": "http://fontdeck.com/typeface/embauhaus",
+    "slug": "embauhaus",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "Emboss Fonts",
+    "designer": [
+        "Stephen Boss"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "minimalism",
+        "branded",
+        "display",
+        "rounded",
+        "geometric",
+        "bauhaus"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/embauhaus/light",
+            "css": {
+                "font-family": "EmBauhaus Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6896",
+                "slug": "light",
+                "price": "$12.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/embauhaus/regular",
+            "css": {
+                "font-family": "EmBauhaus Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6894",
+                "slug": "regular",
+                "price": "$12.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/embauhaus/bold",
+            "css": {
+                "font-family": "EmBauhaus Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6895",
+                "slug": "bold",
+                "price": "$12.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1575",
+        "slug": "embauhaus"
+    },
+    "generatedAt": 1437611029893
+}

@@ -1,0 +1,159 @@
+{
+    "name": "Familiar Pro",
+    "url": "http://fontdeck.com/typeface/familiarpro",
+    "slug": "familiarpro",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Neo-Grotesk"
+    ],
+    "foundry": "CheapProFonts",
+    "designer": [
+        "Roger S.  Nelsson"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "modern",
+        "business",
+        "grotesk",
+        "helvetica",
+        "sans-serif",
+        "swiss",
+        "grotesque",
+        "legible",
+        "european",
+        "corporate",
+        "friendly",
+        "german",
+        "rounded"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/familiarpro/light",
+            "css": {
+                "font-family": "Familiar Pro Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4663",
+                "slug": "light",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Light Oblique",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/familiarpro/lightoblique",
+            "css": {
+                "font-family": "Familiar Pro Light Oblique",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4664",
+                "slug": "lightoblique",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/familiarpro/regular",
+            "css": {
+                "font-family": "Familiar Pro Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4659",
+                "slug": "regular",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Regular Oblique",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/familiarpro/oblique",
+            "css": {
+                "font-family": "Familiar Pro Oblique",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4661",
+                "slug": "oblique",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/familiarpro/bold",
+            "css": {
+                "font-family": "Familiar Pro Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4660",
+                "slug": "bold",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "Bold Oblique",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/familiarpro/boldoblique",
+            "css": {
+                "font-family": "Familiar Pro Bold Oblique",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4665",
+                "slug": "boldoblique",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/familiarpro/black",
+            "css": {
+                "font-family": "Familiar Pro Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4666",
+                "slug": "black",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Black Oblique",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/familiarpro/blackoblique",
+            "css": {
+                "font-family": "Familiar Pro Black Oblique",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4662",
+                "slug": "blackoblique",
+                "price": "$9.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1088",
+        "slug": "familiarpro"
+    },
+    "generatedAt": 1437610402716
+}

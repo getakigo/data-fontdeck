@@ -1,0 +1,89 @@
+{
+    "name": "Century Old Style",
+    "url": "http://fontdeck.com/typeface/centuryoldstyle",
+    "slug": "centuryoldstyle",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Transitional"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Morris Fuller Benton"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "masculine",
+        "19th century",
+        "technical"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/centuryoldstyle/regular",
+            "css": {
+                "font-family": "Century Old Style Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1344",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/centuryoldstyle/regularitalic",
+            "css": {
+                "font-family": "CenturyOldStyleRegularItalic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1346",
+                "slug": "regularitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/centuryoldstyle/bold",
+            "css": {
+                "font-family": "Century Old Style Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1345",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Small Caps",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/centuryoldstyle/smallcaps",
+            "css": {
+                "font-family": "Century Old Style Small Caps",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1347",
+                "slug": "smallcaps",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "371",
+        "slug": "centuryoldstyle"
+    },
+    "generatedAt": 1437609250328
+}

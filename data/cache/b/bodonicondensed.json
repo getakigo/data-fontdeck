@@ -1,0 +1,75 @@
+{
+    "name": "Bodoni Condensed",
+    "url": "http://fontdeck.com/typeface/bodonicondensed",
+    "slug": "bodonicondensed",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Fat Face"
+    ],
+    "foundry": "Red Rooster Collection",
+    "designer": [
+        "Robert Hunter Middleton"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "sensible",
+        "formal",
+        "poetry",
+        "serif",
+        "1920s",
+        "linear",
+        "music",
+        "mechanical",
+        "1800s",
+        "magazine",
+        "news",
+        "modern",
+        "art deco",
+        "1700s",
+        "headline",
+        "transitional",
+        "valuable",
+        "static",
+        "feminine",
+        "bodoni",
+        "narrow",
+        "didone",
+        "poster",
+        "economic",
+        "certificate",
+        "decorative",
+        "1930s",
+        "neutral",
+        "elegant",
+        "old style",
+        "italian",
+        "vintage",
+        "1900s",
+        "conservative"
+    ],
+    "variations": [
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/bodonicondensed/black",
+            "css": {
+                "font-family": "Bodoni Condensed Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4227",
+                "slug": "black",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "992",
+        "slug": "bodonicondensed"
+    },
+    "generatedAt": 1437610258908
+}

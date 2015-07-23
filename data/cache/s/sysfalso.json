@@ -1,0 +1,75 @@
+{
+    "name": "Sys Falso",
+    "url": "http://fontdeck.com/typeface/sysfalso",
+    "slug": "sysfalso",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Handwritten"
+    ],
+    "foundry": "Fabrizio Schiavi Design",
+    "designer": [
+        "Fabrizio Schiavi"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "display font",
+        "rough",
+        "branding",
+        "pen font"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/sysfalso/regular",
+            "css": {
+                "font-family": "Sys Falso Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7919",
+                "slug": "regular",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/sysfalso/italic",
+            "css": {
+                "font-family": "Sys Falso Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7921",
+                "slug": "italic",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/sysfalso/bold",
+            "css": {
+                "font-family": "Sys Falso Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7920",
+                "slug": "bold",
+                "price": "$9.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1818",
+        "slug": "sysfalso"
+    },
+    "generatedAt": 1437611332476
+}

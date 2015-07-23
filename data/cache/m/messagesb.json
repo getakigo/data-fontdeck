@@ -1,0 +1,81 @@
+{
+    "name": "Message SB",
+    "url": "http://fontdeck.com/typeface/messagesb",
+    "slug": "messagesb",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Computer-related"
+    ],
+    "foundry": "SelfBuild Type Foundry",
+    "designer": [
+        "Craig Stainton"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "scoreboard",
+        "pda",
+        "low-res",
+        "sms",
+        "computer",
+        "bitmap",
+        "electronic",
+        "telephone",
+        "till receipt",
+        "lcd"
+    ],
+    "variations": [
+        {
+            "name": "Line",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/messagesb/line",
+            "css": {
+                "font-family": "Message SB Line",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1317",
+                "slug": "line",
+                "price": "$8.50"
+            }
+        },
+        {
+            "name": "Solid",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/messagesb/solid",
+            "css": {
+                "font-family": "Message SB Solid",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1319",
+                "slug": "solid",
+                "price": "$8.50"
+            }
+        },
+        {
+            "name": "Open",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/messagesb/open",
+            "css": {
+                "font-family": "Message SB Open",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1318",
+                "slug": "open",
+                "price": "$8.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "362",
+        "slug": "messagesb"
+    },
+    "generatedAt": 1437609230889
+}

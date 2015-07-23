@@ -1,0 +1,349 @@
+{
+    "name": "Regan",
+    "url": "http://fontdeck.com/typeface/regan",
+    "slug": "regan",
+    "superfamily": "Regan",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Humanist"
+    ],
+    "foundry": "The Northern Block",
+    "designer": [
+        "Jonathan Hill"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "text",
+        "legible",
+        "brochure",
+        "balanced",
+        "functional",
+        "notebook",
+        "contemporary",
+        "humanist",
+        "newspaper",
+        "versatile",
+        "brand identity",
+        "economic",
+        "modern",
+        "elegant",
+        "identity",
+        "small caps",
+        "ultra bold",
+        "corporate",
+        "sans serif",
+        "readable",
+        "annual reports",
+        "superfamily"
+    ],
+    "variations": [
+        {
+            "name": "Ultra-light Italic",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/regan/ultralightitalic",
+            "css": {
+                "font-family": "Regan UltraLight Italic",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5515",
+                "slug": "ultralightitalic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Ultra-light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/regan/ultralight",
+            "css": {
+                "font-family": "Regan UltraLight",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5497",
+                "slug": "ultralight",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/regan/lightitalic",
+            "css": {
+                "font-family": "Regan Light Italic",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5516",
+                "slug": "lightitalic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/regan/light",
+            "css": {
+                "font-family": "Regan Light",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5498",
+                "slug": "light",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/regan/regular",
+            "css": {
+                "font-family": "Regan Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5499",
+                "slug": "regular",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/regan/italic",
+            "css": {
+                "font-family": "Regan Italic",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5517",
+                "slug": "italic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/regan/mediumitalic",
+            "css": {
+                "font-family": "Regan Medium Italic",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5518",
+                "slug": "mediumitalic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/regan/medium",
+            "css": {
+                "font-family": "Regan Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5500",
+                "slug": "medium",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/regan/bolditalic",
+            "css": {
+                "font-family": "Regan Bold Italic",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5520",
+                "slug": "bolditalic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/regan/bold",
+            "css": {
+                "font-family": "Regan Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5502",
+                "slug": "bold",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Extra-bold Italic",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/regan/extrabolditalic",
+            "css": {
+                "font-family": "Regan ExtraBold Italic",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5521",
+                "slug": "extrabolditalic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/regan/extrabold",
+            "css": {
+                "font-family": "Regan ExtraBold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5503",
+                "slug": "extrabold",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/regan/heavy",
+            "css": {
+                "font-family": "Regan Heavy",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5504",
+                "slug": "heavy",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Heavy Italic",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/regan/heavyitalic",
+            "css": {
+                "font-family": "Regan Heavy Italic",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5522",
+                "slug": "heavyitalic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/regan/blackitalic",
+            "css": {
+                "font-family": "Regan Black Italic",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5523",
+                "slug": "blackitalic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/regan/black",
+            "css": {
+                "font-family": "Regan Black",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5505",
+                "slug": "black",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Ultra",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/regan/ultra",
+            "css": {
+                "font-family": "Regan Ultra",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5506",
+                "slug": "ultra",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "DemiBold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/regan/demibold",
+            "css": {
+                "font-family": "Regan DemiBold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5501",
+                "slug": "demibold",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "DemiBold Italic",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/regan/demibolditalic",
+            "css": {
+                "font-family": "Regan DemiBold Italic",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5519",
+                "slug": "demibolditalic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Ultra Italic",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/regan/ultraitalic",
+            "css": {
+                "font-family": "Regan Ultra Italic",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5524",
+                "slug": "ultraitalic",
+                "price": "$7.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1284",
+        "slug": "regan"
+    },
+    "generatedAt": 1437610662517
+}

@@ -1,0 +1,109 @@
+{
+    "name": "Rikos",
+    "url": "http://fontdeck.com/typeface/rikos",
+    "slug": "rikos",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Display",
+        "Futuristic",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "Fenotype",
+    "designer": [
+        "Emil Bertell"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "futuristic",
+        "geometric",
+        "space age",
+        "unicase"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/rikos/thin",
+            "css": {
+                "font-family": "Rikos Thin",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2417",
+                "slug": "thin",
+                "price": "$8.00"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/rikos/light",
+            "css": {
+                "font-family": "Rikos Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2415",
+                "slug": "light",
+                "price": "$8.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/rikos/regular",
+            "css": {
+                "font-family": "Rikos Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2416",
+                "slug": "regular",
+                "price": "$8.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/rikos/bold",
+            "css": {
+                "font-family": "Rikos Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2414",
+                "slug": "bold",
+                "price": "$8.00"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/rikos/black",
+            "css": {
+                "font-family": "Rikos Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2413",
+                "slug": "black",
+                "price": "$8.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "585",
+        "slug": "rikos"
+    },
+    "generatedAt": 1437609508380
+}

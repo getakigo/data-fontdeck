@@ -1,0 +1,117 @@
+{
+    "name": "Home Display",
+    "url": "http://fontdeck.com/typeface/homedisplay",
+    "slug": "homedisplay",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Serif"
+    ],
+    "foundry": "Playtype",
+    "designer": [
+        "Jonas Hecksher"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "serif"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/homedisplay/regular",
+            "css": {
+                "font-family": "Home Display Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5239",
+                "slug": "regular",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/homedisplay/italic",
+            "css": {
+                "font-family": "Home Display Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5234",
+                "slug": "italic",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/homedisplay/bold",
+            "css": {
+                "font-family": "Home Display Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5238",
+                "slug": "bold",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/homedisplay/bolditalic",
+            "css": {
+                "font-family": "Home Display Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5237",
+                "slug": "bolditalic",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "DemiBold",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/homedisplay/demibold",
+            "css": {
+                "font-family": "Home Display DemiBold",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5236",
+                "slug": "demibold",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "DemiBold Italic",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/homedisplay/demibolditalic",
+            "css": {
+                "font-family": "Home Display DemiBold Italic",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5235",
+                "slug": "demibolditalic",
+                "price": "$45.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1208",
+        "slug": "homedisplay"
+    },
+    "generatedAt": 1437610583462
+}

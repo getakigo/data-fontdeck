@@ -1,0 +1,244 @@
+{
+    "name": "Proxima Nova Alt",
+    "url": "http://fontdeck.com/typeface/proximanovaalt",
+    "slug": "proximanovaalt",
+    "superfamily": "Proxima Nova",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Hybrid"
+    ],
+    "foundry": "Mark Simonson Studio",
+    "designer": [
+        "Mark Simonson"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "proxima nova",
+        "workhorse",
+        "geometric",
+        "grotesque",
+        "informal",
+        "superfamily",
+        "clean"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/proximanovaalt/thin",
+            "css": {
+                "font-family": "Proxima Nova Alt Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5134",
+                "slug": "thin",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Thin Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/proximanovaalt/thinitalic",
+            "css": {
+                "font-family": "Proxima Nova Alt Thin Italic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5135",
+                "slug": "thinitalic",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/proximanovaalt/light",
+            "css": {
+                "font-family": "Proxima Nova Alt Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5127",
+                "slug": "light",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/proximanovaalt/lightitalic",
+            "css": {
+                "font-family": "Proxima Nova Alt Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5128",
+                "slug": "lightitalic",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/proximanovaalt/regular",
+            "css": {
+                "font-family": "Proxima Nova Alt Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5124",
+                "slug": "regular",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/proximanovaalt/italic",
+            "css": {
+                "font-family": "Proxima Nova Alt Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5125",
+                "slug": "italic",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/proximanovaalt/semibold",
+            "css": {
+                "font-family": "Proxima Nova Alt Semibold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5132",
+                "slug": "semibold",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Semi-bold Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/proximanovaalt/semibolditalic",
+            "css": {
+                "font-family": "ProximaNovaAltSemiboldItalic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5133",
+                "slug": "semibolditalic",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/proximanovaalt/bold",
+            "css": {
+                "font-family": "Proxima Nova Alt Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5126",
+                "slug": "bold",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/proximanovaalt/bolditalic",
+            "css": {
+                "font-family": "Proxima Nova Alt Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5131",
+                "slug": "bolditalic",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/proximanovaalt/extrabold",
+            "css": {
+                "font-family": "Proxima Nova Alt Extrabold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5136",
+                "slug": "extrabold",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Extra-bold Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/proximanovaalt/extrabolditalic",
+            "css": {
+                "font-family": "ProximaNovaAltExtraboldItalic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5137",
+                "slug": "extrabolditalic",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/proximanovaalt/black",
+            "css": {
+                "font-family": "Proxima Nova Alt Black",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5129",
+                "slug": "black",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/proximanovaalt/blackitalic",
+            "css": {
+                "font-family": "Proxima Nova Alt Black Italic",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5130",
+                "slug": "blackitalic",
+                "price": "$9.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1220",
+        "slug": "proximanovaalt"
+    },
+    "generatedAt": 1437610548865
+}

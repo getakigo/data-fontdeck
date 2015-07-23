@@ -1,0 +1,98 @@
+{
+    "name": "Decadence Avec Elegance",
+    "url": "http://fontdeck.com/typeface/decadenceavecelegance",
+    "slug": "decadenceavecelegance",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "All caps",
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "Intellecta Design",
+    "designer": [
+        "Paulo W"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "stamp",
+        "serif",
+        "horror",
+        "circus",
+        "graffiti",
+        "fancy",
+        "1800s",
+        "median spurs",
+        "baroque",
+        "gritty",
+        "steampunk",
+        "illuminated",
+        "antiqued",
+        "historical",
+        "victorian",
+        "french",
+        "letterpress",
+        "deconstruct",
+        "western",
+        "bold",
+        "intricate",
+        "exaggerated",
+        "1700s",
+        "ornaments",
+        "classic",
+        "english",
+        "engraving",
+        "uneven",
+        "tuscan",
+        "irregular",
+        "scrollwork",
+        "all caps",
+        "versal",
+        "romantic",
+        "retro",
+        "ornate",
+        "valentine",
+        "collage",
+        "ornamental",
+        "eroded"
+    ],
+    "variations": [
+        {
+            "name": "Two",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/decadenceavecelegance/two",
+            "css": {
+                "font-family": "Decadence Avec Elegance Two",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2810",
+                "slug": "two",
+                "price": "$10.30"
+            }
+        },
+        {
+            "name": "One",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/decadenceavecelegance/one",
+            "css": {
+                "font-family": "Decadence Avec Elegance One",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2809",
+                "slug": "one",
+                "price": "$10.30"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "666",
+        "slug": "decadenceavecelegance"
+    },
+    "generatedAt": 1437609671066
+}

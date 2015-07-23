@@ -1,0 +1,44 @@
+{
+    "name": "Joyful Juliana Pro",
+    "url": "http://fontdeck.com/typeface/joyfuljulianapro",
+    "slug": "joyfuljulianapro",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Handwritten"
+    ],
+    "foundry": "CheapProFonts",
+    "designer": [
+        "Kimberly Geswein"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "handwritten",
+        "feminine",
+        "handwriting"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/joyfuljulianapro/regular",
+            "css": {
+                "font-family": "Joyful Juliana Pro Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3304",
+                "slug": "regular",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "796",
+        "slug": "joyfuljulianapro"
+    },
+    "generatedAt": 1437609897036
+}

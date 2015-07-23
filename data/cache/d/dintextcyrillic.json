@@ -1,0 +1,268 @@
+{
+    "name": "Din Text Cyrillic",
+    "url": "http://fontdeck.com/typeface/dintextcyrillic",
+    "slug": "dintextcyrillic",
+    "superfamily": "Din",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Hybrid",
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "Parachute",
+    "designer": [
+        "Panos Vassiliou"
+    ],
+    "language": [
+        "latin",
+        "cyrillic"
+    ],
+    "tags": [
+        "modern",
+        "1930s",
+        "simple",
+        "trendy",
+        "grotesque",
+        "legible",
+        "din",
+        "super family",
+        "signage",
+        "corporate",
+        "true italics",
+        "magazine",
+        "clean"
+    ],
+    "variations": [
+        {
+            "name": "Hairline",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/dintextcyrillic/hairline",
+            "css": {
+                "font-family": "Din Text Cyrillic Hairline",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4693",
+                "slug": "hairline",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/dintextcyrillic/extrathin",
+            "css": {
+                "font-family": "Din Text Cyrillic Extra Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4704",
+                "slug": "extrathin",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-thin Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/dintextcyrillic/extrathinitalic",
+            "css": {
+                "font-family": "DinTextCyrillicExtraThinItalic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4705",
+                "slug": "extrathinitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/dintextcyrillic/thin",
+            "css": {
+                "font-family": "Din Text Cyrillic Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4700",
+                "slug": "thin",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Thin Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/dintextcyrillic/thinitalic",
+            "css": {
+                "font-family": "Din Text Cyrillic Thin Italic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4701",
+                "slug": "thinitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/dintextcyrillic/light",
+            "css": {
+                "font-family": "Din Text Cyrillic Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4695",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/dintextcyrillic/lightitalic",
+            "css": {
+                "font-family": "Din Text Cyrillic Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4696",
+                "slug": "lightitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/dintextcyrillic/regular",
+            "css": {
+                "font-family": "Din Text Cyrillic Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4699",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/dintextcyrillic/italic",
+            "css": {
+                "font-family": "Din Text Cyrillic Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4694",
+                "slug": "italic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/dintextcyrillic/medium",
+            "css": {
+                "font-family": "Din Text Cyrillic Medium",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4698",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/dintextcyrillic/mediumitalic",
+            "css": {
+                "font-family": "Din Text Cyrillic Medium Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4697",
+                "slug": "mediumitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/dintextcyrillic/bold",
+            "css": {
+                "font-family": "Din Text Cyrillic Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4691",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/dintextcyrillic/bolditalic",
+            "css": {
+                "font-family": "Din Text Cyrillic Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4692",
+                "slug": "bolditalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-black",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/dintextcyrillic/extrablack",
+            "css": {
+                "font-family": "Din Text Cyrillic Extra Black",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4702",
+                "slug": "extrablack",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-black Italic",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/dintextcyrillic/extrablackitalic",
+            "css": {
+                "font-family": "DinTextCyrillicExtraBlackItalic",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4703",
+                "slug": "extrablackitalic",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1061",
+        "slug": "dintextcyrillic"
+    },
+    "generatedAt": 1437610385010
+}

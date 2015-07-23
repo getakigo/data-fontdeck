@@ -1,0 +1,97 @@
+{
+    "name": "Cadiz",
+    "url": "http://fontdeck.com/typeface/cadiz",
+    "slug": "cadiz",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Gothic"
+    ],
+    "foundry": "Luzi Type",
+    "designer": [
+        "Luzi Gantenbein"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "headlines",
+        "elegant",
+        "cádiz",
+        "legible",
+        "1960s",
+        "streamlined",
+        "space-saving",
+        "20th century",
+        "readable",
+        "magazine",
+        "economical"
+    ],
+    "variations": [
+        {
+            "name": "Medium",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/cadiz/medium",
+            "css": {
+                "font-family": "Cadiz Medium",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7850",
+                "slug": "medium",
+                "price": "$23.75"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/cadiz/mediumitalic",
+            "css": {
+                "font-family": "Cadiz Medium Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8060",
+                "slug": "mediumitalic",
+                "price": "$23.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/cadiz/bold",
+            "css": {
+                "font-family": "Cadiz Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7851",
+                "slug": "bold",
+                "price": "$23.75"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/cadiz/bolditalic",
+            "css": {
+                "font-family": "Cadiz Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8059",
+                "slug": "bolditalic",
+                "price": "$23.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1806",
+        "slug": "cadiz"
+    },
+    "generatedAt": 1437611315348
+}

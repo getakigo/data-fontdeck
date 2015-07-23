@@ -1,0 +1,62 @@
+{
+    "name": "Carlingtown Pro",
+    "url": "http://fontdeck.com/typeface/carlingtownpro",
+    "slug": "carlingtownpro",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Art Deco"
+    ],
+    "foundry": "Red Rooster Collection",
+    "designer": [
+        "Ashley Muir",
+        "Steve Jackaman"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "scrapbook",
+        "circus",
+        "2000s",
+        "magazine",
+        "vintage"
+    ],
+    "variations": [
+        {
+            "name": "Gold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/carlingtownpro/gold",
+            "css": {
+                "font-family": "Carlingtown Pro Gold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3178",
+                "slug": "gold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Silver",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/carlingtownpro/silver",
+            "css": {
+                "font-family": "Carlingtown Pro Silver",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3177",
+                "slug": "silver",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "748",
+        "slug": "carlingtownpro"
+    },
+    "generatedAt": 1437609840524
+}

@@ -1,0 +1,125 @@
+{
+    "name": "Argus",
+    "url": "http://fontdeck.com/typeface/argus",
+    "slug": "argus",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Serif"
+    ],
+    "foundry": "Red Rooster Collection",
+    "designer": [
+        "Paul Hickson",
+        "Leslie Usherwood"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "formal",
+        "expressive",
+        "serif",
+        "glyphic",
+        "logo",
+        "fancy",
+        "letterhead",
+        "baroque",
+        "magazine",
+        "news",
+        "sophisticated",
+        "inscribed",
+        "movie",
+        "menus",
+        "fashionable",
+        "renaissance",
+        "european",
+        "ancient",
+        "headline",
+        "greek",
+        "feminine",
+        "sans-serif",
+        "tiny serif",
+        "flared serif",
+        "legible",
+        "news headline",
+        "roman",
+        "elegant",
+        "italian",
+        "money",
+        "film",
+        "signage",
+        "movie credits",
+        "delicate",
+        "graceful",
+        "flared",
+        "clean",
+        "conservative"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/argus/light",
+            "css": {
+                "font-family": "Argus Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4539",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/argus/medium",
+            "css": {
+                "font-family": "Argus Medium",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4537",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/argus/bold",
+            "css": {
+                "font-family": "Argus Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4538",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/argus/extrabold",
+            "css": {
+                "font-family": "Argus Extra Bold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4540",
+                "slug": "extrabold",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1065",
+        "slug": "argus"
+    },
+    "generatedAt": 1437610383354
+}

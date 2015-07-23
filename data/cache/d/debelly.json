@@ -1,0 +1,56 @@
+{
+    "name": "Debelly",
+    "url": "http://fontdeck.com/typeface/debelly",
+    "slug": "debelly",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Display",
+        "Poster"
+    ],
+    "foundry": "Tour de Force",
+    "designer": [
+        "Dušan Jelesijević"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "decorative",
+        "extra",
+        "geometric",
+        "fat",
+        "scrapbook",
+        "retro",
+        "kids",
+        "heavy",
+        "headline",
+        "sans serif",
+        "display",
+        "poster",
+        "comic"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/debelly/regular",
+            "css": {
+                "font-family": "Debelly Regular",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5150",
+                "slug": "regular",
+                "price": "$7.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1226",
+        "slug": "debelly"
+    },
+    "generatedAt": 1437610572558
+}

@@ -1,0 +1,108 @@
+{
+    "name": "Borges Titulo",
+    "url": "http://fontdeck.com/typeface/borgestitulo",
+    "slug": "borgestitulo",
+    "use": "heading",
+    "classification": [
+        "Serif",
+        "Garalde"
+    ],
+    "foundry": "PampaType",
+    "designer": [
+        "Alejandro Lo Celso"
+    ],
+    "opentype": [
+        "smcp"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "fine",
+        "formal",
+        "poetry",
+        "serif",
+        "titling",
+        "literary",
+        "optical sizes",
+        "openface",
+        "text",
+        "argentina",
+        "hollow",
+        "system",
+        "news",
+        "french",
+        "author",
+        "hengraved",
+        "literature",
+        "dutc",
+        "multistyle",
+        "books",
+        "fiction",
+        "novels",
+        "workhorse",
+        "classic",
+        "legible",
+        "classical",
+        "caps",
+        "spanish",
+        "argentinean",
+        "outline",
+        "open face",
+        "hueca",
+        "refined",
+        "opentyp",
+        "lyric",
+        "comfortable",
+        "decorative",
+        "jorge luis borges",
+        "poems",
+        "oldstyle",
+        "magazines",
+        "readable",
+        "inline"
+    ],
+    "variations": [
+        {
+            "name": "Blanca",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/borgestitulo/blanca",
+            "css": {
+                "font-family": "Borges Titulo Blanca",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8991",
+                "slug": "blanca",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Hueca",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/borgestitulo/hueca",
+            "css": {
+                "font-family": "Borges Titulo Hueca",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8992",
+                "slug": "hueca",
+                "price": "$10.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "2013",
+        "slug": "borgestitulo"
+    },
+    "copentype": [
+        "liga"
+    ],
+    "eopentype": [
+        "c2s"
+    ],
+    "generatedAt": 1437611596969
+}

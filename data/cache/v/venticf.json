@@ -1,0 +1,284 @@
+{
+    "name": "Venti CF",
+    "url": "http://fontdeck.com/typeface/venticf",
+    "slug": "venticf",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Geometric",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "Connary Fagen Typography",
+    "designer": [
+        "Connary Fagen"
+    ],
+    "opentype": [
+        "c2sc",
+        "calt",
+        "hist",
+        "liga",
+        "lnum",
+        "onum",
+        "pnum",
+        "smcp",
+        "ss01",
+        "ss02",
+        "ss03",
+        "ss04",
+        "ss05",
+        "tnum"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "opentype",
+        "warm",
+        "1920s",
+        "custom",
+        "geometric",
+        "cyrillic",
+        "russian",
+        "versatile",
+        "sans",
+        "modern",
+        "british",
+        "art deco",
+        "chic",
+        "venti",
+        "ukrainian",
+        "european",
+        "subtle",
+        "inviting",
+        "headlines",
+        "display sans",
+        "engaging",
+        "poster",
+        "black",
+        "ultra",
+        "human",
+        "fashion",
+        "grotesque",
+        "sans serif",
+        "readable",
+        "charming"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/venticf/thin",
+            "css": {
+                "font-family": "Venti CF Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8530",
+                "slug": "thin",
+                "price": "$8.50"
+            }
+        },
+        {
+            "name": "Thin Oblique",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/venticf/thinoblique",
+            "css": {
+                "font-family": "Venti CF Thin Oblique",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8531",
+                "slug": "thinoblique",
+                "price": "$8.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/venticf/light",
+            "css": {
+                "font-family": "Venti CF Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8526",
+                "slug": "light",
+                "price": "$8.50"
+            }
+        },
+        {
+            "name": "Light Oblique",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/venticf/lightoblique",
+            "css": {
+                "font-family": "Venti CF Light Oblique",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8527",
+                "slug": "lightoblique",
+                "price": "$8.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/venticf/medium",
+            "css": {
+                "font-family": "Venti CF Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8528",
+                "slug": "medium",
+                "price": "$8.50"
+            }
+        },
+        {
+            "name": "Medium Oblique",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/venticf/mediumoblique",
+            "css": {
+                "font-family": "Venti CF Medium Oblique",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8529",
+                "slug": "mediumoblique",
+                "price": "$8.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/venticf/bold",
+            "css": {
+                "font-family": "Venti CF Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8520",
+                "slug": "bold",
+                "price": "$8.50"
+            }
+        },
+        {
+            "name": "Bold Oblique",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/venticf/boldoblique",
+            "css": {
+                "font-family": "Venti CF Bold Oblique",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8521",
+                "slug": "boldoblique",
+                "price": "$8.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/venticf/black",
+            "css": {
+                "font-family": "Venti CF Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8524",
+                "slug": "black",
+                "price": "$8.50"
+            }
+        },
+        {
+            "name": "Black Oblique",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/venticf/blackoblique",
+            "css": {
+                "font-family": "Venti CF Black Oblique",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8525",
+                "slug": "blackoblique",
+                "price": "$8.50"
+            }
+        },
+        {
+            "name": "Demi Bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/venticf/demibold",
+            "css": {
+                "font-family": "Venti CF Demi Bold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8522",
+                "slug": "demibold",
+                "price": "$8.50"
+            }
+        },
+        {
+            "name": "Ultra Bold",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/venticf/ultrabold",
+            "css": {
+                "font-family": "Venti CF Ultra Bold",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8532",
+                "slug": "ultrabold",
+                "price": "$8.50"
+            }
+        },
+        {
+            "name": "Demi Bold Oblique",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/venticf/demiboldoblique",
+            "css": {
+                "font-family": "Venti CF Demi Bold Oblique",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8523",
+                "slug": "demiboldoblique",
+                "price": "$8.50"
+            }
+        },
+        {
+            "name": "Ultra Bold Oblique",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/venticf/ultraboldoblique",
+            "css": {
+                "font-family": "Venti CF Ultra Bold Oblique",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8533",
+                "slug": "ultraboldoblique",
+                "price": "$8.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1972",
+        "slug": "venticf"
+    },
+    "generatedAt": 1437611520720
+}

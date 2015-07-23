@@ -1,0 +1,161 @@
+{
+    "name": "Amelia",
+    "url": "http://fontdeck.com/typeface/amelia",
+    "slug": "amelia",
+    "superfamily": "Amelia",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Hybrid"
+    ],
+    "foundry": "TipoType",
+    "designer": [
+        "Martin Sommaruga"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "modern",
+        "elegant",
+        "logotype",
+        "geometric",
+        "text",
+        "logo",
+        "soft",
+        "friendly",
+        "sans serif",
+        "display",
+        "upright",
+        "superfamily",
+        "clean",
+        "sans"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/amelia/light",
+            "css": {
+                "font-family": "Amelia Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8819",
+                "slug": "light",
+                "price": "$11.00"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/amelia/lightitalic",
+            "css": {
+                "font-family": "Amelia Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8818",
+                "slug": "lightitalic",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/amelia/regular",
+            "css": {
+                "font-family": "Amelia Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8821",
+                "slug": "regular",
+                "price": "$11.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/amelia/italic",
+            "css": {
+                "font-family": "Amelia Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8820",
+                "slug": "italic",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/amelia/bold",
+            "css": {
+                "font-family": "Amelia Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8817",
+                "slug": "bold",
+                "price": "$11.00"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/amelia/bolditalic",
+            "css": {
+                "font-family": "Amelia Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8816",
+                "slug": "bolditalic",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/amelia/black",
+            "css": {
+                "font-family": "Amelia Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8815",
+                "slug": "black",
+                "price": "$11.00"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/amelia/blackitalic",
+            "css": {
+                "font-family": "Amelia Black Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8814",
+                "slug": "blackitalic",
+                "price": "$9.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1979",
+        "slug": "amelia"
+    },
+    "generatedAt": 1437611566144
+}

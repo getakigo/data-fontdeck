@@ -1,0 +1,218 @@
+{
+    "name": "Magneta Expert Subset",
+    "url": "http://fontdeck.com/typeface/magnetaexpertsubset",
+    "slug": "magnetaexpertsubset",
+    "superfamily": "Magneta",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Serif",
+        "Serif",
+        "Garalde",
+        "Serif",
+        "Modern"
+    ],
+    "foundry": "Positype",
+    "designer": [
+        "Neil Summerour"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "small caps",
+        "expert subset",
+        "old-style numerals"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/magnetaexpertsubset/thin",
+            "css": {
+                "font-family": "Magneta Expert Subset Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4114",
+                "slug": "thin",
+                "price": "$3.99"
+            }
+        },
+        {
+            "name": "Thin Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/magnetaexpertsubset/thinitalic",
+            "css": {
+                "font-family": "MagnetaExpertSubsetThinItalic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4115",
+                "slug": "thinitalic",
+                "price": "$3.99"
+            }
+        },
+        {
+            "name": "Book",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/magnetaexpertsubset/book",
+            "css": {
+                "font-family": "Magneta Expert Subset Book",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4107",
+                "slug": "book",
+                "price": "$3.99"
+            }
+        },
+        {
+            "name": "Book Italic",
+            "description": "i3",
+            "url": "http://fontdeck.com/font/magnetaexpertsubset/bookitalic",
+            "css": {
+                "font-family": "MagnetaExpertSubsetBookItalic",
+                "font-weight": "300",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4108",
+                "slug": "bookitalic",
+                "price": "$3.99"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/magnetaexpertsubset/medium",
+            "css": {
+                "font-family": "Magneta Expert Subset Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4104",
+                "slug": "medium",
+                "price": "$3.99"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/magnetaexpertsubset/mediumitalic",
+            "css": {
+                "font-family": "MagnetaExpertSubsetMediumItalic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4111",
+                "slug": "mediumitalic",
+                "price": "$3.99"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/magnetaexpertsubset/semibold",
+            "css": {
+                "font-family": "Magneta Expert Subset SemiBold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4112",
+                "slug": "semibold",
+                "price": "$3.99"
+            }
+        },
+        {
+            "name": "Semi-bold Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/magnetaexpertsubset/semibolditalic",
+            "css": {
+                "font-family": "MagnetExperSubseSemiBolItali",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4113",
+                "slug": "semibolditalic",
+                "price": "$3.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/magnetaexpertsubset/bold",
+            "css": {
+                "font-family": "Magneta Expert Subset Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4105",
+                "slug": "bold",
+                "price": "$3.99"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/magnetaexpertsubset/bolditalic",
+            "css": {
+                "font-family": "MagnetaExpertSubsetBoldItalic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4106",
+                "slug": "bolditalic",
+                "price": "$3.99"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/magnetaexpertsubset/black",
+            "css": {
+                "font-family": "Magneta Expert Subset Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4109",
+                "slug": "black",
+                "price": "$3.99"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/magnetaexpertsubset/blackitalic",
+            "css": {
+                "font-family": "MagnetaExpertSubsetBlackItalic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4110",
+                "slug": "blackitalic",
+                "price": "$3.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "968",
+        "slug": "magnetaexpertsubset"
+    },
+    "expert subset": [
+        "onum",
+        "smcp"
+    ],
+    "generatedAt": 1437610208826
+}

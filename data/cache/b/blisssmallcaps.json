@@ -1,0 +1,80 @@
+{
+    "name": "Bliss Smallcaps",
+    "url": "http://fontdeck.com/typeface/blisssmallcaps",
+    "slug": "blisssmallcaps",
+    "superfamily": "Bliss",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "All caps"
+    ],
+    "foundry": "Jeremy Tankard Typography",
+    "designer": [
+        "Jeremy Tankard"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "all caps",
+        "expert subset",
+        "british",
+        "english"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/blisssmallcaps/light",
+            "css": {
+                "font-family": "Bliss Smallcaps Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8361",
+                "slug": "light",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/blisssmallcaps/regular",
+            "css": {
+                "font-family": "Bliss Smallcaps Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7999",
+                "slug": "regular",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/blisssmallcaps/bold",
+            "css": {
+                "font-family": "Bliss Smallcaps Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8000",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1838",
+        "slug": "blisssmallcaps"
+    },
+    "expert subset": [
+        "c2sc",
+        "onum"
+    ],
+    "generatedAt": 1437611367507
+}

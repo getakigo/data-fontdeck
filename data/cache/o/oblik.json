@@ -1,0 +1,161 @@
+{
+    "name": "Oblik",
+    "url": "http://fontdeck.com/typeface/oblik",
+    "slug": "oblik",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Neo-Grotesk"
+    ],
+    "foundry": "Tour de Force",
+    "designer": [
+        "Slobodan Jelesijević"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "headlines",
+        "sensible",
+        "modern",
+        "simple",
+        "title",
+        "round",
+        "geometric",
+        "text",
+        "fashionable",
+        "oblik",
+        "identity",
+        "newspaper",
+        "magazine",
+        "poster",
+        "sophisticated"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/oblik/light",
+            "css": {
+                "font-family": "Oblik Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1128",
+                "slug": "light",
+                "price": "$7.99"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/oblik/lightitalic",
+            "css": {
+                "font-family": "Oblik Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1127",
+                "slug": "lightitalic",
+                "price": "$7.99"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/oblik/regular",
+            "css": {
+                "font-family": "Oblik Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1130",
+                "slug": "regular",
+                "price": "$7.99"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/oblik/italic",
+            "css": {
+                "font-family": "Oblik Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1129",
+                "slug": "italic",
+                "price": "$7.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/oblik/bold",
+            "css": {
+                "font-family": "Oblik Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1132",
+                "slug": "bold",
+                "price": "$7.99"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/oblik/bolditalic",
+            "css": {
+                "font-family": "Oblik Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1131",
+                "slug": "bolditalic",
+                "price": "$7.99"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/oblik/black",
+            "css": {
+                "font-family": "Oblik Black",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1134",
+                "slug": "black",
+                "price": "$7.99"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/oblik/blackitalic",
+            "css": {
+                "font-family": "Oblik Black Italic",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1133",
+                "slug": "blackitalic",
+                "price": "$7.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "310",
+        "slug": "oblik"
+    },
+    "generatedAt": 1437609184634
+}

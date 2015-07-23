@@ -1,0 +1,50 @@
+{
+    "name": "Concrete Salsa",
+    "url": "http://fontdeck.com/typeface/concretesalsa",
+    "slug": "concretesalsa",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "All caps",
+        "Display",
+        "Grunge"
+    ],
+    "foundry": "Veer",
+    "designer": [
+        "Jason Walcott"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "1950s",
+        "all capitals",
+        "small capitals",
+        "rustic",
+        "cowboys",
+        "display",
+        "western"
+    ],
+    "variations": [
+        {
+            "name": "One",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/concretesalsa/one",
+            "css": {
+                "font-family": "Concrete Salsa One",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5080",
+                "slug": "one",
+                "price": "$13.44"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1197",
+        "slug": "concretesalsa"
+    },
+    "generatedAt": 1437610548225
+}

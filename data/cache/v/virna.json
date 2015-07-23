@@ -1,0 +1,54 @@
+{
+    "name": "Virna",
+    "url": "http://fontdeck.com/typeface/virna",
+    "slug": "virna",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "Fabrizio Schiavi Design",
+    "designer": [
+        "Fabrizio Schiavi"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "vertical ligatures",
+        "advertising",
+        "graphic",
+        "broadcasting",
+        "geometric",
+        "horizontal ligatures",
+        "logo",
+        "identity",
+        "strong",
+        "branding",
+        "futuristic",
+        "triline",
+        "poster"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/virna/regular",
+            "css": {
+                "font-family": "Virna Regular",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4400",
+                "slug": "regular",
+                "price": "$9.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1038",
+        "slug": "virna"
+    },
+    "generatedAt": 1437610364288
+}

@@ -1,0 +1,46 @@
+{
+    "name": "Martin",
+    "url": "http://fontdeck.com/typeface/martin",
+    "slug": "martin",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Serif",
+        "Display",
+        "Blackletter"
+    ],
+    "foundry": "Fenotype",
+    "designer": [
+        "Erik Bertell"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "blackletter",
+        "rounded",
+        "calligraphic"
+    ],
+    "variations": [
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/martin/black",
+            "css": {
+                "font-family": "Martin Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3447",
+                "slug": "black",
+                "price": "$8.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "839",
+        "slug": "martin"
+    },
+    "generatedAt": 1437609965683
+}

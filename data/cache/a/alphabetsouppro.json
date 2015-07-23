@@ -1,0 +1,49 @@
+{
+    "name": "Alphabet Soup Pro",
+    "url": "http://fontdeck.com/typeface/alphabetsouppro",
+    "slug": "alphabetsouppro",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "All caps",
+        "Display",
+        "Funny",
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "Red Rooster Collection",
+    "designer": [
+        "Steve Jackaman"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "food",
+        "bold",
+        "rounded",
+        "caps only"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/alphabetsouppro/regular",
+            "css": {
+                "font-family": "Alphabet Soup Pro Regular",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3148",
+                "slug": "regular",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "737",
+        "slug": "alphabetsouppro"
+    },
+    "generatedAt": 1437609806529
+}

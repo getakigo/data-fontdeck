@@ -1,0 +1,241 @@
+{
+    "name": "Precious Sans Two",
+    "url": "http://fontdeck.com/typeface/precioussanstwo",
+    "slug": "precioussanstwo",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Grotesque",
+        "Sans Serif",
+        "Humanist",
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "G-Type",
+    "designer": [
+        "Nick Cooke"
+    ],
+    "opentype": [
+        "hist",
+        "liga",
+        "smcp",
+        "ss01"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "opentype",
+        "stylistic sets",
+        "legible",
+        "functional",
+        "super family",
+        "humanist",
+        "magazine",
+        "versatile",
+        "poster",
+        "alternates",
+        "modern",
+        "business",
+        "cool",
+        "commercial",
+        "booktext",
+        "ligatures",
+        "fashionable",
+        "professional",
+        "stylish",
+        "small caps",
+        "fresh",
+        "multilingual",
+        "branding",
+        "corporate",
+        "clean"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/precioussanstwo/thin",
+            "css": {
+                "font-family": "Precious Sans Two Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7651",
+                "slug": "thin",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Thin Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/precioussanstwo/thinitalic",
+            "css": {
+                "font-family": "Precious Sans Two Thin Italic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7652",
+                "slug": "thinitalic",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/precioussanstwo/light",
+            "css": {
+                "font-family": "Precious Sans Two Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7647",
+                "slug": "light",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/precioussanstwo/lightitalic",
+            "css": {
+                "font-family": "Precious Sans Two Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7648",
+                "slug": "lightitalic",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/precioussanstwo/medium",
+            "css": {
+                "font-family": "Precious Sans Two Medium",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7649",
+                "slug": "medium",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/precioussanstwo/mediumitalic",
+            "css": {
+                "font-family": "Precious Sans Two Medium Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7650",
+                "slug": "mediumitalic",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/precioussanstwo/bold",
+            "css": {
+                "font-family": "Precious Sans Two Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7643",
+                "slug": "bold",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/precioussanstwo/bolditalic",
+            "css": {
+                "font-family": "Precious Sans Two Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7644",
+                "slug": "bolditalic",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/precioussanstwo/black",
+            "css": {
+                "font-family": "Precious Sans Two Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7641",
+                "slug": "black",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/precioussanstwo/blackitalic",
+            "css": {
+                "font-family": "Precious Sans Two Black Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7642",
+                "slug": "blackitalic",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Demibold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/precioussanstwo/demibold",
+            "css": {
+                "font-family": "Precious Sans Two Demibold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7645",
+                "slug": "demibold",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Demibold Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/precioussanstwo/demibolditalic",
+            "css": {
+                "font-family": "PreciousSansTwoDemiboldItalic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7646",
+                "slug": "demibolditalic",
+                "price": "$15.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1763",
+        "slug": "precioussanstwo"
+    },
+    "generatedAt": 1437611227841
+}

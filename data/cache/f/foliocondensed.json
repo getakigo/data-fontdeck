@@ -1,0 +1,101 @@
+{
+    "name": "Folio Condensed",
+    "url": "http://fontdeck.com/typeface/foliocondensed",
+    "slug": "foliocondensed",
+    "superfamily": "Folio",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Grotesque"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Walter Baum",
+        "Konrad Bauer"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "modern",
+        "static",
+        "neutral",
+        "1950s",
+        "narrow",
+        "technical",
+        "condensed",
+        "dynamic",
+        "linear",
+        "folio",
+        "german",
+        "superfamily",
+        "modest"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/foliocondensed/light",
+            "css": {
+                "font-family": "Folio Condensed Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1057",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/foliocondensed/medium",
+            "css": {
+                "font-family": "Folio Condensed Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1060",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/foliocondensed/bold",
+            "css": {
+                "font-family": "Folio Condensed Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1052",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/foliocondensed/bolditalic",
+            "css": {
+                "font-family": "Folio Condensed Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1053",
+                "slug": "bolditalic",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "300",
+        "slug": "foliocondensed"
+    },
+    "generatedAt": 1437609165777
+}

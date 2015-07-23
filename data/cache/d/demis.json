@@ -1,0 +1,59 @@
+{
+    "name": "Demis",
+    "url": "http://fontdeck.com/typeface/demis",
+    "slug": "demis",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Serif"
+    ],
+    "foundry": "Tour de Force",
+    "designer": [
+        "Slobodan Jelesijević"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "wedged",
+        "decorative",
+        "display"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/demis/regular",
+            "css": {
+                "font-family": "Demis Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1140",
+                "slug": "regular",
+                "price": "$7.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/demis/bold",
+            "css": {
+                "font-family": "Demis Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1141",
+                "slug": "bold",
+                "price": "$7.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "314",
+        "slug": "demis"
+    },
+    "generatedAt": 1437609193868
+}

@@ -1,0 +1,61 @@
+{
+    "name": "Eskapade",
+    "url": "http://fontdeck.com/typeface/eskapade",
+    "slug": "eskapade",
+    "superfamily": "Eskapade",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Garalde"
+    ],
+    "foundry": "TypeTogether",
+    "designer": [
+        "Alisa Nowak"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "roman",
+        "blackletter",
+        "contemporary",
+        "superfamily"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/eskapade/regular",
+            "css": {
+                "font-family": "Eskapade Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6286",
+                "slug": "regular",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/eskapade/italic",
+            "css": {
+                "font-family": "Eskapade Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6287",
+                "slug": "italic",
+                "price": "$15.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1446",
+        "slug": "eskapade"
+    },
+    "generatedAt": 1437610856886
+}

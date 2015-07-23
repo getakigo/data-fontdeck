@@ -1,0 +1,95 @@
+{
+    "name": "Canape Serif",
+    "url": "http://fontdeck.com/typeface/canapeserif",
+    "slug": "canapeserif",
+    "use": "body",
+    "classification": [
+        "Slab Serif",
+        "Dynamic"
+    ],
+    "foundry": "fonts.info",
+    "designer": [
+        "Sebastian Nagel"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "cosy",
+        "low contrast",
+        "warm",
+        "curvy",
+        "haptical",
+        "slab serif",
+        "modulated",
+        "friendly",
+        "subtle"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/canapeserif/regular",
+            "css": {
+                "font-family": "Canape Serif Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6629",
+                "slug": "regular",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/canapeserif/italic",
+            "css": {
+                "font-family": "Canape Serif Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6631",
+                "slug": "italic",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/canapeserif/bold",
+            "css": {
+                "font-family": "Canape Serif Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6630",
+                "slug": "bold",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/canapeserif/bolditalic",
+            "css": {
+                "font-family": "Canape Serif Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6632",
+                "slug": "bolditalic",
+                "price": "$9.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1517",
+        "slug": "canapeserif"
+    },
+    "generatedAt": 1437610955075
+}

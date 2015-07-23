@@ -1,0 +1,48 @@
+{
+    "name": "Wooden Nickel Pro",
+    "url": "http://fontdeck.com/typeface/woodennickelpro",
+    "slug": "woodennickelpro",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Serif",
+        "Display",
+        "Fat Face"
+    ],
+    "foundry": "CheapProFonts",
+    "designer": [
+        "Nick Curtis"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "retro",
+        "fat face",
+        "black",
+        "western",
+        "fancy"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/woodennickelpro/regular",
+            "css": {
+                "font-family": "Wooden Nickel Pro Regular",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3106",
+                "slug": "regular",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "726",
+        "slug": "woodennickelpro"
+    },
+    "generatedAt": 1437609797077
+}

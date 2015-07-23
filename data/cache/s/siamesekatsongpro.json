@@ -1,0 +1,44 @@
+{
+    "name": "Siamese Katsong Pro",
+    "url": "http://fontdeck.com/typeface/siamesekatsongpro",
+    "slug": "siamesekatsongpro",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Poster"
+    ],
+    "foundry": "CheapProFonts",
+    "designer": [
+        "Vic Fieger"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "faux",
+        "thai",
+        "faux thai"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/siamesekatsongpro/regular",
+            "css": {
+                "font-family": "Siamese Katsong Pro Regular",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4761",
+                "slug": "regular",
+                "price": "$9.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1109",
+        "slug": "siamesekatsongpro"
+    },
+    "generatedAt": 1437610440470
+}

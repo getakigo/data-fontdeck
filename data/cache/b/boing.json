@@ -1,0 +1,52 @@
+{
+    "name": "Boing",
+    "url": "http://fontdeck.com/typeface/boing",
+    "slug": "boing",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Poster",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "A2-TYPE",
+    "designer": [
+        "Henrik Kubel"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "geometric",
+        "text",
+        "legible",
+        "editorial",
+        "contemporary",
+        "newspaper",
+        "magazine",
+        "poster",
+        "black"
+    ],
+    "variations": [
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/boing/bold",
+            "css": {
+                "font-family": "Boing Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6500",
+                "slug": "bold",
+                "price": "$45.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1486",
+        "slug": "boing"
+    },
+    "generatedAt": 1437610929766
+}

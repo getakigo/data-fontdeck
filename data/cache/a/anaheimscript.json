@@ -1,0 +1,49 @@
+{
+    "name": "Anaheim Script",
+    "url": "http://fontdeck.com/typeface/anaheimscript",
+    "slug": "anaheimscript",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Decorative script"
+    ],
+    "foundry": "Veer",
+    "designer": [
+        "Jason Walcott"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "modern",
+        "script",
+        "1930s",
+        "connected",
+        "mid-century",
+        "brush script",
+        "casual-script",
+        "alternates"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/anaheimscript/regular",
+            "css": {
+                "font-family": "Anaheim Script Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5024",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1160",
+        "slug": "anaheimscript"
+    },
+    "generatedAt": 1437610488617
+}

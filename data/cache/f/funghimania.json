@@ -1,0 +1,51 @@
+{
+    "name": "Funghi Mania",
+    "url": "http://fontdeck.com/typeface/funghimania",
+    "slug": "funghimania",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Handwritten",
+        "Script",
+        "Decorative script"
+    ],
+    "foundry": "Fenotype",
+    "designer": [
+        "Emil Bertell"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "hand drawn",
+        "cursive",
+        "ink",
+        "feminine",
+        "handwriting",
+        "brush",
+        "quill",
+        "organic"
+    ],
+    "variations": [
+        {
+            "name": "Script",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/funghimania/script",
+            "css": {
+                "font-family": "Funghi Mania Script",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2144",
+                "slug": "script",
+                "price": "$8.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "539",
+        "slug": "funghimania"
+    },
+    "generatedAt": 1437609407751
+}

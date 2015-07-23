@@ -1,0 +1,127 @@
+{
+    "name": "Museo Sans Rounded",
+    "url": "http://fontdeck.com/typeface/museosansrounded",
+    "slug": "museosansrounded",
+    "superfamily": "Museo",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "Exljbris",
+    "designer": [
+        "Jos Buivenga"
+    ],
+    "opentype": [
+        "liga"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "opentype",
+        "simple",
+        "legible",
+        "esperanto",
+        "super family",
+        "rounded",
+        "clean"
+    ],
+    "variations": [
+        {
+            "name": "100",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/museosansrounded/100",
+            "css": {
+                "font-family": "Museo Sans Rounded 100",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3292",
+                "slug": "100",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "300",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/museosansrounded/300",
+            "css": {
+                "font-family": "Museo Sans Rounded 300",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3293",
+                "slug": "300",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "700",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/museosansrounded/700",
+            "css": {
+                "font-family": "Museo Sans Rounded 700",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3295",
+                "slug": "700",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "500",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/museosansrounded/500",
+            "css": {
+                "font-family": "Museo Sans Rounded 500",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3294",
+                "slug": "500",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "900",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/museosansrounded/900",
+            "css": {
+                "font-family": "Museo Sans Rounded 900",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3296",
+                "slug": "900",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "1000",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/museosansrounded/1000",
+            "css": {
+                "font-family": "Museo Sans Rounded 1000",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3297",
+                "slug": "1000",
+                "price": "$7.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "789",
+        "slug": "museosansrounded"
+    },
+    "generatedAt": 1437609889929
+}

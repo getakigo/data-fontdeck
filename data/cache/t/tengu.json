@@ -1,0 +1,69 @@
+{
+    "name": "Tengu",
+    "url": "http://fontdeck.com/typeface/tengu",
+    "slug": "tengu",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Experimental",
+        "Display",
+        "Art Deco",
+        "Display",
+        "Decorative",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "The Northern Block",
+    "designer": [
+        "Jonathan Hill"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "neon",
+        "1970s",
+        "feminine",
+        "revival",
+        "geometric",
+        "dynamic",
+        "logo",
+        "linear",
+        "music",
+        "nightclub",
+        "decorative",
+        "script",
+        "movie",
+        "elegant",
+        "graphic",
+        "double line",
+        "digital",
+        "fashionable",
+        "retro",
+        "flowing",
+        "headline",
+        "disco"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/tengu/regular",
+            "css": {
+                "font-family": "Tengu Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2471",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "601",
+        "slug": "tengu"
+    },
+    "generatedAt": 1437609544731
+}

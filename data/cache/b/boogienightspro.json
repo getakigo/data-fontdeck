@@ -1,0 +1,44 @@
+{
+    "name": "Boogie Nights Pro",
+    "url": "http://fontdeck.com/typeface/boogienightspro",
+    "slug": "boogienightspro",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Art Deco"
+    ],
+    "foundry": "CheapProFonts",
+    "designer": [
+        "Nick Curtis"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "retro",
+        "1920s",
+        "art deco"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/boogienightspro/regular",
+            "css": {
+                "font-family": "Boogie Nights Pro Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3035",
+                "slug": "regular",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "710",
+        "slug": "boogienightspro"
+    },
+    "generatedAt": 1437609762600
+}

@@ -1,0 +1,91 @@
+{
+    "name": "Parametra",
+    "url": "http://fontdeck.com/typeface/parametra",
+    "slug": "parametra",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Hybrid"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Philip Kraft"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "2000s",
+        "japanese",
+        "sans-serif",
+        "calligraphic",
+        "legible"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/parametra/regular",
+            "css": {
+                "font-family": "Parametra Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1562",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/parametra/italic",
+            "css": {
+                "font-family": "Parametra Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1561",
+                "slug": "italic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/parametra/bold",
+            "css": {
+                "font-family": "Parametra Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1559",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/parametra/bolditalic",
+            "css": {
+                "font-family": "Parametra Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1560",
+                "slug": "bolditalic",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "416",
+        "slug": "parametra"
+    },
+    "generatedAt": 1437609311583
+}

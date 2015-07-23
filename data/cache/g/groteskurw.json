@@ -1,0 +1,268 @@
+{
+    "name": "Grotesk URW",
+    "url": "http://fontdeck.com/typeface/groteskurw",
+    "slug": "groteskurw",
+    "superfamily": "Urw Grotesk",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Grotesque"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Hermann Zapf"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "static",
+        "workhorse",
+        "sans-serif",
+        "urw grotesk",
+        "text",
+        "legible",
+        "sturdy",
+        "newspaper",
+        "humanist",
+        "neutral",
+        "grotesque",
+        "linear sans",
+        "german",
+        "transitional",
+        "superfamily",
+        "grotesk family"
+    ],
+    "variations": [
+        {
+            "name": "Extra-light",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/groteskurw/extralight",
+            "css": {
+                "font-family": "Grotesk URW Extra Light",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2696",
+                "slug": "extralight",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-light Oblique",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/groteskurw/extralightoblique",
+            "css": {
+                "font-family": "Grotesk URW Extra Light Oblique",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2705",
+                "slug": "extralightoblique",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/groteskurw/light",
+            "css": {
+                "font-family": "Grotesk URW Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2697",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/groteskurw/lightitalic",
+            "css": {
+                "font-family": "Grotesk URW Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2701",
+                "slug": "lightitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light Oblique",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/groteskurw/lightoblique",
+            "css": {
+                "font-family": "Grotesk URW Light Oblique",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2706",
+                "slug": "lightoblique",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/groteskurw/regular",
+            "css": {
+                "font-family": "Grotesk URW Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2698",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/groteskurw/italic",
+            "css": {
+                "font-family": "Grotesk URW Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2704",
+                "slug": "italic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Oblique",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/groteskurw/oblique",
+            "css": {
+                "font-family": "Grotesk URW Oblique",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2707",
+                "slug": "oblique",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/groteskurw/medium",
+            "css": {
+                "font-family": "Grotesk URW Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2699",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium Oblique",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/groteskurw/mediumoblique",
+            "css": {
+                "font-family": "Grotesk URW Medium Oblique",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2708",
+                "slug": "mediumoblique",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/groteskurw/mediumitalic",
+            "css": {
+                "font-family": "Grotesk URW Medium Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2702",
+                "slug": "mediumitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/groteskurw/bold",
+            "css": {
+                "font-family": "Grotesk URW Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2700",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/groteskurw/bolditalic",
+            "css": {
+                "font-family": "Grotesk URW Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2703",
+                "slug": "bolditalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Small Caps Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/groteskurw/smallcapsregular",
+            "css": {
+                "font-family": "Grotesk URW Small Caps Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2710",
+                "slug": "smallcapsregular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Small Caps Light",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/groteskurw/smallcapslight",
+            "css": {
+                "font-family": "Grotesk URW Small Caps Light",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2709",
+                "slug": "smallcapslight",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "650",
+        "slug": "groteskurw"
+    },
+    "generatedAt": 1437609634880
+}

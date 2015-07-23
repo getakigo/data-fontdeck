@@ -1,0 +1,242 @@
+{
+    "name": "Bladi Two 4F",
+    "url": "http://fontdeck.com/typeface/bladitwo4f",
+    "slug": "bladitwo4f",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Geometric",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "4th february",
+    "designer": [
+        "Sergiy S. Tkachenko"
+    ],
+    "language": [
+        "latin",
+        "cyrillic"
+    ],
+    "tags": [
+        "smooth",
+        "robot",
+        "soft"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/bladitwo4f/regular",
+            "css": {
+                "font-family": "Bladi Two 4F Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3889",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/bladitwo4f/italic",
+            "css": {
+                "font-family": "Bladi Two 4F Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3890",
+                "slug": "italic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/bladitwo4f/bold",
+            "css": {
+                "font-family": "Bladi Two 4F Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3875",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/bladitwo4f/bolditalic",
+            "css": {
+                "font-family": "Bladi Two 4F Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3876",
+                "slug": "bolditalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Stencil",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/bladitwo4f/stencil",
+            "css": {
+                "font-family": "Bladi Two 4F Stencil",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3883",
+                "slug": "stencil",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Condensed Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/bladitwo4f/condensedbold",
+            "css": {
+                "font-family": "Bladi Two 4F Condensed Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3880",
+                "slug": "condensedbold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Condensed",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/bladitwo4f/condensed",
+            "css": {
+                "font-family": "Bladi Two 4F Condensed",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3878",
+                "slug": "condensed",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Stencil Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/bladitwo4f/stencilbold",
+            "css": {
+                "font-family": "Bladi Two 4F Stencil Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3885",
+                "slug": "stencilbold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Comic Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/bladitwo4f/comicbold",
+            "css": {
+                "font-family": "Bladi Two 4F Comic Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3887",
+                "slug": "comicbold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Stencil Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/bladitwo4f/stencilbolditalic",
+            "css": {
+                "font-family": "BladiTwo4FStencilBoldItalic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3886",
+                "slug": "stencilbolditalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Stencil Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/bladitwo4f/stencilitalic",
+            "css": {
+                "font-family": "Bladi Two 4F Stencil Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3884",
+                "slug": "stencilitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Condensed Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/bladitwo4f/condenseditalic",
+            "css": {
+                "font-family": "Bladi Two 4F Condensed Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3879",
+                "slug": "condenseditalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Condensed Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/bladitwo4f/condensedbolditalic",
+            "css": {
+                "font-family": "BladiTwo4FCondensedBoldItalic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3881",
+                "slug": "condensedbolditalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Comic Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/bladitwo4f/comicbolditalic",
+            "css": {
+                "font-family": "Bladi Two 4F Comic Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3888",
+                "slug": "comicbolditalic",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "917",
+        "slug": "bladitwo4f"
+    },
+    "generatedAt": 1437610120991
+}

@@ -1,0 +1,58 @@
+{
+    "name": "Refren",
+    "url": "http://fontdeck.com/typeface/refren",
+    "slug": "refren",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Handwritten",
+        "Display",
+        "Script"
+    ],
+    "foundry": "Tour de Force",
+    "designer": [
+        "Dušan Jelesijević"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "chocolate",
+        "script",
+        "food",
+        "invitation",
+        "handwriting",
+        "wedding invitation",
+        "cosmetics",
+        "candy",
+        "monoline",
+        "textile",
+        "ice cream",
+        "catchy",
+        "handmade",
+        "invite",
+        "wedding"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/refren/regular",
+            "css": {
+                "font-family": "Refren Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5386",
+                "slug": "regular",
+                "price": "$7.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1266",
+        "slug": "refren"
+    },
+    "generatedAt": 1437610602776
+}

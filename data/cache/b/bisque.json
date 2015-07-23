@@ -1,0 +1,66 @@
+{
+    "name": "Bisque",
+    "url": "http://fontdeck.com/typeface/bisque",
+    "slug": "bisque",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Script",
+        "Script",
+        "Formal"
+    ],
+    "foundry": "Letterbox",
+    "designer": [
+        "Niels Oeltjen"
+    ],
+    "opentype": [
+        "calt"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "script",
+        "opentype",
+        "thin",
+        "display",
+        "connected"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/bisque/thin",
+            "css": {
+                "font-family": "Bisque Thin",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5439",
+                "slug": "thin",
+                "price": "$18.69"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/bisque/bold",
+            "css": {
+                "font-family": "Bisque Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5438",
+                "slug": "bold",
+                "price": "$18.69"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1277",
+        "slug": "bisque"
+    },
+    "generatedAt": 1437610650224
+}

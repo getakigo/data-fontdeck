@@ -1,0 +1,98 @@
+{
+    "name": "Bellucci",
+    "url": "http://fontdeck.com/typeface/bellucci",
+    "slug": "bellucci",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Display",
+        "Poster"
+    ],
+    "foundry": "ReType",
+    "designer": [
+        "Ramiro Espinoza"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "soviet",
+        "narrow",
+        "condensed",
+        "constructivism",
+        "sans-serif",
+        "constructivist",
+        "mechanical",
+        "modular",
+        "90s",
+        "poster"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/bellucci/light",
+            "css": {
+                "font-family": "Bellucci Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6164",
+                "slug": "light",
+                "price": "$16.99"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/bellucci/regular",
+            "css": {
+                "font-family": "Bellucci Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6165",
+                "slug": "regular",
+                "price": "$16.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/bellucci/bold",
+            "css": {
+                "font-family": "Bellucci Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6162",
+                "slug": "bold",
+                "price": "$16.99"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/bellucci/heavy",
+            "css": {
+                "font-family": "Bellucci Heavy",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6163",
+                "slug": "heavy",
+                "price": "$16.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1424",
+        "slug": "bellucci"
+    },
+    "generatedAt": 1437610835568
+}

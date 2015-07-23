@@ -1,0 +1,47 @@
+{
+    "name": "Cargo",
+    "url": "http://fontdeck.com/typeface/cargo",
+    "slug": "cargo",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Display",
+        "Stencil"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "URW Studio"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "1960s",
+        "american",
+        "technical",
+        "stencil"
+    ],
+    "variations": [
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/cargo/bold",
+            "css": {
+                "font-family": "Cargo Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "684",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "228",
+        "slug": "cargo"
+    },
+    "generatedAt": 1437609046350
+}

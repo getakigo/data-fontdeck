@@ -1,0 +1,56 @@
+{
+    "name": "Martian Text",
+    "url": "http://fontdeck.com/typeface/martiantext",
+    "slug": "martiantext",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Experimental",
+        "Display",
+        "All caps",
+        "Display",
+        "Futuristic",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "Veer",
+    "designer": [
+        "Jason Walcott"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "round",
+        "sans-serif",
+        "geometric",
+        "text",
+        "experimental",
+        "sci-fi",
+        "all capitals",
+        "futuristic",
+        "display"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/martiantext/regular",
+            "css": {
+                "font-family": "Martian Text Regular",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5063",
+                "slug": "regular",
+                "price": "$13.44"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1185",
+        "slug": "martiantext"
+    },
+    "generatedAt": 1437610529812
+}

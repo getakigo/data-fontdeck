@@ -1,0 +1,110 @@
+{
+    "name": "Bree Expert Subset",
+    "url": "http://fontdeck.com/typeface/breeexpertsubset",
+    "slug": "breeexpertsubset",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif"
+    ],
+    "foundry": "TypeTogether",
+    "designer": [
+        "Veronika Burian",
+        "José Scaglione"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "old style figures",
+        "stylistic alternates",
+        "expert subset"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/breeexpertsubset/thin",
+            "css": {
+                "font-family": "Bree Expert Subset Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4432",
+                "slug": "thin",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/breeexpertsubset/light",
+            "css": {
+                "font-family": "Bree Expert Subset Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4431",
+                "slug": "light",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/breeexpertsubset/regular",
+            "css": {
+                "font-family": "Bree Expert Subset Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4428",
+                "slug": "regular",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/breeexpertsubset/bold",
+            "css": {
+                "font-family": "Bree Expert Subset Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4429",
+                "slug": "bold",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/breeexpertsubset/extrabold",
+            "css": {
+                "font-family": "Bree Expert Subset Extra Bold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4430",
+                "slug": "extrabold",
+                "price": "$3.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1047",
+        "slug": "breeexpertsubset"
+    },
+    "expert subset": [
+        "onum",
+        "salt",
+        "ss01"
+    ],
+    "generatedAt": 1437610372946
+}

@@ -1,0 +1,50 @@
+{
+    "name": "Pickworth Old Style Pro",
+    "url": "http://fontdeck.com/typeface/pickwortholdstylepro",
+    "slug": "pickwortholdstylepro",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Funny",
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "Red Rooster Collection",
+    "designer": [
+        "Ashley Muir",
+        "Steve Jackaman"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "1930s",
+        "invitation",
+        "1920s",
+        "engraving",
+        "wedding",
+        "legible"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/pickwortholdstylepro/regular",
+            "css": {
+                "font-family": "Pickworth Old Style Pro Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3157",
+                "slug": "regular",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "741",
+        "slug": "pickwortholdstylepro"
+    },
+    "generatedAt": 1437609819963
+}

@@ -1,0 +1,65 @@
+{
+    "name": "Passage",
+    "url": "http://fontdeck.com/typeface/passage",
+    "slug": "passage",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Art Deco"
+    ],
+    "foundry": "Tour de Force",
+    "designer": [
+        "Dušan Jelesijević"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "all caps",
+        "decorative",
+        "1950s",
+        "1930s",
+        "1940s",
+        "narrow",
+        "1920s",
+        "art deco",
+        "1960s"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/passage/regular",
+            "css": {
+                "font-family": "Passage Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2295",
+                "slug": "regular",
+                "price": "$7.99"
+            }
+        },
+        {
+            "name": "Decor",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/passage/decor",
+            "css": {
+                "font-family": "Passage Decor",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2296",
+                "slug": "decor",
+                "price": "$7.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "562",
+        "slug": "passage"
+    },
+    "generatedAt": 1437609440461
+}

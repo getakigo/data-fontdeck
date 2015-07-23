@@ -1,0 +1,187 @@
+{
+    "name": "Novecento Sans Wide",
+    "url": "http://fontdeck.com/typeface/novecentosanswide",
+    "slug": "novecentosanswide",
+    "superfamily": "Novecento",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Sans Serif",
+        "Geometric",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "Synthview",
+    "designer": [
+        "Jan Tonellato"
+    ],
+    "opentype": [
+        "calt",
+        "lnum",
+        "onum",
+        "pnum",
+        "ss01",
+        "ss02",
+        "ss03",
+        "ss04",
+        "ss05",
+        "tnum",
+        "zero"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "opentype",
+        "1920s",
+        "condensed",
+        "geometric",
+        "contemporary",
+        "sans",
+        "modern",
+        "headline",
+        "alternate",
+        "display",
+        "uppercase",
+        "poster",
+        "all caps",
+        "1930s",
+        "neutral",
+        "grotesque",
+        "small caps",
+        "retro",
+        "heavy",
+        "sans serif",
+        "superfamily",
+        "clean",
+        "wide"
+    ],
+    "variations": [
+        {
+            "name": "Ultra-light",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/novecentosanswide/ultralight",
+            "css": {
+                "font-family": "Novecento Sans Wide UltraLight",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8017",
+                "slug": "ultralight",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/novecentosanswide/light",
+            "css": {
+                "font-family": "Novecento Sans Wide Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8021",
+                "slug": "light",
+                "price": "FREE"
+            }
+        },
+        {
+            "name": "Book",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/novecentosanswide/book",
+            "css": {
+                "font-family": "Novecento Sans Wide Book",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8024",
+                "slug": "book",
+                "price": "FREE"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/novecentosanswide/medium",
+            "css": {
+                "font-family": "Novecento Sans Wide Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8020",
+                "slug": "medium",
+                "price": "FREE"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/novecentosanswide/bold",
+            "css": {
+                "font-family": "Novecento Sans Wide Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8023",
+                "slug": "bold",
+                "price": "FREE"
+            }
+        },
+        {
+            "name": "Normal",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/novecentosanswide/normal",
+            "css": {
+                "font-family": "Novecento Sans Wide Normal",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8019",
+                "slug": "normal",
+                "price": "FREE"
+            }
+        },
+        {
+            "name": "DemiBold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/novecentosanswide/demibold",
+            "css": {
+                "font-family": "Novecento Sans Wide DemiBold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8022",
+                "slug": "demibold",
+                "price": "FREE"
+            }
+        },
+        {
+            "name": "UltraBold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/novecentosanswide/ultrabold",
+            "css": {
+                "font-family": "Novecento Sans Wide UltraBold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8018",
+                "slug": "ultrabold",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1841",
+        "slug": "novecentosanswide"
+    },
+    "generatedAt": 1437611454890
+}

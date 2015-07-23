@@ -1,0 +1,113 @@
+{
+    "name": "Heroine",
+    "url": "http://fontdeck.com/typeface/heroine",
+    "slug": "heroine",
+    "superfamily": "Heroine",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Venetian",
+        "Display",
+        "Serif"
+    ],
+    "foundry": "Letters from Sweden",
+    "designer": [
+        "Göran Söderström"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "windsor",
+        "movie",
+        "elegant",
+        "swashes",
+        "woody allen",
+        "art nouveau",
+        "1900s",
+        "magazine",
+        "superfamily"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/heroine/regular",
+            "css": {
+                "font-family": "Heroine Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4568",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/heroine/medium",
+            "css": {
+                "font-family": "Heroine Medium",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4570",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/heroine/bold",
+            "css": {
+                "font-family": "Heroine Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4569",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/heroine/extrabold",
+            "css": {
+                "font-family": "Heroine Extra Bold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4572",
+                "slug": "extrabold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/heroine/black",
+            "css": {
+                "font-family": "Heroine Black",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4571",
+                "slug": "black",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1074",
+        "slug": "heroine"
+    },
+    "generatedAt": 1437610708963
+}

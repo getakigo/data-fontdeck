@@ -1,0 +1,195 @@
+{
+    "name": "Vitro",
+    "url": "http://fontdeck.com/typeface/vitro",
+    "slug": "vitro",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "The Northern Block",
+    "designer": [
+        "Jonathan Hill"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "technical",
+        "geometric",
+        "linear",
+        "din",
+        "balanced",
+        "humanist",
+        "news",
+        "minimal",
+        "modern",
+        "commercial",
+        "smooth",
+        "european",
+        "branding",
+        "linear sans",
+        "headline",
+        "display",
+        "information",
+        "architectural",
+        "sans-serif",
+        "legible",
+        "architecture",
+        "brochure",
+        "poster",
+        "eurostile",
+        "neutral",
+        "graphic",
+        "swiss",
+        "identity",
+        "sansserif",
+        "sans serif",
+        "grid",
+        "futuristic",
+        "german",
+        "clean"
+    ],
+    "variations": [
+        {
+            "name": "Ultra-light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/vitro/ultralight",
+            "css": {
+                "font-family": "Vitro UltraLight",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4045",
+                "slug": "ultralight",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/vitro/light",
+            "css": {
+                "font-family": "Vitro Light",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4046",
+                "slug": "light",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/vitro/regular",
+            "css": {
+                "font-family": "Vitro Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4047",
+                "slug": "regular",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/vitro/italic",
+            "css": {
+                "font-family": "Vitro Italic",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4048",
+                "slug": "italic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/vitro/medium",
+            "css": {
+                "font-family": "Vitro Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4049",
+                "slug": "medium",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/vitro/bold",
+            "css": {
+                "font-family": "Vitro Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4051",
+                "slug": "bold",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/vitro/extrabold",
+            "css": {
+                "font-family": "Vitro ExtraBold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4052",
+                "slug": "extrabold",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/vitro/heavy",
+            "css": {
+                "font-family": "Vitro Heavy",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4053",
+                "slug": "heavy",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "DemiBold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/vitro/demibold",
+            "css": {
+                "font-family": "Vitro DemiBold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4050",
+                "slug": "demibold",
+                "price": "$7.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "961",
+        "slug": "vitro"
+    },
+    "generatedAt": 1437610201562
+}

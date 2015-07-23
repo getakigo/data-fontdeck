@@ -1,0 +1,64 @@
+{
+    "name": "Code",
+    "url": "http://fontdeck.com/typeface/code",
+    "slug": "code",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Geometric",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "Fontfabric",
+    "designer": [
+        "Svetoslav Simov"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "grotesk",
+        "simple",
+        "thin",
+        "clean",
+        "linear",
+        "legible"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/code/light",
+            "css": {
+                "font-family": "Code Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3270",
+                "slug": "light",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/code/bold",
+            "css": {
+                "font-family": "Code Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3271",
+                "slug": "bold",
+                "price": "$3.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "776",
+        "slug": "code"
+    },
+    "generatedAt": 1437609864068
+}

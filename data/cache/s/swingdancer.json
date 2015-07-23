@@ -1,0 +1,45 @@
+{
+    "name": "Swingdancer",
+    "url": "http://fontdeck.com/typeface/swingdancer",
+    "slug": "swingdancer",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Handwritten"
+    ],
+    "foundry": "Chank Co",
+    "designer": [
+        "Chank Diesel"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "romantic",
+        "handletter",
+        "1950s",
+        "valentine"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/swingdancer/regular",
+            "css": {
+                "font-family": "Swingdancer Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "472",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "192",
+        "slug": "swingdancer"
+    },
+    "generatedAt": 1437608988888
+}

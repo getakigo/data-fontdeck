@@ -1,0 +1,61 @@
+{
+    "name": "Access Code",
+    "url": "http://fontdeck.com/typeface/accesscode",
+    "slug": "accesscode",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Neo-Grotesk",
+        "Display",
+        "Sans serif",
+        "Sans Serif",
+        "Monospaced"
+    ],
+    "foundry": "Playtype",
+    "designer": [
+        "Jonas Hecksher"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "square"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/accesscode/light",
+            "css": {
+                "font-family": "Access Code Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5746",
+                "slug": "light",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/accesscode/regular",
+            "css": {
+                "font-family": "Access Code Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5749",
+                "slug": "regular",
+                "price": "$45.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1326",
+        "slug": "accesscode"
+    },
+    "generatedAt": 1437610731629
+}

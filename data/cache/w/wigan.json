@@ -1,0 +1,68 @@
+{
+    "name": "Wigan",
+    "url": "http://fontdeck.com/typeface/wigan",
+    "slug": "wigan",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Experimental",
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "Fontfabric",
+    "designer": [
+        "Svetoslav Simov"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "decorative",
+        "circle",
+        "cool",
+        "elegant",
+        "geometric",
+        "fashionable",
+        "fashion",
+        "logo",
+        "light",
+        "thin"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/wigan/thin",
+            "css": {
+                "font-family": "Wigan Thin",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3028",
+                "slug": "thin",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/wigan/bold",
+            "css": {
+                "font-family": "Wigan Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3027",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "707",
+        "slug": "wigan"
+    },
+    "generatedAt": 1437609762749
+}

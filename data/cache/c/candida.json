@@ -1,0 +1,98 @@
+{
+    "name": "Candida",
+    "url": "http://fontdeck.com/typeface/candida",
+    "slug": "candida",
+    "use": "body",
+    "classification": [
+        "Slab Serif",
+        "Clarendon/Bracketed"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Jakob Erbar",
+        "URW Studio"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "coarse",
+        "modern",
+        "1930s",
+        "technical",
+        "heavy serif",
+        "legible",
+        "masculine",
+        "fax",
+        "headline",
+        "german",
+        "news"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/candida/regular",
+            "css": {
+                "font-family": "Candida Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "963",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/candida/regularitalic",
+            "css": {
+                "font-family": "Candida Regular Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "964",
+                "slug": "regularitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/candida/medium",
+            "css": {
+                "font-family": "Candida Medium",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "962",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Stencil",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/candida/stencil",
+            "css": {
+                "font-family": "Candida Stencil",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "965",
+                "slug": "stencil",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "281",
+        "slug": "candida"
+    },
+    "generatedAt": 1437609130935
+}

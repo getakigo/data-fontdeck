@@ -1,0 +1,48 @@
+{
+    "name": "Vogue Paris",
+    "url": "http://fontdeck.com/typeface/vogueparis",
+    "slug": "vogueparis",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Didone"
+    ],
+    "foundry": "A2-TYPE",
+    "designer": [
+        "Henrik Kubel"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "editorial",
+        "contemporary",
+        "newspaper",
+        "magazine",
+        "book",
+        "text",
+        "legible"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/vogueparis/regular",
+            "css": {
+                "font-family": "Vogue Paris Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6491",
+                "slug": "regular",
+                "price": "$45.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1477",
+        "slug": "vogueparis"
+    },
+    "generatedAt": 1437610946757
+}

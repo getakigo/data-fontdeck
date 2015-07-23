@@ -1,0 +1,76 @@
+{
+    "name": "Alpha",
+    "url": "http://fontdeck.com/typeface/alpha",
+    "slug": "alpha",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Grotesque"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Maren Engelhardt"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "neutral",
+        "linear sans",
+        "2000s",
+        "grotesque",
+        "legible"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/alpha/regular",
+            "css": {
+                "font-family": "Alpha Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "337",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/alpha/italic",
+            "css": {
+                "font-family": "Alpha Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "357",
+                "slug": "italic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/alpha/bold",
+            "css": {
+                "font-family": "Alpha Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "268",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "152",
+        "slug": "alpha"
+    },
+    "generatedAt": 1437608931939
+}

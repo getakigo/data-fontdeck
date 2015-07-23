@@ -1,0 +1,45 @@
+{
+    "name": "Brubecks Cube",
+    "url": "http://fontdeck.com/typeface/brubeckscube",
+    "slug": "brubeckscube",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "Chank Co",
+    "designer": [
+        "Chank Diesel"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "romantic",
+        "handletter",
+        "valentine",
+        "poster"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/brubeckscube/regular",
+            "css": {
+                "font-family": "Brubecks Cube Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "458",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "182",
+        "slug": "brubeckscube"
+    },
+    "generatedAt": 1437608971508
+}

@@ -1,0 +1,162 @@
+{
+    "name": "Waverly",
+    "url": "http://fontdeck.com/typeface/waverly",
+    "slug": "waverly",
+    "use": "heading",
+    "classification": [
+        "Serif",
+        "Garalde"
+    ],
+    "foundry": "Red Rooster Collection",
+    "designer": [
+        "Leslie Usherwood",
+        "Steve Jackaman"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "formal",
+        "english",
+        "correspondence",
+        "venetian",
+        "legible",
+        "fancy",
+        "american",
+        "garalde",
+        "baroque",
+        "magazine",
+        "sophisticated",
+        "inscribed",
+        "roman",
+        "french",
+        "elegant",
+        "menus",
+        "old style",
+        "italian",
+        "renaissance",
+        "money",
+        "office",
+        "delicate",
+        "signage",
+        "corporate",
+        "transitional",
+        "greek",
+        "graceful",
+        "conservative",
+        "clean",
+        "wide"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/waverly/light",
+            "css": {
+                "font-family": "Waverly Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4272",
+                "slug": "light",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/waverly/medium",
+            "css": {
+                "font-family": "Waverly Medium",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4273",
+                "slug": "medium",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/waverly/mediumitalic",
+            "css": {
+                "font-family": "Waverly Medium Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4274",
+                "slug": "mediumitalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/waverly/bold",
+            "css": {
+                "font-family": "Waverly Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4268",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/waverly/bolditalic",
+            "css": {
+                "font-family": "Waverly Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4269",
+                "slug": "bolditalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/waverly/extrabold",
+            "css": {
+                "font-family": "Waverly Extra Bold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4270",
+                "slug": "extrabold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Extra-bold Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/waverly/extrabolditalic",
+            "css": {
+                "font-family": "Waverly Extra Bold Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4271",
+                "slug": "extrabolditalic",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1001",
+        "slug": "waverly"
+    },
+    "generatedAt": 1437610281844
+}

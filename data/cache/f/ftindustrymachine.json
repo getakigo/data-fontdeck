@@ -1,0 +1,76 @@
+{
+    "name": "FT Industry Machine",
+    "url": "http://fontdeck.com/typeface/ftindustrymachine",
+    "slug": "ftindustrymachine",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "Fenotype",
+    "designer": [
+        "Emil Bertell"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "industrial",
+        "mechanical",
+        "gaspipe",
+        "modular",
+        "bold"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/ftindustrymachine/regular",
+            "css": {
+                "font-family": "FT Industry Machine Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7218",
+                "slug": "regular",
+                "price": "$5.50"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/ftindustrymachine/semibold",
+            "css": {
+                "font-family": "FT Industry Machine Semi Bold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7217",
+                "slug": "semibold",
+                "price": "$5.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/ftindustrymachine/bold",
+            "css": {
+                "font-family": "FT Industry Machine Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7216",
+                "slug": "bold",
+                "price": "$5.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1689",
+        "slug": "ftindustrymachine"
+    },
+    "generatedAt": 1437611145948
+}

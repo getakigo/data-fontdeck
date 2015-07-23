@@ -1,0 +1,49 @@
+{
+    "name": "Pepito",
+    "url": "http://fontdeck.com/typeface/pepito",
+    "slug": "pepito",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Script"
+    ],
+    "foundry": "Fenotype",
+    "designer": [
+        "Emil Bertell"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "cursive",
+        "brush",
+        "ornaments",
+        "sans-serif",
+        "lachrymal terminals",
+        "delicate",
+        "swash",
+        "alternates"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/pepito/regular",
+            "css": {
+                "font-family": "Pepito Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3840",
+                "slug": "regular",
+                "price": "$7.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "910",
+        "slug": "pepito"
+    },
+    "generatedAt": 1437610099957
+}

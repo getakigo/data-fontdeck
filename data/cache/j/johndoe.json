@@ -1,0 +1,45 @@
+{
+    "name": "John Doe",
+    "url": "http://fontdeck.com/typeface/johndoe",
+    "slug": "johndoe",
+    "use": "body",
+    "classification": [
+        "Slab Serif",
+        "Monospaced"
+    ],
+    "foundry": "Fonthead",
+    "designer": [
+        "Ethan Dunham"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "grunge",
+        "rough",
+        "distressed",
+        "typewriter"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/johndoe/regular",
+            "css": {
+                "font-family": "John Doe Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "417",
+                "slug": "regular",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "168",
+        "slug": "johndoe"
+    },
+    "generatedAt": 1437608942258
+}

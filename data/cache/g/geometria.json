@@ -1,0 +1,286 @@
+{
+    "name": "Geometria",
+    "url": "http://fontdeck.com/typeface/geometria",
+    "slug": "geometria",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "Brownfox",
+    "designer": [
+        "Gayaneh Bagdasaryan",
+        "Vyacheslav Kirilenko"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "workhorse",
+        "geometric",
+        "text",
+        "legible",
+        "friendly",
+        "humanist",
+        "magazine",
+        "geometric sans",
+        "sans",
+        "modern",
+        "old style figures",
+        "grotesk",
+        "elegant",
+        "ligatures",
+        "geometric sans serf",
+        "corporate",
+        "headline",
+        "sans serif",
+        "clean"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/geometria/thin",
+            "css": {
+                "font-family": "Geometria Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7577",
+                "slug": "thin",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Thin Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/geometria/thinitalic",
+            "css": {
+                "font-family": "Geometria Thin Italic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7578",
+                "slug": "thinitalic",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Extra-light",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/geometria/extralight",
+            "css": {
+                "font-family": "Geometria Extra Light",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7568",
+                "slug": "extralight",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Extra-light Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/geometria/extralightitalic",
+            "css": {
+                "font-family": "Geometria Extra Light Italic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7569",
+                "slug": "extralightitalic",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/geometria/light",
+            "css": {
+                "font-family": "Geometria Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7572",
+                "slug": "light",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/geometria/lightitalic",
+            "css": {
+                "font-family": "Geometria Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7573",
+                "slug": "lightitalic",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/geometria/regular",
+            "css": {
+                "font-family": "Geometria Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7563",
+                "slug": "regular",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/geometria/italic",
+            "css": {
+                "font-family": "Geometria Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7576",
+                "slug": "italic",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/geometria/medium",
+            "css": {
+                "font-family": "Geometria Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7574",
+                "slug": "medium",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/geometria/mediumitalic",
+            "css": {
+                "font-family": "Geometria Medium Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7575",
+                "slug": "mediumitalic",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/geometria/bold",
+            "css": {
+                "font-family": "Geometria Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7564",
+                "slug": "bold",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/geometria/bolditalic",
+            "css": {
+                "font-family": "Geometria Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7565",
+                "slug": "bolditalic",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/geometria/extrabold",
+            "css": {
+                "font-family": "Geometria Extrabold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7566",
+                "slug": "extrabold",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Extra-bold Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/geometria/extrabolditalic",
+            "css": {
+                "font-family": "Geometria Extrabold Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7567",
+                "slug": "extrabolditalic",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/geometria/heavy",
+            "css": {
+                "font-family": "Geometria Heavy",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7570",
+                "slug": "heavy",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Heavy Italic",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/geometria/heavyitalic",
+            "css": {
+                "font-family": "Geometria Heavy Italic",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7571",
+                "slug": "heavyitalic",
+                "price": "$15.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1753",
+        "slug": "geometria"
+    },
+    "generatedAt": 1437611191304
+}

@@ -1,0 +1,92 @@
+{
+    "name": "Dark Wood",
+    "url": "http://fontdeck.com/typeface/darkwood",
+    "slug": "darkwood",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Grunge",
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "Intellecta Design",
+    "designer": [
+        "Paulo W"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "gothic",
+        "horror",
+        "circus",
+        "graffiti",
+        "handwritten",
+        "roots",
+        "evil",
+        "scrollwork",
+        "water",
+        "tendrils",
+        "vintage",
+        "rough",
+        "intricate",
+        "ruins",
+        "plants",
+        "swash",
+        "organic",
+        "primitive",
+        "black sabbath"
+    ],
+    "variations": [
+        {
+            "name": "One",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/darkwood/one",
+            "css": {
+                "font-family": "Dark Wood One",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3097",
+                "slug": "one",
+                "price": "$10.30"
+            }
+        },
+        {
+            "name": "Two",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/darkwood/two",
+            "css": {
+                "font-family": "Dark Wood Two",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3098",
+                "slug": "two",
+                "price": "$10.30"
+            }
+        },
+        {
+            "name": "Three",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/darkwood/three",
+            "css": {
+                "font-family": "Dark Wood Three",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3099",
+                "slug": "three",
+                "price": "$10.30"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "720",
+        "slug": "darkwood"
+    },
+    "generatedAt": 1437609785904
+}

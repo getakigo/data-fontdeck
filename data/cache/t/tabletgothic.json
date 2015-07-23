@@ -1,0 +1,173 @@
+{
+    "name": "Tablet Gothic",
+    "url": "http://fontdeck.com/typeface/tabletgothic",
+    "slug": "tabletgothic",
+    "superfamily": "Tablet Gothic",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Gothic"
+    ],
+    "foundry": "TypeTogether",
+    "designer": [
+        "Veronika Burian",
+        "José Scaglione"
+    ],
+    "opentype": [
+        "liga",
+        "tnum",
+        "zero"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "advertising",
+        "publication",
+        "opentype",
+        "cover",
+        "warm",
+        "text",
+        "brand",
+        "strong",
+        "flexible",
+        "titles",
+        "contemporary",
+        "personality",
+        "quirky",
+        "magazine",
+        "multi-functional",
+        "modern",
+        "headline",
+        "display",
+        "packaging",
+        "big",
+        "legible",
+        "sturdy",
+        "newspaper",
+        "poster",
+        "periodical",
+        "neutral",
+        "logotype",
+        "punchy",
+        "tablet",
+        "grotesque",
+        "masculine",
+        "signage",
+        "editorial",
+        "corporate",
+        "clean"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/tabletgothic/thin",
+            "css": {
+                "font-family": "Tablet Gothic Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7951",
+                "slug": "thin",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/tabletgothic/light",
+            "css": {
+                "font-family": "Tablet Gothic Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7948",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/tabletgothic/regular",
+            "css": {
+                "font-family": "Tablet Gothic Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7949",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/tabletgothic/semibold",
+            "css": {
+                "font-family": "Tablet Gothic Semibold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7950",
+                "slug": "semibold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/tabletgothic/bold",
+            "css": {
+                "font-family": "Tablet Gothic Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7945",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/tabletgothic/extrabold",
+            "css": {
+                "font-family": "Tablet Gothic Extrabold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7946",
+                "slug": "extrabold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/tabletgothic/heavy",
+            "css": {
+                "font-family": "Tablet Gothic Heavy",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7947",
+                "slug": "heavy",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1830",
+        "slug": "tabletgothic"
+    },
+    "generatedAt": 1437611358584
+}

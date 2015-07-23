@@ -1,0 +1,124 @@
+{
+    "name": "Letterpress",
+    "url": "http://fontdeck.com/typeface/letterpress",
+    "slug": "letterpress",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Grunge",
+        "Display",
+        "Sans serif",
+        "Display",
+        "Poster"
+    ],
+    "foundry": "FaceType",
+    "designer": [
+        "Marcus Sterz"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "grunge",
+        "compressed",
+        "mix",
+        "geometric",
+        "distorted",
+        "movie",
+        "noisy",
+        "style",
+        "creative",
+        "art deco",
+        "bold",
+        "rough",
+        "ligature",
+        "1920",
+        "display",
+        "flyer",
+        "damaged",
+        "plakat",
+        "sans-serif",
+        "caps",
+        "metal",
+        "outline",
+        "broken",
+        "poster",
+        "decorative",
+        "neutral",
+        "compact",
+        "cool",
+        "block",
+        "retro",
+        "1930",
+        "heavy",
+        "german",
+        "distressed"
+    ],
+    "variations": [
+        {
+            "name": "Phosphor",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/letterpress/phosphor",
+            "css": {
+                "font-family": "Letterpress Phosphor",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5144",
+                "slug": "phosphor",
+                "price": "$7.00"
+            }
+        },
+        {
+            "name": "Aurora",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/letterpress/aurora",
+            "css": {
+                "font-family": "Letterpress Aurora",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5141",
+                "slug": "aurora",
+                "price": "$7.00"
+            }
+        },
+        {
+            "name": "Headline",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/letterpress/headline",
+            "css": {
+                "font-family": "Letterpress Headline",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5143",
+                "slug": "headline",
+                "price": "$7.00"
+            }
+        },
+        {
+            "name": "Bastard",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/letterpress/bastard",
+            "css": {
+                "font-family": "Letterpress Bastard",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5142",
+                "slug": "bastard",
+                "price": "$7.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1222",
+        "slug": "letterpress"
+    },
+    "generatedAt": 1437610624300
+}

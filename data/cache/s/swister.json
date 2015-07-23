@@ -1,0 +1,62 @@
+{
+    "name": "Swister",
+    "url": "http://fontdeck.com/typeface/swister",
+    "slug": "swister",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Handwritten"
+    ],
+    "foundry": "Chank Co",
+    "designer": [
+        "Alison Olmack",
+        "Chank Diesel"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "romantic",
+        "feminine",
+        "handwriting",
+        "casual",
+        "kids fonts"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/swister/regular",
+            "css": {
+                "font-family": "Swister Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "473",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/swister/bold",
+            "css": {
+                "font-family": "Swister Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "474",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "193",
+        "slug": "swister"
+    },
+    "generatedAt": 1437608988983
+}

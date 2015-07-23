@@ -1,0 +1,63 @@
+{
+    "name": "Spencerian Palmer Penmanship",
+    "url": "http://fontdeck.com/typeface/spencerianpalmerpenmanship",
+    "slug": "spencerianpalmerpenmanship",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Calligraphic",
+        "Script",
+        "Formal"
+    ],
+    "foundry": "Intellecta Design",
+    "designer": [
+        "Paulo W"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "invitation",
+        "copperplate",
+        "fancy",
+        "handwritten",
+        "contemporary",
+        "roundhand",
+        "sophisticated",
+        "loop",
+        "scrollwork",
+        "decorative",
+        "fanciful",
+        "elegant",
+        "stationery",
+        "fashion",
+        "vintage",
+        "quill",
+        "romantic",
+        "valentine",
+        "swash",
+        "wedding"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/spencerianpalmerpenmanship/regular",
+            "css": {
+                "font-family": "SpenceriaPalmePenmanshiRegula",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2808",
+                "slug": "regular",
+                "price": "$12.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "665",
+        "slug": "spencerianpalmerpenmanship"
+    },
+    "generatedAt": 1437609669083
+}

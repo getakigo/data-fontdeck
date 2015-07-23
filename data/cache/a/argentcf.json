@@ -1,0 +1,277 @@
+{
+    "name": "Argent CF",
+    "url": "http://fontdeck.com/typeface/argentcf",
+    "slug": "argentcf",
+    "use": "heading",
+    "classification": [
+        "Serif",
+        "French",
+        "Serif",
+        "Transitional",
+        "Display",
+        "Serif",
+        "Serif",
+        "Garalde",
+        "Serif",
+        "Neo-classical"
+    ],
+    "foundry": "Connary Fagen Typography",
+    "designer": [
+        "Connary Fagen"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "contrast",
+        "cosy",
+        "expressive",
+        "serif",
+        "1990s",
+        "strong",
+        "cooper",
+        "friendly",
+        "open",
+        "news",
+        "rich",
+        "lavish",
+        "80s",
+        "ligatures",
+        "renaissance",
+        "bold",
+        "ligature",
+        "90s",
+        "punch",
+        "extreme",
+        "robust",
+        "extra",
+        "revival",
+        "classic",
+        "regular",
+        "legible",
+        "classical",
+        "exquisite",
+        "parfum",
+        "newspapers",
+        "newspaper",
+        "extra black",
+        "refined",
+        "manually hinted",
+        "comfortable",
+        "news headline",
+        "airy",
+        "old time",
+        "old style",
+        "oldstyle",
+        "drama",
+        "regal",
+        "retro",
+        "pop",
+        "light",
+        "old-style",
+        "legibility",
+        "1980s"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/argentcf/thin",
+            "css": {
+                "font-family": "Argent CF Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "9046",
+                "slug": "thin",
+                "price": "$8.50"
+            }
+        },
+        {
+            "name": "Thin Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/argentcf/thinitalic",
+            "css": {
+                "font-family": "Argent CF Thin Italic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "9047",
+                "slug": "thinitalic",
+                "price": "$8.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/argentcf/light",
+            "css": {
+                "font-family": "Argent CF Light",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "9041",
+                "slug": "light",
+                "price": "$8.50"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i3",
+            "url": "http://fontdeck.com/font/argentcf/lightitalic",
+            "css": {
+                "font-family": "Argent CF Light Italic",
+                "font-weight": "300",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "9042",
+                "slug": "lightitalic",
+                "price": "$8.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/argentcf/regular",
+            "css": {
+                "font-family": "Argent CF Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "9043",
+                "slug": "regular",
+                "price": "$8.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/argentcf/regularitalic",
+            "css": {
+                "font-family": "Argent CF Regular Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "9044",
+                "slug": "regularitalic",
+                "price": "$8.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/argentcf/bold",
+            "css": {
+                "font-family": "Argent CF Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "9035",
+                "slug": "bold",
+                "price": "$8.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/argentcf/bolditalic",
+            "css": {
+                "font-family": "Argent CF Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "9036",
+                "slug": "bolditalic",
+                "price": "$8.50"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/argentcf/extrabold",
+            "css": {
+                "font-family": "Argent CF Extra Bold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "9039",
+                "slug": "extrabold",
+                "price": "$8.50"
+            }
+        },
+        {
+            "name": "Extra-bold Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/argentcf/extrabolditalic",
+            "css": {
+                "font-family": "Argent CF Extra Bold Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "9040",
+                "slug": "extrabolditalic",
+                "price": "$8.50"
+            }
+        },
+        {
+            "name": "Super",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/argentcf/super",
+            "css": {
+                "font-family": "Argent CF Super",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "9045",
+                "slug": "super",
+                "price": "$8.50"
+            }
+        },
+        {
+            "name": "Demi Bold",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/argentcf/demibold",
+            "css": {
+                "font-family": "Argent CF Demi Bold",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "9037",
+                "slug": "demibold",
+                "price": "$8.50"
+            }
+        },
+        {
+            "name": "Demi Bold Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/argentcf/demibolditalic",
+            "css": {
+                "font-family": "Argent CF Demi Bold Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "9038",
+                "slug": "demibolditalic",
+                "price": "$8.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "2022",
+        "slug": "argentcf"
+    },
+    "generatedAt": 1437611658046
+}

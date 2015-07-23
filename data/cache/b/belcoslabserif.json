@@ -1,0 +1,78 @@
+{
+    "name": "Belco Slab Serif",
+    "url": "http://fontdeck.com/typeface/belcoslabserif",
+    "slug": "belcoslabserif",
+    "use": "heading",
+    "classification": [
+        "Slab Serif",
+        "Clarendon/Bracketed"
+    ],
+    "foundry": "Tour de Force",
+    "designer": [
+        "Slobodan Jelesijević"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "modern",
+        "cool",
+        "elegant",
+        "newspaper",
+        "magazine",
+        "book",
+        "belco"
+    ],
+    "variations": [
+        {
+            "name": "Ultra-light",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/belcoslabserif/ultralight",
+            "css": {
+                "font-family": "Belco Slab Serif Ultra Light",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "979",
+                "slug": "ultralight",
+                "price": "$7.99"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/belcoslabserif/light",
+            "css": {
+                "font-family": "Belco Slab Serif Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "978",
+                "slug": "light",
+                "price": "$7.99"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/belcoslabserif/regular",
+            "css": {
+                "font-family": "Belco Slab Serif Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "977",
+                "slug": "regular",
+                "price": "$7.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "284",
+        "slug": "belcoslabserif"
+    },
+    "generatedAt": 1437609142072
+}

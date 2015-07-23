@@ -1,0 +1,130 @@
+{
+    "name": "DyeLine",
+    "url": "http://fontdeck.com/typeface/dyeline",
+    "slug": "dyeline",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "The Northern Block",
+    "designer": [
+        "Jonathan Hill"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "architectural",
+        "advertising",
+        "feminine",
+        "technical",
+        "classic",
+        "geometric",
+        "book jacket",
+        "avant garde",
+        "legible",
+        "balanced",
+        "contemporary",
+        "magazine",
+        "modern",
+        "minimalism",
+        "elegant",
+        "plain",
+        "art deco",
+        "romantic",
+        "european",
+        "artdeco",
+        "light",
+        "valentine",
+        "headline",
+        "linear sans",
+        "german",
+        "clean",
+        "books"
+    ],
+    "variations": [
+        {
+            "name": "Ultra-light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/dyeline/ultralight",
+            "css": {
+                "font-family": "DyeLine UltraLight",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2408",
+                "slug": "ultralight",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/dyeline/light",
+            "css": {
+                "font-family": "DyeLine Light",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2409",
+                "slug": "light",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/dyeline/regular",
+            "css": {
+                "font-family": "DyeLine Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2410",
+                "slug": "regular",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/dyeline/medium",
+            "css": {
+                "font-family": "DyeLine Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2411",
+                "slug": "medium",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/dyeline/bold",
+            "css": {
+                "font-family": "DyeLine Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2412",
+                "slug": "bold",
+                "price": "$9.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "586",
+        "slug": "dyeline"
+    },
+    "generatedAt": 1437609510247
+}

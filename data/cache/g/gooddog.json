@@ -1,0 +1,48 @@
+{
+    "name": "GoodDog",
+    "url": "http://fontdeck.com/typeface/gooddog",
+    "slug": "gooddog",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Handwritten"
+    ],
+    "foundry": "Fonthead",
+    "designer": [
+        "Ethan Dunham"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "kids",
+        "kidprint",
+        "childish",
+        "fun",
+        "casual",
+        "kids fonts",
+        "kid print"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/gooddog/regular",
+            "css": {
+                "font-family": "GoodDog Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "426",
+                "slug": "regular",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "170",
+        "slug": "gooddog"
+    },
+    "generatedAt": 1437608953909
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Olidia",
+    "url": "http://fontdeck.com/typeface/olidia",
+    "slug": "olidia",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Decorative script"
+    ],
+    "foundry": "Insigne",
+    "designer": [
+        "Jeremy Dooley"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "romantic",
+        "valentine",
+        "calligraphic"
+    ],
+    "variations": [
+        {
+            "name": "Pro",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/olidia/pro",
+            "css": {
+                "font-family": "Olidia Pro",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "647",
+                "slug": "pro",
+                "price": "$7.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "219",
+        "slug": "olidia"
+    },
+    "generatedAt": 1437609026408
+}

@@ -1,0 +1,74 @@
+{
+    "name": "EB Base Mono",
+    "url": "http://fontdeck.com/typeface/ebbasemono",
+    "slug": "ebbasemono",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Monospaced"
+    ],
+    "foundry": "Fenotype",
+    "designer": [
+        "Erik Bertell"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "narrow",
+        "true italics",
+        "monospace"
+    ],
+    "variations": [
+        {
+            "name": "Book",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/ebbasemono/book",
+            "css": {
+                "font-family": "EB Base Mono Book",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2158",
+                "slug": "book",
+                "price": "$8.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/ebbasemono/italic",
+            "css": {
+                "font-family": "EB Base Mono Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2159",
+                "slug": "italic",
+                "price": "$8.00"
+            }
+        },
+        {
+            "name": "Cursive",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/ebbasemono/cursive",
+            "css": {
+                "font-family": "EB Base Mono Cursive",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2160",
+                "slug": "cursive",
+                "price": "$8.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "546",
+        "slug": "ebbasemono"
+    },
+    "generatedAt": 1437609416265
+}

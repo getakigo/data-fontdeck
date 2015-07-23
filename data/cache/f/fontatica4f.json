@@ -1,0 +1,64 @@
+{
+    "name": "Fontatica 4F",
+    "url": "http://fontdeck.com/typeface/fontatica4f",
+    "slug": "fontatica4f",
+    "use": "body",
+    "classification": [
+        "Display",
+        "Experimental",
+        "Display",
+        "Computer-related",
+        "Sans Serif",
+        "Geometric",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "4th february",
+    "designer": [
+        "Sergiy S. Tkachenko"
+    ],
+    "language": [
+        "latin",
+        "cyrillic"
+    ],
+    "tags": [
+        "1980s"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/fontatica4f/regular",
+            "css": {
+                "font-family": "Fontatica 4F Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6099",
+                "slug": "regular",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/fontatica4f/italic",
+            "css": {
+                "font-family": "Fontatica 4F Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6100",
+                "slug": "italic",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1411",
+        "slug": "fontatica4f"
+    },
+    "generatedAt": 1437610798082
+}

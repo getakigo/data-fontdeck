@@ -1,0 +1,137 @@
+{
+    "name": "Harry Pro",
+    "url": "http://fontdeck.com/typeface/harrypro",
+    "slug": "harrypro",
+    "superfamily": "Harry Pro",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "Red Rooster Collection",
+    "designer": [
+        "Ashley Muir",
+        "Steve Jackaman"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "formal",
+        "geometric",
+        "correspondence",
+        "humanist",
+        "magazine",
+        "bauhaus",
+        "modern",
+        "fashionable",
+        "headline",
+        "display",
+        "avant garde",
+        "menu",
+        "legible",
+        "jazz",
+        "american",
+        "sturdy",
+        "idiosyncratic",
+        "poster",
+        "modest",
+        "minimalism",
+        "cool",
+        "plain",
+        "office",
+        "swiss",
+        "grotesque",
+        "romantic",
+        "retro",
+        "valentine",
+        "signage",
+        "corporate",
+        "german",
+        "sport",
+        "clean",
+        "conservative"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/harrypro/thin",
+            "css": {
+                "font-family": "Harry Pro Thin",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2793",
+                "slug": "thin",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/harrypro/heavy",
+            "css": {
+                "font-family": "Harry Pro Heavy",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2787",
+                "slug": "heavy",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Plain",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/harrypro/plain",
+            "css": {
+                "font-family": "Harry Pro Plain",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2791",
+                "slug": "plain",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Obese",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/harrypro/obese",
+            "css": {
+                "font-family": "Harry Pro Obese",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2789",
+                "slug": "obese",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Fat",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/harrypro/fat",
+            "css": {
+                "font-family": "Harry Pro Fat",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2785",
+                "slug": "fat",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "660",
+        "slug": "harrypro"
+    },
+    "generatedAt": 1437609654404
+}

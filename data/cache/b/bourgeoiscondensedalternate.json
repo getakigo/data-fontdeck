@@ -1,0 +1,153 @@
+{
+    "name": "Bourgeois Condensed  Alternate",
+    "url": "http://fontdeck.com/typeface/bourgeoiscondensedalternate",
+    "slug": "bourgeoiscondensedalternate",
+    "superfamily": "Borgeois",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "VirusFonts",
+    "designer": [
+        "Jonathan Barnbrook"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "super family",
+        "contemporary",
+        "condensed",
+        "twentieth century",
+        "usable",
+        "legible"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/bourgeoiscondensedalternate/light",
+            "css": {
+                "font-family": "BourgeoiCondense AlternatLigh",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3328",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/bourgeoiscondensedalternate/lightitalic",
+            "css": {
+                "font-family": "BourgeoCondens AlternaLigItal",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3330",
+                "slug": "lightitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/bourgeoiscondensedalternate/medium",
+            "css": {
+                "font-family": "BourgeoiCondense AlternatMediu",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3313",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/bourgeoiscondensedalternate/mediumitalic",
+            "css": {
+                "font-family": "BourgeoCondens AlternaMediItal",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3314",
+                "slug": "mediumitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/bourgeoiscondensedalternate/bold",
+            "css": {
+                "font-family": "BourgeoisCondensedAlternateBold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3320",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/bourgeoiscondensedalternate/bolditalic",
+            "css": {
+                "font-family": "BourgeoCondens AlternaBoItal",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3322",
+                "slug": "bolditalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Ultra Italic",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/bourgeoiscondensedalternate/ultraitalic",
+            "css": {
+                "font-family": "BourgeoCondens AlternaUltItal",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3338",
+                "slug": "ultraitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Ultra",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/bourgeoiscondensedalternate/ultra",
+            "css": {
+                "font-family": "BourgeoiCondense AlternatUltr",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3336",
+                "slug": "ultra",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "800",
+        "slug": "bourgeoiscondensedalternate"
+    },
+    "generatedAt": 1437609907178
+}

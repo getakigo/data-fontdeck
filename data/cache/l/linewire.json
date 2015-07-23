@@ -1,0 +1,139 @@
+{
+    "name": "LineWire",
+    "url": "http://fontdeck.com/typeface/linewire",
+    "slug": "linewire",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Futuristic"
+    ],
+    "foundry": "The Northern Block",
+    "designer": [
+        "Jonathan Hill"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "techno",
+        "technical",
+        "sans-serif",
+        "geometric",
+        "linear",
+        "legible",
+        "mechanical",
+        "magazine",
+        "modern",
+        "movie",
+        "neutral",
+        "computer",
+        "video-game",
+        "european",
+        "electronic",
+        "sansserif",
+        "square",
+        "headline",
+        "sans serif",
+        "futuristic",
+        "grid",
+        "clean",
+        "information"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/linewire/thin",
+            "css": {
+                "font-family": "LineWire Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7118",
+                "slug": "thin",
+                "price": "$29.00"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/linewire/light",
+            "css": {
+                "font-family": "LineWire Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7115",
+                "slug": "light",
+                "price": "$29.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/linewire/regular",
+            "css": {
+                "font-family": "LineWire Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7117",
+                "slug": "regular",
+                "price": "$29.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/linewire/italic",
+            "css": {
+                "font-family": "LineWire Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7114",
+                "slug": "italic",
+                "price": "$29.00"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/linewire/medium",
+            "css": {
+                "font-family": "LineWire Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7116",
+                "slug": "medium",
+                "price": "$29.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/linewire/bold",
+            "css": {
+                "font-family": "LineWire Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7113",
+                "slug": "bold",
+                "price": "$29.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1673",
+        "slug": "linewire"
+    },
+    "generatedAt": 1437611115245
+}

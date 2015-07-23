@@ -1,0 +1,57 @@
+{
+    "name": "De Archie Display",
+    "url": "http://fontdeck.com/typeface/dearchiedisplay",
+    "slug": "dearchiedisplay",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Didone",
+        "Display",
+        "Serif"
+    ],
+    "foundry": "Playtype",
+    "designer": [
+        "Jonas Hecksher"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/dearchiedisplay/regular",
+            "css": {
+                "font-family": "De Archie Display Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6096",
+                "slug": "regular",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/dearchiedisplay/bold",
+            "css": {
+                "font-family": "De Archie Display Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6098",
+                "slug": "bold",
+                "price": "$45.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1410",
+        "slug": "dearchiedisplay"
+    },
+    "generatedAt": 1437610798145
+}

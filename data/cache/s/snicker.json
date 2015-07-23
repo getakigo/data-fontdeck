@@ -1,0 +1,58 @@
+{
+    "name": "Snicker",
+    "url": "http://fontdeck.com/typeface/snicker",
+    "slug": "snicker",
+    "use": "body",
+    "classification": [
+        "Display",
+        "Comic Strip Lettering",
+        "Script",
+        "Casual"
+    ],
+    "foundry": "Mark Simonson Studio",
+    "designer": [
+        "Mark Simonson"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "decorative",
+        "handletter",
+        "1940s",
+        "brush-drawn",
+        "title",
+        "brush",
+        "cute",
+        "fat",
+        "informal",
+        "retro",
+        "titles",
+        "cartoon",
+        "black",
+        "comic",
+        "bubblegum"
+    ],
+    "variations": [
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/snicker/bold",
+            "css": {
+                "font-family": "Snicker Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1308",
+                "slug": "bold",
+                "price": "$9.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "356",
+        "slug": "snicker"
+    },
+    "generatedAt": 1437609224785
+}

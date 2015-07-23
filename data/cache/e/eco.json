@@ -1,0 +1,52 @@
+{
+    "name": "Eco",
+    "url": "http://fontdeck.com/typeface/eco",
+    "slug": "eco",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "Fabrizio Schiavi Design",
+    "designer": [
+        "Fabrizio Schiavi"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "1970s",
+        "geometric",
+        "sharp",
+        "logo",
+        "experimental",
+        "identity",
+        "strong",
+        "branding",
+        "heavy",
+        "futuristic",
+        "poster"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/eco/regular",
+            "css": {
+                "font-family": "Eco Regular",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4399",
+                "slug": "regular",
+                "price": "$9.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1037",
+        "slug": "eco"
+    },
+    "generatedAt": 1437610364439
+}

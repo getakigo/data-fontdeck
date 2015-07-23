@@ -1,0 +1,48 @@
+{
+    "name": "Vogue Floral",
+    "url": "http://fontdeck.com/typeface/voguefloral",
+    "slug": "voguefloral",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Serif"
+    ],
+    "foundry": "A2-TYPE",
+    "designer": [
+        "Henrik Kubel"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "editorial",
+        "contemporary",
+        "newspaper",
+        "magazine",
+        "book",
+        "text",
+        "legible"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/voguefloral/regular",
+            "css": {
+                "font-family": "Vogue Floral Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6492",
+                "slug": "regular",
+                "price": "$45.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1479",
+        "slug": "voguefloral"
+    },
+    "generatedAt": 1437610921022
+}

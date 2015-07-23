@@ -1,0 +1,59 @@
+{
+    "name": "Agua",
+    "url": "http://fontdeck.com/typeface/agua",
+    "slug": "agua",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "Intellecta Design",
+    "designer": [
+        "Paulo W"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "retro",
+        "bold",
+        "1950s"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/agua/regular",
+            "css": {
+                "font-family": "Agua Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2670",
+                "slug": "regular",
+                "price": "$9.70"
+            }
+        },
+        {
+            "name": "shadow",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/agua/shadow",
+            "css": {
+                "font-family": "Agua shadow",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2671",
+                "slug": "shadow",
+                "price": "$9.70"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "645",
+        "slug": "agua"
+    },
+    "generatedAt": 1437609623777
+}

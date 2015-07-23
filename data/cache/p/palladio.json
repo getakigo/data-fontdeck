@@ -1,0 +1,144 @@
+{
+    "name": "Palladio",
+    "url": "http://fontdeck.com/typeface/palladio",
+    "slug": "palladio",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Venetian",
+        "Serif",
+        "Garalde"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Hermann Zapf"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "elegant",
+        "old style",
+        "1990s",
+        "dynamic",
+        "text",
+        "venetian",
+        "legible",
+        "masculine",
+        "palatino",
+        "garalde",
+        "valuable"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/palladio/regular",
+            "css": {
+                "font-family": "Palladio Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "841",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/palladio/regularitalic",
+            "css": {
+                "font-family": "Palladio Regular Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "842",
+                "slug": "regularitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/palladio/medium",
+            "css": {
+                "font-family": "Palladio Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "839",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/palladio/mediumitalic",
+            "css": {
+                "font-family": "Palladio Medium Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "840",
+                "slug": "mediumitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/palladio/bold",
+            "css": {
+                "font-family": "Palladio Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "837",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/palladio/bolditalic",
+            "css": {
+                "font-family": "Palladio Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "838",
+                "slug": "bolditalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Smallcaps",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/palladio/smallcaps",
+            "css": {
+                "font-family": "Palladio Smallcaps",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1222",
+                "slug": "smallcaps",
+                "price": "$5.95"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "257",
+        "slug": "palladio"
+    },
+    "generatedAt": 1437609093711
+}

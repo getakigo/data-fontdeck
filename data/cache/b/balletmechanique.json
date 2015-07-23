@@ -1,0 +1,51 @@
+{
+    "name": "Ballet Mechanique",
+    "url": "http://fontdeck.com/typeface/balletmechanique",
+    "slug": "balletmechanique",
+    "use": "body",
+    "classification": [
+        "Display",
+        "Futuristic",
+        "Display",
+        "Computer-related",
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "Characters Font Foundry",
+    "designer": [
+        "René Verkaart"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "gothic",
+        "narrow",
+        "ultra-narrow",
+        "condensed",
+        "sans-serif",
+        "unicase"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/balletmechanique/regular",
+            "css": {
+                "font-family": "Ballet Mechanique Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3592",
+                "slug": "regular",
+                "price": "$11.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "867",
+        "slug": "balletmechanique"
+    },
+    "generatedAt": 1437610033907
+}

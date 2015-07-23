@@ -1,0 +1,168 @@
+{
+    "name": "Nimbus Sans Latin Condensed",
+    "url": "http://fontdeck.com/typeface/nimbussanslatincondensed",
+    "slug": "nimbussanslatincondensed",
+    "superfamily": "Nimbus",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Max Miedinger"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "narrow",
+        "condensed",
+        "superfamily",
+        "dynamic",
+        "swiss",
+        "grotesque"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/nimbussanslatincondensed/light",
+            "css": {
+                "font-family": "NimbusSansLatinCondensedLight",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3734",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/nimbussanslatincondensed/lightitalic",
+            "css": {
+                "font-family": "NimbuSanLatiCondenseLighItali",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3739",
+                "slug": "lightitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/nimbussanslatincondensed/regular",
+            "css": {
+                "font-family": "NimbusSansLatinCondensedRegular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3735",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/nimbussanslatincondensed/italic",
+            "css": {
+                "font-family": "NimbusSansLatinCondensedItalic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3740",
+                "slug": "italic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/nimbussanslatincondensed/bold",
+            "css": {
+                "font-family": "NimbusSansLatinCondensedBold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3736",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/nimbussanslatincondensed/bolditalic",
+            "css": {
+                "font-family": "NimbuSanLatiCondenseBolItali",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3741",
+                "slug": "bolditalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/nimbussanslatincondensed/black",
+            "css": {
+                "font-family": "NimbusSansLatinCondensedBlack",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3737",
+                "slug": "black",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/nimbussanslatincondensed/blackitalic",
+            "css": {
+                "font-family": "NimbuSanLatiCondenseBlacItali",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3742",
+                "slug": "blackitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-black",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/nimbussanslatincondensed/extrablack",
+            "css": {
+                "font-family": "NimbuSanLatiCondenseExtrBlac",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3738",
+                "slug": "extrablack",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "888",
+        "slug": "nimbussanslatincondensed"
+    },
+    "generatedAt": 1437610064603
+}

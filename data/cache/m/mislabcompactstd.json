@@ -1,0 +1,183 @@
+{
+    "name": "Mislab Compact Std",
+    "url": "http://fontdeck.com/typeface/mislabcompactstd",
+    "slug": "mislabcompactstd",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Slab serif",
+        "Slab Serif",
+        "Humanist",
+        "Display",
+        "Serif",
+        "Slab Serif",
+        "Light",
+        "Slab Serif",
+        "Dynamic"
+    ],
+    "foundry": "Typofonderie",
+    "designer": [
+        "Xavier Dupré"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "compact",
+        "narrow",
+        "condensed",
+        "publishing",
+        "text",
+        "design",
+        "squared",
+        "identity",
+        "branding",
+        "data",
+        "paragraph",
+        "newspaper",
+        "display",
+        "magazine"
+    ],
+    "variations": [
+        {
+            "name": "Hairline",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/mislabcompactstd/hairline",
+            "css": {
+                "font-family": "Mislab Compact Std Hairline",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8760",
+                "slug": "hairline",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Thin",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/mislabcompactstd/thin",
+            "css": {
+                "font-family": "Mislab Compact Std Thin",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8761",
+                "slug": "thin",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Extra-light",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/mislabcompactstd/extralight",
+            "css": {
+                "font-family": "Mislab Compact Std Extra Light",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8762",
+                "slug": "extralight",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/mislabcompactstd/light",
+            "css": {
+                "font-family": "Mislab Compact Std Light",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8763",
+                "slug": "light",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/mislabcompactstd/regular",
+            "css": {
+                "font-family": "Mislab Compact Std Regular",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8764",
+                "slug": "regular",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/mislabcompactstd/bold",
+            "css": {
+                "font-family": "Mislab Compact Std Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8766",
+                "slug": "bold",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/mislabcompactstd/extrabold",
+            "css": {
+                "font-family": "Mislab Compact Std Extra Bold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8767",
+                "slug": "extrabold",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/mislabcompactstd/black",
+            "css": {
+                "font-family": "Mislab Compact Std Black",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8768",
+                "slug": "black",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Demi",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/mislabcompactstd/demi",
+            "css": {
+                "font-family": "Mislab Compact Std Demi",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8765",
+                "slug": "demi",
+                "price": "$26.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1999",
+        "slug": "mislabcompactstd"
+    },
+    "generatedAt": 1437611556285
+}

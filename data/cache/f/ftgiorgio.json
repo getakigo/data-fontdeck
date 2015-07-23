@@ -1,0 +1,81 @@
+{
+    "name": "FT Giorgio",
+    "url": "http://fontdeck.com/typeface/ftgiorgio",
+    "slug": "ftgiorgio",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "Fenotype",
+    "designer": [
+        "Emil Bertell"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "movie",
+        "interlock",
+        "la dolce vita",
+        "playful",
+        "polygonal",
+        "1960s",
+        "retro",
+        "bouncy",
+        "hand-cut",
+        "poster"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/ftgiorgio/light",
+            "css": {
+                "font-family": "FT Giorgio Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7214",
+                "slug": "light",
+                "price": "$5.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/ftgiorgio/regular",
+            "css": {
+                "font-family": "FT Giorgio Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7215",
+                "slug": "regular",
+                "price": "$5.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/ftgiorgio/bold",
+            "css": {
+                "font-family": "FT Giorgio Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7213",
+                "slug": "bold",
+                "price": "$5.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1688",
+        "slug": "ftgiorgio"
+    },
+    "generatedAt": 1437611135241
+}

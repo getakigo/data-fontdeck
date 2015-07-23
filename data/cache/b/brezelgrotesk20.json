@@ -1,0 +1,149 @@
+{
+    "name": "Brezel Grotesk 2.0",
+    "url": "http://fontdeck.com/typeface/brezelgrotesk20",
+    "slug": "brezelgrotesk20",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Grotesque"
+    ],
+    "foundry": "Milieu Grotesque",
+    "designer": [
+        "Stefanie Preis"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "grotesk",
+        "19th century",
+        "organic"
+    ],
+    "variations": [
+        {
+            "name": "Light Italic",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/brezelgrotesk20/lightitalic",
+            "css": {
+                "font-family": "Brezel Grotesk 2.0 Light Italic",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8504",
+                "slug": "lightitalic",
+                "price": "$20.00"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/brezelgrotesk20/light",
+            "css": {
+                "font-family": "Brezel Grotesk 2.0 Light",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8505",
+                "slug": "light",
+                "price": "$20.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/brezelgrotesk20/regular",
+            "css": {
+                "font-family": "Brezel Grotesk 2.0 Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8506",
+                "slug": "regular",
+                "price": "$20.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/brezelgrotesk20/italic",
+            "css": {
+                "font-family": "Brezel Grotesk 2.0 Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8507",
+                "slug": "italic",
+                "price": "$20.00"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/brezelgrotesk20/medium",
+            "css": {
+                "font-family": "Brezel Grotesk 2.0 Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8508",
+                "slug": "medium",
+                "price": "$20.00"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/brezelgrotesk20/mediumitalic",
+            "css": {
+                "font-family": "BrezelGrotesk2.0MediumItalic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8509",
+                "slug": "mediumitalic",
+                "price": "$20.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/brezelgrotesk20/bold",
+            "css": {
+                "font-family": "Brezel Grotesk 2.0 Bold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8510",
+                "slug": "bold",
+                "price": "$20.00"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/brezelgrotesk20/bolditalic",
+            "css": {
+                "font-family": "Brezel Grotesk 2.0 Bold Italic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8511",
+                "slug": "bolditalic",
+                "price": "$20.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1969",
+        "slug": "brezelgrotesk20"
+    },
+    "generatedAt": 1437611501964
+}

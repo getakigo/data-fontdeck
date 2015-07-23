@@ -1,0 +1,96 @@
+{
+    "name": "Maiola",
+    "url": "http://fontdeck.com/typeface/maiola",
+    "slug": "maiola",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Garalde"
+    ],
+    "foundry": "TypeTogether",
+    "designer": [
+        "Veronika Burian"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "angular",
+        "old style",
+        "punchcut",
+        "text",
+        "venetian",
+        "calligraphic",
+        "wedge serif",
+        "garalde",
+        "contemporary",
+        "czech"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/maiola/regular",
+            "css": {
+                "font-family": "Maiola Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1424",
+                "slug": "regular",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/maiola/regularitalic",
+            "css": {
+                "font-family": "Maiola Regular Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1425",
+                "slug": "regularitalic",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/maiola/bold",
+            "css": {
+                "font-family": "Maiola Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1427",
+                "slug": "bold",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/maiola/bolditalic",
+            "css": {
+                "font-family": "Maiola Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1426",
+                "slug": "bolditalic",
+                "price": "$15.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "380",
+        "slug": "maiola"
+    },
+    "generatedAt": 1437609260770
+}

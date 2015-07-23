@@ -1,0 +1,91 @@
+{
+    "name": "VAG Rundschrift",
+    "url": "http://fontdeck.com/typeface/vagrundschrift",
+    "slug": "vagrundschrift",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Peter Bury",
+        "Gerry Barney"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "vag rounded",
+        "german",
+        "rounded",
+        "1980s"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/vagrundschrift/light",
+            "css": {
+                "font-family": "VAG Rundschrift Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "728",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/vagrundschrift/lightitalic",
+            "css": {
+                "font-family": "VAG Rundschrift Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "729",
+                "slug": "lightitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/vagrundschrift/regular",
+            "css": {
+                "font-family": "VAG Rundschrift Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "726",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/vagrundschrift/regularitalic",
+            "css": {
+                "font-family": "VAG Rundschrift Regular Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "727",
+                "slug": "regularitalic",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "240",
+        "slug": "vagrundschrift"
+    },
+    "generatedAt": 1437609064510
+}

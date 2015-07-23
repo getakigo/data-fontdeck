@@ -1,0 +1,83 @@
+{
+    "name": "Franchise",
+    "url": "http://fontdeck.com/typeface/franchise",
+    "slug": "franchise",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Display",
+        "Poster"
+    ],
+    "foundry": "Weathersbee Type",
+    "designer": [
+        "Derek Weathersbee"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "all caps",
+        "sensible",
+        "all-purpose",
+        "condensed",
+        "aggressive",
+        "workhorse",
+        "advanced character set",
+        "sexy",
+        "versatile",
+        "blocky"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/franchise/light",
+            "css": {
+                "font-family": "Franchise Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8340",
+                "slug": "light",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/franchise/regular",
+            "css": {
+                "font-family": "Franchise Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8341",
+                "slug": "regular",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/franchise/bold",
+            "css": {
+                "font-family": "Franchise Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8342",
+                "slug": "bold",
+                "price": "$15.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1904",
+        "slug": "franchise"
+    },
+    "generatedAt": 1437611411182
+}

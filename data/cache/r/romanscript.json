@@ -1,0 +1,44 @@
+{
+    "name": "Roman Script",
+    "url": "http://fontdeck.com/typeface/romanscript",
+    "slug": "romanscript",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Decorative script"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Bob McGrath"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "decorative",
+        "1970s",
+        "english"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/romanscript/regular",
+            "css": {
+                "font-family": "Roman Script Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2669",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "644",
+        "slug": "romanscript"
+    },
+    "generatedAt": 1437609623808
+}

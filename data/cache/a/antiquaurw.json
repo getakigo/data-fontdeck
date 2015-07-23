@@ -1,0 +1,384 @@
+{
+    "name": "Antiqua URW",
+    "url": "http://fontdeck.com/typeface/antiquaurw",
+    "slug": "antiquaurw",
+    "superfamily": "Urw Antiqua",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Modern"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Hermann Zapf"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "sensible",
+        "news text",
+        "workhorse",
+        "text",
+        "legible",
+        "scotch",
+        "newspaper",
+        "german",
+        "news",
+        "urw antiqua",
+        "superfamily",
+        "books"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/antiquaurw/regular",
+            "css": {
+                "font-family": "Antiqua URW Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3669",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Oblique",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/antiquaurw/oblique",
+            "css": {
+                "font-family": "Antiqua URW Oblique",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3683",
+                "slug": "oblique",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/antiquaurw/italic",
+            "css": {
+                "font-family": "Antiqua URW Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3675",
+                "slug": "italic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/antiquaurw/medium",
+            "css": {
+                "font-family": "Antiqua URW Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3670",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/antiquaurw/mediumitalic",
+            "css": {
+                "font-family": "Antiqua URW Medium Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3676",
+                "slug": "mediumitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium Oblique",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/antiquaurw/mediumoblique",
+            "css": {
+                "font-family": "Antiqua URW Medium Oblique",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3684",
+                "slug": "mediumoblique",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/antiquaurw/bold",
+            "css": {
+                "font-family": "Antiqua URW Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3671",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/antiquaurw/bolditalic",
+            "css": {
+                "font-family": "Antiqua URW Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3677",
+                "slug": "bolditalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Oblique",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/antiquaurw/boldoblique",
+            "css": {
+                "font-family": "Antiqua URW Bold Oblique",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3685",
+                "slug": "boldoblique",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/antiquaurw/extrabold",
+            "css": {
+                "font-family": "Antiqua URW Extra Bold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3672",
+                "slug": "extrabold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-bold Oblique",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/antiquaurw/extraboldoblique",
+            "css": {
+                "font-family": "Antiqua URW Extra Bold Oblique",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3686",
+                "slug": "extraboldoblique",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-bold Italic",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/antiquaurw/extrabolditalic",
+            "css": {
+                "font-family": "Antiqua URW Extra Bold Italic",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3678",
+                "slug": "extrabolditalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Condensed",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/antiquaurw/condensed",
+            "css": {
+                "font-family": "Antiqua URW Condensed",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3728",
+                "slug": "condensed",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Super Bold",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/antiquaurw/superbold",
+            "css": {
+                "font-family": "Antiqua URW Super Bold",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3674",
+                "slug": "superbold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Condensed Small Caps",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/antiquaurw/condensedsmallcaps",
+            "css": {
+                "font-family": "AntiquaURWCondensedSmallCaps",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3729",
+                "slug": "condensedsmallcaps",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Super Bold Alt",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/antiquaurw/superboldalt",
+            "css": {
+                "font-family": "Antiqua URW Super Bold Alt",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3667",
+                "slug": "superboldalt",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Small Caps Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/antiquaurw/smallcapsmedium",
+            "css": {
+                "font-family": "Antiqua URW Small Caps Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3682",
+                "slug": "smallcapsmedium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Ultra Bold",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/antiquaurw/ultrabold",
+            "css": {
+                "font-family": "Antiqua URW Ultra Bold",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3673",
+                "slug": "ultrabold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Small Caps",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/antiquaurw/smallcaps",
+            "css": {
+                "font-family": "Antiqua URW Small Caps",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3681",
+                "slug": "smallcaps",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Super Bold Alt Italic",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/antiquaurw/superboldaltitalic",
+            "css": {
+                "font-family": "AntiquaURWSuperBoldAltItalic",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3668",
+                "slug": "superboldaltitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Ultra Bold Italic",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/antiquaurw/ultrabolditalic",
+            "css": {
+                "font-family": "Antiqua URW Ultra Bold Italic",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3679",
+                "slug": "ultrabolditalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Super Bold Italic",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/antiquaurw/superbolditalic",
+            "css": {
+                "font-family": "Antiqua URW Super Bold Italic",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3680",
+                "slug": "superbolditalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Ultra Bold Oblique",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/antiquaurw/ultraboldoblique",
+            "css": {
+                "font-family": "Antiqua URW Ultra Bold Oblique",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3687",
+                "slug": "ultraboldoblique",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "878",
+        "slug": "antiquaurw"
+    },
+    "generatedAt": 1437610053921
+}

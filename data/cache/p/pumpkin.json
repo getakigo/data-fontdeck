@@ -1,0 +1,55 @@
+{
+    "name": "Pumpkin",
+    "url": "http://fontdeck.com/typeface/pumpkin",
+    "slug": "pumpkin",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Slab serif",
+        "Display",
+        "Comic Strip Lettering"
+    ],
+    "foundry": "Veer",
+    "designer": [
+        "Jason Walcott"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "comics",
+        "1950s",
+        "serif",
+        "round",
+        "slab-serif",
+        "western",
+        "slab serif",
+        "retro",
+        "headline",
+        "casual",
+        "display",
+        "comic book"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/pumpkin/regular",
+            "css": {
+                "font-family": "Pumpkin Regular",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5060",
+                "slug": "regular",
+                "price": "$11.25"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1182",
+        "slug": "pumpkin"
+    },
+    "generatedAt": 1437610520277
+}

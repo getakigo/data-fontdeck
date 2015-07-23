@@ -1,0 +1,60 @@
+{
+    "name": "Allise",
+    "url": "http://fontdeck.com/typeface/allise",
+    "slug": "allise",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif"
+    ],
+    "foundry": "Fonthead",
+    "designer": [
+        "Ethan Dunham"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "tall",
+        "elegant",
+        "clean",
+        "classical"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/allise/regular",
+            "css": {
+                "font-family": "Allise Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "416",
+                "slug": "regular",
+                "price": "$7.25"
+            }
+        },
+        {
+            "name": "Extra Wide Oblique",
+            "description": "o4",
+            "url": "http://fontdeck.com/font/allise/extrawideoblique",
+            "css": {
+                "font-family": "Allise Extra Wide Oblique",
+                "font-weight": "400",
+                "font-style": "oblique"
+            },
+            "fontdeck": {
+                "id": "748",
+                "slug": "extrawideoblique",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "167",
+        "slug": "allise"
+    },
+    "generatedAt": 1437608942314
+}

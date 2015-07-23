@@ -1,0 +1,50 @@
+{
+    "name": "Bloco",
+    "url": "http://fontdeck.com/typeface/bloco",
+    "slug": "bloco",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Decorative",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "CheapProFonts",
+    "designer": [
+        "Roger S.  Nelsson"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "modular",
+        "blocks",
+        "square",
+        "monospace",
+        "blocky",
+        "geometric",
+        "filled counters"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/bloco/regular",
+            "css": {
+                "font-family": "Bloco Regular",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2912",
+                "slug": "regular",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "677",
+        "slug": "bloco"
+    },
+    "generatedAt": 1437609690259
+}

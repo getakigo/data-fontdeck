@@ -1,0 +1,302 @@
+{
+    "name": "Perec",
+    "url": "http://fontdeck.com/typeface/perec",
+    "slug": "perec",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Hybrid",
+        "Sans Serif",
+        "Grotesque"
+    ],
+    "foundry": "PampaType",
+    "designer": [
+        "Alejandro Lo Celso"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "advertising",
+        "titling",
+        "literary",
+        "argentina",
+        "text",
+        "fancy",
+        "cubes",
+        "system",
+        "multi style",
+        "friendly",
+        "contemporary",
+        "humanist",
+        "magazine",
+        "news",
+        "versatile",
+        "neo grotesque",
+        "modern",
+        "french",
+        "ludic",
+        "couch fonts",
+        "diverse",
+        "funny",
+        "literature",
+        "program",
+        "headline",
+        "deco",
+        "multistyle",
+        "display",
+        "ludique",
+        "argentinian",
+        "books",
+        "novels",
+        "workhorse",
+        "sans-serif",
+        "argentinean",
+        "legible",
+        "emboss",
+        "curved",
+        "daring",
+        "true italics",
+        "comfortable",
+        "decorative",
+        "elegant",
+        "tipos latinos",
+        "grotesque",
+        "delicate",
+        "readable",
+        "chrome",
+        "audacious"
+    ],
+    "variations": [
+        {
+            "name": "SuperNegra",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/perec/supernegra",
+            "css": {
+                "font-family": "Perec SuperNegra",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "9007",
+                "slug": "supernegra",
+                "price": "$10.50"
+            }
+        },
+        {
+            "name": "Blanca Versalita",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/perec/blancaversalita",
+            "css": {
+                "font-family": "Perec Blanca Versalita",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "9000",
+                "slug": "blancaversalita",
+                "price": "$10.50"
+            }
+        },
+        {
+            "name": "Negra",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/perec/negra",
+            "css": {
+                "font-family": "Perec Negra",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "9004",
+                "slug": "negra",
+                "price": "$10.50"
+            }
+        },
+        {
+            "name": "SuperBlanca Versalita",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/perec/superblancaversalita",
+            "css": {
+                "font-family": "Perec SuperBlanca Versalita",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8997",
+                "slug": "superblancaversalita",
+                "price": "$10.50"
+            }
+        },
+        {
+            "name": "Gris",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/perec/gris",
+            "css": {
+                "font-family": "Perec Gris",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "9001",
+                "slug": "gris",
+                "price": "$10.50"
+            }
+        },
+        {
+            "name": "Blanca",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/perec/blanca",
+            "css": {
+                "font-family": "Perec Blanca",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8998",
+                "slug": "blanca",
+                "price": "$10.50"
+            }
+        },
+        {
+            "name": "SuperNegra Versalita",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/perec/supernegraversalita",
+            "css": {
+                "font-family": "Perec SuperNegra Versalita",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "9009",
+                "slug": "supernegraversalita",
+                "price": "$10.50"
+            }
+        },
+        {
+            "name": "Gris Versalita",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/perec/grisversalita",
+            "css": {
+                "font-family": "Perec Gris Versalita",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "9003",
+                "slug": "grisversalita",
+                "price": "$10.50"
+            }
+        },
+        {
+            "name": "SuperBlanca",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/perec/superblanca",
+            "css": {
+                "font-family": "Perec SuperBlanca",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8995",
+                "slug": "superblanca",
+                "price": "$10.50"
+            }
+        },
+        {
+            "name": "Negra Versalita",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/perec/negraversalita",
+            "css": {
+                "font-family": "Perec Negra Versalita",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "9006",
+                "slug": "negraversalita",
+                "price": "$10.50"
+            }
+        },
+        {
+            "name": "Negra Italica",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/perec/negraitalica",
+            "css": {
+                "font-family": "Perec Negra Italica",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "9005",
+                "slug": "negraitalica",
+                "price": "$10.50"
+            }
+        },
+        {
+            "name": "SuperNegra Italica",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/perec/supernegraitalica",
+            "css": {
+                "font-family": "Perec SuperNegra Italica",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "9008",
+                "slug": "supernegraitalica",
+                "price": "$10.50"
+            }
+        },
+        {
+            "name": "Gris Italica",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/perec/grisitalica",
+            "css": {
+                "font-family": "Perec Gris Italica",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "9002",
+                "slug": "grisitalica",
+                "price": "$10.50"
+            }
+        },
+        {
+            "name": "SuperBlanca Italica",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/perec/superblancaitalica",
+            "css": {
+                "font-family": "Perec SuperBlanca Italica",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8996",
+                "slug": "superblancaitalica",
+                "price": "$10.50"
+            }
+        },
+        {
+            "name": "Blanca Italica",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/perec/blancaitalica",
+            "css": {
+                "font-family": "Perec Blanca Italica",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8999",
+                "slug": "blancaitalica",
+                "price": "$10.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "2016",
+        "slug": "perec"
+    },
+    "generatedAt": 1437611632767
+}

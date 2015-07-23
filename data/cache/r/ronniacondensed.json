@@ -1,0 +1,251 @@
+{
+    "name": "Ronnia Condensed",
+    "url": "http://fontdeck.com/typeface/ronniacondensed",
+    "slug": "ronniacondensed",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Humanist"
+    ],
+    "foundry": "TypeTogether",
+    "designer": [
+        "Veronika Burian"
+    ],
+    "opentype": [
+        "liga"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "opentype",
+        "narrow",
+        "condensed",
+        "fashionable",
+        "legible",
+        "informal",
+        "editorial",
+        "headline",
+        "corporate",
+        "humanist",
+        "magazine",
+        "news"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/ronniacondensed/thin",
+            "css": {
+                "font-family": "Ronnia Condensed Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1408",
+                "slug": "thin",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Thin Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/ronniacondensed/thinitalic",
+            "css": {
+                "font-family": "Ronnia Condensed Thin Italic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1409",
+                "slug": "thinitalic",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/ronniacondensed/light",
+            "css": {
+                "font-family": "Ronnia Condensed Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1410",
+                "slug": "light",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/ronniacondensed/lightitalic",
+            "css": {
+                "font-family": "Ronnia Condensed Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1411",
+                "slug": "lightitalic",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/ronniacondensed/regular",
+            "css": {
+                "font-family": "Ronnia Condensed Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1406",
+                "slug": "regular",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/ronniacondensed/italic",
+            "css": {
+                "font-family": "Ronnia Condensed Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1407",
+                "slug": "italic",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/ronniacondensed/semibold",
+            "css": {
+                "font-family": "Ronnia Condensed Semi Bold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1412",
+                "slug": "semibold",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Semi-bold Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/ronniacondensed/semibolditalic",
+            "css": {
+                "font-family": "RonniaCondensedSemiBoldItalic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1413",
+                "slug": "semibolditalic",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/ronniacondensed/bold",
+            "css": {
+                "font-family": "Ronnia Condensed Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1414",
+                "slug": "bold",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/ronniacondensed/bolditalic",
+            "css": {
+                "font-family": "Ronnia Condensed Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1415",
+                "slug": "bolditalic",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/ronniacondensed/extrabold",
+            "css": {
+                "font-family": "Ronnia Condensed Extra Bold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1416",
+                "slug": "extrabold",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Extra-bold Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/ronniacondensed/extrabolditalic",
+            "css": {
+                "font-family": "RonniaCondensedExtraBoldItalic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1417",
+                "slug": "extrabolditalic",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/ronniacondensed/heavy",
+            "css": {
+                "font-family": "Ronnia Condensed Heavy",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1418",
+                "slug": "heavy",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Heavy Italic",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/ronniacondensed/heavyitalic",
+            "css": {
+                "font-family": "Ronnia Condensed Heavy Italic",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1419",
+                "slug": "heavyitalic",
+                "price": "$15.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "379",
+        "slug": "ronniacondensed"
+    },
+    "generatedAt": 1437609261260
+}

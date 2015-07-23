@@ -1,0 +1,46 @@
+{
+    "name": "IceCream Soda",
+    "url": "http://fontdeck.com/typeface/icecreamsoda",
+    "slug": "icecreamsoda",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "Fenotype",
+    "designer": [
+        "Emil Bertell"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "neon",
+        "delicatessen",
+        "rounded",
+        "geometric",
+        "cute"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/icecreamsoda/regular",
+            "css": {
+                "font-family": "IceCream Soda Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2301",
+                "slug": "regular",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "564",
+        "slug": "icecreamsoda"
+    },
+    "generatedAt": 1437609460297
+}

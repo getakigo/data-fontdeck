@@ -1,0 +1,118 @@
+{
+    "name": "Kent 4F",
+    "url": "http://fontdeck.com/typeface/kent4f",
+    "slug": "kent4f",
+    "use": "body",
+    "classification": [
+        "Display",
+        "Funny",
+        "Display",
+        "All caps",
+        "Symbols",
+        "Dingbats",
+        "Display",
+        "Grunge",
+        "Symbols",
+        "Arrows"
+    ],
+    "foundry": "4th february",
+    "designer": [
+        "Sergiy S. Tkachenko"
+    ],
+    "language": [
+        "latin",
+        "cyrillic"
+    ],
+    "tags": [
+        "manly",
+        "hand drawn",
+        "shadow",
+        "1920s",
+        "rough",
+        "distressed",
+        "hand painted",
+        "printed"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/kent4f/regular",
+            "css": {
+                "font-family": "Kent 4F Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8552",
+                "slug": "regular",
+                "price": "$5.00"
+            }
+        },
+        {
+            "name": "Shadowed",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/kent4f/shadowed",
+            "css": {
+                "font-family": "Kent 4F Shadowed",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8554",
+                "slug": "shadowed",
+                "price": "$5.00"
+            }
+        },
+        {
+            "name": "Shadow",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/kent4f/shadow",
+            "css": {
+                "font-family": "Kent 4F Shadow",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8553",
+                "slug": "shadow",
+                "price": "$5.00"
+            }
+        },
+        {
+            "name": "Printed",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/kent4f/printed",
+            "css": {
+                "font-family": "Kent 4F Printed",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8555",
+                "slug": "printed",
+                "price": "$5.00"
+            }
+        },
+        {
+            "name": "Printed Shadowed",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/kent4f/printedshadowed",
+            "css": {
+                "font-family": "Kent 4F Printed Shadowed",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8556",
+                "slug": "printedshadowed",
+                "price": "$5.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1975",
+        "slug": "kent4f"
+    },
+    "generatedAt": 1437611515955
+}

@@ -1,0 +1,270 @@
+{
+    "name": "Din Text Pro",
+    "url": "http://fontdeck.com/typeface/dintextpro",
+    "slug": "dintextpro",
+    "superfamily": "Din",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Hybrid",
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "Parachute",
+    "designer": [
+        "Panos Vassiliou"
+    ],
+    "language": [
+        "latin",
+        "greek"
+    ],
+    "tags": [
+        "simple",
+        "text",
+        "legible",
+        "din",
+        "super family",
+        "true italics",
+        "magazine",
+        "modern",
+        "1930s",
+        "trendy",
+        "grotesque",
+        "signage",
+        "corporate",
+        "greek",
+        "clean"
+    ],
+    "variations": [
+        {
+            "name": "Hairline",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/dintextpro/hairline",
+            "css": {
+                "font-family": "Din Text Pro Hairline",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2950",
+                "slug": "hairline",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/dintextpro/extrathin",
+            "css": {
+                "font-family": "Din Text Pro Extra Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2948",
+                "slug": "extrathin",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-thin Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/dintextpro/extrathinitalic",
+            "css": {
+                "font-family": "Din Text Pro Extra Thin Italic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2949",
+                "slug": "extrathinitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/dintextpro/thin",
+            "css": {
+                "font-family": "Din Text Pro Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2944",
+                "slug": "thin",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Thin Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/dintextpro/thinitalic",
+            "css": {
+                "font-family": "Din Text Pro Thin Italic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2945",
+                "slug": "thinitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/dintextpro/light",
+            "css": {
+                "font-family": "Din Text Pro Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2940",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/dintextpro/lightitalic",
+            "css": {
+                "font-family": "Din Text Pro Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2941",
+                "slug": "lightitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/dintextpro/regular",
+            "css": {
+                "font-family": "Din Text Pro Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2936",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/dintextpro/italic",
+            "css": {
+                "font-family": "Din Text Pro Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2937",
+                "slug": "italic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/dintextpro/medium",
+            "css": {
+                "font-family": "Din Text Pro Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2942",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/dintextpro/mediumitalic",
+            "css": {
+                "font-family": "Din Text Pro Medium Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2943",
+                "slug": "mediumitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/dintextpro/bold",
+            "css": {
+                "font-family": "Din Text Pro Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2938",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/dintextpro/bolditalic",
+            "css": {
+                "font-family": "Din Text Pro Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2939",
+                "slug": "bolditalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-black",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/dintextpro/extrablack",
+            "css": {
+                "font-family": "Din Text Pro Extra Black",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2946",
+                "slug": "extrablack",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-black Italic",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/dintextpro/extrablackitalic",
+            "css": {
+                "font-family": "Din Text Pro Extra Black Italic",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2947",
+                "slug": "extrablackitalic",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "682",
+        "slug": "dintextpro"
+    },
+    "generatedAt": 1437609708023
+}

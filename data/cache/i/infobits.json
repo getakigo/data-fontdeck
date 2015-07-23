@@ -1,0 +1,55 @@
+{
+    "name": "Infobits",
+    "url": "http://fontdeck.com/typeface/infobits",
+    "slug": "infobits",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Symbol"
+    ],
+    "foundry": "Fonthead",
+    "designer": [
+        "Ethan Dunham"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [],
+    "variations": [
+        {
+            "name": "Things",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/infobits/things",
+            "css": {
+                "font-family": "Infobits Things",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "428",
+                "slug": "things",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Symbols",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/infobits/symbols",
+            "css": {
+                "font-family": "Infobits Symbols",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "433",
+                "slug": "symbols",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "172",
+        "slug": "infobits"
+    },
+    "generatedAt": 1437608953935
+}

@@ -1,0 +1,193 @@
+{
+    "name": "Justus Pro",
+    "url": "http://fontdeck.com/typeface/justuspro",
+    "slug": "justuspro",
+    "use": "heading",
+    "classification": [
+        "Slab Serif",
+        "Egyptian"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Volker Schnebel"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "democratic",
+        "technical",
+        "dignified",
+        "legible",
+        "balanced",
+        "pure",
+        "harmonic",
+        "modern",
+        "elegant",
+        "egyptian",
+        "beautiful",
+        "slab-serif",
+        "clear",
+        "pulsating",
+        "flowing",
+        "egyptienne",
+        "well-proportioned"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/justuspro/thin",
+            "css": {
+                "font-family": "Justus Pro Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4676",
+                "slug": "thin",
+                "price": "$12.49"
+            }
+        },
+        {
+            "name": "Thin Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/justuspro/thinitalic",
+            "css": {
+                "font-family": "Justus Pro Thin Italic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4675",
+                "slug": "thinitalic",
+                "price": "$12.49"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/justuspro/light",
+            "css": {
+                "font-family": "Justus Pro Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4671",
+                "slug": "light",
+                "price": "$12.49"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/justuspro/lightitalic",
+            "css": {
+                "font-family": "Justus Pro Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4672",
+                "slug": "lightitalic",
+                "price": "$12.49"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/justuspro/regular",
+            "css": {
+                "font-family": "Justus Pro Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4667",
+                "slug": "regular",
+                "price": "$12.49"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/justuspro/italic",
+            "css": {
+                "font-family": "Justus Pro Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4668",
+                "slug": "italic",
+                "price": "$12.49"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/justuspro/medium",
+            "css": {
+                "font-family": "Justus Pro Medium",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4673",
+                "slug": "medium",
+                "price": "$12.49"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/justuspro/mediumitalic",
+            "css": {
+                "font-family": "Justus Pro Medium Italic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4674",
+                "slug": "mediumitalic",
+                "price": "$12.49"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/justuspro/bold",
+            "css": {
+                "font-family": "Justus Pro Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4669",
+                "slug": "bold",
+                "price": "$12.49"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/justuspro/bolditalic",
+            "css": {
+                "font-family": "Justus Pro Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4670",
+                "slug": "bolditalic",
+                "price": "$12.49"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1089",
+        "slug": "justuspro"
+    },
+    "generatedAt": 1437610403005
+}

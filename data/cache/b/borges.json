@@ -1,0 +1,197 @@
+{
+    "name": "Borges",
+    "url": "http://fontdeck.com/typeface/borges",
+    "slug": "borges",
+    "use": "heading",
+    "classification": [
+        "Serif",
+        "Garalde",
+        "Serif",
+        "Modern"
+    ],
+    "foundry": "PampaType",
+    "designer": [
+        "Alejandro Lo Celso"
+    ],
+    "opentype": [
+        "c2sc",
+        "liga",
+        "smcp"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "fine",
+        "formal",
+        "poetry",
+        "opentype",
+        "serif",
+        "titling",
+        "literary",
+        "optical sizes",
+        "openface",
+        "text",
+        "argentina",
+        "hollow",
+        "system",
+        "news",
+        "french",
+        "author",
+        "literature",
+        "multistyle",
+        "argentinian",
+        "books",
+        "fiction",
+        "novels",
+        "workhorse",
+        "classic",
+        "legible",
+        "classical",
+        "caps",
+        "spanish",
+        "argentinean",
+        "outline",
+        "open face",
+        "hueca",
+        "refined",
+        "lyric",
+        "comfortable",
+        "decorative",
+        "jorge luis borges",
+        "engraved",
+        "poems",
+        "oldstyle",
+        "dutch",
+        "magazines",
+        "readable",
+        "inline"
+    ],
+    "variations": [
+        {
+            "name": "SuperNegra",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/borges/supernegra",
+            "css": {
+                "font-family": "Borges SuperNegra",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8910",
+                "slug": "supernegra",
+                "price": "$11.50"
+            }
+        },
+        {
+            "name": "Negra",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/borges/negra",
+            "css": {
+                "font-family": "Borges Negra",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8912",
+                "slug": "negra",
+                "price": "$11.50"
+            }
+        },
+        {
+            "name": "Gris",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/borges/gris",
+            "css": {
+                "font-family": "Borges Gris",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8914",
+                "slug": "gris",
+                "price": "$11.50"
+            }
+        },
+        {
+            "name": "Blanca",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/borges/blanca",
+            "css": {
+                "font-family": "Borges Blanca",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8915",
+                "slug": "blanca",
+                "price": "$11.50"
+            }
+        },
+        {
+            "name": "Blanca Italica",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/borges/blancaitalica",
+            "css": {
+                "font-family": "Borges Blanca Italica",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8916",
+                "slug": "blancaitalica",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Gris Italica",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/borges/grisitalica",
+            "css": {
+                "font-family": "Borges Gris Italica",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8913",
+                "slug": "grisitalica",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "SuperNegra Italica",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/borges/supernegraitalica",
+            "css": {
+                "font-family": "Borges SuperNegra Italica",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8909",
+                "slug": "supernegraitalica",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Negra Italica",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/borges/negraitalica",
+            "css": {
+                "font-family": "Borges Negra Italica",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8911",
+                "slug": "negraitalica",
+                "price": "$9.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1992",
+        "slug": "borges"
+    },
+    "generatedAt": 1437611614308
+}

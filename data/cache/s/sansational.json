@@ -1,0 +1,124 @@
+{
+    "name": "Sansational",
+    "url": "http://fontdeck.com/typeface/sansational",
+    "slug": "sansational",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif"
+    ],
+    "foundry": "Veer",
+    "designer": [
+        "Jason Walcott"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "modern",
+        "1950s",
+        "narrow",
+        "condensed",
+        "sans-serif",
+        "grotesque",
+        "1960s",
+        "clean"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/sansational/light",
+            "css": {
+                "font-family": "Sansational Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5036",
+                "slug": "light",
+                "price": "$8.75"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/sansational/lightitalic",
+            "css": {
+                "font-family": "Sansational Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5035",
+                "slug": "lightitalic",
+                "price": "$9.25"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/sansational/regular",
+            "css": {
+                "font-family": "Sansational Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5034",
+                "slug": "regular",
+                "price": "$8.75"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/sansational/italic",
+            "css": {
+                "font-family": "Sansational Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5037",
+                "slug": "italic",
+                "price": "$9.25"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/sansational/heavy",
+            "css": {
+                "font-family": "Sansational Heavy",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5039",
+                "slug": "heavy",
+                "price": "$8.75"
+            }
+        },
+        {
+            "name": "Heavy Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/sansational/heavyitalic",
+            "css": {
+                "font-family": "Sansational Heavy Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5038",
+                "slug": "heavyitalic",
+                "price": "$8.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1169",
+        "slug": "sansational"
+    },
+    "generatedAt": 1437610505660
+}

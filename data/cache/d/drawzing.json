@@ -1,0 +1,63 @@
+{
+    "name": "Drawzing",
+    "url": "http://fontdeck.com/typeface/drawzing",
+    "slug": "drawzing",
+    "use": "body",
+    "classification": [
+        "Display",
+        "Comic Strip Lettering",
+        "Script",
+        "Simple"
+    ],
+    "foundry": "Fonthead",
+    "designer": [
+        "Ethan Dunham"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "scribbles",
+        "preschool",
+        "kidprint",
+        "child writing",
+        "chalk",
+        "kid print",
+        "chalkboard",
+        "elementary",
+        "kids fonts",
+        "handletter",
+        "handwriting",
+        "kindergarten",
+        "blackboard",
+        "school",
+        "doodles",
+        "rough",
+        "kids",
+        "crayon",
+        "sidewalk",
+        "street"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/drawzing/regular",
+            "css": {
+                "font-family": "Drawzing Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "427",
+                "slug": "regular",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "171",
+        "slug": "drawzing"
+    },
+    "generatedAt": 1437608954385
+}

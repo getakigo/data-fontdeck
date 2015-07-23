@@ -1,0 +1,66 @@
+{
+    "name": "Alek",
+    "url": "http://fontdeck.com/typeface/alek",
+    "slug": "alek",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Script"
+    ],
+    "foundry": "Fenotype",
+    "designer": [
+        "Emil Bertell"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "decorative",
+        "elegant",
+        "cute",
+        "connected",
+        "retro",
+        "soft",
+        "rounded",
+        "display",
+        "wedding",
+        "alternates"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/alek/regular",
+            "css": {
+                "font-family": "Alek Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7621",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/alek/bold",
+            "css": {
+                "font-family": "Alek Bold",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7620",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1758",
+        "slug": "alek"
+    },
+    "generatedAt": 1437611200028
+}

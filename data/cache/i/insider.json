@@ -1,0 +1,156 @@
+{
+    "name": "Insider",
+    "url": "http://fontdeck.com/typeface/insider",
+    "slug": "insider",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Grotesque"
+    ],
+    "foundry": "Characters Font Foundry",
+    "designer": [
+        "René Verkaart"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "true italic",
+        "grotesk",
+        "warm",
+        "custom",
+        "text",
+        "legible",
+        "humanistic sans",
+        "din",
+        "friendly",
+        "open"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/insider/regular",
+            "css": {
+                "font-family": "Insider Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3973",
+                "slug": "regular",
+                "price": "$11.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/insider/regularitalic",
+            "css": {
+                "font-family": "Insider Regular Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3972",
+                "slug": "regularitalic",
+                "price": "$11.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/insider/medium",
+            "css": {
+                "font-family": "Insider Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3974",
+                "slug": "medium",
+                "price": "$11.50"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/insider/mediumitalic",
+            "css": {
+                "font-family": "Insider Medium Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3975",
+                "slug": "mediumitalic",
+                "price": "$11.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/insider/bold",
+            "css": {
+                "font-family": "Insider Bold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3976",
+                "slug": "bold",
+                "price": "$11.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/insider/bolditalic",
+            "css": {
+                "font-family": "Insider Bold Italic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3977",
+                "slug": "bolditalic",
+                "price": "$11.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/insider/black",
+            "css": {
+                "font-family": "Insider Black",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3978",
+                "slug": "black",
+                "price": "$11.50"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/insider/blackitalic",
+            "css": {
+                "font-family": "Insider Black Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3979",
+                "slug": "blackitalic",
+                "price": "$11.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "935",
+        "slug": "insider"
+    },
+    "generatedAt": 1437610138794
+}

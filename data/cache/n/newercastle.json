@@ -1,0 +1,47 @@
+{
+    "name": "Newercastle",
+    "url": "http://fontdeck.com/typeface/newercastle",
+    "slug": "newercastle",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Blackletter",
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "Chank Co",
+    "designer": [
+        "Chank Diesel",
+        "Kevin Hayes"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "grunge",
+        "blackletter",
+        "distressed"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/newercastle/regular",
+            "css": {
+                "font-family": "Newercastle Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "457",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "181",
+        "slug": "newercastle"
+    },
+    "generatedAt": 1437608971615
+}

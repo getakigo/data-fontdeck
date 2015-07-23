@@ -1,0 +1,47 @@
+{
+    "name": "Coventry Garden Pro",
+    "url": "http://fontdeck.com/typeface/coventrygardenpro",
+    "slug": "coventrygardenpro",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Art Deco"
+    ],
+    "foundry": "CheapProFonts",
+    "designer": [
+        "Nick Curtis"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "decorative",
+        "retro",
+        "initials",
+        "1920s",
+        "art deco",
+        "fancy"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/coventrygardenpro/regular",
+            "css": {
+                "font-family": "Coventry Garden Pro Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3103",
+                "slug": "regular",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "723",
+        "slug": "coventrygardenpro"
+    },
+    "generatedAt": 1437609797273
+}

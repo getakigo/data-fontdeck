@@ -1,0 +1,67 @@
+{
+    "name": "Stenciliqo 4F",
+    "url": "http://fontdeck.com/typeface/stenciliqo4f",
+    "slug": "stenciliqo4f",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Experimental",
+        "Display",
+        "Poster",
+        "Display",
+        "Geometric",
+        "Display",
+        "Stencil"
+    ],
+    "foundry": "4th february",
+    "designer": [
+        "Sergiy S. Tkachenko"
+    ],
+    "language": [
+        "latin",
+        "greek",
+        "cyrillic"
+    ],
+    "tags": [
+        "ball terminals",
+        "blocks",
+        "accents"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/stenciliqo4f/regular",
+            "css": {
+                "font-family": "Stenciliqo 4F Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3872",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/stenciliqo4f/italic",
+            "css": {
+                "font-family": "Stenciliqo 4F Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3873",
+                "slug": "italic",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "915",
+        "slug": "stenciliqo4f"
+    },
+    "generatedAt": 1437610113117
+}

@@ -1,0 +1,49 @@
+{
+    "name": "Didoni",
+    "url": "http://fontdeck.com/typeface/didoni",
+    "slug": "didoni",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Didone",
+        "Display",
+        "Fat Face"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Phil Martin"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "modern",
+        "1960s",
+        "american",
+        "serif",
+        "bodoni",
+        "didone"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/didoni/regular",
+            "css": {
+                "font-family": "Didoni Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2587",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "625",
+        "slug": "didoni"
+    },
+    "generatedAt": 1437609584277
+}

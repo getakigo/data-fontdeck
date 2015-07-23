@@ -1,0 +1,105 @@
+{
+    "name": "Grove Script",
+    "url": "http://fontdeck.com/typeface/grovescript",
+    "slug": "grovescript",
+    "use": "heading",
+    "classification": [
+        "Script",
+        "Handwritten",
+        "Script",
+        "Casual"
+    ],
+    "foundry": "Red Rooster Collection",
+    "designer": [
+        "Pat Hickson"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "poetry",
+        "brush-drawn",
+        "diploma",
+        "logo",
+        "fancy",
+        "letterhead",
+        "magazine",
+        "cursive",
+        "flair",
+        "flourished",
+        "curly",
+        "connected",
+        "greetings",
+        "calligraphic",
+        "calligraphy",
+        "wedding",
+        "feminine",
+        "invitation",
+        "engraving",
+        "english",
+        "legible",
+        "party",
+        "informal",
+        "poster",
+        "disconnected",
+        "certificate",
+        "script",
+        "elegant",
+        "handwriting",
+        "film",
+        "valentine",
+        "graceful"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/grovescript/light",
+            "css": {
+                "font-family": "Grove Script Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4261",
+                "slug": "light",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/grovescript/medium",
+            "css": {
+                "font-family": "Grove Script Medium",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4260",
+                "slug": "medium",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/grovescript/bold",
+            "css": {
+                "font-family": "Grove Script Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4259",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "999",
+        "slug": "grovescript"
+    },
+    "generatedAt": 1437610280567
+}

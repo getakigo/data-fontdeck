@@ -1,0 +1,114 @@
+{
+    "name": "Siri Core Schoolbook",
+    "url": "http://fontdeck.com/typeface/siricoreschoolbook",
+    "slug": "siricoreschoolbook",
+    "superfamily": "Siri",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Grotesque"
+    ],
+    "foundry": "Letters from Sweden",
+    "designer": [
+        "Göran Söderström"
+    ],
+    "opentype": [
+        "liga"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "opentype",
+        "hand hinted",
+        "scandinavian",
+        "personal",
+        "text",
+        "super family",
+        "friendly",
+        "swedish",
+        "magazine",
+        "manually hinted",
+        "sans",
+        "new",
+        "alternates",
+        "elegant",
+        "grotesque",
+        "clear",
+        "handhinted",
+        "vital",
+        "fresh",
+        "editorial",
+        "nordic",
+        "headline",
+        "corporate",
+        "clean"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/siricoreschoolbook/regular",
+            "css": {
+                "font-family": "Siri Core Schoolbook Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4424",
+                "slug": "regular",
+                "price": "$17.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/siricoreschoolbook/italic",
+            "css": {
+                "font-family": "Siri Core Schoolbook Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4425",
+                "slug": "italic",
+                "price": "$17.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/siricoreschoolbook/bold",
+            "css": {
+                "font-family": "Siri Core Schoolbook Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4426",
+                "slug": "bold",
+                "price": "$17.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/siricoreschoolbook/bolditalic",
+            "css": {
+                "font-family": "SiriCoreSchoolbookBoldItalic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4427",
+                "slug": "bolditalic",
+                "price": "$17.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1033",
+        "slug": "siricoreschoolbook"
+    },
+    "generatedAt": 1437610354717
+}

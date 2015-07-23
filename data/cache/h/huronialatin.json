@@ -1,0 +1,101 @@
+{
+    "name": "Huronia Latin",
+    "url": "http://fontdeck.com/typeface/huronialatin",
+    "slug": "huronialatin",
+    "superfamily": "Huronia",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Rugged",
+        "Serif",
+        "Modern"
+    ],
+    "foundry": "Rosetta",
+    "designer": [
+        "Ross Mills"
+    ],
+    "opentype": [
+        "c2sc",
+        "case",
+        "dnom",
+        "frac",
+        "liga",
+        "lnum",
+        "onum",
+        "ordn",
+        "pnum",
+        "sinf",
+        "smcp",
+        "subs",
+        "sups",
+        "tnum"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "opentype",
+        "canadian",
+        "text",
+        "text font",
+        "ross mills",
+        "accents",
+        "magazine",
+        "hinted",
+        "indian",
+        "romantic",
+        "multilingual"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/huronialatin/regular",
+            "css": {
+                "font-family": "Huronia Latin Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7739",
+                "slug": "regular",
+                "price": "$13.75"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/huronialatin/italic",
+            "css": {
+                "font-family": "Huronia Latin Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7744",
+                "slug": "italic",
+                "price": "$13.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/huronialatin/bold",
+            "css": {
+                "font-family": "Huronia Latin Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7743",
+                "slug": "bold",
+                "price": "$13.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1783",
+        "slug": "huronialatin"
+    },
+    "generatedAt": 1437611253906
+}

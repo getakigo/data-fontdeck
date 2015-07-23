@@ -1,0 +1,48 @@
+{
+    "name": "Matrise Pro",
+    "url": "http://fontdeck.com/typeface/matrisepro",
+    "slug": "matrisepro",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Computer-related",
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "CheapProFonts",
+    "designer": [
+        "Roger S.  Nelsson"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "needleprinter",
+        "dots",
+        "lcd",
+        "led",
+        "dot matrix"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/matrisepro/regular",
+            "css": {
+                "font-family": "Matrise Pro Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2934",
+                "slug": "regular",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "680",
+        "slug": "matrisepro"
+    },
+    "generatedAt": 1437609703528
+}

@@ -1,0 +1,95 @@
+{
+    "name": "Targo 4F",
+    "url": "http://fontdeck.com/typeface/targo4f",
+    "slug": "targo4f",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Display",
+        "Geometric",
+        "Display",
+        "Stencil"
+    ],
+    "foundry": "4th february",
+    "designer": [
+        "Sergiy S. Tkachenko"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "soft",
+        "1970s",
+        "rounded",
+        "geometric",
+        "swiss"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/targo4f/regular",
+            "css": {
+                "font-family": "Targo 4F Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6334",
+                "slug": "regular",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/targo4f/italic",
+            "css": {
+                "font-family": "Targo 4F Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6335",
+                "slug": "italic",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Stencil",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/targo4f/stencil",
+            "css": {
+                "font-family": "Targo 4F Stencil",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6336",
+                "slug": "stencil",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Stencil Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/targo4f/stencilitalic",
+            "css": {
+                "font-family": "Targo 4F Stencil Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6337",
+                "slug": "stencilitalic",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1456",
+        "slug": "targo4f"
+    },
+    "generatedAt": 1437610868315
+}

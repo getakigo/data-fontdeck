@@ -1,0 +1,76 @@
+{
+    "name": "Cranked Pipe 2D",
+    "url": "http://fontdeck.com/typeface/crankedpipe2d",
+    "slug": "crankedpipe2d",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Grunge",
+        "Display",
+        "Sans serif",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "2D Typo",
+    "designer": [
+        "Lukyan Turetskyy"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "techno",
+        "technical",
+        "sans-serif",
+        "geometric",
+        "games",
+        "logo",
+        "mechanical",
+        "cyrillic",
+        "constructed",
+        "magazine",
+        "decorative",
+        "block",
+        "computer",
+        "modular",
+        "ukrainian",
+        "futuristic"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/crankedpipe2d/regular",
+            "css": {
+                "font-family": "Cranked Pipe 2D Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3849",
+                "slug": "regular",
+                "price": "$7.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/crankedpipe2d/bold",
+            "css": {
+                "font-family": "Cranked Pipe 2D Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3850",
+                "slug": "bold",
+                "price": "$7.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "912",
+        "slug": "crankedpipe2d"
+    },
+    "generatedAt": 1437610113580
+}

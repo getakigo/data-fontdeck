@@ -1,0 +1,48 @@
+{
+    "name": "Trilogy Fatface Expert Subset",
+    "url": "http://fontdeck.com/typeface/trilogyfatfaceexpertsubset",
+    "slug": "trilogyfatfaceexpertsubset",
+    "superfamily": "Trilogy",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Fat Face"
+    ],
+    "foundry": "Jeremy Tankard Typography",
+    "designer": [
+        "Jeremy Tankard"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "super family",
+        "expert subset"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/trilogyfatfaceexpertsubset/regular",
+            "css": {
+                "font-family": "TrilogFatfacExperSubseRegula",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4420",
+                "slug": "regular",
+                "price": "$3.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1042",
+        "slug": "trilogyfatfaceexpertsubset"
+    },
+    "expert subset": [
+        "onum",
+        "swsh"
+    ],
+    "generatedAt": 1437610373553
+}

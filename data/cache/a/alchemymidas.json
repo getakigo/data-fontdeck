@@ -1,0 +1,49 @@
+{
+    "name": "Alchemy Midas",
+    "url": "http://fontdeck.com/typeface/alchemymidas",
+    "slug": "alchemymidas",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "Jeremy Tankard Typography",
+    "designer": [
+        "Jeremy Tankard"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "decorative",
+        "blackletter",
+        "calligraphic",
+        "ancient",
+        "middle ages",
+        "complex",
+        "medieval",
+        "christmas"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/alchemymidas/regular",
+            "css": {
+                "font-family": "Alchemy Midas Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1655",
+                "slug": "regular",
+                "price": "$13.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "434",
+        "slug": "alchemymidas"
+    },
+    "generatedAt": 1437609352818
+}

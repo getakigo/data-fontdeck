@@ -1,0 +1,79 @@
+{
+    "name": "Reminder Pro",
+    "url": "http://fontdeck.com/typeface/reminderpro",
+    "slug": "reminderpro",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Handwritten",
+        "Display",
+        "Comic Strip Lettering"
+    ],
+    "foundry": "Parachute",
+    "designer": [
+        "Panos Vassiliou"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "scribbles",
+        "informal",
+        "handwritten",
+        "hand drawn",
+        "handwriting",
+        "personal"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/reminderpro/regular",
+            "css": {
+                "font-family": "Reminder Pro Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3364",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/reminderpro/medium",
+            "css": {
+                "font-family": "Reminder Pro Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3363",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/reminderpro/bold",
+            "css": {
+                "font-family": "Reminder Pro Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3362",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "811",
+        "slug": "reminderpro"
+    },
+    "generatedAt": 1437609924889
+}

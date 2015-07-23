@@ -1,0 +1,119 @@
+{
+    "name": "Lavigne Text",
+    "url": "http://fontdeck.com/typeface/lavignetext",
+    "slug": "lavignetext",
+    "superfamily": "Lavigne",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Transitional",
+        "Serif",
+        "Modern"
+    ],
+    "foundry": "ReType",
+    "designer": [
+        "Ramiro Espinoza"
+    ],
+    "opentype": [
+        "liga",
+        "lnum",
+        "onum",
+        "pnum",
+        "smcp",
+        "tnum"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "fine",
+        "opentype",
+        "serif",
+        "feminine",
+        "jewelry",
+        "elle",
+        "classic",
+        "optical sizes",
+        "cosmetics",
+        "vogue",
+        "perfume",
+        "neoclassical",
+        "didone",
+        "magazine",
+        "glossy",
+        "sophisticated",
+        "women",
+        "glamour",
+        "chic",
+        "modern serif",
+        "art",
+        "superfamily"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/lavignetext/regular",
+            "css": {
+                "font-family": "Lavigne Text Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6149",
+                "slug": "regular",
+                "price": "$16.99"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/lavignetext/italic",
+            "css": {
+                "font-family": "Lavigne Text Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6150",
+                "slug": "italic",
+                "price": "$16.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/lavignetext/bold",
+            "css": {
+                "font-family": "Lavigne Text Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6151",
+                "slug": "bold",
+                "price": "$16.99"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/lavignetext/bolditalic",
+            "css": {
+                "font-family": "Lavigne Text Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6152",
+                "slug": "bolditalic",
+                "price": "$16.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1420",
+        "slug": "lavignetext"
+    },
+    "generatedAt": 1437610835818
+}

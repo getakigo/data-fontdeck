@@ -1,0 +1,242 @@
+{
+    "name": "Chevin Std",
+    "url": "http://fontdeck.com/typeface/chevinstd",
+    "slug": "chevinstd",
+    "superfamily": "Chevin",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "G-Type",
+    "designer": [
+        "Nick Cooke"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "condensed",
+        "geometric",
+        "strong",
+        "soft",
+        "din",
+        "functional",
+        "contemporary",
+        "humanist",
+        "magazine",
+        "versatile",
+        "chunky",
+        "alternates",
+        "modern",
+        "commercial",
+        "publishing",
+        "business text",
+        "fashionable",
+        "professional",
+        "teutonic",
+        "branding",
+        "linear sans",
+        "monolinear",
+        "stylistic sets",
+        "vag",
+        "legible",
+        "fat",
+        "rounded",
+        "poster",
+        "cool",
+        "solid",
+        "small caps",
+        "masculine",
+        "signage",
+        "corporate",
+        "clean"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/chevinstd/thin",
+            "css": {
+                "font-family": "Chevin Std Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6729",
+                "slug": "thin",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Thin Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/chevinstd/thinitalic",
+            "css": {
+                "font-family": "Chevin Std Thin Italic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6730",
+                "slug": "thinitalic",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/chevinstd/light",
+            "css": {
+                "font-family": "Chevin Std Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6725",
+                "slug": "light",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/chevinstd/lightitalic",
+            "css": {
+                "font-family": "Chevin Std Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6726",
+                "slug": "lightitalic",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/chevinstd/medium",
+            "css": {
+                "font-family": "Chevin Std Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6727",
+                "slug": "medium",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/chevinstd/mediumitalic",
+            "css": {
+                "font-family": "Chevin Std Medium Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6728",
+                "slug": "mediumitalic",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/chevinstd/bold",
+            "css": {
+                "font-family": "Chevin Std Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6719",
+                "slug": "bold",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/chevinstd/bolditalic",
+            "css": {
+                "font-family": "Chevin Std Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6720",
+                "slug": "bolditalic",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/chevinstd/extrabold",
+            "css": {
+                "font-family": "Chevin Std Extra Bold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6723",
+                "slug": "extrabold",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Extra-bold Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/chevinstd/extrabolditalic",
+            "css": {
+                "font-family": "Chevin Std Extra Bold Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6724",
+                "slug": "extrabolditalic",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Demi Bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/chevinstd/demibold",
+            "css": {
+                "font-family": "Chevin Std Demi Bold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6721",
+                "slug": "demibold",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Demi Bold Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/chevinstd/demibolditalic",
+            "css": {
+                "font-family": "Chevin Std Demi Bold Italic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6722",
+                "slug": "demibolditalic",
+                "price": "$15.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1532",
+        "slug": "chevinstd"
+    },
+    "generatedAt": 1437611098888
+}

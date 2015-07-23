@@ -1,0 +1,100 @@
+{
+    "name": "Cooper Fullface",
+    "url": "http://fontdeck.com/typeface/cooperfullface",
+    "slug": "cooperfullface",
+    "superfamily": "Cooper",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Fat Face",
+        "Display",
+        "Poster",
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "Wordshape",
+    "designer": [
+        "Ian Lynam",
+        "Oswald Bruce Cooper"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "cooper black",
+        "danzig",
+        "1920s",
+        "atf",
+        "graffiti",
+        "stub serif",
+        "cooper",
+        "beach boys",
+        "t&c",
+        "bb&s",
+        "plump",
+        "tdr",
+        "ligatures",
+        "wilco",
+        "ian lynam",
+        "japan",
+        "richard mcarthur",
+        "ligature",
+        "far-sighted",
+        "fat face",
+        "soft font",
+        "cooper oldstyle",
+        "bodoni",
+        "skateboarding",
+        "designers republic",
+        "oswald cooper",
+        "town & country",
+        "archie",
+        "didone",
+        "barnhart bros",
+        "ian lyman",
+        "1930s",
+        "script",
+        "showcard lettering",
+        "chicago",
+        "surfing",
+        "heavy",
+        "oz cooper"
+    ],
+    "variations": [
+        {
+            "name": "Regular Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/cooperfullface/italic",
+            "css": {
+                "font-family": "Cooper Fullface Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4014",
+                "slug": "italic",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Regular Italic Fancy",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/cooperfullface/italicfancy",
+            "css": {
+                "font-family": "Cooper Fullface Italic Fancy",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4015",
+                "slug": "italicfancy",
+                "price": "$9.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "946",
+        "slug": "cooperfullface"
+    },
+    "generatedAt": 1437610160623
+}

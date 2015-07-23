@@ -1,0 +1,49 @@
+{
+    "name": "Amber",
+    "url": "http://fontdeck.com/typeface/amber",
+    "slug": "amber",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Handwritten",
+        "Script",
+        "Calligraphic"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "URW Studio"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "script",
+        "american",
+        "handwriting",
+        "1990s",
+        "free-form",
+        "calligraphic"
+    ],
+    "variations": [
+        {
+            "name": "Normal",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/amber/normal",
+            "css": {
+                "font-family": "Amber Normal",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2611",
+                "slug": "normal",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "632",
+        "slug": "amber"
+    },
+    "generatedAt": 1437609602619
+}

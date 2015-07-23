@@ -1,0 +1,50 @@
+{
+    "name": "Accelerator",
+    "url": "http://fontdeck.com/typeface/accelerator",
+    "slug": "accelerator",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Futuristic"
+    ],
+    "foundry": "Characters Font Foundry",
+    "designer": [
+        "René Verkaart"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "decorative",
+        "fast",
+        "speed",
+        "techno",
+        "geometric",
+        "computer",
+        "futuristic",
+        "italic",
+        "wide"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/accelerator/regular",
+            "css": {
+                "font-family": "Accelerator Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3591",
+                "slug": "regular",
+                "price": "$11.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "866",
+        "slug": "accelerator"
+    },
+    "generatedAt": 1437610033912
+}

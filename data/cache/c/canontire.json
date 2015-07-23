@@ -1,0 +1,74 @@
+{
+    "name": "Canontire",
+    "url": "http://fontdeck.com/typeface/canontire",
+    "slug": "canontire",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Gothic"
+    ],
+    "foundry": "Langustefonts",
+    "designer": [
+        "Johannes Lang"
+    ],
+    "opentype": [
+        "frac",
+        "liga",
+        "lnum",
+        "onum",
+        "pnum",
+        "tnum"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "transport",
+        "gothic",
+        "opentype",
+        "narrow",
+        "condensed",
+        "traffic",
+        "sans",
+        "irregular",
+        "industrial",
+        "curvy"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/canontire/regular",
+            "css": {
+                "font-family": "Canontire Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6079",
+                "slug": "regular",
+                "price": "$19.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/canontire/bold",
+            "css": {
+                "font-family": "Canontire Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6080",
+                "slug": "bold",
+                "price": "$19.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1349",
+        "slug": "canontire"
+    },
+    "generatedAt": 1437610773931
+}

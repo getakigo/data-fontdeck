@@ -1,0 +1,56 @@
+{
+    "name": "Amanet",
+    "url": "http://fontdeck.com/typeface/amanet",
+    "slug": "amanet",
+    "use": "body",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Sans Serif",
+        "Grotesque"
+    ],
+    "foundry": "Tour de Force",
+    "designer": [
+        "Dušan Jelesijević"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "classy",
+        "compact",
+        "serif",
+        "narrow",
+        "condensed",
+        "glyphic",
+        "wine",
+        "label",
+        "old",
+        "legible",
+        "retro",
+        "titles",
+        "packaging"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/amanet/regular",
+            "css": {
+                "font-family": "Amanet Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4382",
+                "slug": "regular",
+                "price": "$7.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1030",
+        "slug": "amanet"
+    },
+    "generatedAt": 1437610354168
+}

@@ -1,0 +1,79 @@
+{
+    "name": "Bastard",
+    "url": "http://fontdeck.com/typeface/bastard",
+    "slug": "bastard",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Blackletter"
+    ],
+    "foundry": "VirusFonts",
+    "designer": [
+        "Jonathan Barnbrook"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "blackletter",
+        "experimental",
+        "headline",
+        "contemporary",
+        "poster",
+        "black sabbath",
+        "historical",
+        "fraktur"
+    ],
+    "variations": [
+        {
+            "name": "Even Fatter",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/bastard/evenfatter",
+            "css": {
+                "font-family": "Bastard  Even Fatter",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3308",
+                "slug": "evenfatter",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Spindly",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/bastard/spindly",
+            "css": {
+                "font-family": "Bastard  Spindly",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3309",
+                "slug": "spindly",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Fat",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/bastard/fat",
+            "css": {
+                "font-family": "Bastard  Fat",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3307",
+                "slug": "fat",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "799",
+        "slug": "bastard"
+    },
+    "generatedAt": 1437609907331
+}

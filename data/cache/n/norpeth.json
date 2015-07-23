@@ -1,0 +1,157 @@
+{
+    "name": "Norpeth",
+    "url": "http://fontdeck.com/typeface/norpeth",
+    "slug": "norpeth",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Humanist",
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "The Northern Block",
+    "designer": [
+        "Jonathan Hill"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "sans-serif",
+        "text",
+        "legible",
+        "brochure",
+        "balanced",
+        "contemporary",
+        "humanist",
+        "magazine",
+        "economical",
+        "modern",
+        "business",
+        "neutral",
+        "efficient",
+        "stationery",
+        "identity",
+        "humanistic sans",
+        "european",
+        "light",
+        "branding",
+        "sansserif",
+        "editorial",
+        "linear sans",
+        "sans serif",
+        "clean"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/norpeth/light",
+            "css": {
+                "font-family": "Norpeth Light",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2548",
+                "slug": "light",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Book",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/norpeth/book",
+            "css": {
+                "font-family": "Norpeth Book",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2549",
+                "slug": "book",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/norpeth/italic",
+            "css": {
+                "font-family": "Norpeth Italic",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2550",
+                "slug": "italic",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/norpeth/medium",
+            "css": {
+                "font-family": "Norpeth Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2551",
+                "slug": "medium",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/norpeth/bold",
+            "css": {
+                "font-family": "Norpeth Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2553",
+                "slug": "bold",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/norpeth/extrabold",
+            "css": {
+                "font-family": "Norpeth ExtraBold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2554",
+                "slug": "extrabold",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "DemiBold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/norpeth/demibold",
+            "css": {
+                "font-family": "Norpeth DemiBold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2552",
+                "slug": "demibold",
+                "price": "$9.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "616",
+        "slug": "norpeth"
+    },
+    "generatedAt": 1437609576788
+}

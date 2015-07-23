@@ -1,0 +1,140 @@
+{
+    "name": "FS Pimlico Web Expert Subset",
+    "url": "http://fontdeck.com/typeface/fspimlicowebexpertsubset",
+    "slug": "fspimlicowebexpertsubset",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Neo-Grotesk",
+        "Display",
+        "Sans serif"
+    ],
+    "foundry": "Fontsmith",
+    "designer": [
+        "Fernando Mello"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "swashes",
+        "expert subset",
+        "lining numerals"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/fspimlicowebexpertsubset/regular",
+            "css": {
+                "font-family": "FSPimlicoWebExpertSubsetRegular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4439",
+                "slug": "regular",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/fspimlicowebexpertsubset/italic",
+            "css": {
+                "font-family": "FSPimlicoWebExpertSubsetItalic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4438",
+                "slug": "italic",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/fspimlicowebexpertsubset/bold",
+            "css": {
+                "font-family": "FSPimlicoWebExpertSubsetBold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4435",
+                "slug": "bold",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/fspimlicowebexpertsubset/bolditalic",
+            "css": {
+                "font-family": "FPimlicWeExperSubseBolItali",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4436",
+                "slug": "bolditalic",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/fspimlicowebexpertsubset/black",
+            "css": {
+                "font-family": "FSPimlicoWebExpertSubsetBlack",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4433",
+                "slug": "black",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/fspimlicowebexpertsubset/blackitalic",
+            "css": {
+                "font-family": "FPimlicWeExperSubseBlacItali",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4434",
+                "slug": "blackitalic",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "Glow",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/fspimlicowebexpertsubset/glow",
+            "css": {
+                "font-family": "FSPimlicoWebExpertSubsetGlow",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4437",
+                "slug": "glow",
+                "price": "$3.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1048",
+        "slug": "fspimlicowebexpertsubset"
+    },
+    "expert subset": [
+        "lnum",
+        "swsh"
+    ],
+    "generatedAt": 1437610373599
+}

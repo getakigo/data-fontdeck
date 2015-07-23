@@ -1,0 +1,138 @@
+{
+    "name": "Alexon",
+    "url": "http://fontdeck.com/typeface/alexon",
+    "slug": "alexon",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Sans Serif",
+        "Glyphic"
+    ],
+    "foundry": "Red Rooster Collection",
+    "designer": [
+        "Leslie Usherwood",
+        "Steve Jackaman"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "formal",
+        "expressive",
+        "poetry",
+        "serif",
+        "trajan",
+        "royal",
+        "glyphic",
+        "personable",
+        "fancy",
+        "perfume",
+        "baroque",
+        "magazine",
+        "economical",
+        "distinguished",
+        "sophisticated",
+        "inscribed",
+        "food",
+        "menus",
+        "commercial",
+        "ligatures",
+        "education",
+        "fashionable",
+        "renaissance",
+        "european",
+        "ancient",
+        "greek",
+        "basilea",
+        "information",
+        "books",
+        "cosmopolitan",
+        "pointed",
+        "jewelry",
+        "sans-serif",
+        "tiny serif",
+        "cosmetics",
+        "legible",
+        "economic",
+        "roman",
+        "elegant",
+        "italian",
+        "money",
+        "industry",
+        "fresh",
+        "regal",
+        "signage",
+        "delicate",
+        "graceful",
+        "clean",
+        "conservative"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/alexon/light",
+            "css": {
+                "font-family": "Alexon Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4195",
+                "slug": "light",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/alexon/medium",
+            "css": {
+                "font-family": "Alexon Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4196",
+                "slug": "medium",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/alexon/bold",
+            "css": {
+                "font-family": "Alexon Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4194",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Light Small Caps",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/alexon/lightsmallcaps",
+            "css": {
+                "font-family": "Alexon Light Small Caps",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4197",
+                "slug": "lightsmallcaps",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "984",
+        "slug": "alexon"
+    },
+    "generatedAt": 1437610251763
+}

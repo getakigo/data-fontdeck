@@ -1,0 +1,47 @@
+{
+    "name": "EB Boogie Monster",
+    "url": "http://fontdeck.com/typeface/ebboogiemonster",
+    "slug": "ebboogiemonster",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Experimental",
+        "Display",
+        "Funny"
+    ],
+    "foundry": "Fenotype",
+    "designer": [
+        "Erik Bertell"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "experimental",
+        "op art",
+        "geometric",
+        "disco"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/ebboogiemonster/regular",
+            "css": {
+                "font-family": "EB Boogie Monster Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2164",
+                "slug": "regular",
+                "price": "$8.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "548",
+        "slug": "ebboogiemonster"
+    },
+    "generatedAt": 1437609426646
+}

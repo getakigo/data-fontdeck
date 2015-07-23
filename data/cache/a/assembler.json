@@ -1,0 +1,51 @@
+{
+    "name": "Assembler",
+    "url": "http://fontdeck.com/typeface/assembler",
+    "slug": "assembler",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Funny",
+        "Display",
+        "Futuristic",
+        "Display",
+        "Computer-related"
+    ],
+    "foundry": "Fonthead",
+    "designer": [
+        "Ethan Dunham"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "robot",
+        "angular",
+        "industrial",
+        "contemporary",
+        "pixel",
+        "blocky"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/assembler/regular",
+            "css": {
+                "font-family": "Assembler Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "429",
+                "slug": "regular",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "173",
+        "slug": "assembler"
+    },
+    "generatedAt": 1437608954099
+}

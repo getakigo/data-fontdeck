@@ -1,0 +1,106 @@
+{
+    "name": "Rufina",
+    "url": "http://fontdeck.com/typeface/rufina",
+    "slug": "rufina",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Didone"
+    ],
+    "foundry": "TipoType",
+    "designer": [
+        "Martin Sommaruga"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "high contrast",
+        "serif",
+        "bodoni",
+        "brush",
+        "ornaments",
+        "didone",
+        "upright",
+        "magazine",
+        "modern",
+        "roman",
+        "elegant",
+        "ligatures",
+        "logotype",
+        "fashion",
+        "calligraphic",
+        "delicate",
+        "sans serif",
+        "italic",
+        "transitional",
+        "display"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/rufina/regular",
+            "css": {
+                "font-family": "Rufina Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8855",
+                "slug": "regular",
+                "price": "$11.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/rufina/italic",
+            "css": {
+                "font-family": "Rufina Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8854",
+                "slug": "italic",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/rufina/bold",
+            "css": {
+                "font-family": "Rufina Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8853",
+                "slug": "bold",
+                "price": "$11.00"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/rufina/bolditalic",
+            "css": {
+                "font-family": "Rufina Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8852",
+                "slug": "bolditalic",
+                "price": "$9.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1985",
+        "slug": "rufina"
+    },
+    "generatedAt": 1437611575780
+}

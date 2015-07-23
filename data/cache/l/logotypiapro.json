@@ -1,0 +1,70 @@
+{
+    "name": "Logotypia Pro",
+    "url": "http://fontdeck.com/typeface/logotypiapro",
+    "slug": "logotypiapro",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "All caps"
+    ],
+    "foundry": "fonts.info",
+    "designer": [
+        "Ralf Herrmann"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "decorative",
+        "modern",
+        "all caps",
+        "logotype",
+        "logo",
+        "identity",
+        "corporate",
+        "sans serif",
+        "headline",
+        "news",
+        "display",
+        "sport",
+        "poster",
+        "wide"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/logotypiapro/regular",
+            "css": {
+                "font-family": "Logotypia Pro Regular",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5640",
+                "slug": "regular",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Regular Oblique",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/logotypiapro/oblique",
+            "css": {
+                "font-family": "Logotypia Pro Oblique",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5641",
+                "slug": "oblique",
+                "price": "$9.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1308",
+        "slug": "logotypiapro"
+    },
+    "generatedAt": 1437610752950
+}

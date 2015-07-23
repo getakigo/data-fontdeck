@@ -1,0 +1,194 @@
+{
+    "name": "Le Monde Courrier Std",
+    "url": "http://fontdeck.com/typeface/lemondecourrierstd",
+    "slug": "lemondecourrierstd",
+    "use": "body",
+    "classification": [
+        "Display",
+        "Slab serif",
+        "Slab Serif",
+        "Humanist",
+        "Display",
+        "Serif",
+        "Slab Serif",
+        "Dynamic"
+    ],
+    "foundry": "Typofonderie",
+    "designer": [
+        "Jean François Porchez"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "publishing",
+        "text",
+        "design",
+        "identity",
+        "branding",
+        "paragraph",
+        "data",
+        "newspapers",
+        "rounded",
+        "display",
+        "magazine",
+        "typewriter"
+    ],
+    "variations": [
+        {
+            "name": "Book",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/lemondecourrierstd/book",
+            "css": {
+                "font-family": "Le Monde Courrier Std Book",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8730",
+                "slug": "book",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Book Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/lemondecourrierstd/bookitalic",
+            "css": {
+                "font-family": "LeMondeCourrierStdBookItalic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8732",
+                "slug": "bookitalic",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/lemondecourrierstd/regular",
+            "css": {
+                "font-family": "Le Monde Courrier Std Regular",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8728",
+                "slug": "regular",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i3",
+            "url": "http://fontdeck.com/font/lemondecourrierstd/italic",
+            "css": {
+                "font-family": "Le Monde Courrier Std Italic",
+                "font-weight": "300",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8729",
+                "slug": "italic",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/lemondecourrierstd/bold",
+            "css": {
+                "font-family": "Le Monde Courrier Std Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8737",
+                "slug": "bold",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/lemondecourrierstd/bolditalic",
+            "css": {
+                "font-family": "LeMondeCourrierStdBoldItalic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8738",
+                "slug": "bolditalic",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Extra Demi",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/lemondecourrierstd/extrademi",
+            "css": {
+                "font-family": "LeMondeCourrierStdExtraDemi",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8735",
+                "slug": "extrademi",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Demi",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/lemondecourrierstd/demi",
+            "css": {
+                "font-family": "Le Monde Courrier Std Demi",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8733",
+                "slug": "demi",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Demi Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/lemondecourrierstd/demiitalic",
+            "css": {
+                "font-family": "LeMondeCourrierStdDemiItalic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8734",
+                "slug": "demiitalic",
+                "price": "$26.00"
+            }
+        },
+        {
+            "name": "Extra Demi Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/lemondecourrierstd/extrademiitalic",
+            "css": {
+                "font-family": "LMondCourrieStExtrDemItali",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8736",
+                "slug": "extrademiitalic",
+                "price": "$26.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1926",
+        "slug": "lemondecourrierstd"
+    },
+    "generatedAt": 1437611477639
+}

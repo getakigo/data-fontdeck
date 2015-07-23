@@ -1,0 +1,80 @@
+{
+    "name": "Motel Xenia",
+    "url": "http://fontdeck.com/typeface/motelxenia",
+    "slug": "motelxenia",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Sans Serif",
+        "Gothic"
+    ],
+    "foundry": "Fenotype",
+    "designer": [
+        "Emil Bertell"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "gothic",
+        "1960s",
+        "retro",
+        "narrow",
+        "interlock",
+        "driver gothic",
+        "poster"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/motelxenia/thin",
+            "css": {
+                "font-family": "Motel Xenia Thin",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2146",
+                "slug": "thin",
+                "price": "$8.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/motelxenia/regular",
+            "css": {
+                "font-family": "Motel Xenia Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2145",
+                "slug": "regular",
+                "price": "$8.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/motelxenia/bold",
+            "css": {
+                "font-family": "Motel Xenia Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2147",
+                "slug": "bold",
+                "price": "$8.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "540",
+        "slug": "motelxenia"
+    },
+    "generatedAt": 1437609407132
+}

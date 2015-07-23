@@ -1,0 +1,64 @@
+{
+    "name": "Prototype",
+    "url": "http://fontdeck.com/typeface/prototype",
+    "slug": "prototype",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Display",
+        "Serif"
+    ],
+    "foundry": "VirusFonts",
+    "designer": [
+        "Jonathan Barnbrook"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "experimental",
+        "utopian",
+        "universal",
+        "headline",
+        "1990s",
+        "unicase"
+    ],
+    "variations": [
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/prototype/bold",
+            "css": {
+                "font-family": "Prototype Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3410",
+                "slug": "bold",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Plain",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/prototype/plain",
+            "css": {
+                "font-family": "Prototype Plain",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3409",
+                "slug": "plain",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "827",
+        "slug": "prototype"
+    },
+    "generatedAt": 1437609955277
+}

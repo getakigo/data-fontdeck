@@ -1,0 +1,263 @@
+{
+    "name": "Planer",
+    "url": "http://fontdeck.com/typeface/planer",
+    "slug": "planer",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Sans Serif",
+        "Humanist"
+    ],
+    "foundry": "The Northern Block",
+    "designer": [
+        "Jonathan Hill"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "advertising",
+        "geometric",
+        "linear",
+        "architecture",
+        "din",
+        "balanced",
+        "humanist",
+        "contemporary",
+        "rounded",
+        "magazine",
+        "poster",
+        "modern",
+        "business",
+        "minimalism",
+        "cool",
+        "humanistic sans",
+        "brochures",
+        "european",
+        "modular",
+        "branding",
+        "editorial",
+        "german",
+        "clean",
+        "display",
+        "information"
+    ],
+    "variations": [
+        {
+            "name": "Extra-light Italic",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/planer/extralightitalic",
+            "css": {
+                "font-family": "Planer ExtraLight Italic",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4635",
+                "slug": "extralightitalic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Extra-light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/planer/extralight",
+            "css": {
+                "font-family": "Planer ExtraLight",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4626",
+                "slug": "extralight",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/planer/lightitalic",
+            "css": {
+                "font-family": "Planer Light Italic",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4636",
+                "slug": "lightitalic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/planer/light",
+            "css": {
+                "font-family": "Planer Light",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2338",
+                "slug": "light",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/planer/regular",
+            "css": {
+                "font-family": "Planer Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2339",
+                "slug": "regular",
+                "price": "FREE"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/planer/italic",
+            "css": {
+                "font-family": "Planer Italic",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4637",
+                "slug": "italic",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/planer/medium",
+            "css": {
+                "font-family": "Planer Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2340",
+                "slug": "medium",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/planer/mediumitalic",
+            "css": {
+                "font-family": "Planer Medium Italic",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4638",
+                "slug": "mediumitalic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/planer/bolditalic",
+            "css": {
+                "font-family": "Planer Bold Italic",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4640",
+                "slug": "bolditalic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/planer/bold",
+            "css": {
+                "font-family": "Planer Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2341",
+                "slug": "bold",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/planer/extrabold",
+            "css": {
+                "font-family": "Planer ExtraBold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4628",
+                "slug": "extrabold",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Extra-bold Italic",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/planer/extrabolditalic",
+            "css": {
+                "font-family": "Planer ExtraBold Italic",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4641",
+                "slug": "extrabolditalic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "DemiBold Italic",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/planer/demibolditalic",
+            "css": {
+                "font-family": "Planer DemiBold Italic",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4639",
+                "slug": "demibolditalic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "DemiBold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/planer/demibold",
+            "css": {
+                "font-family": "Planer DemiBold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4627",
+                "slug": "demibold",
+                "price": "$7.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "570",
+        "slug": "planer"
+    },
+    "generatedAt": 1437609476138
+}

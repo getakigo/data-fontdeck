@@ -1,0 +1,69 @@
+{
+    "name": "Bladi One 4F",
+    "url": "http://fontdeck.com/typeface/bladione4f",
+    "slug": "bladione4f",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Experimental",
+        "Display",
+        "Futuristic",
+        "Display",
+        "Poster",
+        "Display",
+        "Decorative",
+        "Display",
+        "Geometric",
+        "Display",
+        "Sans serif",
+        "Display",
+        "Computer-related"
+    ],
+    "foundry": "4th february",
+    "designer": [
+        "Sergiy S. Tkachenko"
+    ],
+    "language": [
+        "latin",
+        "greek",
+        "cyrillic"
+    ],
+    "tags": [],
+    "variations": [
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/bladione4f/bold",
+            "css": {
+                "font-family": "Bladi One 4F Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3877",
+                "slug": "bold",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Wide Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/bladione4f/widebold",
+            "css": {
+                "font-family": "Bladi One 4F Wide Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3882",
+                "slug": "widebold",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "918",
+        "slug": "bladione4f"
+    },
+    "generatedAt": 1437610120591
+}

@@ -1,0 +1,307 @@
+{
+    "name": "Encore Sans Pro",
+    "url": "http://fontdeck.com/typeface/encoresanspro",
+    "slug": "encoresanspro",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "Parachute",
+    "designer": [
+        "Panos Vassiliou"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "modern",
+        "cool",
+        "workhorse",
+        "helvetica",
+        "sans-serif",
+        "legible",
+        "urban",
+        "contemporary",
+        "magazine"
+    ],
+    "variations": [
+        {
+            "name": "Extra-thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/encoresanspro/extrathin",
+            "css": {
+                "font-family": "Encore Sans Pro Extra Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3267",
+                "slug": "extrathin",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-thin Italic",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/encoresanspro/extrathinitalic",
+            "css": {
+                "font-family": "EncoreSansProExtraThinItalic",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3268",
+                "slug": "extrathinitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/encoresanspro/thin",
+            "css": {
+                "font-family": "Encore Sans Pro Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3252",
+                "slug": "thin",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Thin Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/encoresanspro/thinitalic",
+            "css": {
+                "font-family": "Encore Sans Pro Thin Italic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3264",
+                "slug": "thinitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/encoresanspro/light",
+            "css": {
+                "font-family": "Encore Sans Pro Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3261",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/encoresanspro/lightitalic",
+            "css": {
+                "font-family": "Encore Sans Pro Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3260",
+                "slug": "lightitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Book",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/encoresanspro/book",
+            "css": {
+                "font-family": "Encore Sans Pro Book",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3257",
+                "slug": "book",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Book Italic",
+            "description": "i3",
+            "url": "http://fontdeck.com/font/encoresanspro/bookitalic",
+            "css": {
+                "font-family": "Encore Sans Pro Book Italic",
+                "font-weight": "300",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3258",
+                "slug": "bookitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/encoresanspro/regular",
+            "css": {
+                "font-family": "Encore Sans Pro Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3251",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/encoresanspro/regularitalic",
+            "css": {
+                "font-family": "Encore Sans Pro Regular Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3259",
+                "slug": "regularitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/encoresanspro/medium",
+            "css": {
+                "font-family": "Encore Sans Pro Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3262",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/encoresanspro/mediumitalic",
+            "css": {
+                "font-family": "Encore Sans Pro Medium Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3263",
+                "slug": "mediumitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/encoresanspro/bold",
+            "css": {
+                "font-family": "Encore Sans Pro Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3255",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/encoresanspro/bolditalic",
+            "css": {
+                "font-family": "Encore Sans Pro Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3256",
+                "slug": "bolditalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/encoresanspro/black",
+            "css": {
+                "font-family": "Encore Sans Pro Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3253",
+                "slug": "black",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/encoresanspro/blackitalic",
+            "css": {
+                "font-family": "Encore Sans Pro Black Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3254",
+                "slug": "blackitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Ultra-black",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/encoresanspro/ultrablack",
+            "css": {
+                "font-family": "Encore Sans Pro Ultra Black",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3265",
+                "slug": "ultrablack",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Ultra-black Italic",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/encoresanspro/ultrablackitalic",
+            "css": {
+                "font-family": "EncoreSansProUltraBlackItalic",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3266",
+                "slug": "ultrablackitalic",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "773",
+        "slug": "encoresanspro"
+    },
+    "generatedAt": 1437609865919
+}

@@ -1,0 +1,54 @@
+{
+    "name": "Quatro Slab Ultra",
+    "url": "http://fontdeck.com/typeface/quatroslabultra",
+    "slug": "quatroslabultra",
+    "superfamily": "Quatro",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Slab serif",
+        "Display",
+        "Poster"
+    ],
+    "foundry": "p.s.type",
+    "designer": [
+        "Mark Caneso"
+    ],
+    "opentype": [
+        "liga"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "advertising",
+        "opentype",
+        "quatro",
+        "identity",
+        "editorial",
+        "ultra black",
+        "poster"
+    ],
+    "variations": [
+        {
+            "name": "Black",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/quatroslabultra/black",
+            "css": {
+                "font-family": "Quatro Slab Ultra Black",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "679",
+                "slug": "black",
+                "price": "$8.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "226",
+        "slug": "quatroslabultra"
+    },
+    "generatedAt": 1437609046282
+}

@@ -1,0 +1,61 @@
+{
+    "name": "Carta Marina",
+    "url": "http://fontdeck.com/typeface/cartamarina",
+    "slug": "cartamarina",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "Insigne",
+    "designer": [
+        "Jeremy Dooley"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "map",
+        "all caps",
+        "cartography",
+        "elegant",
+        "engraving"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/cartamarina/regular",
+            "css": {
+                "font-family": "Carta Marina Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "515",
+                "slug": "regular",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/cartamarina/bold",
+            "css": {
+                "font-family": "Carta Marina Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "516",
+                "slug": "bold",
+                "price": "$7.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "206",
+        "slug": "cartamarina"
+    },
+    "generatedAt": 1437609008330
+}

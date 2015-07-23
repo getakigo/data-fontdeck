@@ -1,0 +1,92 @@
+{
+    "name": "Agenda",
+    "url": "http://fontdeck.com/typeface/agenda",
+    "slug": "agenda",
+    "use": "heading",
+    "classification": [
+        "Serif",
+        "Glyphic"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Phil Martin"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "sensible",
+        "american",
+        "1970s",
+        "glyphic",
+        "tiny serif",
+        "solid"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/agenda/light",
+            "css": {
+                "font-family": "Agenda Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2609",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/agenda/medium",
+            "css": {
+                "font-family": "Agenda Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2610",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/agenda/bold",
+            "css": {
+                "font-family": "Agenda Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2607",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/agenda/extrabold",
+            "css": {
+                "font-family": "Agenda Extra Bold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2608",
+                "slug": "extrabold",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "631",
+        "slug": "agenda"
+    },
+    "generatedAt": 1437609593640
+}

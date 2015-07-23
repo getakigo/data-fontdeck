@@ -1,0 +1,279 @@
+{
+    "name": "Unicod Sans",
+    "url": "http://fontdeck.com/typeface/unicodsans",
+    "slug": "unicodsans",
+    "superfamily": "Unicod",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Futuristic",
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "Mostardesign Studio",
+    "designer": [
+        "Olivier Gourvat"
+    ],
+    "opentype": [
+        "dlig",
+        "frac",
+        "liga",
+        "lnum",
+        "onum",
+        "ss01",
+        "swsh"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "stylistic set",
+        "family",
+        "opentype",
+        "condensed",
+        "dynamic",
+        "logo",
+        "linear",
+        "din",
+        "contemporary",
+        "technica",
+        "swedish",
+        "magazine",
+        "news",
+        "business",
+        "modern",
+        "style",
+        "tshirt",
+        "fashionable",
+        "stylish",
+        "technology",
+        "readability",
+        "information",
+        "technological",
+        "techno",
+        "sans-serif",
+        "classic",
+        "regular",
+        "legible",
+        "monoline",
+        "subfamily",
+        "futurist",
+        "swash font",
+        "industrial",
+        "swashes",
+        "fashion",
+        "industry",
+        "swiss",
+        "communication",
+        "sci-fi",
+        "unicod",
+        "urban",
+        "corporate",
+        "futuristic",
+        "readable",
+        "superfamily",
+        "spur serif",
+        "communicates",
+        "rectangular",
+        "technical",
+        "geometric",
+        "text",
+        "communicating",
+        "stylistic alternates",
+        "inferior numerals",
+        "humanist",
+        "communicate",
+        "moderne",
+        "technologies",
+        "game",
+        "business text",
+        "communications",
+        "modernism",
+        "clear",
+        "modular",
+        "space",
+        "industrial sans",
+        "headline",
+        "science fiction",
+        "modern font",
+        "transport",
+        "surf",
+        "games",
+        "super family",
+        "rounded",
+        "geometric sans",
+        "tech",
+        "spurless",
+        "minimalism",
+        "graphic",
+        "grotesque",
+        "identity",
+        "sweden",
+        "light",
+        "signage",
+        "futurism",
+        "square",
+        "swash",
+        "clean",
+        "square sans",
+        "financial services",
+        "science"
+    ],
+    "variations": [
+        {
+            "name": "Ultra-light",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/unicodsans/ultralight",
+            "css": {
+                "font-family": "Unicod Sans UltraLight",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2294",
+                "slug": "ultralight",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Ultra-light Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/unicodsans/ultralightitalic",
+            "css": {
+                "font-family": "Unicod Sans UltraLight Italic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2293",
+                "slug": "ultralightitalic",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/unicodsans/lightitalic",
+            "css": {
+                "font-family": "Unicod Sans Light Italic",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2289",
+                "slug": "lightitalic",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/unicodsans/light",
+            "css": {
+                "font-family": "Unicod Sans Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2290",
+                "slug": "light",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/unicodsans/regular",
+            "css": {
+                "font-family": "Unicod Sans Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2285",
+                "slug": "regular",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/unicodsans/italic",
+            "css": {
+                "font-family": "Unicod Sans Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2288",
+                "slug": "italic",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/unicodsans/medium",
+            "css": {
+                "font-family": "Unicod Sans Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2292",
+                "slug": "medium",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/unicodsans/mediumitalic",
+            "css": {
+                "font-family": "Unicod Sans Medium Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2291",
+                "slug": "mediumitalic",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/unicodsans/bold",
+            "css": {
+                "font-family": "Unicod Sans Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2287",
+                "slug": "bold",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/unicodsans/bolditalic",
+            "css": {
+                "font-family": "Unicod Sans Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2286",
+                "slug": "bolditalic",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "561",
+        "slug": "unicodsans"
+    },
+    "generatedAt": 1437609450954
+}

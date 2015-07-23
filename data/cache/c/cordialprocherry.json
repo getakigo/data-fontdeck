@@ -1,0 +1,56 @@
+{
+    "name": "Cordial Pro Cherry",
+    "url": "http://fontdeck.com/typeface/cordialprocherry",
+    "slug": "cordialprocherry",
+    "superfamily": "Cordial Pro",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "All caps",
+        "Display",
+        "Art Deco",
+        "Display",
+        "Sans serif"
+    ],
+    "foundry": "Riccardo Olocco Typographic Design",
+    "designer": [
+        "Riccardo Olocco"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "decorative",
+        "all caps",
+        "elegant",
+        "cordial",
+        "italian",
+        "art deco",
+        "romantic",
+        "valentine",
+        "rounded",
+        "superfamily"
+    ],
+    "variations": [
+        {
+            "name": "Bold Rounded",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/cordialprocherry/boldrounded",
+            "css": {
+                "font-family": "Cordial Pro Cherry Bold Rounded",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2555",
+                "slug": "boldrounded",
+                "price": "$11.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "617",
+        "slug": "cordialprocherry"
+    },
+    "generatedAt": 1437609575204
+}

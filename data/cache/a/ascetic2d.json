@@ -1,0 +1,73 @@
+{
+    "name": "Ascetic 2D",
+    "url": "http://fontdeck.com/typeface/ascetic2d",
+    "slug": "ascetic2d",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "All caps",
+        "Display",
+        "Sans serif",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "2D Typo",
+    "designer": [
+        "Danylo Turetskyy",
+        "Lukyan Turetskyy"
+    ],
+    "language": [
+        "latin",
+        "cyrillic"
+    ],
+    "tags": [
+        "compressed",
+        "sacral",
+        "ultra-narrow",
+        "mediaeval",
+        "orthodox",
+        "vyaz",
+        "ultra-condensed",
+        "theological",
+        "сyrillic",
+        "holy",
+        "sacred"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/ascetic2d/regular",
+            "css": {
+                "font-family": "Ascetic 2D Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3923",
+                "slug": "regular",
+                "price": "$7.99"
+            }
+        },
+        {
+            "name": "Shadow",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/ascetic2d/shadow",
+            "css": {
+                "font-family": "Ascetic 2D Shadow",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3924",
+                "slug": "shadow",
+                "price": "$7.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "926",
+        "slug": "ascetic2d"
+    },
+    "generatedAt": 1437610130038
+}

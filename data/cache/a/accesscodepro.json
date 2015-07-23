@@ -1,0 +1,44 @@
+{
+    "name": "Access Code PRO",
+    "url": "http://fontdeck.com/typeface/accesscodepro",
+    "slug": "accesscodepro",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Neo-Grotesk",
+        "Display",
+        "Sans serif"
+    ],
+    "foundry": "Playtype",
+    "designer": [
+        "Jonas Hecksher"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "square"
+    ],
+    "variations": [
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/accesscodepro/bold",
+            "css": {
+                "font-family": "Access Code PRO Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5745",
+                "slug": "bold",
+                "price": "$45.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1325",
+        "slug": "accesscodepro"
+    },
+    "generatedAt": 1437610730847
+}

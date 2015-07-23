@@ -1,0 +1,81 @@
+{
+    "name": "Sutturah Cyrillic",
+    "url": "http://fontdeck.com/typeface/sutturahcyrillic",
+    "slug": "sutturahcyrillic",
+    "superfamily": "Sutturah",
+    "use": "body",
+    "classification": [
+        "Display",
+        "Experimental",
+        "Blackletters",
+        "Experimental blackletter",
+        "Display",
+        "Fat Face",
+        "Display",
+        "Poster",
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "Rosetta",
+    "designer": [
+        "Octavio Pardo"
+    ],
+    "opentype": [
+        "calt",
+        "liga",
+        "salt",
+        "ss01",
+        "ss02",
+        "swsh"
+    ],
+    "language": [
+        "latin",
+        "cyrillic"
+    ],
+    "tags": [
+        "expressive",
+        "opentype",
+        "octavio pardo",
+        "21st century",
+        "sharp",
+        "spanish",
+        "logo",
+        "fat",
+        "informal",
+        "latin",
+        "magazine",
+        "tdc",
+        "poster",
+        "black",
+        "granshan",
+        "hinted",
+        "awarded",
+        "script",
+        "swashes",
+        "handwriting",
+        "playful",
+        "display"
+    ],
+    "variations": [
+        {
+            "name": "Fat",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/sutturahcyrillic/fat",
+            "css": {
+                "font-family": "Sutturah Cyrillic Fat",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7738",
+                "slug": "fat",
+                "price": "$13.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1782",
+        "slug": "sutturahcyrillic"
+    },
+    "generatedAt": 1437611254528
+}

@@ -1,0 +1,153 @@
+{
+    "name": "Solomon Deco",
+    "url": "http://fontdeck.com/typeface/solomondeco",
+    "slug": "solomondeco",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "Fontfabric",
+    "designer": [
+        "Svetoslav Simov"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "geometric",
+        "logo",
+        "linear",
+        "fancy",
+        "contemporary",
+        "bauhaus",
+        "artistic",
+        "modern",
+        "cursive",
+        "1950s",
+        "funny",
+        "curly",
+        "creative",
+        "edge",
+        "art deco",
+        "1960s",
+        "bold",
+        "art",
+        "ornaments",
+        "avant garde",
+        "legible",
+        "american",
+        "spurless",
+        "decorative",
+        "elegant",
+        "cool",
+        "swiss",
+        "grotesque",
+        "retro",
+        "light",
+        "handmade",
+        "corporate",
+        "german",
+        "ornamental",
+        "clean",
+        "1980s",
+        "grotesk family"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/solomondeco/thin",
+            "css": {
+                "font-family": "Solomon Deco Thin",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3029",
+                "slug": "thin",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/solomondeco/light",
+            "css": {
+                "font-family": "Solomon Deco Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3032",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Book",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/solomondeco/book",
+            "css": {
+                "font-family": "Solomon Deco Book",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3031",
+                "slug": "book",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/solomondeco/regular",
+            "css": {
+                "font-family": "Solomon Deco Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3033",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/solomondeco/bold",
+            "css": {
+                "font-family": "Solomon Deco Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3030",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/solomondeco/black",
+            "css": {
+                "font-family": "Solomon Deco Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3034",
+                "slug": "black",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "709",
+        "slug": "solomondeco"
+    },
+    "generatedAt": 1437609763957
+}

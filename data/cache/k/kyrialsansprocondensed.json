@@ -1,0 +1,271 @@
+{
+    "name": "Kyrial Sans Pro Condensed",
+    "url": "http://fontdeck.com/typeface/kyrialsansprocondensed",
+    "slug": "kyrialsansprocondensed",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Sans Serif",
+        "Geometric",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "Mostardesign Studio",
+    "designer": [
+        "Olivier Gourvat"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "sensible",
+        "titling",
+        "condensed",
+        "black round",
+        "round text",
+        "geometric",
+        "logo",
+        "linear",
+        "fancy",
+        "titles",
+        "friendly",
+        "contemporary",
+        "magazine",
+        "versatile",
+        "brand identity",
+        "sophisticated",
+        "old style figures",
+        "grotesk",
+        "extra light",
+        "style",
+        "ligatures",
+        "round",
+        "fashionable",
+        "design",
+        "luxury",
+        "modernism",
+        "chic",
+        "kids",
+        "sexy",
+        "display",
+        "headlines",
+        "myriad",
+        "feminine",
+        "roundshape",
+        "narrow",
+        "sans-serif",
+        "avant garde",
+        "legible",
+        "parfum",
+        "funny text",
+        "poster",
+        "spurless",
+        "decorative",
+        "script",
+        "cool",
+        "elegant",
+        "cosmetic",
+        "fashion",
+        "feminine headline",
+        "light",
+        "editorial",
+        "signage",
+        "urban",
+        "corporate",
+        "heavy",
+        "graceful",
+        "german",
+        "clean",
+        "girly",
+        "rounded serif",
+        "font face"
+    ],
+    "variations": [
+        {
+            "name": "Ultra-light",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/kyrialsansprocondensed/ultralight",
+            "css": {
+                "font-family": "KyriaSanPrCondenseUltrLigh",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4823",
+                "slug": "ultralight",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Ultra-light Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/kyrialsansprocondensed/ultralightitalic",
+            "css": {
+                "font-family": "KyriaSanPrCondenseUltrLighItali",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4824",
+                "slug": "ultralightitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/kyrialsansprocondensed/light",
+            "css": {
+                "font-family": "Kyrial Sans Pro Condensed Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4799",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/kyrialsansprocondensed/lightitalic",
+            "css": {
+                "font-family": "KyriaSanPrCondenseLighItali",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4800",
+                "slug": "lightitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/kyrialsansprocondensed/regular",
+            "css": {
+                "font-family": "KyrialSansProCondensedRegular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4801",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/kyrialsansprocondensed/regularitalic",
+            "css": {
+                "font-family": "KyriaSanPrCondenseRegulaItali",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4802",
+                "slug": "regularitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/kyrialsansprocondensed/semibold",
+            "css": {
+                "font-family": "KyrialSansProCondensedSemiBold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4803",
+                "slug": "semibold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Semi-bold Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/kyrialsansprocondensed/semibolditalic",
+            "css": {
+                "font-family": "KyriaSanPrCondenseSemiBolItali",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4804",
+                "slug": "semibolditalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/kyrialsansprocondensed/bold",
+            "css": {
+                "font-family": "Kyrial Sans Pro Condensed Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4796",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/kyrialsansprocondensed/bolditalic",
+            "css": {
+                "font-family": "KyriaSanPrCondenseBolItali",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4798",
+                "slug": "bolditalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/kyrialsansprocondensed/black",
+            "css": {
+                "font-family": "Kyrial Sans Pro Condensed Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4797",
+                "slug": "black",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/kyrialsansprocondensed/blackitalic",
+            "css": {
+                "font-family": "KyriaSanPrCondenseBlacItali",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4795",
+                "slug": "blackitalic",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1122",
+        "slug": "kyrialsansprocondensed"
+    },
+    "generatedAt": 1437610459837
+}

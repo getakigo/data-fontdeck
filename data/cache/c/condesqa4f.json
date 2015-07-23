@@ -1,0 +1,67 @@
+{
+    "name": "Condesqa 4F",
+    "url": "http://fontdeck.com/typeface/condesqa4f",
+    "slug": "condesqa4f",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "4th february",
+    "designer": [
+        "Sergiy S. Tkachenko"
+    ],
+    "language": [
+        "latin",
+        "cyrillic"
+    ],
+    "tags": [
+        "tall",
+        "titling",
+        "techno",
+        "header",
+        "logotype",
+        "logo",
+        "headline",
+        "technology"
+    ],
+    "variations": [
+        {
+            "name": "Extra-light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/condesqa4f/extralight",
+            "css": {
+                "font-family": "Condesqa 4F Extra Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7560",
+                "slug": "extralight",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Extra-light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/condesqa4f/extralightitalic",
+            "css": {
+                "font-family": "Condesqa 4F Extra Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7561",
+                "slug": "extralightitalic",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1751",
+        "slug": "condesqa4f"
+    },
+    "generatedAt": 1437611189057
+}

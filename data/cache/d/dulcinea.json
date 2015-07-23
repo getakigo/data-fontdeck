@@ -1,0 +1,52 @@
+{
+    "name": "Dulcinea",
+    "url": "http://fontdeck.com/typeface/dulcinea",
+    "slug": "dulcinea",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Script"
+    ],
+    "foundry": "ReType",
+    "designer": [
+        "Ramiro Espinoza"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "eau de parfum",
+        "elegant",
+        "commercial",
+        "handwriting",
+        "copperplate",
+        "calligraphic",
+        "romantic",
+        "baroque",
+        "calligraphy",
+        "packaging",
+        "christmas"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/dulcinea/regular",
+            "css": {
+                "font-family": "Dulcinea Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6327",
+                "slug": "regular",
+                "price": "$16.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1451",
+        "slug": "dulcinea"
+    },
+    "generatedAt": 1437610868862
+}

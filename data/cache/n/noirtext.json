@@ -1,0 +1,91 @@
+{
+    "name": "Noir Text",
+    "url": "http://fontdeck.com/typeface/noirtext",
+    "slug": "noirtext",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Sans Serif",
+        "Humanist",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "Playtype",
+    "designer": [
+        "Jonas Hecksher"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "elegant simplicity"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/noirtext/light",
+            "css": {
+                "font-family": "Noir Text Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5715",
+                "slug": "light",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Book",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/noirtext/book",
+            "css": {
+                "font-family": "Noir Text Book",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5717",
+                "slug": "book",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/noirtext/regular",
+            "css": {
+                "font-family": "Noir Text Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5714",
+                "slug": "regular",
+                "price": "$40.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/noirtext/bold",
+            "css": {
+                "font-family": "Noir Text Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5716",
+                "slug": "bold",
+                "price": "$40.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1319",
+        "slug": "noirtext"
+    },
+    "generatedAt": 1437610723190
+}

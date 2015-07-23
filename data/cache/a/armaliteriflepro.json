@@ -1,0 +1,50 @@
+{
+    "name": "Armalite Rifle Pro",
+    "url": "http://fontdeck.com/typeface/armaliteriflepro",
+    "slug": "armaliteriflepro",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "All caps",
+        "Display",
+        "Grunge",
+        "Display",
+        "Stencil"
+    ],
+    "foundry": "CheapProFonts",
+    "designer": [
+        "Vic Fieger"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "grunge",
+        "military",
+        "gritty",
+        "shot",
+        "stencil"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/armaliteriflepro/regular",
+            "css": {
+                "font-family": "Armalite Rifle Pro Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4760",
+                "slug": "regular",
+                "price": "$9.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1108",
+        "slug": "armaliteriflepro"
+    },
+    "generatedAt": 1437610432960
+}

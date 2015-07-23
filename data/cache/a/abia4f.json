@@ -1,0 +1,81 @@
+{
+    "name": "Abia 4F",
+    "url": "http://fontdeck.com/typeface/abia4f",
+    "slug": "abia4f",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Experimental",
+        "Display",
+        "Futuristic",
+        "Display",
+        "Poster",
+        "Display",
+        "Decorative",
+        "Display",
+        "Geometric",
+        "Display",
+        "Sans serif",
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "4th february",
+    "designer": [
+        "Sergiy S. Tkachenko"
+    ],
+    "language": [
+        "latin",
+        "greek",
+        "cyrillic"
+    ],
+    "tags": [
+        "eau de parfum",
+        "eau de toilette",
+        "elegant",
+        "elegante",
+        "greetings",
+        "monoline",
+        "eastern european",
+        "elementary",
+        "cyrillic",
+        "greek",
+        "wedding"
+    ],
+    "variations": [
+        {
+            "name": "Wide Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/abia4f/widethin",
+            "css": {
+                "font-family": "Abia 4F Wide Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3895",
+                "slug": "widethin",
+                "price": "$7.00"
+            }
+        },
+        {
+            "name": "Wide Thin Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/abia4f/widethinitalic",
+            "css": {
+                "font-family": "Abia 4F Wide Thin Italic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3896",
+                "slug": "widethinitalic",
+                "price": "$7.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "920",
+        "slug": "abia4f"
+    },
+    "generatedAt": 1437610121908
+}

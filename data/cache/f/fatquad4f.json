@@ -1,0 +1,85 @@
+{
+    "name": "Fatquad 4F",
+    "url": "http://fontdeck.com/typeface/fatquad4f",
+    "slug": "fatquad4f",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Experimental",
+        "Display",
+        "All caps",
+        "Display",
+        "Poster",
+        "Display",
+        "Computer-related",
+        "Display",
+        "Decorative",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "4th february",
+    "designer": [
+        "Sergiy S. Tkachenko"
+    ],
+    "language": [
+        "latin",
+        "cyrillic"
+    ],
+    "tags": [
+        "convex",
+        "high contrast",
+        "headlines",
+        "bi-form",
+        "techno",
+        "construction",
+        "fun",
+        "extra black",
+        "decorative",
+        "funny",
+        "television",
+        "space",
+        "full",
+        "technology",
+        "heavy",
+        "square",
+        "ultra-bold",
+        "display"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/fatquad4f/regular",
+            "css": {
+                "font-family": "Fatquad 4F Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3810",
+                "slug": "regular",
+                "price": "$7.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/fatquad4f/italic",
+            "css": {
+                "font-family": "Fatquad 4F Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3809",
+                "slug": "italic",
+                "price": "$7.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "902",
+        "slug": "fatquad4f"
+    },
+    "generatedAt": 1437610092937
+}

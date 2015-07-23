@@ -1,0 +1,159 @@
+{
+    "name": "Hoxton",
+    "url": "http://fontdeck.com/typeface/hoxton",
+    "slug": "hoxton",
+    "use": "body",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Sans Serif",
+        "Humanist"
+    ],
+    "foundry": "The Northern Block",
+    "designer": [
+        "Jonathan Hill"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "advertising",
+        "newsletter",
+        "english",
+        "sans-serif",
+        "linear",
+        "legible",
+        "balanced",
+        "humanist",
+        "contemporary",
+        "newspaper",
+        "magazine",
+        "modern",
+        "business",
+        "neutral",
+        "british",
+        "business text",
+        "humanistic sans",
+        "identity",
+        "brochures",
+        "european",
+        "branding",
+        "sansserif",
+        "editorial",
+        "corporate",
+        "information",
+        "financial services"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/hoxton/light",
+            "css": {
+                "font-family": "Hoxton Light",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2319",
+                "slug": "light",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Book",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/hoxton/book",
+            "css": {
+                "font-family": "Hoxton Book",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2320",
+                "slug": "book",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/hoxton/italic",
+            "css": {
+                "font-family": "Hoxton Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2321",
+                "slug": "italic",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/hoxton/medium",
+            "css": {
+                "font-family": "Hoxton Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2322",
+                "slug": "medium",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/hoxton/bold",
+            "css": {
+                "font-family": "Hoxton Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2324",
+                "slug": "bold",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/hoxton/extrabold",
+            "css": {
+                "font-family": "Hoxton ExtraBold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2325",
+                "slug": "extrabold",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "DemiBold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/hoxton/demibold",
+            "css": {
+                "font-family": "Hoxton DemiBold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2323",
+                "slug": "demibold",
+                "price": "$9.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "568",
+        "slug": "hoxton"
+    },
+    "generatedAt": 1437609475224
+}

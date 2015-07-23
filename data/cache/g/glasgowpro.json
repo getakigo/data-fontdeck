@@ -1,0 +1,111 @@
+{
+    "name": "Glasgow Pro",
+    "url": "http://fontdeck.com/typeface/glasgowpro",
+    "slug": "glasgowpro",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Sans Serif",
+        "Grotesque"
+    ],
+    "foundry": "Red Rooster Collection",
+    "designer": [
+        "Ashley Muir",
+        "Steve Jackaman"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "modern",
+        "minimalism",
+        "formal",
+        "plain",
+        "condensed",
+        "clean",
+        "poster"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/glasgowpro/light",
+            "css": {
+                "font-family": "Glasgow Pro Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3168",
+                "slug": "light",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Book",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/glasgowpro/book",
+            "css": {
+                "font-family": "Glasgow Pro Book",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3165",
+                "slug": "book",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/glasgowpro/medium",
+            "css": {
+                "font-family": "Glasgow Pro Medium",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3164",
+                "slug": "medium",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/glasgowpro/bold",
+            "css": {
+                "font-family": "Glasgow Pro Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3166",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/glasgowpro/extrabold",
+            "css": {
+                "font-family": "Glasgow Pro Extra Bold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3167",
+                "slug": "extrabold",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "744",
+        "slug": "glasgowpro"
+    },
+    "generatedAt": 1437609830462
+}

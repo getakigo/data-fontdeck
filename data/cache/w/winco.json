@@ -1,0 +1,182 @@
+{
+    "name": "Winco",
+    "url": "http://fontdeck.com/typeface/winco",
+    "slug": "winco",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Glyphic"
+    ],
+    "foundry": "ReType",
+    "designer": [
+        "Ramiro Espinoza"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "sign",
+        "expressive",
+        "lettering",
+        "humanistic",
+        "dutch",
+        "sans"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/winco/light",
+            "css": {
+                "font-family": "Winco Light",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6321",
+                "slug": "light",
+                "price": "$16.99"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i3",
+            "url": "http://fontdeck.com/font/winco/lightitalic",
+            "css": {
+                "font-family": "Winco Light Italic",
+                "font-weight": "300",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6322",
+                "slug": "lightitalic",
+                "price": "$16.99"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/winco/regular",
+            "css": {
+                "font-family": "Winco Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6323",
+                "slug": "regular",
+                "price": "$16.99"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/winco/regularitalic",
+            "css": {
+                "font-family": "Winco Regular Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6324",
+                "slug": "regularitalic",
+                "price": "$16.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/winco/bold",
+            "css": {
+                "font-family": "Winco Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6319",
+                "slug": "bold",
+                "price": "$16.99"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/winco/bolditalic",
+            "css": {
+                "font-family": "Winco Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6320",
+                "slug": "bolditalic",
+                "price": "$16.99"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/winco/black",
+            "css": {
+                "font-family": "Winco Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6317",
+                "slug": "black",
+                "price": "$16.99"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/winco/blackitalic",
+            "css": {
+                "font-family": "Winco Black Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6318",
+                "slug": "blackitalic",
+                "price": "$16.99"
+            }
+        },
+        {
+            "name": "Ultra-black",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/winco/ultrablack",
+            "css": {
+                "font-family": "Winco Ultra Black",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6325",
+                "slug": "ultrablack",
+                "price": "$16.99"
+            }
+        },
+        {
+            "name": "Ultra-black Italic",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/winco/ultrablackitalic",
+            "css": {
+                "font-family": "Winco Ultra Black Italic",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6326",
+                "slug": "ultrablackitalic",
+                "price": "$16.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1450",
+        "slug": "winco"
+    },
+    "generatedAt": 1437610868550
+}

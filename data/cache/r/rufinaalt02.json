@@ -1,0 +1,76 @@
+{
+    "name": "Rufina Alt 02",
+    "url": "http://fontdeck.com/typeface/rufinaalt02",
+    "slug": "rufinaalt02",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Didone"
+    ],
+    "foundry": "TipoType",
+    "designer": [
+        "Martin Sommaruga"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "high contrast",
+        "serif",
+        "bodoni",
+        "brush",
+        "ornaments",
+        "didone",
+        "upright",
+        "magazine",
+        "modern",
+        "roman",
+        "elegant",
+        "ligatures",
+        "logotype",
+        "fashion",
+        "calligraphic",
+        "delicate",
+        "sans serif",
+        "italic",
+        "transitional",
+        "display"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/rufinaalt02/regular",
+            "css": {
+                "font-family": "Rufina Alt 02 Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8858",
+                "slug": "regular",
+                "price": "$11.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/rufinaalt02/bold",
+            "css": {
+                "font-family": "Rufina Alt 02 Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8859",
+                "slug": "bold",
+                "price": "$11.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1986",
+        "slug": "rufinaalt02"
+    },
+    "generatedAt": 1437611575518
+}

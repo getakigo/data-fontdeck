@@ -1,0 +1,138 @@
+{
+    "name": "Clobber Grotesk",
+    "url": "http://fontdeck.com/typeface/clobbergrotesk",
+    "slug": "clobbergrotesk",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Neo-Grotesk"
+    ],
+    "foundry": "Wordshape",
+    "designer": [
+        "Ian Lynam"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "modern",
+        "sans serif",
+        "readable",
+        "neue",
+        "flared",
+        "flared terminals",
+        "swiss"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/clobbergrotesk/light",
+            "css": {
+                "font-family": "Clobber Grotesk Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4011",
+                "slug": "light",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/clobbergrotesk/regular",
+            "css": {
+                "font-family": "Clobber Grotesk Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4008",
+                "slug": "regular",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/clobbergrotesk/mediumitalic",
+            "css": {
+                "font-family": "Clobber Grotesk Medium Italic",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4771",
+                "slug": "mediumitalic",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/clobbergrotesk/medium",
+            "css": {
+                "font-family": "Clobber Grotesk Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4012",
+                "slug": "medium",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/clobbergrotesk/bold",
+            "css": {
+                "font-family": "Clobber Grotesk Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4009",
+                "slug": "bold",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/clobbergrotesk/bolditalic",
+            "css": {
+                "font-family": "Clobber Grotesk Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4772",
+                "slug": "bolditalic",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "DemiBold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/clobbergrotesk/demibold",
+            "css": {
+                "font-family": "Clobber Grotesk DemiBold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4010",
+                "slug": "demibold",
+                "price": "$9.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "944",
+        "slug": "clobbergrotesk"
+    },
+    "generatedAt": 1437610157495
+}

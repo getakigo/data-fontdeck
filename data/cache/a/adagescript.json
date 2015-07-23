@@ -1,0 +1,46 @@
+{
+    "name": "Adage Script",
+    "url": "http://fontdeck.com/typeface/adagescript",
+    "slug": "adagescript",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Casual"
+    ],
+    "foundry": "Veer",
+    "designer": [
+        "Jason Walcott"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "1960s",
+        "script",
+        "1950s",
+        "feminine",
+        "casual-script"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/adagescript/regular",
+            "css": {
+                "font-family": "Adage Script Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5022",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1158",
+        "slug": "adagescript"
+    },
+    "generatedAt": 1437610488941
+}

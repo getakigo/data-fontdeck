@@ -1,0 +1,48 @@
+{
+    "name": "Transcript",
+    "url": "http://fontdeck.com/typeface/transcript",
+    "slug": "transcript",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Grotesque"
+    ],
+    "foundry": "Colophon",
+    "designer": [
+        "Edd Harrington",
+        "Anthony Sheret"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "gothic",
+        "grotesk",
+        "bold",
+        "narrow",
+        "sans-serif",
+        "grotesque"
+    ],
+    "variations": [
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/transcript/bold",
+            "css": {
+                "font-family": "Transcript Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4388",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1034",
+        "slug": "transcript"
+    },
+    "generatedAt": 1437610364541
+}

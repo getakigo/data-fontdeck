@@ -1,0 +1,128 @@
+{
+    "name": "Dundee",
+    "url": "http://fontdeck.com/typeface/dundee",
+    "slug": "dundee",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Hybrid"
+    ],
+    "foundry": "Red Rooster Collection",
+    "designer": [
+        "Pat Hickson"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "sensible",
+        "formal",
+        "1920s",
+        "dynamic",
+        "logo",
+        "letterhead",
+        "personal text",
+        "magazine",
+        "news",
+        "natural",
+        "flair",
+        "modern",
+        "inscribed",
+        "movie",
+        "headline",
+        "valuable",
+        "book text",
+        "wedding",
+        "invitation",
+        "feminine",
+        "narrow",
+        "sans-serif",
+        "venetian",
+        "legible",
+        "sturdy",
+        "initial",
+        "garalde",
+        "poster",
+        "economic",
+        "decorative",
+        "initials",
+        "elegant",
+        "book",
+        "1910s",
+        "dutch",
+        "vintage",
+        "film",
+        "masculine",
+        "movie credits",
+        "1900s",
+        "clean",
+        "conservative"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/dundee/light",
+            "css": {
+                "font-family": "Dundee Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4177",
+                "slug": "light",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/dundee/medium",
+            "css": {
+                "font-family": "Dundee Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4176",
+                "slug": "medium",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/dundee/bold",
+            "css": {
+                "font-family": "Dundee Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4179",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/dundee/extrabold",
+            "css": {
+                "font-family": "Dundee Extra Bold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4178",
+                "slug": "extrabold",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "980",
+        "slug": "dundee"
+    },
+    "generatedAt": 1437610235759
+}

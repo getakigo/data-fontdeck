@@ -1,0 +1,85 @@
+{
+    "name": "Blue Goblet",
+    "url": "http://fontdeck.com/typeface/bluegoblet",
+    "slug": "bluegoblet",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Casual"
+    ],
+    "foundry": "Insigne",
+    "designer": [
+        "Cory Godbey"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/bluegoblet/regular",
+            "css": {
+                "font-family": "Blue Goblet Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "507",
+                "slug": "regular",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Regular Oblique",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/bluegoblet/oblique",
+            "css": {
+                "font-family": "Blue Goblet Oblique",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "508",
+                "slug": "oblique",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/bluegoblet/bold",
+            "css": {
+                "font-family": "Blue Goblet Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "509",
+                "slug": "bold",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Bold Oblique",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/bluegoblet/boldoblique",
+            "css": {
+                "font-family": "Blue Goblet Bold Oblique",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "510",
+                "slug": "boldoblique",
+                "price": "$7.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "203",
+        "slug": "bluegoblet"
+    },
+    "generatedAt": 1437608996496
+}

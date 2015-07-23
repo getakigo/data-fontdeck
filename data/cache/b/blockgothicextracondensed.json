@@ -1,0 +1,136 @@
+{
+    "name": "Block Gothic Extra Condensed",
+    "url": "http://fontdeck.com/typeface/blockgothicextracondensed",
+    "slug": "blockgothicextracondensed",
+    "superfamily": "Block Gothic",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Display",
+        "Poster"
+    ],
+    "foundry": "Red Rooster Collection",
+    "designer": [
+        "Steve Jackaman"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "compressed",
+        "condensed",
+        "ultra-narrow",
+        "geometric",
+        "magazine",
+        "minimal",
+        "grotesk",
+        "menus",
+        "fashionable",
+        "1960s",
+        "1970s",
+        "narrow",
+        "sans-serif",
+        "ultra-condensed",
+        "legible",
+        "jazz",
+        "american",
+        "sturdy",
+        "idiosyncratic",
+        "poster",
+        "modest",
+        "cool",
+        "plain",
+        "swiss",
+        "vintage",
+        "retro",
+        "signage",
+        "square",
+        "german",
+        "sport",
+        "conservative",
+        "clean"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/blockgothicextracondensed/light",
+            "css": {
+                "font-family": "BlockGothicExtraCondensedLight",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4134",
+                "slug": "light",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/blockgothicextracondensed/medium",
+            "css": {
+                "font-family": "BlockGothicExtraCondensedMedium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4135",
+                "slug": "medium",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/blockgothicextracondensed/bold",
+            "css": {
+                "font-family": "BlockGothicExtraCondensedBold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4131",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/blockgothicextracondensed/extrabold",
+            "css": {
+                "font-family": "BlocGothiExtrCondenseExtrBol",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4133",
+                "slug": "extrabold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Demi Bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/blockgothicextracondensed/demibold",
+            "css": {
+                "font-family": "BlocGothiExtrCondenseDemBol",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4132",
+                "slug": "demibold",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "972",
+        "slug": "blockgothicextracondensed"
+    },
+    "generatedAt": 1437610218307
+}

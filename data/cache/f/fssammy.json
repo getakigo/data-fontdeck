@@ -1,0 +1,54 @@
+{
+    "name": "FS Sammy",
+    "url": "http://fontdeck.com/typeface/fssammy",
+    "slug": "fssammy",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Handwritten",
+        "Display",
+        "Comic Strip Lettering",
+        "Display",
+        "Script"
+    ],
+    "foundry": "Fontsmith",
+    "designer": [
+        "Jason Smith"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "script",
+        "handwriting",
+        "chalk",
+        "informal",
+        "chalkboard",
+        "branding",
+        "fun",
+        "packaging",
+        "comic"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/fssammy/regular",
+            "css": {
+                "font-family": "FS Sammy Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4376",
+                "slug": "regular",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1026",
+        "slug": "fssammy"
+    },
+    "generatedAt": 1437610319834
+}

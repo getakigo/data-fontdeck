@@ -1,0 +1,95 @@
+{
+    "name": "Franklin Gothic Compressed URW",
+    "url": "http://fontdeck.com/typeface/franklingothiccompressedurw",
+    "slug": "franklingothiccompressedurw",
+    "superfamily": "Franklin Gothic",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Geometric",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "URW Studio",
+        "Morris Fuller Benton"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "gothic",
+        "super family",
+        "linear sans",
+        "transitional",
+        "linear"
+    ],
+    "variations": [
+        {
+            "name": "Book",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/franklingothiccompressedurw/book",
+            "css": {
+                "font-family": "FranklinGothicCompressedURWBook",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4090",
+                "slug": "book",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Book Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/franklingothiccompressedurw/bookitalic",
+            "css": {
+                "font-family": "FrankliGothiCompresseURBooItali",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4092",
+                "slug": "bookitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Demi Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/franklingothiccompressedurw/demibold",
+            "css": {
+                "font-family": "FrankliGothiCompresseURDemBol",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4091",
+                "slug": "demibold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Demi Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/franklingothiccompressedurw/demibolditalic",
+            "css": {
+                "font-family": "FranklGothCompressUDeBoItal",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4093",
+                "slug": "demibolditalic",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "965",
+        "slug": "franklingothiccompressedurw"
+    },
+    "generatedAt": 1437610200571
+}

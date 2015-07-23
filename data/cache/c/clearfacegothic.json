@@ -1,0 +1,97 @@
+{
+    "name": "Clearface Gothic",
+    "url": "http://fontdeck.com/typeface/clearfacegothic",
+    "slug": "clearfacegothic",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Humanist"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Morris Fuller Benton"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "1970s",
+        "1950s",
+        "female",
+        "1910s",
+        "legible",
+        "1960s",
+        "american",
+        "soft",
+        "signage",
+        "1900s",
+        "natural"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/clearfacegothic/regular",
+            "css": {
+                "font-family": "Clearface Gothic Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1484",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/clearfacegothic/bold",
+            "css": {
+                "font-family": "Clearface Gothic Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1482",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/clearfacegothic/extrabold",
+            "css": {
+                "font-family": "Clearface Gothic Extra Bold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1483",
+                "slug": "extrabold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Round",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/clearfacegothic/round",
+            "css": {
+                "font-family": "Clearface Gothic Round",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1485",
+                "slug": "round",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "399",
+        "slug": "clearfacegothic"
+    },
+    "generatedAt": 1437609271069
+}

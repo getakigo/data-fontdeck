@@ -1,0 +1,48 @@
+{
+    "name": "Acroterion",
+    "url": "http://fontdeck.com/typeface/acroterion",
+    "slug": "acroterion",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Decorative script",
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "Veer",
+    "designer": [
+        "Jason Walcott"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "1960s",
+        "script",
+        "1950s",
+        "feminine",
+        "casual-script"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/acroterion/regular",
+            "css": {
+                "font-family": "Acroterion Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5021",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1157",
+        "slug": "acroterion"
+    },
+    "generatedAt": 1437610479773
+}

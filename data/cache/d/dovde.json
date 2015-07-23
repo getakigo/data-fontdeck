@@ -1,0 +1,97 @@
+{
+    "name": "Dovde",
+    "url": "http://fontdeck.com/typeface/dovde",
+    "slug": "dovde",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "All caps",
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "Fontfabric",
+    "designer": [
+        "Svetoslav Simov"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "geometric",
+        "logo",
+        "fancy",
+        "mechanical",
+        "curve",
+        "filled counters",
+        "magazine",
+        "modern",
+        "funny",
+        "commercial",
+        "curly",
+        "creative",
+        "swirls",
+        "round",
+        "fashionable",
+        "spiral",
+        "art",
+        "unusual",
+        "techno",
+        "cute",
+        "experimental",
+        "swirly",
+        "idiosyncratic",
+        "constructed",
+        "smart",
+        "rounded",
+        "poster",
+        "decorative",
+        "circled",
+        "minimalism",
+        "elegant",
+        "cool",
+        "block",
+        "masculine",
+        "retro",
+        "signage",
+        "heavy",
+        "ultra-bold",
+        "clean"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/dovde/thin",
+            "css": {
+                "font-family": "Dovde Thin",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2998",
+                "slug": "thin",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/dovde/black",
+            "css": {
+                "font-family": "Dovde Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2997",
+                "slug": "black",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "698",
+        "slug": "dovde"
+    },
+    "generatedAt": 1437609743568
+}

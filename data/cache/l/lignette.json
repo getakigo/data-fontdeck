@@ -1,0 +1,63 @@
+{
+    "name": "Lignette",
+    "url": "http://fontdeck.com/typeface/lignette",
+    "slug": "lignette",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Script"
+    ],
+    "foundry": "FaceType",
+    "designer": [
+        "Marcus Sterz"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "curves",
+        "expressive",
+        "feminine",
+        "dynamic",
+        "monoline",
+        "impulsive",
+        "upright",
+        "decorative",
+        "script",
+        "elegant",
+        "ligatures",
+        "beautiful",
+        "creative",
+        "round",
+        "fashion",
+        "calligraphic",
+        "note",
+        "contemporar",
+        "lively",
+        "ornamental",
+        "display",
+        "clean"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/lignette/regular",
+            "css": {
+                "font-family": "Lignette Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5145",
+                "slug": "regular",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1223",
+        "slug": "lignette"
+    },
+    "generatedAt": 1437610622331
+}

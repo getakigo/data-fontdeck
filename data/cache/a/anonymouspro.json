@@ -1,0 +1,90 @@
+{
+    "name": "Anonymous Pro",
+    "url": "http://fontdeck.com/typeface/anonymouspro",
+    "slug": "anonymouspro",
+    "use": "body",
+    "classification": [
+        "Slab Serif",
+        "Monospaced"
+    ],
+    "foundry": "Mark Simonson Studio",
+    "designer": [
+        "Mark Simonson"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "coding",
+        "bitmap",
+        "technical",
+        "monospace"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/anonymouspro/regular",
+            "css": {
+                "font-family": "Anonymous Pro Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3451",
+                "slug": "regular",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/anonymouspro/italic",
+            "css": {
+                "font-family": "Anonymous Pro Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3452",
+                "slug": "italic",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/anonymouspro/bold",
+            "css": {
+                "font-family": "Anonymous Pro Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3453",
+                "slug": "bold",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/anonymouspro/bolditalic",
+            "css": {
+                "font-family": "Anonymous Pro Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3454",
+                "slug": "bolditalic",
+                "price": "$9.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "841",
+        "slug": "anonymouspro"
+    },
+    "generatedAt": 1437609975621
+}

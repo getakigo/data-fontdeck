@@ -1,0 +1,68 @@
+{
+    "name": "Flint",
+    "url": "http://fontdeck.com/typeface/flint",
+    "slug": "flint",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Grunge",
+        "Display",
+        "Sans serif",
+        "Display",
+        "Poster"
+    ],
+    "foundry": "FaceType",
+    "designer": [
+        "Marcus Sterz"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "expressive",
+        "rectangular",
+        "engraving",
+        "dynamic",
+        "jazz",
+        "informal",
+        "stone age",
+        "scrapbook",
+        "poster",
+        "cutup",
+        "rocky",
+        "decorative",
+        "1950s",
+        "cave",
+        "block",
+        "polygonal",
+        "1960s",
+        "retro",
+        "bold",
+        "heavy",
+        "lively",
+        "headline",
+        "primitive"
+    ],
+    "variations": [
+        {
+            "name": "Plain",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/flint/plain",
+            "css": {
+                "font-family": "Flint Plain",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5226",
+                "slug": "plain",
+                "price": "$7.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1239",
+        "slug": "flint"
+    },
+    "generatedAt": 1437610643417
+}

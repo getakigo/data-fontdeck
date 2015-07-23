@@ -1,0 +1,152 @@
+{
+    "name": "Bourgeois Alternate",
+    "url": "http://fontdeck.com/typeface/bourgeoisalternate",
+    "slug": "bourgeoisalternate",
+    "superfamily": "Borgeois",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "VirusFonts",
+    "designer": [
+        "Jonathan Barnbrook"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "super family",
+        "contemporary",
+        "twentieth century",
+        "usable",
+        "legible"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/bourgeoisalternate/light",
+            "css": {
+                "font-family": "Bourgeois Alternate Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3327",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/bourgeoisalternate/lightitalic",
+            "css": {
+                "font-family": "BourgeoisAlternateLightItalic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3332",
+                "slug": "lightitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/bourgeoisalternate/medium",
+            "css": {
+                "font-family": "Bourgeois Alternate Medium",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3312",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/bourgeoisalternate/mediumitalic",
+            "css": {
+                "font-family": "BourgeoisAlternateMediumItalic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3316",
+                "slug": "mediumitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/bourgeoisalternate/bold",
+            "css": {
+                "font-family": "Bourgeois Alternate Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3319",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/bourgeoisalternate/bolditalic",
+            "css": {
+                "font-family": "Bourgeois Alternate Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3324",
+                "slug": "bolditalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Ultra-black",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/bourgeoisalternate/ultrablack",
+            "css": {
+                "font-family": "Bourgeois Alternate Ultra Black",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3335",
+                "slug": "ultrablack",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Ultra-black Italic",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/bourgeoisalternate/ultrablackitalic",
+            "css": {
+                "font-family": "BourgeoiAlternatUltrBlacItali",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3340",
+                "slug": "ultrablackitalic",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "801",
+        "slug": "bourgeoisalternate"
+    },
+    "generatedAt": 1437609907045
+}

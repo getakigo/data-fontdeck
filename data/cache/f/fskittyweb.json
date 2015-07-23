@@ -1,0 +1,113 @@
+{
+    "name": "FS Kitty Web",
+    "url": "http://fontdeck.com/typeface/fskittyweb",
+    "slug": "fskittyweb",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "All caps",
+        "Display",
+        "Poster"
+    ],
+    "foundry": "Fontsmith",
+    "designer": [
+        "Jason Smith",
+        "Phil Garnham"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "funny",
+        "japanese",
+        "cute",
+        "bold",
+        "outline",
+        "heavy",
+        "poster",
+        "packaging",
+        "sweet"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/fskittyweb/light",
+            "css": {
+                "font-family": "FS Kitty Web Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4611",
+                "slug": "light",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/fskittyweb/regular",
+            "css": {
+                "font-family": "FS Kitty Web Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4612",
+                "slug": "regular",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Solid",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/fskittyweb/solid",
+            "css": {
+                "font-family": "FS Kitty Web Solid",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4613",
+                "slug": "solid",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Headline",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/fskittyweb/headline",
+            "css": {
+                "font-family": "FS Kitty Web Headline",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4610",
+                "slug": "headline",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Shadow",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/fskittyweb/shadow",
+            "css": {
+                "font-family": "FS Kitty Web Shadow",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4614",
+                "slug": "shadow",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1080",
+        "slug": "fskittyweb"
+    },
+    "generatedAt": 1437610393080
+}

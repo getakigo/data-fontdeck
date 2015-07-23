@@ -1,0 +1,48 @@
+{
+    "name": "Pirates Gold Pro",
+    "url": "http://fontdeck.com/typeface/piratesgoldpro",
+    "slug": "piratesgoldpro",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Slab serif",
+        "Display",
+        "Poster"
+    ],
+    "foundry": "CheapProFonts",
+    "designer": [
+        "Levente Halmos"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "slab serif",
+        "tuscan",
+        "woodtype",
+        "western",
+        "wide"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/piratesgoldpro/regular",
+            "css": {
+                "font-family": "Pirates Gold Pro Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4754",
+                "slug": "regular",
+                "price": "$9.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1102",
+        "slug": "piratesgoldpro"
+    },
+    "generatedAt": 1437610424384
+}

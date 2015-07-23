@@ -1,0 +1,82 @@
+{
+    "name": "Walcott Gothic",
+    "url": "http://fontdeck.com/typeface/walcottgothic",
+    "slug": "walcottgothic",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Display",
+        "Futuristic",
+        "Display",
+        "Poster"
+    ],
+    "foundry": "Veer",
+    "designer": [
+        "Jason Walcott"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "gothic",
+        "sci-fi",
+        "1940s",
+        "1930s",
+        "all capitals",
+        "display",
+        "sans-serif"
+    ],
+    "variations": [
+        {
+            "name": "Hollywood",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/walcottgothic/hollywood",
+            "css": {
+                "font-family": "Walcott Gothic Hollywood",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5047",
+                "slug": "hollywood",
+                "price": "$11.25"
+            }
+        },
+        {
+            "name": "Sunset",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/walcottgothic/sunset",
+            "css": {
+                "font-family": "Walcott Gothic Sunset",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5048",
+                "slug": "sunset",
+                "price": "$11.25"
+            }
+        },
+        {
+            "name": "Fountain",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/walcottgothic/fountain",
+            "css": {
+                "font-family": "Walcott Gothic Fountain",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5046",
+                "slug": "fountain",
+                "price": "$11.25"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1174",
+        "slug": "walcottgothic"
+    },
+    "generatedAt": 1437610512464
+}

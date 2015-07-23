@@ -1,0 +1,189 @@
+{
+    "name": "Runda",
+    "url": "http://fontdeck.com/typeface/runda",
+    "slug": "runda",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Neo-Grotesk"
+    ],
+    "foundry": "p.s.type",
+    "designer": [
+        "Mark Caneso"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "elegant",
+        "efficient",
+        "simple",
+        "clarity",
+        "useful",
+        "open forms",
+        "helvetica",
+        "text",
+        "grotesque",
+        "legible",
+        "open",
+        "confident",
+        "body"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/runda/light",
+            "css": {
+                "font-family": "Runda Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5477",
+                "slug": "light",
+                "price": "$8.99"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/runda/lightitalic",
+            "css": {
+                "font-family": "Runda Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5478",
+                "slug": "lightitalic",
+                "price": "$8.99"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/runda/italic",
+            "css": {
+                "font-family": "Runda Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5474",
+                "slug": "italic",
+                "price": "$8.99"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/runda/medium",
+            "css": {
+                "font-family": "Runda Medium",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5479",
+                "slug": "medium",
+                "price": "$8.99"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/runda/mediumitalic",
+            "css": {
+                "font-family": "Runda Medium Italic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5480",
+                "slug": "mediumitalic",
+                "price": "$8.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/runda/bold",
+            "css": {
+                "font-family": "Runda Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5475",
+                "slug": "bold",
+                "price": "$8.99"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/runda/bolditalic",
+            "css": {
+                "font-family": "Runda Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5476",
+                "slug": "bolditalic",
+                "price": "$8.99"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/runda/black",
+            "css": {
+                "font-family": "Runda Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5481",
+                "slug": "black",
+                "price": "$8.99"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/runda/blackitalic",
+            "css": {
+                "font-family": "Runda Black Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5482",
+                "slug": "blackitalic",
+                "price": "$8.99"
+            }
+        },
+        {
+            "name": "Normal",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/runda/normal",
+            "css": {
+                "font-family": "Runda Normal",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5473",
+                "slug": "normal",
+                "price": "$8.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1282",
+        "slug": "runda"
+    },
+    "generatedAt": 1437610643377
+}

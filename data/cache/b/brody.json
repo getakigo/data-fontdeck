@@ -1,0 +1,43 @@
+{
+    "name": "Brody",
+    "url": "http://fontdeck.com/typeface/brody",
+    "slug": "brody",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Casual"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "URW Studio"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "script",
+        "1950s"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/brody/regular",
+            "css": {
+                "font-family": "Brody Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "961",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "280",
+        "slug": "brody"
+    },
+    "generatedAt": 1437609129731
+}

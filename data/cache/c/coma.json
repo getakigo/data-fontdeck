@@ -1,0 +1,62 @@
+{
+    "name": "Coma",
+    "url": "http://fontdeck.com/typeface/coma",
+    "slug": "coma",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "VirusFonts",
+    "designer": [
+        "Jonathan Barnbrook"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "experimental",
+        "headline",
+        "square",
+        "contemporary",
+        "rounded",
+        "poster"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/coma/regular",
+            "css": {
+                "font-family": "Coma Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3342",
+                "slug": "regular",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/coma/black",
+            "css": {
+                "font-family": "Coma Black",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3343",
+                "slug": "black",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "804",
+        "slug": "coma"
+    },
+    "generatedAt": 1437609914841
+}

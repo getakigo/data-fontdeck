@@ -1,0 +1,78 @@
+{
+    "name": "Francesco",
+    "url": "http://fontdeck.com/typeface/francesco",
+    "slug": "francesco",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Grunge",
+        "Display",
+        "Serif"
+    ],
+    "foundry": "Bureau des Affaires Typographiques",
+    "designer": [
+        "Franck Jalleau"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "low contrast",
+        "romanserif",
+        "classic",
+        "text",
+        "venetian",
+        "classical",
+        "cyrillic",
+        "garalde",
+        "humanist",
+        "antiqued",
+        "roman",
+        "antiques",
+        "old style",
+        "book",
+        "renaissance",
+        "old style serif",
+        "romantic",
+        "valentine",
+        "greek",
+        "book text"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/francesco/regular",
+            "css": {
+                "font-family": "Francesco Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1061",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/francesco/italic",
+            "css": {
+                "font-family": "Francesco Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1062",
+                "slug": "italic",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "301",
+        "slug": "francesco"
+    },
+    "generatedAt": 1437609165480
+}

@@ -1,0 +1,84 @@
+{
+    "name": "Pompeian Cursive",
+    "url": "http://fontdeck.com/typeface/pompeiancursive",
+    "slug": "pompeiancursive",
+    "use": "body",
+    "classification": [
+        "Display",
+        "Script",
+        "Script",
+        "Calligraphic",
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "Wordshape",
+    "designer": [
+        "Ian Lynam",
+        "Oswald Bruce Cooper"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "wordshape",
+        "cooper black",
+        "1920s",
+        "idea magazine",
+        "atf",
+        "wedding invitation",
+        "fancy",
+        "halcali",
+        "oswald bruce",
+        "low x-height",
+        "cooper swash",
+        "heft",
+        "ligatures",
+        "wilco",
+        "ian lynam",
+        "pen font",
+        "swing",
+        "gravy",
+        "bernhard script",
+        "wedding",
+        "display font",
+        "oswald cooper",
+        "old tyme",
+        "barnhart bros & spindler",
+        "decorative",
+        "ian lyman",
+        "swash font",
+        "1930s",
+        "script",
+        "ian lynam creative direction",
+        "old time",
+        "chicago",
+        "retro",
+        "tokyo",
+        "bertsch & cooper",
+        "newspaper font",
+        "cooper text",
+        "oz cooper"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/pompeiancursive/regular",
+            "css": {
+                "font-family": "Pompeian Cursive Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4776",
+                "slug": "regular",
+                "price": "$12.49"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1117",
+        "slug": "pompeiancursive"
+    },
+    "generatedAt": 1437610450675
+}

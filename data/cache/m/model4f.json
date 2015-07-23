@@ -1,0 +1,49 @@
+{
+    "name": "Model 4F",
+    "url": "http://fontdeck.com/typeface/model4f",
+    "slug": "model4f",
+    "use": "body",
+    "classification": [
+        "Display",
+        "Experimental",
+        "Serif",
+        "Didone",
+        "Display",
+        "Serif",
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "4th february",
+    "designer": [
+        "Sergiy S. Tkachenko"
+    ],
+    "language": [
+        "latin",
+        "cyrillic"
+    ],
+    "tags": [
+        "1800s"
+    ],
+    "variations": [
+        {
+            "name": "Unicase",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/model4f/unicase",
+            "css": {
+                "font-family": "Model 4F Unicase",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7617",
+                "slug": "unicase",
+                "price": "$6.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1756",
+        "slug": "model4f"
+    },
+    "generatedAt": 1437611199716
+}

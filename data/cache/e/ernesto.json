@@ -1,0 +1,75 @@
+{
+    "name": "ERNESTO",
+    "url": "http://fontdeck.com/typeface/ernesto",
+    "slug": "ernesto",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "All caps"
+    ],
+    "foundry": "Nouvelle Noire",
+    "designer": [
+        "Clovis Vallois"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "uppercase",
+        "geometric sans",
+        "constructivist",
+        "modernism"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/ernesto/thin",
+            "css": {
+                "font-family": "ERNESTO THIN",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5513",
+                "slug": "thin",
+                "price": "$25.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/ernesto/regular",
+            "css": {
+                "font-family": "ERNESTO REGULAR",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5514",
+                "slug": "regular",
+                "price": "$25.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/ernesto/bold",
+            "css": {
+                "font-family": "ERNESTO BOLD",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6122",
+                "slug": "bold",
+                "price": "$25.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1286",
+        "slug": "ernesto"
+    },
+    "generatedAt": 1437610670901
+}

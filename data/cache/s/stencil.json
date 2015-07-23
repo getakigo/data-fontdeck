@@ -1,0 +1,146 @@
+{
+    "name": "Stencil",
+    "url": "http://fontdeck.com/typeface/stencil",
+    "slug": "stencil",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Stencil"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Gerry Powell"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "decorative",
+        "confidential",
+        "1940s",
+        "import",
+        "1930s",
+        "serif",
+        "caps only",
+        "label",
+        "export",
+        "art deco",
+        "american",
+        "masculine",
+        "passport",
+        "arts and crafts",
+        "stencil"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/stencil/regular",
+            "css": {
+                "font-family": "Stencil Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2078",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Solid",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/stencil/solid",
+            "css": {
+                "font-family": "Stencil Solid",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2085",
+                "slug": "solid",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Shadow",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/stencil/shadow",
+            "css": {
+                "font-family": "Stencil Shadow",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2086",
+                "slug": "shadow",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Round",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/stencil/round",
+            "css": {
+                "font-family": "Stencil Round",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2082",
+                "slug": "round",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Outline",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/stencil/outline",
+            "css": {
+                "font-family": "Stencil Outline",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2080",
+                "slug": "outline",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Relief",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/stencil/relief",
+            "css": {
+                "font-family": "Stencil Relief",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2081",
+                "slug": "relief",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Compressed",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/stencil/compressed",
+            "css": {
+                "font-family": "Stencil Compressed",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2083",
+                "slug": "compressed",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "527",
+        "slug": "stencil"
+    },
+    "generatedAt": 1437609388625
+}

@@ -1,0 +1,79 @@
+{
+    "name": "Huronia Inuktitut",
+    "url": "http://fontdeck.com/typeface/huroniainuktitut",
+    "slug": "huroniainuktitut",
+    "superfamily": "Huronia",
+    "use": "body",
+    "classification": [],
+    "foundry": "Rosetta",
+    "designer": [
+        "Ross Mills"
+    ],
+    "language": [
+        "latin",
+        "inuktitut"
+    ],
+    "tags": [
+        "hinted",
+        "indian",
+        "inuktitut",
+        "canadian",
+        "romantic",
+        "multilingual",
+        "ross mills",
+        "accents",
+        "magazine"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/huroniainuktitut/regular",
+            "css": {
+                "font-family": "Huronia Inuktitut Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7740",
+                "slug": "regular",
+                "price": "$6.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/huroniainuktitut/italic",
+            "css": {
+                "font-family": "Huronia Inuktitut Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7741",
+                "slug": "italic",
+                "price": "$6.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/huroniainuktitut/bold",
+            "css": {
+                "font-family": "Huronia Inuktitut Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7742",
+                "slug": "bold",
+                "price": "$6.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1784",
+        "slug": "huroniainuktitut"
+    },
+    "generatedAt": 1437611263622
+}

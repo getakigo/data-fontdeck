@@ -1,0 +1,52 @@
+{
+    "name": "Baroque Text",
+    "url": "http://fontdeck.com/typeface/baroquetext",
+    "slug": "baroquetext",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Calligraphic",
+        "Display",
+        "Blackletter"
+    ],
+    "foundry": "Veer",
+    "designer": [
+        "Jason Walcott"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "gothic",
+        "decorative",
+        "formal",
+        "blackletter",
+        "swashes",
+        "text",
+        "retro",
+        "calligraphy",
+        "display"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/baroquetext/regular",
+            "css": {
+                "font-family": "Baroque Text Regular",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5064",
+                "slug": "regular",
+                "price": "$11.25"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1186",
+        "slug": "baroquetext"
+    },
+    "generatedAt": 1437610529523
+}

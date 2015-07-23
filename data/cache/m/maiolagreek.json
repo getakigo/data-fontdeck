@@ -1,0 +1,95 @@
+{
+    "name": "Maiola Greek",
+    "url": "http://fontdeck.com/typeface/maiolagreek",
+    "slug": "maiolagreek",
+    "use": "body",
+    "classification": [],
+    "foundry": "TypeTogether",
+    "designer": [
+        "Veronika Burian"
+    ],
+    "language": [
+        "latin",
+        "greek"
+    ],
+    "tags": [
+        "angular",
+        "old style",
+        "punchcut",
+        "text",
+        "venetian",
+        "calligraphic",
+        "wedge serif",
+        "garalde",
+        "greek",
+        "contemporary",
+        "czech"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/maiolagreek/regular",
+            "css": {
+                "font-family": "Maiola Greek Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2772",
+                "slug": "regular",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/maiolagreek/italic",
+            "css": {
+                "font-family": "Maiola Greek Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2771",
+                "slug": "italic",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/maiolagreek/bold",
+            "css": {
+                "font-family": "Maiola Greek Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2769",
+                "slug": "bold",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/maiolagreek/bolditalic",
+            "css": {
+                "font-family": "Maiola Greek Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2770",
+                "slug": "bolditalic",
+                "price": "$15.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "658",
+        "slug": "maiolagreek"
+    },
+    "generatedAt": 1437609653312
+}

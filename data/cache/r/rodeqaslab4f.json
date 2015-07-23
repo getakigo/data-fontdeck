@@ -1,0 +1,132 @@
+{
+    "name": "Rodeqa Slab 4F",
+    "url": "http://fontdeck.com/typeface/rodeqaslab4f",
+    "slug": "rodeqaslab4f",
+    "use": "body",
+    "classification": [
+        "Display",
+        "Slab serif",
+        "Slab Serif",
+        "Egyptian"
+    ],
+    "foundry": "4th february",
+    "designer": [
+        "Sergiy S. Tkachenko"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "slab",
+        "bi-form",
+        "wooden",
+        "wild west",
+        "saloon",
+        "slab serif",
+        "monoline",
+        "clarendon",
+        "cowboy",
+        "egyptienne",
+        "typewriter",
+        "poster",
+        "rodeo",
+        "wide"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/rodeqaslab4f/regular",
+            "css": {
+                "font-family": "Rodeqa Slab 4F Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3818",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/rodeqaslab4f/italic",
+            "css": {
+                "font-family": "Rodeqa Slab 4F Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3819",
+                "slug": "italic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/rodeqaslab4f/semibold",
+            "css": {
+                "font-family": "Rodeqa Slab 4F SemiBold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3851",
+                "slug": "semibold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Semi-bold Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/rodeqaslab4f/semibolditalic",
+            "css": {
+                "font-family": "Rodeqa Slab 4F SemiBold Italic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3852",
+                "slug": "semibolditalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/rodeqaslab4f/bold",
+            "css": {
+                "font-family": "Rodeqa Slab 4F Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3853",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/rodeqaslab4f/bolditalic",
+            "css": {
+                "font-family": "Rodeqa Slab 4F Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3854",
+                "slug": "bolditalic",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "905",
+        "slug": "rodeqaslab4f"
+    },
+    "generatedAt": 1437610092084
+}

@@ -1,0 +1,239 @@
+{
+    "name": "Arlt",
+    "url": "http://fontdeck.com/typeface/arlt",
+    "slug": "arlt",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Baroque"
+    ],
+    "foundry": "PampaType",
+    "designer": [
+        "Alejandro Lo Celso"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "family",
+        "expressive",
+        "poetry",
+        "serif",
+        "titling",
+        "seven madmen",
+        "literary",
+        "creative review",
+        "optical sizes",
+        "openface",
+        "siete locos",
+        "text",
+        "argentina",
+        "system",
+        "contemporary",
+        "quirky",
+        "author",
+        "literature",
+        "poetic",
+        "calligraphic",
+        "typographica",
+        "headline",
+        "deco",
+        "multistyle",
+        "display",
+        "nice rhythm",
+        "argentinian",
+        "books",
+        "novels",
+        "workhorse",
+        "roberto arlt",
+        "argentinean",
+        "legible",
+        "e-books",
+        "true italics",
+        "comfortable",
+        "decorative",
+        "elegant",
+        "sensitive",
+        "expressionist",
+        "serapion",
+        "engraved",
+        "oldstyle",
+        "magazines",
+        "delicate",
+        "readable",
+        "inline",
+        "distressed"
+    ],
+    "variations": [
+        {
+            "name": "Gris",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/arlt/gris",
+            "css": {
+                "font-family": "Arlt Gris",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8951",
+                "slug": "gris",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Negra",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/arlt/negra",
+            "css": {
+                "font-family": "Arlt Negra",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8954",
+                "slug": "negra",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Blanca Versalita",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/arlt/blancaversalita",
+            "css": {
+                "font-family": "Arlt Blanca Versalita",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8950",
+                "slug": "blancaversalita",
+                "price": "$10.50"
+            }
+        },
+        {
+            "name": "Blanca",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/arlt/blanca",
+            "css": {
+                "font-family": "Arlt Blanca",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8948",
+                "slug": "blanca",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Gris Versalita",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/arlt/grisversalita",
+            "css": {
+                "font-family": "Arlt Gris Versalita",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8953",
+                "slug": "grisversalita",
+                "price": "$10.50"
+            }
+        },
+        {
+            "name": "Negra Versalita",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/arlt/negraversalita",
+            "css": {
+                "font-family": "Arlt Negra Versalita",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8956",
+                "slug": "negraversalita",
+                "price": "$10.50"
+            }
+        },
+        {
+            "name": "SuperNegra",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/arlt/supernegra",
+            "css": {
+                "font-family": "Arlt SuperNegra",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8957",
+                "slug": "supernegra",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "SuperNegra Italica",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/arlt/supernegraitalica",
+            "css": {
+                "font-family": "Arlt SuperNegra Italica",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8958",
+                "slug": "supernegraitalica",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Gris Italica",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/arlt/grisitalica",
+            "css": {
+                "font-family": "Arlt Gris Italica",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8952",
+                "slug": "grisitalica",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Negra Italica",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/arlt/negraitalica",
+            "css": {
+                "font-family": "Arlt Negra Italica",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8955",
+                "slug": "negraitalica",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Blanca Italica",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/arlt/blancaitalica",
+            "css": {
+                "font-family": "Arlt Blanca Italica",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8949",
+                "slug": "blancaitalica",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "2007",
+        "slug": "arlt"
+    },
+    "generatedAt": 1437611589099
+}

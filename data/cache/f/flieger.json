@@ -1,0 +1,79 @@
+{
+    "name": "Flieger",
+    "url": "http://fontdeck.com/typeface/flieger",
+    "slug": "flieger",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Script",
+        "Script",
+        "Display"
+    ],
+    "foundry": "Letters from Sweden",
+    "designer": [
+        "Göran Söderström"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "elegant",
+        "1920s",
+        "low x-height",
+        "connected",
+        "dynamic",
+        "art deco"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/flieger/light",
+            "css": {
+                "font-family": "Flieger Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4554",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/flieger/regular",
+            "css": {
+                "font-family": "Flieger Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4552",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/flieger/bold",
+            "css": {
+                "font-family": "Flieger Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4553",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1070",
+        "slug": "flieger"
+    },
+    "generatedAt": 1437610699321
+}

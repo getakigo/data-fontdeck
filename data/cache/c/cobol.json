@@ -1,0 +1,121 @@
+{
+    "name": "Cobol",
+    "url": "http://fontdeck.com/typeface/cobol",
+    "slug": "cobol",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Futuristic",
+        "Display",
+        "Computer-related",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "The Northern Block",
+    "designer": [
+        "Jonathan Hill"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "headlines",
+        "technical",
+        "sans-serif",
+        "geometric",
+        "linear",
+        "legible",
+        "mechanical",
+        "magazine",
+        "news",
+        "modern",
+        "business",
+        "minimalism",
+        "neutral",
+        "menus",
+        "commercial",
+        "graphic",
+        "digital",
+        "computer",
+        "swiss",
+        "identity",
+        "brochures",
+        "european",
+        "modular",
+        "branding",
+        "headline",
+        "square",
+        "german",
+        "grid",
+        "square sans",
+        "clean",
+        "information"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/cobol/light",
+            "css": {
+                "font-family": "Cobol Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2299",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/cobol/regular",
+            "css": {
+                "font-family": "Cobol Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2297",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/cobol/medium",
+            "css": {
+                "font-family": "Cobol Medium",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2300",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/cobol/bold",
+            "css": {
+                "font-family": "Cobol Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2298",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "563",
+        "slug": "cobol"
+    },
+    "generatedAt": 1437609462726
+}

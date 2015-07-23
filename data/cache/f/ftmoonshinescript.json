@@ -1,0 +1,47 @@
+{
+    "name": "FT Moonshine Script",
+    "url": "http://fontdeck.com/typeface/ftmoonshinescript",
+    "slug": "ftmoonshinescript",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Handwritten",
+        "Script",
+        "Casual"
+    ],
+    "foundry": "Fenotype",
+    "designer": [
+        "Emil Bertell"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "script",
+        "ink",
+        "paint",
+        "handwriting"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/ftmoonshinescript/regular",
+            "css": {
+                "font-family": "FT Moonshine Script Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2450",
+                "slug": "regular",
+                "price": "$8.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "596",
+        "slug": "ftmoonshinescript"
+    },
+    "generatedAt": 1437609530261
+}

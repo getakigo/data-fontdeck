@@ -1,0 +1,312 @@
+{
+    "name": "Laski Slab",
+    "url": "http://fontdeck.com/typeface/laskislab",
+    "slug": "laskislab",
+    "superfamily": "Laski",
+    "use": "heading",
+    "classification": [
+        "Slab Serif",
+        "Egyptian"
+    ],
+    "foundry": "ReType",
+    "designer": [
+        "Paula Mastrangelo",
+        "Ramiro Espinoza"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "robust",
+        "logotype",
+        "solid",
+        "tablet",
+        "logo",
+        "legible",
+        "ipad",
+        "editorial",
+        "branding",
+        "friendly",
+        "magazine",
+        "superfamily",
+        "poster",
+        "brand identity"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/laskislab/thin",
+            "css": {
+                "font-family": "Laski Slab Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7867",
+                "slug": "thin",
+                "price": "$16.99"
+            }
+        },
+        {
+            "name": "Thin Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/laskislab/thinitalic",
+            "css": {
+                "font-family": "Laski Slab Thin Italic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7868",
+                "slug": "thinitalic",
+                "price": "$16.99"
+            }
+        },
+        {
+            "name": "Extra-light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/laskislab/extralight",
+            "css": {
+                "font-family": "Laski Slab Extralight",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7869",
+                "slug": "extralight",
+                "price": "$16.99"
+            }
+        },
+        {
+            "name": "Extra-light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/laskislab/extralightitalic",
+            "css": {
+                "font-family": "Laski Slab Extralight Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7870",
+                "slug": "extralightitalic",
+                "price": "$16.99"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/laskislab/light",
+            "css": {
+                "font-family": "Laski Slab Light",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7871",
+                "slug": "light",
+                "price": "$16.99"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i3",
+            "url": "http://fontdeck.com/font/laskislab/lightitalic",
+            "css": {
+                "font-family": "Laski Slab Light Italic",
+                "font-weight": "300",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7872",
+                "slug": "lightitalic",
+                "price": "$16.99"
+            }
+        },
+        {
+            "name": "Book",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/laskislab/book",
+            "css": {
+                "font-family": "Laski Slab Book",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7873",
+                "slug": "book",
+                "price": "$16.99"
+            }
+        },
+        {
+            "name": "Book Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/laskislab/bookitalic",
+            "css": {
+                "font-family": "Laski Slab Book Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7874",
+                "slug": "bookitalic",
+                "price": "$16.99"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/laskislab/regular",
+            "css": {
+                "font-family": "Laski Slab Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7875",
+                "slug": "regular",
+                "price": "$16.99"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/laskislab/italic",
+            "css": {
+                "font-family": "Laski Slab Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7876",
+                "slug": "italic",
+                "price": "$16.99"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/laskislab/semibold",
+            "css": {
+                "font-family": "Laski Slab Semibold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7877",
+                "slug": "semibold",
+                "price": "$16.99"
+            }
+        },
+        {
+            "name": "Semi-bold Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/laskislab/semibolditalic",
+            "css": {
+                "font-family": "Laski Slab Semibold Italic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7878",
+                "slug": "semibolditalic",
+                "price": "$16.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/laskislab/bold",
+            "css": {
+                "font-family": "Laski Slab Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7879",
+                "slug": "bold",
+                "price": "$16.99"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/laskislab/bolditalic",
+            "css": {
+                "font-family": "Laski Slab Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7880",
+                "slug": "bolditalic",
+                "price": "$16.99"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/laskislab/extrabold",
+            "css": {
+                "font-family": "Laski Slab Extrabold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7881",
+                "slug": "extrabold",
+                "price": "$16.99"
+            }
+        },
+        {
+            "name": "Extra-bold Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/laskislab/extrabolditalic",
+            "css": {
+                "font-family": "Laski Slab Extrabold Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7882",
+                "slug": "extrabolditalic",
+                "price": "$16.99"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/laskislab/black",
+            "css": {
+                "font-family": "Laski Slab Black",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7884",
+                "slug": "black",
+                "price": "$16.99"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/laskislab/blackitalic",
+            "css": {
+                "font-family": "Laski Slab Black Italic",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7885",
+                "slug": "blackitalic",
+                "price": "$16.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1813",
+        "slug": "laskislab"
+    },
+    "generatedAt": 1437611325805
+}

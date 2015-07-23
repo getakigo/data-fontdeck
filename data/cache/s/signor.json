@@ -1,0 +1,125 @@
+{
+    "name": "Signor",
+    "url": "http://fontdeck.com/typeface/signor",
+    "slug": "signor",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Comic Strip Lettering",
+        "Display",
+        "Sans serif"
+    ],
+    "foundry": "Fenotype",
+    "designer": [
+        "Emil Bertell"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "informal",
+        "all caps",
+        "soft",
+        "bold",
+        "sans serif",
+        "casual",
+        "rounded"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/signor/regular",
+            "css": {
+                "font-family": "Signor Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2398",
+                "slug": "regular",
+                "price": "$8.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/signor/bold",
+            "css": {
+                "font-family": "Signor Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2396",
+                "slug": "bold",
+                "price": "$8.00"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/signor/heavy",
+            "css": {
+                "font-family": "Signor Heavy",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2397",
+                "slug": "heavy",
+                "price": "$8.00"
+            }
+        },
+        {
+            "name": "Ultra-black",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/signor/ultrablack",
+            "css": {
+                "font-family": "Signor Ultra Black",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2403",
+                "slug": "ultrablack",
+                "price": "$8.00"
+            }
+        },
+        {
+            "name": "Ultra",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/signor/ultra",
+            "css": {
+                "font-family": "Signor Ultra",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2400",
+                "slug": "ultra",
+                "price": "$8.00"
+            }
+        },
+        {
+            "name": "3D",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/signor/3d",
+            "css": {
+                "font-family": "Signor 3D",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2395",
+                "slug": "3d",
+                "price": "$8.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "582",
+        "slug": "signor"
+    },
+    "generatedAt": 1437609497669
+}

@@ -1,0 +1,68 @@
+{
+    "name": "Hooligan",
+    "url": "http://fontdeck.com/typeface/hooligan",
+    "slug": "hooligan",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif"
+    ],
+    "foundry": "Veer",
+    "designer": [
+        "Jason Walcott"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "condensed",
+        "playful",
+        "sans-serif",
+        "uneven",
+        "regular",
+        "1960s",
+        "retro",
+        "headline",
+        "italic",
+        "casual",
+        "quirky",
+        "display"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/hooligan/regular",
+            "css": {
+                "font-family": "Hooligan Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5031",
+                "slug": "regular",
+                "price": "$13.44"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/hooligan/italic",
+            "css": {
+                "font-family": "Hooligan Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5032",
+                "slug": "italic",
+                "price": "$13.44"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1167",
+        "slug": "hooligan"
+    },
+    "generatedAt": 1437610497450
+}

@@ -1,0 +1,47 @@
+{
+    "name": "Squarendon",
+    "url": "http://fontdeck.com/typeface/squarendon",
+    "slug": "squarendon",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Slab serif"
+    ],
+    "foundry": "Fenotype",
+    "designer": [
+        "Emil Bertell"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "slab serif",
+        "clarendon",
+        "1800s",
+        "heavy",
+        "egyptian",
+        "black"
+    ],
+    "variations": [
+        {
+            "name": "Extra-black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/squarendon/extrablack",
+            "css": {
+                "font-family": "Squarendon Extra Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2142",
+                "slug": "extrablack",
+                "price": "$8.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "537",
+        "slug": "squarendon"
+    },
+    "generatedAt": 1437609398931
+}

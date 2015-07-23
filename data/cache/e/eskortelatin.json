@@ -1,0 +1,191 @@
+{
+    "name": "Eskorte Latin",
+    "url": "http://fontdeck.com/typeface/eskortelatin",
+    "slug": "eskortelatin",
+    "superfamily": "Eskorte",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Modern"
+    ],
+    "foundry": "Rosetta",
+    "designer": [
+        "Elena Schneider"
+    ],
+    "opentype": [
+        "c2sc",
+        "case",
+        "dnom",
+        "frac",
+        "hist",
+        "liga",
+        "lnum",
+        "numr",
+        "onum",
+        "ordn",
+        "pnum",
+        "sinf",
+        "smcp",
+        "subs",
+        "sups",
+        "tnum",
+        "zero"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "advertising",
+        "formal",
+        "opentype",
+        "multiple-purpose",
+        "hand hinted",
+        "text",
+        "text font",
+        "hand-hinted",
+        "academic",
+        "business",
+        "arabic",
+        "multilingual",
+        "accessible",
+        "businesslike",
+        "workhorse",
+        "crisp",
+        "manually hinted",
+        "advanced character set",
+        "office",
+        "original",
+        "elena scheider",
+        "corporate",
+        "annual reports",
+        "german",
+        "legal"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/eskortelatin/regular",
+            "css": {
+                "font-family": "Eskorte Latin Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7759",
+                "slug": "regular",
+                "price": "$13.75"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/eskortelatin/italic",
+            "css": {
+                "font-family": "Eskorte Latin Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7763",
+                "slug": "italic",
+                "price": "$13.75"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/eskortelatin/semibold",
+            "css": {
+                "font-family": "Eskorte Latin Semibold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7761",
+                "slug": "semibold",
+                "price": "$13.75"
+            }
+        },
+        {
+            "name": "Semi-bold Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/eskortelatin/semibolditalic",
+            "css": {
+                "font-family": "Eskorte Latin Semibold Italic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7765",
+                "slug": "semibolditalic",
+                "price": "$13.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/eskortelatin/bold",
+            "css": {
+                "font-family": "Eskorte Latin Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7760",
+                "slug": "bold",
+                "price": "$13.75"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/eskortelatin/bolditalic",
+            "css": {
+                "font-family": "Eskorte Latin Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7764",
+                "slug": "bolditalic",
+                "price": "$13.75"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/eskortelatin/extrabold",
+            "css": {
+                "font-family": "Eskorte Latin Extrabold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7762",
+                "slug": "extrabold",
+                "price": "$13.75"
+            }
+        },
+        {
+            "name": "Extra-bold Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/eskortelatin/extrabolditalic",
+            "css": {
+                "font-family": "Eskorte Latin Extrabold Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7766",
+                "slug": "extrabolditalic",
+                "price": "$13.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1788",
+        "slug": "eskortelatin"
+    },
+    "generatedAt": 1437611274530
+}

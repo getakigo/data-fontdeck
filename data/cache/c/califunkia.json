@@ -1,0 +1,50 @@
+{
+    "name": "Califunkia",
+    "url": "http://fontdeck.com/typeface/califunkia",
+    "slug": "califunkia",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "CounterPoint Type Studio",
+    "designer": [
+        "Jason Walcott"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "funky",
+        "decorative",
+        "funny",
+        "hand lettered",
+        "cartoonish",
+        "1960s",
+        "retro",
+        "heavy",
+        "display"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/califunkia/regular",
+            "css": {
+                "font-family": "Califunkia Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7316",
+                "slug": "regular",
+                "price": "$10.30"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1718",
+        "slug": "califunkia"
+    },
+    "generatedAt": 1437611212784
+}

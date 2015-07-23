@@ -1,0 +1,42 @@
+{
+    "name": "Tallys",
+    "url": "http://fontdeck.com/typeface/tallys",
+    "slug": "tallys",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Garalde"
+    ],
+    "foundry": "Exljbris",
+    "designer": [
+        "Jos Buivenga"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "old style serif"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/tallys/regular",
+            "css": {
+                "font-family": "Tallys Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "99",
+                "slug": "regular",
+                "price": "$3.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "35",
+        "slug": "tallys"
+    },
+    "generatedAt": 1437608893193
+}

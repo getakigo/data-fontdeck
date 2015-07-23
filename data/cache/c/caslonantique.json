@@ -1,0 +1,52 @@
+{
+    "name": "Caslon Antique",
+    "url": "http://fontdeck.com/typeface/caslonantique",
+    "slug": "caslonantique",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Transitional",
+        "Display",
+        "Serif"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Berne Nadall",
+        "URW Studio"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "sensible",
+        "formal",
+        "romanserif",
+        "elegant",
+        "sturdy",
+        "valuable",
+        "economic",
+        "antiqued"
+    ],
+    "variations": [
+        {
+            "name": "Standard",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/caslonantique/standard",
+            "css": {
+                "font-family": "Caslon Antique Standard",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1051",
+                "slug": "standard",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "298",
+        "slug": "caslonantique"
+    },
+    "generatedAt": 1437609165754
+}

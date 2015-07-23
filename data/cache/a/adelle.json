@@ -1,0 +1,265 @@
+{
+    "name": "Adelle",
+    "url": "http://fontdeck.com/typeface/adelle",
+    "slug": "adelle",
+    "superfamily": "Adelle",
+    "use": "heading",
+    "classification": [
+        "Slab Serif",
+        "Dynamic"
+    ],
+    "foundry": "TypeTogether",
+    "designer": [
+        "Veronika Burian",
+        "José Scaglione"
+    ],
+    "opentype": [
+        "liga"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "opentype",
+        "low contrast",
+        "hand hinted",
+        "title",
+        "workhorse",
+        "text",
+        "legible",
+        "fine crafted",
+        "contemporary",
+        "humanist",
+        "newspaper",
+        "magazine",
+        "hand-hinted",
+        "manually hinted",
+        "elegant",
+        "vivid",
+        "egyptian",
+        "fluid",
+        "handhinted",
+        "editorial",
+        "graceful",
+        "superfamily",
+        "book text",
+        "versalitas"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/adelle/thin",
+            "css": {
+                "font-family": "Adelle Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2589",
+                "slug": "thin",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Thin Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/adelle/thinitalic",
+            "css": {
+                "font-family": "Adelle Thin Italic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2590",
+                "slug": "thinitalic",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/adelle/light",
+            "css": {
+                "font-family": "Adelle Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1112",
+                "slug": "light",
+                "price": "$19.99"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/adelle/lightitalic",
+            "css": {
+                "font-family": "Adelle Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1113",
+                "slug": "lightitalic",
+                "price": "$19.99"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/adelle/regular",
+            "css": {
+                "font-family": "Adelle Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1110",
+                "slug": "regular",
+                "price": "$19.99"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/adelle/italic",
+            "css": {
+                "font-family": "Adelle Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1111",
+                "slug": "italic",
+                "price": "$19.99"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/adelle/semibold",
+            "css": {
+                "font-family": "Adelle SemiBold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1114",
+                "slug": "semibold",
+                "price": "$19.99"
+            }
+        },
+        {
+            "name": "Semi-bold Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/adelle/semibolditalic",
+            "css": {
+                "font-family": "Adelle SemiBold Italic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1115",
+                "slug": "semibolditalic",
+                "price": "$19.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/adelle/bold",
+            "css": {
+                "font-family": "Adelle Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1104",
+                "slug": "bold",
+                "price": "$19.99"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/adelle/bolditalic",
+            "css": {
+                "font-family": "Adelle Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1105",
+                "slug": "bolditalic",
+                "price": "$19.99"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/adelle/extrabold",
+            "css": {
+                "font-family": "Adelle ExtraBold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1106",
+                "slug": "extrabold",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Extra-bold Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/adelle/extrabolditalic",
+            "css": {
+                "font-family": "Adelle ExtraBold Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1107",
+                "slug": "extrabolditalic",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/adelle/heavy",
+            "css": {
+                "font-family": "Adelle Heavy",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1108",
+                "slug": "heavy",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Heavy Italic",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/adelle/heavyitalic",
+            "css": {
+                "font-family": "Adelle Heavy Italic",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1109",
+                "slug": "heavyitalic",
+                "price": "$15.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "306",
+        "slug": "adelle"
+    },
+    "generatedAt": 1437609177781
+}

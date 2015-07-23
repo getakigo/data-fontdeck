@@ -1,0 +1,44 @@
+{
+    "name": "Copasetic Pro",
+    "url": "http://fontdeck.com/typeface/copaseticpro",
+    "slug": "copaseticpro",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Art Deco"
+    ],
+    "foundry": "CheapProFonts",
+    "designer": [
+        "Nick Curtis"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "retro",
+        "1920s",
+        "art deco"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/copaseticpro/regular",
+            "css": {
+                "font-family": "Copasetic Pro Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3102",
+                "slug": "regular",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "722",
+        "slug": "copaseticpro"
+    },
+    "generatedAt": 1437609797082
+}

@@ -1,0 +1,177 @@
+{
+    "name": "Beval",
+    "url": "http://fontdeck.com/typeface/beval",
+    "slug": "beval",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Humanist"
+    ],
+    "foundry": "The Northern Block",
+    "designer": [
+        "Jonathan Hill"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "true italic",
+        "text",
+        "legible",
+        "brochure",
+        "balanced",
+        "humanist",
+        "contemporary",
+        "magazine",
+        "news",
+        "economical",
+        "authority",
+        "poster",
+        "modern",
+        "business",
+        "neutral",
+        "commercial",
+        "business text",
+        "education",
+        "communication",
+        "identity",
+        "humanistic sans",
+        "european",
+        "editorial",
+        "branding",
+        "corporate",
+        "headline",
+        "sans serif",
+        "annual reports",
+        "clean",
+        "information",
+        "financial services"
+    ],
+    "variations": [
+        {
+            "name": "Extra-light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/beval/extralight",
+            "css": {
+                "font-family": "Beval ExtraLight",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4096",
+                "slug": "extralight",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/beval/light",
+            "css": {
+                "font-family": "Beval Light",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4097",
+                "slug": "light",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/beval/regular",
+            "css": {
+                "font-family": "Beval Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4098",
+                "slug": "regular",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/beval/italic",
+            "css": {
+                "font-family": "Beval Italic",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4099",
+                "slug": "italic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/beval/medium",
+            "css": {
+                "font-family": "Beval Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4100",
+                "slug": "medium",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/beval/bold",
+            "css": {
+                "font-family": "Beval Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4102",
+                "slug": "bold",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/beval/extrabold",
+            "css": {
+                "font-family": "Beval ExtraBold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4103",
+                "slug": "extrabold",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "DemiBold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/beval/demibold",
+            "css": {
+                "font-family": "Beval DemiBold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4101",
+                "slug": "demibold",
+                "price": "$7.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "967",
+        "slug": "beval"
+    },
+    "generatedAt": 1437610208960
+}

@@ -1,0 +1,45 @@
+{
+    "name": "Fette Gotisch",
+    "url": "http://fontdeck.com/typeface/fettegotisch",
+    "slug": "fettegotisch",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Blackletter"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Wagner Studio"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "blackletter",
+        "german",
+        "1910s",
+        "fraktur"
+    ],
+    "variations": [
+        {
+            "name": "Standard",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/fettegotisch/standard",
+            "css": {
+                "font-family": "Fette Gotisch Standard",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1509",
+                "slug": "standard",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "404",
+        "slug": "fettegotisch"
+    },
+    "generatedAt": 1437609285902
+}

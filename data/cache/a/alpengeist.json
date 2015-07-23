@@ -1,0 +1,47 @@
+{
+    "name": "Alpengeist",
+    "url": "http://fontdeck.com/typeface/alpengeist",
+    "slug": "alpengeist",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Blackletter"
+    ],
+    "foundry": "Veer",
+    "designer": [
+        "Jason Walcott"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "decorative",
+        "retro",
+        "blackletter",
+        "display",
+        "calligraphy",
+        "legible"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/alpengeist/regular",
+            "css": {
+                "font-family": "Alpengeist Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5023",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1159",
+        "slug": "alpengeist"
+    },
+    "generatedAt": 1437610488785
+}

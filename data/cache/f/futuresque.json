@@ -1,0 +1,46 @@
+{
+    "name": "Futuresque",
+    "url": "http://fontdeck.com/typeface/futuresque",
+    "slug": "futuresque",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Art Deco",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "Riccardo Olocco Typographic Design",
+    "designer": [
+        "Riccardo Olocco"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "geometric",
+        "futura",
+        "art deco"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/futuresque/regular",
+            "css": {
+                "font-family": "Futuresque Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2302",
+                "slug": "regular",
+                "price": "$11.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "565",
+        "slug": "futuresque"
+    },
+    "generatedAt": 1437609460254
+}

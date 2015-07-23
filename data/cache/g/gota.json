@@ -1,0 +1,60 @@
+{
+    "name": "Gota",
+    "url": "http://fontdeck.com/typeface/gota",
+    "slug": "gota",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "Fontfabric",
+    "designer": [
+        "Svetoslav Simov"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "heavy",
+        "quirky",
+        "rounded",
+        "round"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/gota/light",
+            "css": {
+                "font-family": "Gota Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3277",
+                "slug": "light",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/gota/regular",
+            "css": {
+                "font-family": "Gota Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3278",
+                "slug": "regular",
+                "price": "$3.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "780",
+        "slug": "gota"
+    },
+    "generatedAt": 1437609872324
+}

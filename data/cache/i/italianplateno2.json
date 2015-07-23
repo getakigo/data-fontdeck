@@ -1,0 +1,335 @@
+{
+    "name": "Italian Plate No 2",
+    "url": "http://fontdeck.com/typeface/italianplateno2",
+    "slug": "italianplateno2",
+    "superfamily": "Italian Plate",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Gothic"
+    ],
+    "foundry": "Playtype",
+    "designer": [
+        "Jonas Hecksher"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "gothic",
+        "grotesk",
+        "narrow",
+        "condensed",
+        "italian",
+        "geometric-grotesque",
+        "display",
+        "superfamily"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/italianplateno2/thin",
+            "css": {
+                "font-family": "Italian Plate No 2 Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8418",
+                "slug": "thin",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Thin Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/italianplateno2/thinitalic",
+            "css": {
+                "font-family": "Italian Plate No 2 Thin Italic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8419",
+                "slug": "thinitalic",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Ultra-light",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/italianplateno2/ultralight",
+            "css": {
+                "font-family": "Italian Plate No 2 UltraLight",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8420",
+                "slug": "ultralight",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Ultra-light Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/italianplateno2/ultralightitalic",
+            "css": {
+                "font-family": "ItalianPlateNo2UltraLightItalic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8421",
+                "slug": "ultralightitalic",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Extra-light",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/italianplateno2/extralight",
+            "css": {
+                "font-family": "Italian Plate No 2 ExtraLight",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8424",
+                "slug": "extralight",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Extra-light Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/italianplateno2/extralightitalic",
+            "css": {
+                "font-family": "ItalianPlateNo2ExtraLightItalic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8425",
+                "slug": "extralightitalic",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/italianplateno2/light",
+            "css": {
+                "font-family": "Italian Plate No 2 Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8413",
+                "slug": "light",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/italianplateno2/lightitalic",
+            "css": {
+                "font-family": "Italian Plate No 2 Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8414",
+                "slug": "lightitalic",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/italianplateno2/regular",
+            "css": {
+                "font-family": "Italian Plate No 2 Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8417",
+                "slug": "regular",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/italianplateno2/medium",
+            "css": {
+                "font-family": "Italian Plate No 2 Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8415",
+                "slug": "medium",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/italianplateno2/mediumitalic",
+            "css": {
+                "font-family": "ItalianPlateNo2MediumItalic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8416",
+                "slug": "mediumitalic",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/italianplateno2/bold",
+            "css": {
+                "font-family": "Italian Plate No 2 Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8406",
+                "slug": "bold",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/italianplateno2/bolditalic",
+            "css": {
+                "font-family": "Italian Plate No 2 Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8407",
+                "slug": "bolditalic",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/italianplateno2/extrabold",
+            "css": {
+                "font-family": "Italian Plate No 2 ExtraBold",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8422",
+                "slug": "extrabold",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Extra-bold Italic",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/italianplateno2/extrabolditalic",
+            "css": {
+                "font-family": "ItalianPlateNo2ExtraBoldItalic",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8423",
+                "slug": "extrabolditalic",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/italianplateno2/black",
+            "css": {
+                "font-family": "Italian Plate No 2 Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8408",
+                "slug": "black",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/italianplateno2/blackitalic",
+            "css": {
+                "font-family": "Italian Plate No 2 Black Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8409",
+                "slug": "blackitalic",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Black Oblique",
+            "description": "o8",
+            "url": "http://fontdeck.com/font/italianplateno2/blackoblique",
+            "css": {
+                "font-family": "ItalianPlateNo2BlackOblique",
+                "font-weight": "800",
+                "font-style": "oblique"
+            },
+            "fontdeck": {
+                "id": "8410",
+                "slug": "blackoblique",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "DemiBold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/italianplateno2/demibold",
+            "css": {
+                "font-family": "Italian Plate No 2 DemiBold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8411",
+                "slug": "demibold",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "DemiBold Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/italianplateno2/demibolditalic",
+            "css": {
+                "font-family": "ItalianPlateNo2DemiBoldItalic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8412",
+                "slug": "demibolditalic",
+                "price": "$45.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1916",
+        "slug": "italianplateno2"
+    },
+    "generatedAt": 1437611440430
+}

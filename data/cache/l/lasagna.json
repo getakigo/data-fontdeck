@@ -1,0 +1,73 @@
+{
+    "name": "Lasagna",
+    "url": "http://fontdeck.com/typeface/lasagna",
+    "slug": "lasagna",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Poster",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "ReType",
+    "designer": [
+        "Yomar Augusto"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "flyer",
+        "decorative",
+        "modern",
+        "electro",
+        "trance",
+        "gig",
+        "funny",
+        "sans-serif",
+        "geometric",
+        "house",
+        "fat",
+        "electronic",
+        "ultra-bold",
+        "bauhaus",
+        "poster"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/lasagna/regular",
+            "css": {
+                "font-family": "Lasagna Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6193",
+                "slug": "regular",
+                "price": "$16.99"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/lasagna/black",
+            "css": {
+                "font-family": "Lasagna Black",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6192",
+                "slug": "black",
+                "price": "$16.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1427",
+        "slug": "lasagna"
+    },
+    "generatedAt": 1437610835082
+}

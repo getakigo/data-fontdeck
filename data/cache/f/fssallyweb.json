@@ -1,0 +1,187 @@
+{
+    "name": "FS Sally Web",
+    "url": "http://fontdeck.com/typeface/fssallyweb",
+    "slug": "fssallyweb",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Transitional",
+        "Serif",
+        "Modern"
+    ],
+    "foundry": "Fontsmith",
+    "designer": [
+        "Jason Smith",
+        "Phil Garnham"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "serif",
+        "elegant",
+        "alluring",
+        "bookish",
+        "exquisite",
+        "readable",
+        "graceful",
+        "charming"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/fssallyweb/regular",
+            "css": {
+                "font-family": "FS Sally Web Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3086",
+                "slug": "regular",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/fssallyweb/italic",
+            "css": {
+                "font-family": "FS Sally Web Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3083",
+                "slug": "italic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/fssallyweb/medium",
+            "css": {
+                "font-family": "FS Sally Web Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3085",
+                "slug": "medium",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/fssallyweb/mediumitalic",
+            "css": {
+                "font-family": "FS Sally Web Medium Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3084",
+                "slug": "mediumitalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/fssallyweb/semibold",
+            "css": {
+                "font-family": "FS Sally Web SemiBold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3088",
+                "slug": "semibold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Semi-bold Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/fssallyweb/semibolditalic",
+            "css": {
+                "font-family": "FS Sally Web SemiBold Italic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3087",
+                "slug": "semibolditalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/fssallyweb/bold",
+            "css": {
+                "font-family": "FS Sally Web Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3080",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/fssallyweb/bolditalic",
+            "css": {
+                "font-family": "FS Sally Web Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3079",
+                "slug": "bolditalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/fssallyweb/heavy",
+            "css": {
+                "font-family": "FS Sally Web Heavy",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3081",
+                "slug": "heavy",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Heavy Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/fssallyweb/heavyitalic",
+            "css": {
+                "font-family": "FS Sally Web Heavy Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3082",
+                "slug": "heavyitalic",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "718",
+        "slug": "fssallyweb"
+    },
+    "generatedAt": 1437609786898
+}

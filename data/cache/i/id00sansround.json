@@ -1,0 +1,77 @@
+{
+    "name": "ID00 Sans Round",
+    "url": "http://fontdeck.com/typeface/id00sansround",
+    "slug": "id00sansround",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Neo-Grotesk"
+    ],
+    "foundry": "Playtype",
+    "designer": [
+        "Jonas Hecksher"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "advertising",
+        "tall",
+        "corporate",
+        "superfamily",
+        "round",
+        "advanced character set"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/id00sansround/thin",
+            "css": {
+                "font-family": "ID00 Sans Round Thin",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5260",
+                "slug": "thin",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/id00sansround/light",
+            "css": {
+                "font-family": "ID00 Sans Round Light",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5259",
+                "slug": "light",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/id00sansround/regular",
+            "css": {
+                "font-family": "ID00 Sans Round Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5258",
+                "slug": "regular",
+                "price": "$45.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1205",
+        "slug": "id00sansround"
+    },
+    "generatedAt": 1437610583610
+}

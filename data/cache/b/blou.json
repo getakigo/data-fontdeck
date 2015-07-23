@@ -1,0 +1,58 @@
+{
+    "name": "Blou",
+    "url": "http://fontdeck.com/typeface/blou",
+    "slug": "blou",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "All caps",
+        "Display",
+        "Experimental"
+    ],
+    "foundry": "Fontfabric",
+    "designer": [
+        "Svetoslav Simov"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "decorative",
+        "modern",
+        "rectangular",
+        "block",
+        "round",
+        "geometric",
+        "solid",
+        "fashionable",
+        "logo",
+        "blocks",
+        "heavy",
+        "ultra-bold",
+        "rounded",
+        "blocky",
+        "filled counters"
+    ],
+    "variations": [
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/blou/black",
+            "css": {
+                "font-family": "Blou Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2982",
+                "slug": "black",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "691",
+        "slug": "blou"
+    },
+    "generatedAt": 1437609730771
+}

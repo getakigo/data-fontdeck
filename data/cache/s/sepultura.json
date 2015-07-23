@@ -1,0 +1,105 @@
+{
+    "name": "Sepultura",
+    "url": "http://fontdeck.com/typeface/sepultura",
+    "slug": "sepultura",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Markus Ernst"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "decorative",
+        "blur",
+        "typewriter",
+        "swiss"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/sepultura/light",
+            "css": {
+                "font-family": "Sepultura Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1588",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/sepultura/regular",
+            "css": {
+                "font-family": "Sepultura Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1589",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/sepultura/bold",
+            "css": {
+                "font-family": "Sepultura Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1585",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Grave RIP",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/sepultura/graverip",
+            "css": {
+                "font-family": "Sepultura Grave RIP",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1587",
+                "slug": "graverip",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Grave Inri",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/sepultura/graveinri",
+            "css": {
+                "font-family": "Sepultura Grave Inri",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1586",
+                "slug": "graveinri",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "422",
+        "slug": "sepultura"
+    },
+    "generatedAt": 1437609320960
+}

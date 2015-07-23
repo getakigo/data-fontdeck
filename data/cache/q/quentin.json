@@ -1,0 +1,49 @@
+{
+    "name": "Quentin",
+    "url": "http://fontdeck.com/typeface/quentin",
+    "slug": "quentin",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "URW Studio"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "decorative",
+        "wild west",
+        "saloon",
+        "romantic",
+        "tuscan",
+        "valentine",
+        "cowboy",
+        "display"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/quentin/regular",
+            "css": {
+                "font-family": "Quentin Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2663",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "642",
+        "slug": "quentin"
+    },
+    "generatedAt": 1437609612134
+}

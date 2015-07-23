@@ -1,0 +1,44 @@
+{
+    "name": "Complete In Him Pro",
+    "url": "http://fontdeck.com/typeface/completeinhimpro",
+    "slug": "completeinhimpro",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Handwritten"
+    ],
+    "foundry": "CheapProFonts",
+    "designer": [
+        "Kimberly Geswein"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "handwritten",
+        "powerful",
+        "handwriting"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/completeinhimpro/regular",
+            "css": {
+                "font-family": "Complete In Him Pro Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3301",
+                "slug": "regular",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "793",
+        "slug": "completeinhimpro"
+    },
+    "generatedAt": 1437609897192
+}

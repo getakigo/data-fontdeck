@@ -1,0 +1,92 @@
+{
+    "name": "Capline",
+    "url": "http://fontdeck.com/typeface/capline",
+    "slug": "capline",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Futuristic",
+        "Display",
+        "Decorative",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "Jeremy Tankard Typography",
+    "designer": [
+        "Jeremy Tankard"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "headline",
+        "chromatic"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/capline/thin",
+            "css": {
+                "font-family": "Capline Thin",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6232",
+                "slug": "thin",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/capline/regular",
+            "css": {
+                "font-family": "Capline Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6230",
+                "slug": "regular",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/capline/bold",
+            "css": {
+                "font-family": "Capline Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6229",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Solid",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/capline/solid",
+            "css": {
+                "font-family": "Capline Solid",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6231",
+                "slug": "solid",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1435",
+        "slug": "capline"
+    },
+    "generatedAt": 1437611062732
+}

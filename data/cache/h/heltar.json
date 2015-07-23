@@ -1,0 +1,213 @@
+{
+    "name": "Heltar",
+    "url": "http://fontdeck.com/typeface/heltar",
+    "slug": "heltar",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Neo-Grotesk"
+    ],
+    "foundry": "The Northern Block",
+    "designer": [
+        "Jonathan Hill"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "geometric",
+        "logo",
+        "linear",
+        "balanced",
+        "neogrotesk",
+        "neo-grotesk",
+        "contemporary",
+        "magazine",
+        "news",
+        "versatile",
+        "brand identity",
+        "minimal",
+        "unica",
+        "modern",
+        "grotesk",
+        "brochures",
+        "european",
+        "headline",
+        "information",
+        "designers republic",
+        "sans-serif",
+        "legible",
+        "poster",
+        "economic",
+        "neutral",
+        "helvetica",
+        "fashion",
+        "swiss",
+        "grotesque",
+        "identity",
+        "editorial",
+        "sansserif",
+        "corporate",
+        "sans serif",
+        "german",
+        "clean",
+        "grotesk family"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/heltar/light",
+            "css": {
+                "font-family": "Heltar Light",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4719",
+                "slug": "light",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/heltar/italic",
+            "css": {
+                "font-family": "Heltar Italic",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4721",
+                "slug": "italic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/heltar/regular",
+            "css": {
+                "font-family": "Heltar Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4720",
+                "slug": "regular",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/heltar/medium",
+            "css": {
+                "font-family": "Heltar Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4722",
+                "slug": "medium",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/heltar/semibold",
+            "css": {
+                "font-family": "Heltar SemiBold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4723",
+                "slug": "semibold",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/heltar/bold",
+            "css": {
+                "font-family": "Heltar Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4725",
+                "slug": "bold",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/heltar/extrabold",
+            "css": {
+                "font-family": "Heltar ExtraBold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4726",
+                "slug": "extrabold",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/heltar/heavy",
+            "css": {
+                "font-family": "Heltar Heavy",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4727",
+                "slug": "heavy",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/heltar/black",
+            "css": {
+                "font-family": "Heltar Black",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4728",
+                "slug": "black",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "DemiBold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/heltar/demibold",
+            "css": {
+                "font-family": "Heltar DemiBold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4724",
+                "slug": "demibold",
+                "price": "$7.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1095",
+        "slug": "heltar"
+    },
+    "generatedAt": 1437610417062
+}

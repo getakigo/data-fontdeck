@@ -1,0 +1,102 @@
+{
+    "name": "FS Clerkenwell Web",
+    "url": "http://fontdeck.com/typeface/fsclerkenwellweb",
+    "slug": "fsclerkenwellweb",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Slab serif",
+        "Slab Serif",
+        "Egyptian"
+    ],
+    "foundry": "Fontsmith",
+    "designer": [
+        "Jason Smith",
+        "Phil Garnham"
+    ],
+    "opentype": [
+        "liga"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "modern",
+        "headlines",
+        "opentype",
+        "low contrast",
+        "text",
+        "logo",
+        "slab serif",
+        "logotypes",
+        "quirky",
+        "traditional"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/fsclerkenwellweb/light",
+            "css": {
+                "font-family": "FS Clerkenwell Web Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3582",
+                "slug": "light",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/fsclerkenwellweb/regular",
+            "css": {
+                "font-family": "FS Clerkenwell Web Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3583",
+                "slug": "regular",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/fsclerkenwellweb/italic",
+            "css": {
+                "font-family": "FS Clerkenwell Web Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3581",
+                "slug": "italic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/fsclerkenwellweb/bold",
+            "css": {
+                "font-family": "FS Clerkenwell Web Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3580",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "864",
+        "slug": "fsclerkenwellweb"
+    },
+    "generatedAt": 1437610024118
+}

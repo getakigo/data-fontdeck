@@ -1,0 +1,128 @@
+{
+    "name": "Canterbury Sans",
+    "url": "http://fontdeck.com/typeface/canterburysans",
+    "slug": "canterburysans",
+    "superfamily": "Canterbury",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif"
+    ],
+    "foundry": "Red Rooster Collection",
+    "designer": [
+        "Steve Jackaman"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "feminine",
+        "elegant",
+        "1920s",
+        "sans-serif",
+        "art deco",
+        "rae jordan",
+        "curls",
+        "swash",
+        "superfamily",
+        "sport",
+        "wedding"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/canterburysans/light",
+            "css": {
+                "font-family": "Canterbury Sans Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4201",
+                "slug": "light",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/canterburysans/medium",
+            "css": {
+                "font-family": "Canterbury Sans Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4203",
+                "slug": "medium",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/canterburysans/bold",
+            "css": {
+                "font-family": "Canterbury Sans Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4199",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Light Swash",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/canterburysans/lightswash",
+            "css": {
+                "font-family": "Canterbury Sans Light Swash",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4202",
+                "slug": "lightswash",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold Swash",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/canterburysans/boldswash",
+            "css": {
+                "font-family": "Canterbury Sans Bold Swash",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4200",
+                "slug": "boldswash",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Medium Swash",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/canterburysans/mediumswash",
+            "css": {
+                "font-family": "Canterbury Sans Medium Swash",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4204",
+                "slug": "mediumswash",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "986",
+        "slug": "canterburysans"
+    },
+    "generatedAt": 1437610247174
+}

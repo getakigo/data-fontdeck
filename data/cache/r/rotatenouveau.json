@@ -1,0 +1,61 @@
+{
+    "name": "Rotate Nouveau",
+    "url": "http://fontdeck.com/typeface/rotatenouveau",
+    "slug": "rotatenouveau",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Hellmut G. Bomm"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "decorative",
+        "2000s",
+        "german",
+        "revival",
+        "dynamic"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/rotatenouveau/regular",
+            "css": {
+                "font-family": "Rotate Nouveau Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1570",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/rotatenouveau/medium",
+            "css": {
+                "font-family": "Rotate Nouveau Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1569",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "419",
+        "slug": "rotatenouveau"
+    },
+    "generatedAt": 1437609311507
+}

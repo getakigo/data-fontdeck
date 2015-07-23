@@ -1,0 +1,64 @@
+{
+    "name": "Patriot",
+    "url": "http://fontdeck.com/typeface/patriot",
+    "slug": "patriot",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "All caps",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "VirusFonts",
+    "designer": [
+        "Jonathan Barnbrook"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "experimental",
+        "mechanical",
+        "modern",
+        "bold",
+        "headline",
+        "poster"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/patriot/light",
+            "css": {
+                "font-family": "Patriot Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3407",
+                "slug": "light",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/patriot/heavy",
+            "css": {
+                "font-family": "Patriot Heavy",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3408",
+                "slug": "heavy",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "826",
+        "slug": "patriot"
+    },
+    "generatedAt": 1437609944739
+}

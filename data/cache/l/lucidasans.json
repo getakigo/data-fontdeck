@@ -1,0 +1,108 @@
+{
+    "name": "Lucida Sans",
+    "url": "http://fontdeck.com/typeface/lucidasans",
+    "slug": "lucidasans",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Humanist"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Kris Holmes",
+        "Charles Bigelow"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "american",
+        "sansserif",
+        "old style",
+        "humanist",
+        "1980s",
+        "legible"
+    ],
+    "variations": [
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/lucidasans/italic",
+            "css": {
+                "font-family": "Lucida Sans Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "860",
+                "slug": "italic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/lucidasans/bolditalic",
+            "css": {
+                "font-family": "Lucida Sans Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "857",
+                "slug": "bolditalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Roman",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/lucidasans/roman",
+            "css": {
+                "font-family": "Lucida Sans Roman",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "856",
+                "slug": "roman",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Demi Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/lucidasans/demiitalic",
+            "css": {
+                "font-family": "Lucida Sans Demi Italic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "859",
+                "slug": "demiitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Demi",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/lucidasans/demi",
+            "css": {
+                "font-family": "Lucida Sans Demi",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "858",
+                "slug": "demi",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "261",
+        "slug": "lucidasans"
+    },
+    "generatedAt": 1437609094079
+}

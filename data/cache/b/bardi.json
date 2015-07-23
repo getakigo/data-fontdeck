@@ -1,0 +1,121 @@
+{
+    "name": "Bardi",
+    "url": "http://fontdeck.com/typeface/bardi",
+    "slug": "bardi",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Glyphic"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Alfred Tilp"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "inscribed",
+        "1990s",
+        "glyphic",
+        "dynamic",
+        "distinguished"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/bardi/regular",
+            "css": {
+                "font-family": "Bardi Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1525",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/bardi/italic",
+            "css": {
+                "font-family": "Bardi Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1524",
+                "slug": "italic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/bardi/bold",
+            "css": {
+                "font-family": "Bardi Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1522",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/bardi/bolditalic",
+            "css": {
+                "font-family": "Bardi Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1523",
+                "slug": "bolditalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Ultra Bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/bardi/ultrabold",
+            "css": {
+                "font-family": "Bardi Ultra Bold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1526",
+                "slug": "ultrabold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Ultra Bold Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/bardi/ultrabolditalic",
+            "css": {
+                "font-family": "Bardi Ultra Bold Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1527",
+                "slug": "ultrabolditalic",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "409",
+        "slug": "bardi"
+    },
+    "generatedAt": 1437609292988
+}

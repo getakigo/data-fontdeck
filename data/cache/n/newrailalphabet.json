@@ -1,0 +1,228 @@
+{
+    "name": "New Rail Alphabet",
+    "url": "http://fontdeck.com/typeface/newrailalphabet",
+    "slug": "newrailalphabet",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "A2-TYPE",
+    "designer": [
+        "Henrik Kubel",
+        "Margaret Calvert"
+    ],
+    "opentype": [
+        "dnom",
+        "frac",
+        "liga",
+        "lnum",
+        "numr",
+        "onum",
+        "ordn",
+        "pnum",
+        "sinf",
+        "sups",
+        "tnum"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "opentype",
+        "text",
+        "legible",
+        "contemporary",
+        "newspaper",
+        "magazine",
+        "book",
+        "editorial"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/newrailalphabet/light",
+            "css": {
+                "font-family": "New Rail Alphabet Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6452",
+                "slug": "light",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/newrailalphabet/lightitalic",
+            "css": {
+                "font-family": "New Rail Alphabet Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6453",
+                "slug": "lightitalic",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/newrailalphabet/medium",
+            "css": {
+                "font-family": "New Rail Alphabet Medium",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6454",
+                "slug": "medium",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/newrailalphabet/mediumitalic",
+            "css": {
+                "font-family": "New Rail Alphabet Medium Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6455",
+                "slug": "mediumitalic",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/newrailalphabet/bold",
+            "css": {
+                "font-family": "New Rail Alphabet Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6450",
+                "slug": "bold",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/newrailalphabet/bolditalic",
+            "css": {
+                "font-family": "New Rail Alphabet Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6451",
+                "slug": "bolditalic",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/newrailalphabet/black",
+            "css": {
+                "font-family": "New Rail Alphabet Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6448",
+                "slug": "black",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/newrailalphabet/blackitalic",
+            "css": {
+                "font-family": "New Rail Alphabet Black Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6449",
+                "slug": "blackitalic",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Off White",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/newrailalphabet/offwhite",
+            "css": {
+                "font-family": "New Rail Alphabet Off White",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6456",
+                "slug": "offwhite",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "White",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/newrailalphabet/white",
+            "css": {
+                "font-family": "New Rail Alphabet White",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6458",
+                "slug": "white",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "White Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/newrailalphabet/whiteitalic",
+            "css": {
+                "font-family": "New Rail Alphabet White Italic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6459",
+                "slug": "whiteitalic",
+                "price": "$45.00"
+            }
+        },
+        {
+            "name": "Off White Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/newrailalphabet/offwhiteitalic",
+            "css": {
+                "font-family": "NewRailAlphabetOffWhiteItalic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6457",
+                "slug": "offwhiteitalic",
+                "price": "$45.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1470",
+        "slug": "newrailalphabet"
+    },
+    "generatedAt": 1437610912664
+}

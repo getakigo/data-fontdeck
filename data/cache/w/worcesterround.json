@@ -1,0 +1,108 @@
+{
+    "name": "Worcester Round",
+    "url": "http://fontdeck.com/typeface/worcesterround",
+    "slug": "worcesterround",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Venetian"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "URW Studio"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "romantic",
+        "soft",
+        "feminine",
+        "valentine",
+        "round",
+        "english",
+        "natural"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/worcesterround/regular",
+            "css": {
+                "font-family": "Worcester Round Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "904",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/worcesterround/regularitalic",
+            "css": {
+                "font-family": "Worcester Round Regular Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "905",
+                "slug": "regularitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/worcesterround/medium",
+            "css": {
+                "font-family": "Worcester Round Medium",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "902",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/worcesterround/bold",
+            "css": {
+                "font-family": "Worcester Round Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "901",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Outline Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/worcesterround/outlinebold",
+            "css": {
+                "font-family": "Worcester Round Outline Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "903",
+                "slug": "outlinebold",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "270",
+        "slug": "worcesterround"
+    },
+    "generatedAt": 1437609111773
+}

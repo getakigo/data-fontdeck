@@ -1,0 +1,106 @@
+{
+    "name": "Lucida",
+    "url": "http://fontdeck.com/typeface/lucida",
+    "slug": "lucida",
+    "use": "body",
+    "classification": [
+        "Serif",
+        "Neo-classical"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Kris Holmes",
+        "Charles Bigelow"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "1990s",
+        "magazine",
+        "lucida",
+        "old style serif"
+    ],
+    "variations": [
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/lucida/italic",
+            "css": {
+                "font-family": "Lucida Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "273",
+                "slug": "italic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/lucida/bold",
+            "css": {
+                "font-family": "Lucida Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "303",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/lucida/bolditalic",
+            "css": {
+                "font-family": "Lucida Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "370",
+                "slug": "bolditalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Roman",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/lucida/roman",
+            "css": {
+                "font-family": "Lucida Roman",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "246",
+                "slug": "roman",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Small Caps",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/lucida/smallcaps",
+            "css": {
+                "font-family": "Lucida Small Caps",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "346",
+                "slug": "smallcaps",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "151",
+        "slug": "lucida"
+    },
+    "generatedAt": 1437608933169
+}

@@ -1,0 +1,62 @@
+{
+    "name": "Zyncho",
+    "url": "http://fontdeck.com/typeface/zyncho",
+    "slug": "zyncho",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Computer-related"
+    ],
+    "foundry": "Emboss Fonts",
+    "designer": [
+        "Stephen Boss"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "experimental",
+        "bitmap",
+        "bitmapped",
+        "techno",
+        "geometric",
+        "computer"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/zyncho/regular",
+            "css": {
+                "font-family": "Zyncho Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6949",
+                "slug": "regular",
+                "price": "$9.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/zyncho/italic",
+            "css": {
+                "font-family": "Zyncho Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6950",
+                "slug": "italic",
+                "price": "$9.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1592",
+        "slug": "zyncho"
+    },
+    "generatedAt": 1437611055672
+}

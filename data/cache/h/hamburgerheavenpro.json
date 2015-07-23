@@ -1,0 +1,48 @@
+{
+    "name": "Hamburger Heaven Pro",
+    "url": "http://fontdeck.com/typeface/hamburgerheavenpro",
+    "slug": "hamburgerheavenpro",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Decorative script",
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "CheapProFonts",
+    "designer": [
+        "Nick Curtis"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "retro",
+        "script",
+        "american",
+        "1950s",
+        "constructed"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/hamburgerheavenpro/regular",
+            "css": {
+                "font-family": "Hamburger Heaven Pro Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3036",
+                "slug": "regular",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "711",
+        "slug": "hamburgerheavenpro"
+    },
+    "generatedAt": 1437609763414
+}

@@ -1,0 +1,91 @@
+{
+    "name": "Lucida Sans Narrow",
+    "url": "http://fontdeck.com/typeface/lucidasansnarrow",
+    "slug": "lucidasansnarrow",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Humanist"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Kris Holmes",
+        "Charles Bigelow"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "american",
+        "humanist",
+        "1980s",
+        "legible"
+    ],
+    "variations": [
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/lucidasansnarrow/italic",
+            "css": {
+                "font-family": "Lucida Sans Narrow Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2599",
+                "slug": "italic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Roman",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/lucidasansnarrow/roman",
+            "css": {
+                "font-family": "Lucida Sans Narrow Roman",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2597",
+                "slug": "roman",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Demi",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/lucidasansnarrow/demi",
+            "css": {
+                "font-family": "Lucida Sans Narrow Demi",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2598",
+                "slug": "demi",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Demi Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/lucidasansnarrow/demiitalic",
+            "css": {
+                "font-family": "Lucida Sans Narrow Demi Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2600",
+                "slug": "demiitalic",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "628",
+        "slug": "lucidasansnarrow"
+    },
+    "generatedAt": 1437609593962
+}

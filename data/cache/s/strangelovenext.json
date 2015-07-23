@@ -1,0 +1,109 @@
+{
+    "name": "Strangelove Next",
+    "url": "http://fontdeck.com/typeface/strangelovenext",
+    "slug": "strangelovenext",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "All caps",
+        "Display",
+        "Comic Strip Lettering",
+        "Display",
+        "Sans serif"
+    ],
+    "foundry": "FaceType",
+    "designer": [
+        "Marcus Sterz"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "war",
+        "mix",
+        "music",
+        "handwritten",
+        "1960",
+        "titles",
+        "satiric",
+        "movie",
+        "nuclear",
+        "ligatures",
+        "hand-drawn",
+        "bomb",
+        "nuke",
+        "surprise",
+        "headline",
+        "cold",
+        "display",
+        "upgrade",
+        "narrow",
+        "update",
+        "line",
+        "jazz",
+        "monoline",
+        "next",
+        "hand",
+        "decorative",
+        "cool",
+        "handwriting",
+        "film",
+        "pop",
+        "atom",
+        "light",
+        "thin",
+        "wide"
+    ],
+    "variations": [
+        {
+            "name": "Narrow",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/strangelovenext/narrow",
+            "css": {
+                "font-family": "Strangelove Next Narrow",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5108",
+                "slug": "narrow",
+                "price": "$6.50"
+            }
+        },
+        {
+            "name": "Wide",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/strangelovenext/wide",
+            "css": {
+                "font-family": "Strangelove Next Wide",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5109",
+                "slug": "wide",
+                "price": "$6.50"
+            }
+        },
+        {
+            "name": "Mix",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/strangelovenext/mix",
+            "css": {
+                "font-family": "Strangelove Next Mix",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5107",
+                "slug": "mix",
+                "price": "$6.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1202",
+        "slug": "strangelovenext"
+    },
+    "generatedAt": 1437610592947
+}

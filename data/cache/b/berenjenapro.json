@@ -1,0 +1,200 @@
+{
+    "name": "Berenjena Pro",
+    "url": "http://fontdeck.com/typeface/berenjenapro",
+    "slug": "berenjenapro",
+    "use": "heading",
+    "classification": [
+        "Serif",
+        "Transitional"
+    ],
+    "foundry": "PampaType",
+    "designer": [
+        "Javier Quintana Godoy"
+    ],
+    "opentype": [
+        "c2sc",
+        "dlig",
+        "hist",
+        "lnum",
+        "onum",
+        "pnum",
+        "smcp",
+        "ss01",
+        "tnum",
+        "zero"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "languages",
+        "neo classical",
+        "opentype",
+        "serif",
+        "quintana",
+        "literary",
+        "argentina",
+        "text",
+        "bookish",
+        "friendly",
+        "neoclassical",
+        "latin american",
+        "all figures",
+        "literature",
+        "stylish",
+        "display",
+        "chile",
+        "south american",
+        "display font",
+        "latino",
+        "gourmet",
+        "novels",
+        "javier quintana",
+        "neo classic",
+        "classic",
+        "cute",
+        "neoclassic",
+        "legible",
+        "chilean",
+        "refined",
+        "lyric",
+        "beautiful cursive",
+        "comfortable",
+        "elegant",
+        "swashes",
+        "book",
+        "tipos latinos",
+        "magazines",
+        "delicate",
+        "baskerville like",
+        "readable",
+        "swash capitals"
+    ],
+    "variations": [
+        {
+            "name": "Blanca",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/berenjenapro/blanca",
+            "css": {
+                "font-family": "Berenjena Pro Blanca",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8908",
+                "slug": "blanca",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Gris",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/berenjenapro/gris",
+            "css": {
+                "font-family": "Berenjena Pro Gris",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8813",
+                "slug": "gris",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Fina",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/berenjenapro/fina",
+            "css": {
+                "font-family": "Berenjena Pro Fina",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8906",
+                "slug": "fina",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Negra",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/berenjenapro/negra",
+            "css": {
+                "font-family": "Berenjena Pro Negra",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8903",
+                "slug": "negra",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Gris Italica",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/berenjenapro/grisitalica",
+            "css": {
+                "font-family": "Berenjena Pro Gris Italica",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8904",
+                "slug": "grisitalica",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Negra Italica",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/berenjenapro/negraitalica",
+            "css": {
+                "font-family": "Berenjena Pro Negra Italica",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8902",
+                "slug": "negraitalica",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Fina Italica",
+            "description": "i3",
+            "url": "http://fontdeck.com/font/berenjenapro/finaitalica",
+            "css": {
+                "font-family": "Berenjena Pro Fina Italica",
+                "font-weight": "300",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8905",
+                "slug": "finaitalica",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Blanca Italica",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/berenjenapro/blancaitalica",
+            "css": {
+                "font-family": "Berenjena Pro Blanca Italica",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8907",
+                "slug": "blancaitalica",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1978",
+        "slug": "berenjenapro"
+    },
+    "generatedAt": 1437611612030
+}

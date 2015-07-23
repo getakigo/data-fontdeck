@@ -1,0 +1,76 @@
+{
+    "name": "Fette Fraktur",
+    "url": "http://fontdeck.com/typeface/fettefraktur",
+    "slug": "fettefraktur",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Blackletter"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Wagner Studio"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "gothic",
+        "blackletter",
+        "german",
+        "1880s",
+        "fraktur"
+    ],
+    "variations": [
+        {
+            "name": "Only Shadow Standard",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/fettefraktur/onlyshadowstandard",
+            "css": {
+                "font-family": "FetteFrakturOnlyShadowStandard",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1507",
+                "slug": "onlyshadowstandard",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Standard",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/fettefraktur/standard",
+            "css": {
+                "font-family": "Fette Fraktur Standard",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1508",
+                "slug": "standard",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Initials Standard",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/fettefraktur/initialsstandard",
+            "css": {
+                "font-family": "Fette Fraktur Initials Standard",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1506",
+                "slug": "initialsstandard",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "403",
+        "slug": "fettefraktur"
+    },
+    "generatedAt": 1437609285099
+}

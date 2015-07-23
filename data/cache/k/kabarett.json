@@ -1,0 +1,45 @@
+{
+    "name": "Kabarett",
+    "url": "http://fontdeck.com/typeface/kabarett",
+    "slug": "kabarett",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "URW Studio"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "decorative",
+        "1990s",
+        "german",
+        "round"
+    ],
+    "variations": [
+        {
+            "name": "Standard",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/kabarett/standard",
+            "css": {
+                "font-family": "Kabarett Standard",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1595",
+                "slug": "standard",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "425",
+        "slug": "kabarett"
+    },
+    "generatedAt": 1437609328740
+}

@@ -1,0 +1,151 @@
+{
+    "name": "Trim Poster",
+    "url": "http://fontdeck.com/typeface/trimposter",
+    "slug": "trimposter",
+    "superfamily": "Trim",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Poster"
+    ],
+    "foundry": "Letters from Sweden",
+    "designer": [
+        "Patch Hofweber",
+        "Göran Söderström"
+    ],
+    "opentype": [
+        "ss01",
+        "ss02",
+        "ss03",
+        "ss04",
+        "ss05",
+        "ss06"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "compressed",
+        "condensed",
+        "masthead",
+        "expanded",
+        "poster",
+        "billboard",
+        "extra narrow",
+        "compact",
+        "headline",
+        "heavy"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/trimposter/regular",
+            "css": {
+                "font-family": "Trim Poster Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6084",
+                "slug": "regular",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Compressed",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/trimposter/compressed",
+            "css": {
+                "font-family": "Trim Poster Compressed",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6081",
+                "slug": "compressed",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Condensed",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/trimposter/condensed",
+            "css": {
+                "font-family": "Trim Poster Condensed",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6082",
+                "slug": "condensed",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "SemiExpanded",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/trimposter/semiexpanded",
+            "css": {
+                "font-family": "Trim Poster SemiExpanded",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6085",
+                "slug": "semiexpanded",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "ExtraCompressed",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/trimposter/extracompressed",
+            "css": {
+                "font-family": "Trim Poster ExtraCompressed",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6101",
+                "slug": "extracompressed",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "SemiCondensed",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/trimposter/semicondensed",
+            "css": {
+                "font-family": "Trim Poster SemiCondensed",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6083",
+                "slug": "semicondensed",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Expanded",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/trimposter/expanded",
+            "css": {
+                "font-family": "Trim Poster Expanded",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6086",
+                "slug": "expanded",
+                "price": "$15.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1407",
+        "slug": "trimposter"
+    },
+    "generatedAt": 1437610823593
+}

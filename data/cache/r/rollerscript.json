@@ -1,0 +1,100 @@
+{
+    "name": "Rollerscript",
+    "url": "http://fontdeck.com/typeface/rollerscript",
+    "slug": "rollerscript",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Handwritten",
+        "Script",
+        "Calligraphic",
+        "Script",
+        "Casual"
+    ],
+    "foundry": "G-Type",
+    "designer": [
+        "Nick Cooke"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "grunge",
+        "invitations",
+        "realistic",
+        "expressive",
+        "quaint",
+        "freestyle",
+        "personal",
+        "worn",
+        "handwritten",
+        "magazine",
+        "weddings",
+        "invite",
+        "autoligs",
+        "alternates",
+        "authentic",
+        "flair",
+        "cursive",
+        "ligatures",
+        "calligraphic",
+        "contextual alternates",
+        "rough",
+        "random",
+        "rustic",
+        "headline",
+        "christmas",
+        "ballpoint",
+        "informal",
+        "roller pen",
+        "poster",
+        "weathered",
+        "certificate",
+        "script",
+        "cool",
+        "handwriting",
+        "fluid",
+        "lively",
+        "pentel",
+        "organic",
+        "distressed",
+        "handfont"
+    ],
+    "variations": [
+        {
+            "name": "Smooth",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/rollerscript/smooth",
+            "css": {
+                "font-family": "Rollerscript Smooth",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6285",
+                "slug": "smooth",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Rough",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/rollerscript/rough",
+            "css": {
+                "font-family": "Rollerscript Rough",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6284",
+                "slug": "rough",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1444",
+        "slug": "rollerscript"
+    },
+    "generatedAt": 1437611073035
+}

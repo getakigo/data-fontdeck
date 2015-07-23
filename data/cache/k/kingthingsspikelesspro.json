@@ -1,0 +1,42 @@
+{
+    "name": "Kingthings Spikeless Pro",
+    "url": "http://fontdeck.com/typeface/kingthingsspikelesspro",
+    "slug": "kingthingsspikelesspro",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Blackletter"
+    ],
+    "foundry": "CheapProFonts",
+    "designer": [
+        "Kevin King"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "gothic"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/kingthingsspikelesspro/regular",
+            "css": {
+                "font-family": "KingthingsSpikelessProRegular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6852",
+                "slug": "regular",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1562",
+        "slug": "kingthingsspikelesspro"
+    },
+    "generatedAt": 1437611010673
+}

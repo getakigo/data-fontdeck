@@ -1,0 +1,226 @@
+{
+    "name": "Unicod Sans Condensed",
+    "url": "http://fontdeck.com/typeface/unicodsanscondensed",
+    "slug": "unicodsanscondensed",
+    "superfamily": "Unicod",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Futuristic",
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "Mostardesign Studio",
+    "designer": [
+        "Olivier Gourvat"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "family",
+        "rectangular",
+        "condensed",
+        "geometric",
+        "dynamic",
+        "text",
+        "logo",
+        "linear",
+        "din",
+        "contemporary",
+        "humanist",
+        "magazine",
+        "news",
+        "business",
+        "fashionable",
+        "industrial sans",
+        "headline",
+        "information",
+        "transport",
+        "narrow",
+        "techno",
+        "sans-serif",
+        "classic",
+        "legible",
+        "monoline",
+        "super family",
+        "rounded",
+        "industrial",
+        "spurless",
+        "minimalism",
+        "swashes",
+        "fashion",
+        "grotesque",
+        "swiss",
+        "communication",
+        "identity",
+        "light",
+        "unicod",
+        "signage",
+        "urban",
+        "corporate",
+        "square",
+        "readable",
+        "futuristic",
+        "square sans",
+        "clean",
+        "financial services"
+    ],
+    "variations": [
+        {
+            "name": "Ultra-light",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/unicodsanscondensed/ultralight",
+            "css": {
+                "font-family": "UnicodSansCondensedUltralight",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2495",
+                "slug": "ultralight",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Ultra-light Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/unicodsanscondensed/ultralightitalic",
+            "css": {
+                "font-family": "UnicoSanCondenseUltralighItali",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2494",
+                "slug": "ultralightitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/unicodsanscondensed/light",
+            "css": {
+                "font-family": "Unicod Sans Condensed Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2491",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/unicodsanscondensed/lightitalic",
+            "css": {
+                "font-family": "UnicodSansCondensedLightItalic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2490",
+                "slug": "lightitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/unicodsanscondensed/regular",
+            "css": {
+                "font-family": "Unicod Sans Condensed Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2489",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/unicodsanscondensed/italic",
+            "css": {
+                "font-family": "Unicod Sans Condensed Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2488",
+                "slug": "italic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/unicodsanscondensed/medium",
+            "css": {
+                "font-family": "Unicod Sans Condensed Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2493",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/unicodsanscondensed/mediumitalic",
+            "css": {
+                "font-family": "UnicodSansCondensedMediumItalic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2492",
+                "slug": "mediumitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/unicodsanscondensed/bold",
+            "css": {
+                "font-family": "Unicod Sans Condensed Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2486",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/unicodsanscondensed/bolditalic",
+            "css": {
+                "font-family": "UnicodSansCondensedBoldItalic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2487",
+                "slug": "bolditalic",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "604",
+        "slug": "unicodsanscondensed"
+    },
+    "generatedAt": 1437609548809
+}

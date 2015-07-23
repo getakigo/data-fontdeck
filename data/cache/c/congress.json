@@ -1,0 +1,132 @@
+{
+    "name": "Congress",
+    "url": "http://fontdeck.com/typeface/congress",
+    "slug": "congress",
+    "use": "heading",
+    "classification": [
+        "Slab Serif",
+        "Grotesque/Geometric"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Adrian Williams"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "coarse",
+        "serif",
+        "technical",
+        "english",
+        "fax",
+        "memos",
+        "news",
+        "magazine",
+        "news headline",
+        "heavy serif",
+        "masculine",
+        "slab serif",
+        "sansserif",
+        "heavy",
+        "headline",
+        "1980s"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/congress/light",
+            "css": {
+                "font-family": "Congress Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1488",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/congress/regular",
+            "css": {
+                "font-family": "Congress Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1490",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/congress/regularitalic",
+            "css": {
+                "font-family": "Congress Regular Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1491",
+                "slug": "regularitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/congress/medium",
+            "css": {
+                "font-family": "Congress Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1489",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/congress/bold",
+            "css": {
+                "font-family": "Congress Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1487",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/congress/black",
+            "css": {
+                "font-family": "Congress Black",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1486",
+                "slug": "black",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "400",
+        "slug": "congress"
+    },
+    "generatedAt": 1437609285478
+}

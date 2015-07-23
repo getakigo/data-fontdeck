@@ -1,0 +1,47 @@
+{
+    "name": "Nordic Pro",
+    "url": "http://fontdeck.com/typeface/nordicpro",
+    "slug": "nordicpro",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Futuristic",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "CheapProFonts",
+    "designer": [
+        "Levente Halmos"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "cut",
+        "modular",
+        "square",
+        "futuristic"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/nordicpro/regular",
+            "css": {
+                "font-family": "Nordic Pro Regular",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4756",
+                "slug": "regular",
+                "price": "$9.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1104",
+        "slug": "nordicpro"
+    },
+    "generatedAt": 1437610432729
+}

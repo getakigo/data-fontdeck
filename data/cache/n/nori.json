@@ -1,0 +1,60 @@
+{
+    "name": "Nori",
+    "url": "http://fontdeck.com/typeface/nori",
+    "slug": "nori",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Handwritten",
+        "Display",
+        "Grunge",
+        "Display",
+        "Script"
+    ],
+    "foundry": "Positype",
+    "designer": [
+        "Neil Summerour"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "cursive",
+        "script",
+        "swashes",
+        "handwriting",
+        "brush",
+        "ligatures",
+        "handwritten",
+        "rough",
+        "headline",
+        "lettering",
+        "calligraphy",
+        "organic",
+        "distressed",
+        "wedding",
+        "alternates"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/nori/regular",
+            "css": {
+                "font-family": "Nori Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3499",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "850",
+        "slug": "nori"
+    },
+    "generatedAt": 1437609995524
+}

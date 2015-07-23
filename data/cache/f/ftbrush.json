@@ -1,0 +1,75 @@
+{
+    "name": "FT Brush",
+    "url": "http://fontdeck.com/typeface/ftbrush",
+    "slug": "ftbrush",
+    "use": "heading",
+    "classification": [
+        "Script",
+        "Calligraphic",
+        "Script",
+        "Casual"
+    ],
+    "foundry": "Fenotype",
+    "designer": [
+        "Emil Bertell"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "handwriting",
+        "brush"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/ftbrush/light",
+            "css": {
+                "font-family": "FT Brush Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7211",
+                "slug": "light",
+                "price": "$5.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/ftbrush/regular",
+            "css": {
+                "font-family": "FT Brush Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7212",
+                "slug": "regular",
+                "price": "$5.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/ftbrush/bold",
+            "css": {
+                "font-family": "FT Brush Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7210",
+                "slug": "bold",
+                "price": "$5.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1687",
+        "slug": "ftbrush"
+    },
+    "generatedAt": 1437611134915
+}

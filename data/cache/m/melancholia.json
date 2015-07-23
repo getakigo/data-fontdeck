@@ -1,0 +1,79 @@
+{
+    "name": "Melancholia",
+    "url": "http://fontdeck.com/typeface/melancholia",
+    "slug": "melancholia",
+    "use": "body",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Sans Serif",
+        "Hybrid"
+    ],
+    "foundry": "VirusFonts",
+    "designer": [
+        "Jonathan Barnbrook"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "delicate",
+        "sans serif",
+        "contemporary",
+        "swash",
+        "usable",
+        "calligraphic"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/melancholia/regular",
+            "css": {
+                "font-family": "Melancholia Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3384",
+                "slug": "regular",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/melancholia/italic",
+            "css": {
+                "font-family": "Melancholia Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3385",
+                "slug": "italic",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Alt",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/melancholia/alt",
+            "css": {
+                "font-family": "Melancholia Alt",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3386",
+                "slug": "alt",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "816",
+        "slug": "melancholia"
+    },
+    "generatedAt": 1437609934560
+}

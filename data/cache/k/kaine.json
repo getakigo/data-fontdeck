@@ -1,0 +1,124 @@
+{
+    "name": "Kaine",
+    "url": "http://fontdeck.com/typeface/kaine",
+    "slug": "kaine",
+    "use": "body",
+    "classification": [
+        "Display",
+        "Slab serif",
+        "Slab Serif",
+        "Grotesque/Geometric",
+        "Slab Serif",
+        "Clarendon/Bracketed"
+    ],
+    "foundry": "The Northern Block",
+    "designer": [
+        "Jonathan Hill"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "book jacket",
+        "outline",
+        "american",
+        "1800s",
+        "clarendon",
+        "country",
+        "news headline",
+        "wild west",
+        "block",
+        "heavy serif",
+        "western",
+        "wood type",
+        "vintage",
+        "bold",
+        "signage",
+        "heavy",
+        "headline",
+        "stencil",
+        "books"
+    ],
+    "variations": [
+        {
+            "name": "Regular Italic",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/kaine/italic",
+            "css": {
+                "font-family": "Kaine Italic",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2428",
+                "slug": "italic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/kaine/regular",
+            "css": {
+                "font-family": "Kaine Regular",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2427",
+                "slug": "regular",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Block",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/kaine/block",
+            "css": {
+                "font-family": "Kaine Block",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2431",
+                "slug": "block",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Stencil",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/kaine/stencil",
+            "css": {
+                "font-family": "Kaine Stencil",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2429",
+                "slug": "stencil",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Outline",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/kaine/outline",
+            "css": {
+                "font-family": "Kaine Outline",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2430",
+                "slug": "outline",
+                "price": "$7.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "591",
+        "slug": "kaine"
+    },
+    "generatedAt": 1437609520510
+}

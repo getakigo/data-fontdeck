@@ -1,0 +1,154 @@
+{
+    "name": "Trim",
+    "url": "http://fontdeck.com/typeface/trim",
+    "slug": "trim",
+    "superfamily": "Trim",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif",
+        "Sans Serif",
+        "Grotesque",
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "Letters from Sweden",
+    "designer": [
+        "Göran Söderström"
+    ],
+    "opentype": [
+        "liga",
+        "ss01"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "narrow",
+        "robust",
+        "hand hinted",
+        "condensed",
+        "strong",
+        "constructed",
+        "hand-hinted",
+        "economical",
+        "manually hinted",
+        "grotesque",
+        "handhinted",
+        "headline",
+        "sans serif",
+        "display"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/trim/thin",
+            "css": {
+                "font-family": "Trim Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5281",
+                "slug": "thin",
+                "price": "$17.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/trim/light",
+            "css": {
+                "font-family": "Trim Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5282",
+                "slug": "light",
+                "price": "$17.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/trim/regular",
+            "css": {
+                "font-family": "Trim Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5283",
+                "slug": "regular",
+                "price": "$17.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/trim/medium",
+            "css": {
+                "font-family": "Trim Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5284",
+                "slug": "medium",
+                "price": "$17.50"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/trim/semibold",
+            "css": {
+                "font-family": "Trim SemiBold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5285",
+                "slug": "semibold",
+                "price": "$17.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/trim/bold",
+            "css": {
+                "font-family": "Trim Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5286",
+                "slug": "bold",
+                "price": "$17.50"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/trim/extrabold",
+            "css": {
+                "font-family": "Trim ExtraBold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5287",
+                "slug": "extrabold",
+                "price": "$17.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1247",
+        "slug": "trim"
+    },
+    "generatedAt": 1437610593054
+}

@@ -1,0 +1,148 @@
+{
+    "name": "Copy",
+    "url": "http://fontdeck.com/typeface/copy",
+    "slug": "copy",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Neo-Grotesk"
+    ],
+    "foundry": "Fontseek",
+    "designer": [
+        "Philipp Herrmann"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "family",
+        "narrow",
+        "text",
+        "legible",
+        "system",
+        "din",
+        "conceptual",
+        "newspaper",
+        "magazine",
+        "modern",
+        "tight",
+        "book",
+        "advanced character set",
+        "swiss",
+        "light",
+        "clean",
+        "setting"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/copy/thin",
+            "css": {
+                "font-family": "Copy Thin",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5834",
+                "slug": "thin",
+                "price": "$15.62"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/copy/light",
+            "css": {
+                "font-family": "Copy Light",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5921",
+                "slug": "light",
+                "price": "$15.62"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/copy/regular",
+            "css": {
+                "font-family": "Copy Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5833",
+                "slug": "regular",
+                "price": "$15.62"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/copy/regularitalic",
+            "css": {
+                "font-family": "Copy Regular italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7555",
+                "slug": "regularitalic",
+                "price": "$15.62"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/copy/medium",
+            "css": {
+                "font-family": "Copy Medium",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5920",
+                "slug": "medium",
+                "price": "$15.62"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/copy/bold",
+            "css": {
+                "font-family": "Copy Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5835",
+                "slug": "bold",
+                "price": "$15.62"
+            }
+        },
+        {
+            "name": "Fat",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/copy/fat",
+            "css": {
+                "font-family": "Copy Fat",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7554",
+                "slug": "fat",
+                "price": "$15.62"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1339",
+        "slug": "copy"
+    },
+    "generatedAt": 1437610740873
+}

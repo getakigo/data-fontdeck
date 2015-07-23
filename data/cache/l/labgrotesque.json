@@ -1,0 +1,196 @@
+{
+    "name": "Lab Grotesque",
+    "url": "http://fontdeck.com/typeface/labgrotesque",
+    "slug": "labgrotesque",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Grotesque"
+    ],
+    "foundry": "Letters from Sweden",
+    "designer": [
+        "Stockholm Design Lab",
+        "Göran Söderström"
+    ],
+    "opentype": [
+        "calt",
+        "case",
+        "dnom",
+        "frac",
+        "liga",
+        "numr",
+        "ss01",
+        "ss02",
+        "ss03",
+        "tnum",
+        "zero"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "gothic",
+        "realist",
+        "scandinavian",
+        "grotesk",
+        "modernism",
+        "grotesque"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/labgrotesque/light",
+            "css": {
+                "font-family": "Lab Grotesque Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8344",
+                "slug": "light",
+                "price": "$17.50"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/labgrotesque/lightitalic",
+            "css": {
+                "font-family": "Lab Grotesque Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8494",
+                "slug": "lightitalic",
+                "price": "$17.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/labgrotesque/regular",
+            "css": {
+                "font-family": "Lab Grotesque Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8345",
+                "slug": "regular",
+                "price": "$17.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/labgrotesque/italic",
+            "css": {
+                "font-family": "Lab Grotesque Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8495",
+                "slug": "italic",
+                "price": "$17.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/labgrotesque/medium",
+            "css": {
+                "font-family": "Lab Grotesque Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8349",
+                "slug": "medium",
+                "price": "$17.50"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/labgrotesque/mediumitalic",
+            "css": {
+                "font-family": "Lab Grotesque Medium Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8497",
+                "slug": "mediumitalic",
+                "price": "$17.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/labgrotesque/bold",
+            "css": {
+                "font-family": "Lab Grotesque Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8346",
+                "slug": "bold",
+                "price": "$17.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/labgrotesque/bolditalic",
+            "css": {
+                "font-family": "Lab Grotesque Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8498",
+                "slug": "bolditalic",
+                "price": "$17.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/labgrotesque/black",
+            "css": {
+                "font-family": "Lab Grotesque Black",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8941",
+                "slug": "black",
+                "price": "$17.50"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/labgrotesque/blackitalic",
+            "css": {
+                "font-family": "Lab Grotesque Black Italic",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "8942",
+                "slug": "blackitalic",
+                "price": "$17.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1906",
+        "slug": "labgrotesque"
+    },
+    "generatedAt": 1437611577893
+}

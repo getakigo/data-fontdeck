@@ -1,0 +1,200 @@
+{
+    "name": "PlatformOne",
+    "url": "http://fontdeck.com/typeface/platformone",
+    "slug": "platformone",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Futuristic"
+    ],
+    "foundry": "The Northern Block",
+    "designer": [
+        "Jonathan Hill"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "transport",
+        "business card",
+        "formal",
+        "technical",
+        "english",
+        "circular",
+        "menu",
+        "linear",
+        "legible",
+        "brochure",
+        "rounded",
+        "magazine",
+        "news",
+        "bauhaus",
+        "minimal",
+        "business",
+        "news headline",
+        "cool",
+        "fashionable",
+        "swiss",
+        "identity",
+        "branding",
+        "signage",
+        "headline"
+    ],
+    "variations": [
+        {
+            "name": "Book",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/platformone/book",
+            "css": {
+                "font-family": "PlatformOne Book",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7136",
+                "slug": "book",
+                "price": "$29.00"
+            }
+        },
+        {
+            "name": "Book Italic",
+            "description": "i3",
+            "url": "http://fontdeck.com/font/platformone/bookitalic",
+            "css": {
+                "font-family": "PlatformOne Book Italic",
+                "font-weight": "300",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7135",
+                "slug": "bookitalic",
+                "price": "$29.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/platformone/regular",
+            "css": {
+                "font-family": "PlatformOne Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7140",
+                "slug": "regular",
+                "price": "$29.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/platformone/regularitalic",
+            "css": {
+                "font-family": "PlatformOne Regular Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7139",
+                "slug": "regularitalic",
+                "price": "$29.00"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/platformone/medium",
+            "css": {
+                "font-family": "PlatformOne Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7138",
+                "slug": "medium",
+                "price": "$29.00"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/platformone/mediumitalic",
+            "css": {
+                "font-family": "PlatformOne Medium Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7137",
+                "slug": "mediumitalic",
+                "price": "$29.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/platformone/bold",
+            "css": {
+                "font-family": "PlatformOne Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7133",
+                "slug": "bold",
+                "price": "$29.00"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/platformone/bolditalic",
+            "css": {
+                "font-family": "PlatformOne Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7134",
+                "slug": "bolditalic",
+                "price": "$29.00"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/platformone/black",
+            "css": {
+                "font-family": "PlatformOne Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7132",
+                "slug": "black",
+                "price": "$29.00"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/platformone/blackitalic",
+            "css": {
+                "font-family": "PlatformOne Black Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7131",
+                "slug": "blackitalic",
+                "price": "$29.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1676",
+        "slug": "platformone"
+    },
+    "generatedAt": 1437611128334
+}

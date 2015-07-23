@@ -1,0 +1,52 @@
+{
+    "name": "Rough the Type",
+    "url": "http://fontdeck.com/typeface/roughthetype",
+    "slug": "roughthetype",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Handwritten",
+        "Display",
+        "Comic Strip Lettering",
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "Tour de Force",
+    "designer": [
+        "Dušan Jelesijević"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "modern",
+        "rough",
+        "valentine",
+        "title",
+        "horror",
+        "handwriting",
+        "scary"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/roughthetype/regular",
+            "css": {
+                "font-family": "Rough the Type Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1142",
+                "slug": "regular",
+                "price": "$7.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "315",
+        "slug": "roughthetype"
+    },
+    "generatedAt": 1437609193730
+}

@@ -1,0 +1,106 @@
+{
+    "name": "Diavlo",
+    "url": "http://fontdeck.com/typeface/diavlo",
+    "slug": "diavlo",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif"
+    ],
+    "foundry": "Exljbris",
+    "designer": [
+        "Jos Buivenga"
+    ],
+    "opentype": [
+        "liga"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "informal",
+        "opentype"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/diavlo/light",
+            "css": {
+                "font-family": "Diavlo Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "110",
+                "slug": "light",
+                "price": "$2.99"
+            }
+        },
+        {
+            "name": "Book",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/diavlo/book",
+            "css": {
+                "font-family": "Diavlo Book",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "102",
+                "slug": "book",
+                "price": "$2.99"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/diavlo/medium",
+            "css": {
+                "font-family": "Diavlo Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "106",
+                "slug": "medium",
+                "price": "$2.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/diavlo/bold",
+            "css": {
+                "font-family": "Diavlo Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "94",
+                "slug": "bold",
+                "price": "$2.99"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/diavlo/black",
+            "css": {
+                "font-family": "Diavlo Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "98",
+                "slug": "black",
+                "price": "$2.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "32",
+        "slug": "diavlo"
+    },
+    "generatedAt": 1437608886348
+}

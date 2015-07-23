@@ -1,0 +1,76 @@
+{
+    "name": "Telegraph",
+    "url": "http://fontdeck.com/typeface/telegraph",
+    "slug": "telegraph",
+    "use": "body",
+    "classification": [
+        "Slab Serif",
+        "Clarendon/Bracketed"
+    ],
+    "foundry": "Fenotype",
+    "designer": [
+        "Emil Bertell"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "decorative",
+        "slab serif",
+        "wild west",
+        "headline",
+        "square"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/telegraph/regular",
+            "css": {
+                "font-family": "Telegraph Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2448",
+                "slug": "regular",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/telegraph/italic",
+            "css": {
+                "font-family": "Telegraph Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "2447",
+                "slug": "italic",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Circus",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/telegraph/circus",
+            "css": {
+                "font-family": "Telegraph Circus",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2446",
+                "slug": "circus",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "595",
+        "slug": "telegraph"
+    },
+    "generatedAt": 1437609529606
+}

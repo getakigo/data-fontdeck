@@ -1,0 +1,137 @@
+{
+    "name": "FS Rufus Web",
+    "url": "http://fontdeck.com/typeface/fsrufusweb",
+    "slug": "fsrufusweb",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Slab serif",
+        "Slab Serif",
+        "Grotesque/Geometric"
+    ],
+    "foundry": "Fontsmith",
+    "designer": [
+        "Emanuela Conidi",
+        "Jason Smith",
+        "Mitja Miklavčič",
+        "Phil Garnham"
+    ],
+    "opentype": [
+        "liga"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "eccentric",
+        "headlines",
+        "opentype",
+        "cheeky",
+        "slab-serif",
+        "semi-serif",
+        "offbeat",
+        "legible",
+        "unique",
+        "ink traps",
+        "quirky",
+        "curious",
+        "wide"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/fsrufusweb/light",
+            "css": {
+                "font-family": "FS Rufus Web Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4155",
+                "slug": "light",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/fsrufusweb/lightitalic",
+            "css": {
+                "font-family": "FS Rufus Web Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4154",
+                "slug": "lightitalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/fsrufusweb/regular",
+            "css": {
+                "font-family": "FS Rufus Web Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4156",
+                "slug": "regular",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/fsrufusweb/italic",
+            "css": {
+                "font-family": "FS Rufus Web Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4153",
+                "slug": "italic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/fsrufusweb/bold",
+            "css": {
+                "font-family": "FS Rufus Web Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4152",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/fsrufusweb/bolditalic",
+            "css": {
+                "font-family": "FS Rufus Web Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4151",
+                "slug": "bolditalic",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "976",
+        "slug": "fsrufusweb"
+    },
+    "generatedAt": 1437610220116
+}

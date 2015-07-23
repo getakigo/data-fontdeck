@@ -1,0 +1,56 @@
+{
+    "name": "Kirimomi Swash",
+    "url": "http://fontdeck.com/typeface/kirimomiswash",
+    "slug": "kirimomiswash",
+    "superfamily": "Kirimomi",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Serif",
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "Wordshape",
+    "designer": [
+        "Ian Lynam"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "modern",
+        "curved terminals",
+        "swashes",
+        "caslon",
+        "weighty serifs",
+        "classical",
+        "jean jannon",
+        "postmodern",
+        "curvaceous",
+        "superfamily",
+        "historical",
+        "timeless"
+    ],
+    "variations": [
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/kirimomiswash/italic",
+            "css": {
+                "font-family": "Kirimomi Swash Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4217",
+                "slug": "italic",
+                "price": "$3.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "988",
+        "slug": "kirimomiswash"
+    },
+    "generatedAt": 1437610246887
+}

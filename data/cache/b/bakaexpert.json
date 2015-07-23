@@ -1,0 +1,50 @@
+{
+    "name": "Baka Expert",
+    "url": "http://fontdeck.com/typeface/bakaexpert",
+    "slug": "bakaexpert",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Handwritten"
+    ],
+    "foundry": "Positype",
+    "designer": [
+        "Neil Summerour"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "grunge",
+        "cursive",
+        "texture",
+        "script",
+        "swashes",
+        "handwriting",
+        "ligatures",
+        "handwritten",
+        "rough"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/bakaexpert/regular",
+            "css": {
+                "font-family": "Baka Expert Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3497",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "848",
+        "slug": "bakaexpert"
+    },
+    "generatedAt": 1437609984810
+}

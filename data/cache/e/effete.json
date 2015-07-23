@@ -1,0 +1,50 @@
+{
+    "name": "Effete",
+    "url": "http://fontdeck.com/typeface/effete",
+    "slug": "effete",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Serif",
+        "Display",
+        "Poster",
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "Wordshape",
+    "designer": [
+        "Ian Lynam"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "modern",
+        "serif",
+        "readability",
+        "egyptian terminals",
+        "classic"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/effete/regular",
+            "css": {
+                "font-family": "Effete Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4767",
+                "slug": "regular",
+                "price": "$12.49"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1112",
+        "slug": "effete"
+    },
+    "generatedAt": 1437610440757
+}

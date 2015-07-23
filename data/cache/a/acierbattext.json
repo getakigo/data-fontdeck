@@ -1,0 +1,119 @@
+{
+    "name": "Acier BAT Text",
+    "url": "http://fontdeck.com/typeface/acierbattext",
+    "slug": "acierbattext",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Art Deco",
+        "Display",
+        "Sans serif",
+        "Display",
+        "Decorative",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "Bureau des Affaires Typographiques",
+    "designer": [
+        "Jean-Baptiste Levée",
+        "AM Cassandre"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "all caps",
+        "french",
+        "advertising",
+        "1930s",
+        "art deco",
+        "mechanical",
+        "outline",
+        "masculine",
+        "retro",
+        "acier",
+        "magazine"
+    ],
+    "variations": [
+        {
+            "name": "Strokes",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/acierbattext/strokes",
+            "css": {
+                "font-family": "Acier BAT Text Strokes",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1095",
+                "slug": "strokes",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Noir",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/acierbattext/noir",
+            "css": {
+                "font-family": "Acier BAT Text Noir",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1092",
+                "slug": "noir",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Solid",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/acierbattext/solid",
+            "css": {
+                "font-family": "Acier BAT Text Solid",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1094",
+                "slug": "solid",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Gris",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/acierbattext/gris",
+            "css": {
+                "font-family": "Acier BAT Text Gris",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1091",
+                "slug": "gris",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Outline",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/acierbattext/outline",
+            "css": {
+                "font-family": "Acier BAT Text Outline",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1093",
+                "slug": "outline",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "304",
+        "slug": "acierbattext"
+    },
+    "generatedAt": 1437609177675
+}

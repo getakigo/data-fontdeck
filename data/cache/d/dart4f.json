@@ -1,0 +1,53 @@
+{
+    "name": "Dart 4F",
+    "url": "http://fontdeck.com/typeface/dart4f",
+    "slug": "dart4f",
+    "use": "body",
+    "classification": [
+        "Display",
+        "Experimental",
+        "Sans Serif",
+        "Neo-Grotesk",
+        "Display",
+        "Sans serif",
+        "Display",
+        "Futuristic",
+        "Display",
+        "Decorative",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "4th february",
+    "designer": [
+        "Sergiy S. Tkachenko"
+    ],
+    "language": [
+        "latin",
+        "cyrillic"
+    ],
+    "tags": [
+        "swiss"
+    ],
+    "variations": [
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/dart4f/medium",
+            "css": {
+                "font-family": "Dart 4F Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "9048",
+                "slug": "medium",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "2023",
+        "slug": "dart4f"
+    },
+    "generatedAt": 1437611642166
+}

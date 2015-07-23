@@ -1,0 +1,119 @@
+{
+    "name": "Quimera",
+    "url": "http://fontdeck.com/typeface/quimera",
+    "slug": "quimera",
+    "use": "body",
+    "classification": [
+        "Slab Serif",
+        "Dynamic"
+    ],
+    "foundry": "PampaType",
+    "designer": [
+        "Alejandro Lo Celso"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "serif",
+        "narrow",
+        "antique olive",
+        "spanish",
+        "legible",
+        "informal",
+        "incongruous",
+        "economical",
+        "websites",
+        "decorative",
+        "french",
+        "excoffon",
+        "informal text",
+        "magazines",
+        "sanserif",
+        "delicate",
+        "readable",
+        "screen"
+    ],
+    "variations": [
+        {
+            "name": "Gris",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/quimera/gris",
+            "css": {
+                "font-family": "Quimera Gris",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8965",
+                "slug": "gris",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Compacta",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/quimera/compacta",
+            "css": {
+                "font-family": "Quimera Compacta",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8968",
+                "slug": "compacta",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Negra",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/quimera/negra",
+            "css": {
+                "font-family": "Quimera Negra",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8966",
+                "slug": "negra",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "Blanca",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/quimera/blanca",
+            "css": {
+                "font-family": "Quimera Blanca",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8964",
+                "slug": "blanca",
+                "price": "$9.50"
+            }
+        },
+        {
+            "name": "SuperNegra",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/quimera/supernegra",
+            "css": {
+                "font-family": "Quimera SuperNegra",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8967",
+                "slug": "supernegra",
+                "price": "$9.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "2009",
+        "slug": "quimera"
+    },
+    "generatedAt": 1437611586368
+}

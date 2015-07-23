@@ -1,0 +1,140 @@
+{
+    "name": "OricNeo",
+    "url": "http://fontdeck.com/typeface/oricneo",
+    "slug": "oricneo",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Futuristic"
+    ],
+    "foundry": "The Northern Block",
+    "designer": [
+        "Jonathan Hill"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "techno",
+        "technical",
+        "geometric",
+        "mechanical",
+        "manga",
+        "government",
+        "code",
+        "military",
+        "bauhaus",
+        "robot",
+        "movie",
+        "computer",
+        "anime",
+        "film",
+        "video-game",
+        "sci-fi",
+        "modular",
+        "electronic",
+        "headline",
+        "futuristic",
+        "grid",
+        "robotic",
+        "stencil",
+        "espionage"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/oricneo/thin",
+            "css": {
+                "font-family": "OricNeo Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7129",
+                "slug": "thin",
+                "price": "$29.00"
+            }
+        },
+        {
+            "name": "Thin Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/oricneo/thinitalic",
+            "css": {
+                "font-family": "OricNeo Thin Italic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7130",
+                "slug": "thinitalic",
+                "price": "$29.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/oricneo/regular",
+            "css": {
+                "font-family": "OricNeo Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7127",
+                "slug": "regular",
+                "price": "$29.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/oricneo/regularitalic",
+            "css": {
+                "font-family": "OricNeo Regular Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7128",
+                "slug": "regularitalic",
+                "price": "$29.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/oricneo/bold",
+            "css": {
+                "font-family": "OricNeo Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7125",
+                "slug": "bold",
+                "price": "$29.00"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/oricneo/bolditalic",
+            "css": {
+                "font-family": "OricNeo Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7126",
+                "slug": "bolditalic",
+                "price": "$29.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1675",
+        "slug": "oricneo"
+    },
+    "generatedAt": 1437611128005
+}

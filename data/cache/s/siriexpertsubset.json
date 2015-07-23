@@ -1,0 +1,275 @@
+{
+    "name": "Siri Expert Subset",
+    "url": "http://fontdeck.com/typeface/siriexpertsubset",
+    "slug": "siriexpertsubset",
+    "superfamily": "Siri",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Grotesque"
+    ],
+    "foundry": "Letters from Sweden",
+    "designer": [
+        "Göran Söderström"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "small caps",
+        "super family",
+        "expert subset",
+        "old-style numerals"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/siriexpertsubset/thin",
+            "css": {
+                "font-family": "Siri Expert Subset Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4489",
+                "slug": "thin",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "Thin Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/siriexpertsubset/thinitalic",
+            "css": {
+                "font-family": "Siri Expert Subset Thin Italic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4490",
+                "slug": "thinitalic",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/siriexpertsubset/light",
+            "css": {
+                "font-family": "Siri Expert Subset Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4485",
+                "slug": "light",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/siriexpertsubset/lightitalic",
+            "css": {
+                "font-family": "Siri Expert Subset Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4486",
+                "slug": "lightitalic",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/siriexpertsubset/regular",
+            "css": {
+                "font-family": "Siri Expert Subset Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4477",
+                "slug": "regular",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/siriexpertsubset/italic",
+            "css": {
+                "font-family": "Siri Expert Subset Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4478",
+                "slug": "italic",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/siriexpertsubset/medium",
+            "css": {
+                "font-family": "Siri Expert Subset Medium",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4487",
+                "slug": "medium",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i3",
+            "url": "http://fontdeck.com/font/siriexpertsubset/mediumitalic",
+            "css": {
+                "font-family": "SiriExpertSubsetMediumItalic",
+                "font-weight": "300",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4488",
+                "slug": "mediumitalic",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/siriexpertsubset/semibold",
+            "css": {
+                "font-family": "Siri Expert Subset SemiBold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4491",
+                "slug": "semibold",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "Semi-bold Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/siriexpertsubset/semibolditalic",
+            "css": {
+                "font-family": "SiriExpertSubsetSemiBoldItalic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4492",
+                "slug": "semibolditalic",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/siriexpertsubset/bold",
+            "css": {
+                "font-family": "Siri Expert Subset Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4479",
+                "slug": "bold",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/siriexpertsubset/bolditalic",
+            "css": {
+                "font-family": "Siri Expert Subset Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4480",
+                "slug": "bolditalic",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/siriexpertsubset/extrabold",
+            "css": {
+                "font-family": "Siri Expert Subset ExtraBold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4481",
+                "slug": "extrabold",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "Extra-bold Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/siriexpertsubset/extrabolditalic",
+            "css": {
+                "font-family": "SiriExpertSubsetExtraBoldItalic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4482",
+                "slug": "extrabolditalic",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/siriexpertsubset/black",
+            "css": {
+                "font-family": "Siri Expert Subset Black",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4483",
+                "slug": "black",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i9",
+            "url": "http://fontdeck.com/font/siriexpertsubset/blackitalic",
+            "css": {
+                "font-family": "SiriExpertSubsetBlackItalic",
+                "font-weight": "900",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4484",
+                "slug": "blackitalic",
+                "price": "$3.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1019",
+        "slug": "siriexpertsubset"
+    },
+    "expert subset": [
+        "onum",
+        "smcp"
+    ],
+    "generatedAt": 1437610310377
+}

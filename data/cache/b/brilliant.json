@@ -1,0 +1,83 @@
+{
+    "name": "Brilliant",
+    "url": "http://fontdeck.com/typeface/brilliant",
+    "slug": "brilliant",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Slab serif",
+        "Display",
+        "Serif",
+        "Display",
+        "Stencil"
+    ],
+    "foundry": "FaceType",
+    "designer": [
+        "Igor Labudovic"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "decorative",
+        "serif",
+        "cool",
+        "ligatures",
+        "",
+        "headline",
+        "display",
+        "stencil"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/brilliant/regular",
+            "css": {
+                "font-family": "Brilliant Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5118",
+                "slug": "regular",
+                "price": "$11.25"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/brilliant/bold",
+            "css": {
+                "font-family": "Brilliant Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5119",
+                "slug": "bold",
+                "price": "$11.25"
+            }
+        },
+        {
+            "name": "Ultra",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/brilliant/ultra",
+            "css": {
+                "font-family": "Brilliant Ultra",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5120",
+                "slug": "ultra",
+                "price": "$11.25"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1217",
+        "slug": "brilliant"
+    },
+    "generatedAt": 1437610613399
+}

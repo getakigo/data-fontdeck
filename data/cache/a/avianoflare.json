@@ -1,0 +1,117 @@
+{
+    "name": "Aviano Flare",
+    "url": "http://fontdeck.com/typeface/avianoflare",
+    "slug": "avianoflare",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Art Deco"
+    ],
+    "foundry": "Insigne",
+    "designer": [
+        "Jeremy Dooley"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "aviano"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/avianoflare/thin",
+            "css": {
+                "font-family": "Aviano Flare Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "502",
+                "slug": "thin",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/avianoflare/light",
+            "css": {
+                "font-family": "Aviano Flare Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "501",
+                "slug": "light",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/avianoflare/regular",
+            "css": {
+                "font-family": "Aviano Flare Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "497",
+                "slug": "regular",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/avianoflare/medium",
+            "css": {
+                "font-family": "Aviano Flare Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "500",
+                "slug": "medium",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/avianoflare/bold",
+            "css": {
+                "font-family": "Aviano Flare Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "499",
+                "slug": "bold",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/avianoflare/black",
+            "css": {
+                "font-family": "Aviano Flare Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "498",
+                "slug": "black",
+                "price": "$7.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "200",
+        "slug": "avianoflare"
+    },
+    "generatedAt": 1437608996405
+}

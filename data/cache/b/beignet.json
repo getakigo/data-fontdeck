@@ -1,0 +1,65 @@
+{
+    "name": "Beignet",
+    "url": "http://fontdeck.com/typeface/beignet",
+    "slug": "beignet",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Script"
+    ],
+    "foundry": "Veer",
+    "designer": [
+        "Jason Walcott"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "script",
+        "1940s",
+        "1930s",
+        "brush-drawn",
+        "calligraphic",
+        "retro",
+        "display",
+        "calligraphy",
+        "casual-script"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/beignet/regular",
+            "css": {
+                "font-family": "Beignet Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5065",
+                "slug": "regular",
+                "price": "$11.25"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/beignet/heavy",
+            "css": {
+                "font-family": "Beignet Heavy",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5066",
+                "slug": "heavy",
+                "price": "$11.25"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1187",
+        "slug": "beignet"
+    },
+    "generatedAt": 1437610529518
+}

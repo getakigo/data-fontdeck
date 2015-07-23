@@ -1,0 +1,67 @@
+{
+    "name": "Quasar",
+    "url": "http://fontdeck.com/typeface/quasar",
+    "slug": "quasar",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Futuristic"
+    ],
+    "foundry": "Veer",
+    "designer": [
+        "Jason Walcott"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "decorative",
+        "1970s",
+        "sans-serif",
+        "regular",
+        "kitsch",
+        "sci-fi",
+        "futurism",
+        "futuristic",
+        "rounded",
+        "display",
+        "op-art"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/quasar/regular",
+            "css": {
+                "font-family": "Quasar Regular",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5058",
+                "slug": "regular",
+                "price": "$13.44"
+            }
+        },
+        {
+            "name": "Ionized",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/quasar/ionized",
+            "css": {
+                "font-family": "Quasar Ionized",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5059",
+                "slug": "ionized",
+                "price": "$13.44"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1181",
+        "slug": "quasar"
+    },
+    "generatedAt": 1437610520127
+}

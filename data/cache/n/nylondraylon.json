@@ -1,0 +1,63 @@
+{
+    "name": "Nylon & Draylon",
+    "url": "http://fontdeck.com/typeface/nylondraylon",
+    "slug": "nylondraylon",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Serif"
+    ],
+    "foundry": "VirusFonts",
+    "designer": [
+        "Jonathan Barnbrook"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "16th century",
+        "experimental",
+        "18th century",
+        "manic",
+        "17th century",
+        "headline",
+        "naïve"
+    ],
+    "variations": [
+        {
+            "name": "Draylon",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/nylondraylon/draylon",
+            "css": {
+                "font-family": "Nylon & Draylon Draylon",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3406",
+                "slug": "draylon",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "Nylon",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/nylondraylon/nylon",
+            "css": {
+                "font-family": "Nylon & Draylon Nylon",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3402",
+                "slug": "nylon",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "823",
+        "slug": "nylondraylon"
+    },
+    "generatedAt": 1437609944657
+}

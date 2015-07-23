@@ -1,0 +1,48 @@
+{
+    "name": "Peachy Keen",
+    "url": "http://fontdeck.com/typeface/peachykeen",
+    "slug": "peachykeen",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Sans serif"
+    ],
+    "foundry": "Veer",
+    "designer": [
+        "Jason Walcott"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "cartoons",
+        "1950s",
+        "display",
+        "playful",
+        "sans-serif",
+        "text",
+        "vintage"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/peachykeen/regular",
+            "css": {
+                "font-family": "Peachy Keen Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5033",
+                "slug": "regular",
+                "price": "$11.25"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1168",
+        "slug": "peachykeen"
+    },
+    "generatedAt": 1437610505143
+}

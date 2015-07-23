@@ -1,0 +1,49 @@
+{
+    "name": "Baileywick Curly",
+    "url": "http://fontdeck.com/typeface/baileywickcurly",
+    "slug": "baileywickcurly",
+    "superfamily": "Baileywick",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "Veer",
+    "designer": [
+        "Jason Walcott"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "decorative",
+        "1960s",
+        "retro",
+        "1900s",
+        "curls",
+        "display",
+        "superfamily"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/baileywickcurly/regular",
+            "css": {
+                "font-family": "Baileywick Curly Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5027",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1163",
+        "slug": "baileywickcurly"
+    },
+    "generatedAt": 1437610497484
+}

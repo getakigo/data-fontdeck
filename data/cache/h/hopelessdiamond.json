@@ -1,0 +1,214 @@
+{
+    "name": "Hopeless Diamond",
+    "url": "http://fontdeck.com/typeface/hopelessdiamond",
+    "slug": "hopelessdiamond",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Poster"
+    ],
+    "foundry": "VirusFonts",
+    "designer": [
+        "Jonathan Barnbrook"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "experimental",
+        "carved lettering",
+        "stealth",
+        "ultra bold",
+        "headline",
+        "display",
+        "poster",
+        "dimensional"
+    ],
+    "variations": [
+        {
+            "name": "C Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/hopelessdiamond/cregular",
+            "css": {
+                "font-family": "Hopeless Diamond C Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3376",
+                "slug": "cregular",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "C Regular Alt",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/hopelessdiamond/cregularalt",
+            "css": {
+                "font-family": "Hopeless Diamond C Regular Alt",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3377",
+                "slug": "cregularalt",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "B Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/hopelessdiamond/bregular",
+            "css": {
+                "font-family": "Hopeless Diamond B Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3368",
+                "slug": "bregular",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "B Regular Alt",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/hopelessdiamond/bregularalt",
+            "css": {
+                "font-family": "Hopeless Diamond B Regular Alt",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3369",
+                "slug": "bregularalt",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "A Regular Alt",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/hopelessdiamond/aregularalt",
+            "css": {
+                "font-family": "Hopeless Diamond A Regular Alt",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3373",
+                "slug": "aregularalt",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "A Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/hopelessdiamond/aregular",
+            "css": {
+                "font-family": "Hopeless Diamond A Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3372",
+                "slug": "aregular",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "C Italic Alt",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/hopelessdiamond/citalicalt",
+            "css": {
+                "font-family": "Hopeless Diamond C Italic Alt",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3379",
+                "slug": "citalicalt",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "B Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/hopelessdiamond/bitalic",
+            "css": {
+                "font-family": "Hopeless Diamond B Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3370",
+                "slug": "bitalic",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "A Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/hopelessdiamond/aitalic",
+            "css": {
+                "font-family": "Hopeless Diamond A Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3374",
+                "slug": "aitalic",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "A Italic Alt",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/hopelessdiamond/aitalicalt",
+            "css": {
+                "font-family": "Hopeless Diamond A Italic Alt",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3375",
+                "slug": "aitalicalt",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "C Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/hopelessdiamond/citalic",
+            "css": {
+                "font-family": "Hopeless Diamond C Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3378",
+                "slug": "citalic",
+                "price": "$10.00"
+            }
+        },
+        {
+            "name": "B Italic Alt",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/hopelessdiamond/bitalicalt",
+            "css": {
+                "font-family": "Hopeless Diamond B Italic Alt",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "3371",
+                "slug": "bitalicalt",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "812",
+        "slug": "hopelessdiamond"
+    },
+    "generatedAt": 1437609925197
+}

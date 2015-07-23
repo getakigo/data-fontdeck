@@ -1,0 +1,49 @@
+{
+    "name": "Confectioner",
+    "url": "http://fontdeck.com/typeface/confectioner",
+    "slug": "confectioner",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "Veer",
+    "designer": [
+        "Jason Walcott"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "decorative",
+        "1970s",
+        "1960s",
+        "retro",
+        "italic",
+        "curls",
+        "display",
+        "alternates"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/confectioner/regular",
+            "css": {
+                "font-family": "Confectioner Regular",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5081",
+                "slug": "regular",
+                "price": "$11.25"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1198",
+        "slug": "confectioner"
+    },
+    "generatedAt": 1437610548026
+}

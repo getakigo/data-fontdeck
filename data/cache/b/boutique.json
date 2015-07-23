@@ -1,0 +1,96 @@
+{
+    "name": "Boutique",
+    "url": "http://fontdeck.com/typeface/boutique",
+    "slug": "boutique",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Art Deco",
+        "Display",
+        "Sans serif",
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "Milieu Grotesque",
+    "designer": [
+        "Timo Gaessner"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "high contrast",
+        "headlines",
+        "neoclassical",
+        "didone",
+        "display",
+        "poster"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/boutique/light",
+            "css": {
+                "font-family": "Boutique Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5578",
+                "slug": "light",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/boutique/regular",
+            "css": {
+                "font-family": "Boutique Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5579",
+                "slug": "regular",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/boutique/bold",
+            "css": {
+                "font-family": "Boutique Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5580",
+                "slug": "bold",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Engraved",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/boutique/engraved",
+            "css": {
+                "font-family": "Boutique Engraved",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5577",
+                "slug": "engraved",
+                "price": "$15.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1298",
+        "slug": "boutique"
+    },
+    "generatedAt": 1437610715704
+}

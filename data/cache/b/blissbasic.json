@@ -1,0 +1,91 @@
+{
+    "name": "Bliss Basic",
+    "url": "http://fontdeck.com/typeface/blissbasic",
+    "slug": "blissbasic",
+    "superfamily": "Bliss",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Humanist"
+    ],
+    "foundry": "Jeremy Tankard Typography",
+    "designer": [
+        "Jeremy Tankard"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "british",
+        "superfamily",
+        "english",
+        "legible"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/blissbasic/regular",
+            "css": {
+                "font-family": "Bliss Basic Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5914",
+                "slug": "regular",
+                "price": "$17.49"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/blissbasic/italic",
+            "css": {
+                "font-family": "Bliss Basic Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5915",
+                "slug": "italic",
+                "price": "$17.49"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/blissbasic/bold",
+            "css": {
+                "font-family": "Bliss Basic Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5916",
+                "slug": "bold",
+                "price": "$17.49"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/blissbasic/bolditalic",
+            "css": {
+                "font-family": "Bliss Basic Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5917",
+                "slug": "bolditalic",
+                "price": "$17.49"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1347",
+        "slug": "blissbasic"
+    },
+    "generatedAt": 1437610752228
+}

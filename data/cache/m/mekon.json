@@ -1,0 +1,144 @@
+{
+    "name": "Mekon",
+    "url": "http://fontdeck.com/typeface/mekon",
+    "slug": "mekon",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Art Deco",
+        "Display",
+        "Futuristic",
+        "Sans Serif",
+        "Geometric",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "The Northern Block",
+    "designer": [
+        "Jonathan Hill"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "headlines",
+        "geometric",
+        "avant garde",
+        "logo",
+        "linear",
+        "strong",
+        "contemporary",
+        "magazine",
+        "poster",
+        "modern",
+        "art deco",
+        "identity",
+        "bold",
+        "slab serif",
+        "lined",
+        "heavy",
+        "headline",
+        "futuristic",
+        "ultra-bold",
+        "grid",
+        "1980s",
+        "impact"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/mekon/regular",
+            "css": {
+                "font-family": "Mekon Regular",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2388",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Alt",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/mekon/regularalt",
+            "css": {
+                "font-family": "Mekon Regular Alt",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2389",
+                "slug": "regularalt",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Block Alt",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/mekon/blockalt",
+            "css": {
+                "font-family": "Mekon Block Alt",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2391",
+                "slug": "blockalt",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Outline",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/mekon/outline",
+            "css": {
+                "font-family": "Mekon Outline",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2392",
+                "slug": "outline",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Block",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/mekon/block",
+            "css": {
+                "font-family": "Mekon Block",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2390",
+                "slug": "block",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Outline Alt",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/mekon/outlinealt",
+            "css": {
+                "font-family": "Mekon Outline Alt",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2393",
+                "slug": "outlinealt",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "581",
+        "slug": "mekon"
+    },
+    "generatedAt": 1437609499752
+}

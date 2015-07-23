@@ -1,0 +1,95 @@
+{
+    "name": "Siri Core Expert Subset",
+    "url": "http://fontdeck.com/typeface/siricoreexpertsubset",
+    "slug": "siricoreexpertsubset",
+    "superfamily": "Siri",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Grotesque"
+    ],
+    "foundry": "Letters from Sweden",
+    "designer": [
+        "Göran Söderström"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "small caps",
+        "super family",
+        "expert subset",
+        "old-style numerals"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/siricoreexpertsubset/regular",
+            "css": {
+                "font-family": "Siri Core Expert Subset Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4292",
+                "slug": "regular",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/siricoreexpertsubset/italic",
+            "css": {
+                "font-family": "Siri Core Expert Subset Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4293",
+                "slug": "italic",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/siricoreexpertsubset/bold",
+            "css": {
+                "font-family": "Siri Core Expert Subset Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4294",
+                "slug": "bold",
+                "price": "$3.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/siricoreexpertsubset/bolditalic",
+            "css": {
+                "font-family": "SiriCoreExpertSubsetBoldItalic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "4295",
+                "slug": "bolditalic",
+                "price": "$3.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1007",
+        "slug": "siricoreexpertsubset"
+    },
+    "expert subset": [
+        "onum",
+        "smcp"
+    ],
+    "generatedAt": 1437610291071
+}

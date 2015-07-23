@@ -1,0 +1,229 @@
+{
+    "name": "Houschka Rounded",
+    "url": "http://fontdeck.com/typeface/houschkarounded",
+    "slug": "houschkarounded",
+    "superfamily": "Houschka",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "G-Type",
+    "designer": [
+        "Nick Cooke"
+    ],
+    "opentype": [
+        "calt",
+        "dlig",
+        "liga",
+        "lnum",
+        "onum",
+        "pnum",
+        "salt",
+        "ss01",
+        "ss02",
+        "ss03",
+        "tnum"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "opentype",
+        "text",
+        "legible",
+        "cyrillic",
+        "magazine",
+        "rounded",
+        "modern",
+        "headline",
+        "corporate"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/houschkarounded/thin",
+            "css": {
+                "font-family": "Houschka Rounded Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6804",
+                "slug": "thin",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Thin Italic",
+            "description": "i1",
+            "url": "http://fontdeck.com/font/houschkarounded/thinitalic",
+            "css": {
+                "font-family": "Houschka Rounded Thin Italic",
+                "font-weight": "100",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6805",
+                "slug": "thinitalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/houschkarounded/light",
+            "css": {
+                "font-family": "Houschka Rounded Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6800",
+                "slug": "light",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/houschkarounded/lightitalic",
+            "css": {
+                "font-family": "Houschka Rounded Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6801",
+                "slug": "lightitalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/houschkarounded/medium",
+            "css": {
+                "font-family": "Houschka Rounded Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6803",
+                "slug": "medium",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/houschkarounded/mediumitalic",
+            "css": {
+                "font-family": "Houschka Rounded Medium Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6802",
+                "slug": "mediumitalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/houschkarounded/bold",
+            "css": {
+                "font-family": "Houschka Rounded Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6795",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/houschkarounded/bolditalic",
+            "css": {
+                "font-family": "Houschka Rounded Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6796",
+                "slug": "bolditalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/houschkarounded/extrabold",
+            "css": {
+                "font-family": "Houschka Rounded ExtraBold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6798",
+                "slug": "extrabold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Extra-bold Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/houschkarounded/extrabolditalic",
+            "css": {
+                "font-family": "HouschkaRoundedExtraBoldItalic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6799",
+                "slug": "extrabolditalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "DemiBold",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/houschkarounded/demibold",
+            "css": {
+                "font-family": "Houschka Rounded DemiBold",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6797",
+                "slug": "demibold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "DemiBold Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/houschkarounded/demibolditalic",
+            "css": {
+                "font-family": "HouschkaRoundedDemiBoldItalic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6960",
+                "slug": "demibolditalic",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1547",
+        "slug": "houschkarounded"
+    },
+    "generatedAt": 1437611107766
+}

@@ -1,0 +1,154 @@
+{
+    "name": "DTC Hermes",
+    "url": "http://fontdeck.com/typeface/dtchermes",
+    "slug": "dtchermes",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Hybrid"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Volker Schnebel"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "inscribed",
+        "1990s",
+        "glyphic",
+        "japanese",
+        "semi-serif",
+        "legible",
+        "asian",
+        "german"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/dtchermes/light",
+            "css": {
+                "font-family": "DTC Hermes Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1500",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/dtchermes/lightitalic",
+            "css": {
+                "font-family": "DTC Hermes Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1501",
+                "slug": "lightitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/dtchermes/regular",
+            "css": {
+                "font-family": "DTC Hermes Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1504",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/dtchermes/regularitalic",
+            "css": {
+                "font-family": "DTC Hermes Regular Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1505",
+                "slug": "regularitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/dtchermes/medium",
+            "css": {
+                "font-family": "DTC Hermes Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1502",
+                "slug": "medium",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/dtchermes/mediumitalic",
+            "css": {
+                "font-family": "DTC Hermes Medium Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1503",
+                "slug": "mediumitalic",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/dtchermes/bold",
+            "css": {
+                "font-family": "DTC Hermes Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1498",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/dtchermes/bolditalic",
+            "css": {
+                "font-family": "DTC Hermes Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1499",
+                "slug": "bolditalic",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "402",
+        "slug": "dtchermes"
+    },
+    "generatedAt": 1437609285281
+}

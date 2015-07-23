@@ -1,0 +1,47 @@
+{
+    "name": "Celebrate The Day Pro",
+    "url": "http://fontdeck.com/typeface/celebratethedaypro",
+    "slug": "celebratethedaypro",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Handwritten"
+    ],
+    "foundry": "CheapProFonts",
+    "designer": [
+        "Kimberly Geswein"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "handwritten",
+        "lovable",
+        "loose",
+        "feminine",
+        "handwriting",
+        "flowing"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/celebratethedaypro/regular",
+            "css": {
+                "font-family": "Celebrate The Day Pro Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3299",
+                "slug": "regular",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "791",
+        "slug": "celebratethedaypro"
+    },
+    "generatedAt": 1437609889082
+}

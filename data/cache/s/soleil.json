@@ -1,0 +1,233 @@
+{
+    "name": "Soleil",
+    "url": "http://fontdeck.com/typeface/soleil",
+    "slug": "soleil",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "TypeTogether",
+    "designer": [
+        "Wolfgang Homola"
+    ],
+    "opentype": [
+        "c2sc",
+        "dlig",
+        "frac",
+        "hist",
+        "liga",
+        "lnum",
+        "onum",
+        "ordn",
+        "pnum",
+        "sinf",
+        "smcp",
+        "ss01",
+        "ss02",
+        "ss03",
+        "tnum",
+        "zero"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "opentype",
+        "geometric",
+        "wayfinding",
+        "magazine",
+        "futura",
+        "book",
+        "signage",
+        "branding",
+        "corporate"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/soleil/light",
+            "css": {
+                "font-family": "Soleil Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5353",
+                "slug": "light",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/soleil/lightitalic",
+            "css": {
+                "font-family": "Soleil Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7547",
+                "slug": "lightitalic",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Book",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/soleil/book",
+            "css": {
+                "font-family": "Soleil Book",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5355",
+                "slug": "book",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Book Italic",
+            "description": "i5",
+            "url": "http://fontdeck.com/font/soleil/bookitalic",
+            "css": {
+                "font-family": "Soleil Book Italic",
+                "font-weight": "500",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7544",
+                "slug": "bookitalic",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/soleil/regular",
+            "css": {
+                "font-family": "Soleil Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5352",
+                "slug": "regular",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/soleil/italic",
+            "css": {
+                "font-family": "Soleil Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7546",
+                "slug": "italic",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/soleil/semibold",
+            "css": {
+                "font-family": "Soleil SemiBold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7541",
+                "slug": "semibold",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Semi-bold Italic",
+            "description": "i6",
+            "url": "http://fontdeck.com/font/soleil/semibolditalic",
+            "css": {
+                "font-family": "Soleil SemiBold Italic",
+                "font-weight": "600",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7542",
+                "slug": "semibolditalic",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/soleil/bold",
+            "css": {
+                "font-family": "Soleil Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5356",
+                "slug": "bold",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/soleil/bolditalic",
+            "css": {
+                "font-family": "Soleil Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7543",
+                "slug": "bolditalic",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/soleil/extrabold",
+            "css": {
+                "font-family": "Soleil Extra Bold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5354",
+                "slug": "extrabold",
+                "price": "$15.99"
+            }
+        },
+        {
+            "name": "Extra-bold Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/soleil/extrabolditalic",
+            "css": {
+                "font-family": "Soleil Extra Bold Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "7545",
+                "slug": "extrabolditalic",
+                "price": "$15.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1251",
+        "slug": "soleil"
+    },
+    "generatedAt": 1437611180915
+}

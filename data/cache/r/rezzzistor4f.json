@@ -1,0 +1,57 @@
+{
+    "name": "Rezzzistor 4F",
+    "url": "http://fontdeck.com/typeface/rezzzistor4f",
+    "slug": "rezzzistor4f",
+    "use": "body",
+    "classification": [
+        "Display",
+        "Experimental",
+        "Display",
+        "Futuristic",
+        "Display",
+        "Poster",
+        "Display",
+        "Decorative",
+        "Display",
+        "Geometric",
+        "Sans Serif",
+        "Geometric",
+        "Display",
+        "Computer-related"
+    ],
+    "foundry": "4th february",
+    "designer": [
+        "Sergiy S. Tkachenko"
+    ],
+    "language": [
+        "latin",
+        "cyrillic"
+    ],
+    "tags": [
+        "unique",
+        "strong",
+        "unicase"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/rezzzistor4f/regular",
+            "css": {
+                "font-family": "Rezzzistor 4F Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3902",
+                "slug": "regular",
+                "price": "$10.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "924",
+        "slug": "rezzzistor4f"
+    },
+    "generatedAt": 1437610128290
+}

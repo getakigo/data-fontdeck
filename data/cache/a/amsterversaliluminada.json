@@ -1,0 +1,82 @@
+{
+    "name": "Amster Versal Iluminada",
+    "url": "http://fontdeck.com/typeface/amsterversaliluminada",
+    "slug": "amsterversaliluminada",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "All caps"
+    ],
+    "foundry": "PampaType",
+    "designer": [
+        "Francisco Gálvez Pizarro"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "latino",
+        "characters",
+        "opentype",
+        "simple",
+        "novels",
+        "sharp",
+        "argentina",
+        "spanish",
+        "friendly",
+        "contemporary",
+        "chilean",
+        "illuminated",
+        "sophisticated",
+        "drop caps",
+        "initials",
+        "latin american",
+        "poetic",
+        "calligraphic",
+        "pampatype",
+        "delicate",
+        "typographica",
+        "energetic",
+        "display",
+        "chile",
+        "francisco-galvez",
+        "books"
+    ],
+    "variations": [
+        {
+            "name": "Back",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/amsterversaliluminada/back",
+            "css": {
+                "font-family": "Amster Versal Iluminada Back",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8943",
+                "slug": "back",
+                "price": "$27.50"
+            }
+        },
+        {
+            "name": "Fore",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/amsterversaliluminada/fore",
+            "css": {
+                "font-family": "Amster Versal Iluminada Fore",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "8944",
+                "slug": "fore",
+                "price": "$27.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "2005",
+        "slug": "amsterversaliluminada"
+    },
+    "generatedAt": 1437611587018
+}

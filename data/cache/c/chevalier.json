@@ -1,0 +1,67 @@
+{
+    "name": "Chevalier",
+    "url": "http://fontdeck.com/typeface/chevalier",
+    "slug": "chevalier",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "URW Studio",
+        "E.A. Neukomm"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "decorative",
+        "1940s",
+        "engraving",
+        "1880s",
+        "caps only",
+        "money",
+        "lined",
+        "german",
+        "tooled",
+        "ornamental"
+    ],
+    "variations": [
+        {
+            "name": "Open Small Caps",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/chevalier/opensmallcaps",
+            "css": {
+                "font-family": "Chevalier Open Small Caps",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1480",
+                "slug": "opensmallcaps",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Stripes Small Caps",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/chevalier/stripessmallcaps",
+            "css": {
+                "font-family": "Chevalier Stripes Small Caps",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1481",
+                "slug": "stripessmallcaps",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "398",
+        "slug": "chevalier"
+    },
+    "generatedAt": 1437609270923
+}

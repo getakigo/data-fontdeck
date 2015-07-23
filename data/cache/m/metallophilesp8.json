@@ -1,0 +1,94 @@
+{
+    "name": "Metallophile Sp 8",
+    "url": "http://fontdeck.com/typeface/metallophilesp8",
+    "slug": "metallophilesp8",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Experimental",
+        "Display",
+        "Sans serif"
+    ],
+    "foundry": "Mark Simonson Studio",
+    "designer": [
+        "Mark Simonson"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "rough",
+        "retro",
+        "1940s",
+        "sansserif",
+        "geometric",
+        "antiqued"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/metallophilesp8/light",
+            "css": {
+                "font-family": "Metallophile Sp 8 Light",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1295",
+                "slug": "light",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/metallophilesp8/lightitalic",
+            "css": {
+                "font-family": "Metallophile Sp 8 Light Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1294",
+                "slug": "lightitalic",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/metallophilesp8/medium",
+            "css": {
+                "font-family": "Metallophile Sp 8 Medium",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "1297",
+                "slug": "medium",
+                "price": "$9.99"
+            }
+        },
+        {
+            "name": "Medium Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/metallophilesp8/mediumitalic",
+            "css": {
+                "font-family": "Metallophile Sp 8 Medium Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "1296",
+                "slug": "mediumitalic",
+                "price": "$9.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "353",
+        "slug": "metallophilesp8"
+    },
+    "generatedAt": 1437609214809
+}

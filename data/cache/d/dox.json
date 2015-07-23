@@ -1,0 +1,79 @@
+{
+    "name": "Dox",
+    "url": "http://fontdeck.com/typeface/dox",
+    "slug": "dox",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Experimental",
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "Fontfabric",
+    "designer": [
+        "Svetoslav Simov"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "techno",
+        "geometric",
+        "logo",
+        "linear",
+        "fat",
+        "fancy",
+        "informal",
+        "magazine",
+        "poster",
+        "modern",
+        "decorative",
+        "block",
+        "funny",
+        "octagonal",
+        "box",
+        "computer",
+        "blocks",
+        "square",
+        "headline",
+        "ultra-bold",
+        "blocky"
+    ],
+    "variations": [
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/dox/black",
+            "css": {
+                "font-family": "Dox Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3000",
+                "slug": "black",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Line",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/dox/line",
+            "css": {
+                "font-family": "Dox Line",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2999",
+                "slug": "line",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "699",
+        "slug": "dox"
+    },
+    "generatedAt": 1437609743627
+}

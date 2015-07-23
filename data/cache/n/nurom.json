@@ -1,0 +1,179 @@
+{
+    "name": "Nurom",
+    "url": "http://fontdeck.com/typeface/nurom",
+    "slug": "nurom",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Neo-Grotesk"
+    ],
+    "foundry": "The Northern Block",
+    "designer": [
+        "Jonathan Hill"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "technical",
+        "geometric",
+        "logo",
+        "linear",
+        "balanced",
+        "functional",
+        "neogrotesk",
+        "contemporary",
+        "neo-grotesk",
+        "magazine",
+        "news",
+        "versatile",
+        "economical",
+        "minimal",
+        "modern",
+        "grotesk",
+        "business text",
+        "european",
+        "headline",
+        "information",
+        "architectural",
+        "sans-serif",
+        "legible",
+        "brochure",
+        "poster",
+        "fashion",
+        "swiss",
+        "grotesque",
+        "light",
+        "editorial",
+        "corporate",
+        "german",
+        "conservative"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n3",
+            "url": "http://fontdeck.com/font/nurom/light",
+            "css": {
+                "font-family": "Nurom Light",
+                "font-weight": "300",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4296",
+                "slug": "light",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/nurom/italic",
+            "css": {
+                "font-family": "Nurom Italic",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4298",
+                "slug": "italic",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/nurom/regular",
+            "css": {
+                "font-family": "Nurom Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4297",
+                "slug": "regular",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/nurom/medium",
+            "css": {
+                "font-family": "Nurom Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4299",
+                "slug": "medium",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/nurom/bold",
+            "css": {
+                "font-family": "Nurom Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4301",
+                "slug": "bold",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/nurom/extrabold",
+            "css": {
+                "font-family": "Nurom ExtraBold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4302",
+                "slug": "extrabold",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Heavy",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/nurom/heavy",
+            "css": {
+                "font-family": "Nurom Heavy",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4303",
+                "slug": "heavy",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "DemiBold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/nurom/demibold",
+            "css": {
+                "font-family": "Nurom DemiBold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "4300",
+                "slug": "demibold",
+                "price": "$7.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1008",
+        "slug": "nurom"
+    },
+    "generatedAt": 1437610291565
+}

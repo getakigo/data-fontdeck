@@ -1,0 +1,125 @@
+{
+    "name": "Aquarius",
+    "url": "http://fontdeck.com/typeface/aquarius",
+    "slug": "aquarius",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Slab serif",
+        "Slab Serif",
+        "Grotesque/Geometric",
+        "Display",
+        "Serif",
+        "Serif",
+        "Glyphic",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "Red Rooster Collection",
+    "designer": [
+        "Steve Jackaman"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "1970s",
+        "expressive",
+        "geometric",
+        "jazz",
+        "sturdy",
+        "idiosyncratic",
+        "bauhaus",
+        "magazine",
+        "news",
+        "poster",
+        "modest",
+        "angular",
+        "minimalism",
+        "cool",
+        "menus",
+        "plain",
+        "fashionable",
+        "swiss",
+        "1960s",
+        "european",
+        "retro",
+        "masculine",
+        "signage",
+        "electronic",
+        "square",
+        "german",
+        "unusual",
+        "clean",
+        "sport",
+        "impact",
+        "grotesk family"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/aquarius/light",
+            "css": {
+                "font-family": "Aquarius Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2965",
+                "slug": "light",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n5",
+            "url": "http://fontdeck.com/font/aquarius/medium",
+            "css": {
+                "font-family": "Aquarius Medium",
+                "font-weight": "500",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2966",
+                "slug": "medium",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/aquarius/bold",
+            "css": {
+                "font-family": "Aquarius Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2963",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Extra-bold",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/aquarius/extrabold",
+            "css": {
+                "font-family": "Aquarius Extra Bold",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2964",
+                "slug": "extrabold",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "688",
+        "slug": "aquarius"
+    },
+    "generatedAt": 1437609721327
+}

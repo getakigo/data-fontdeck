@@ -1,0 +1,124 @@
+{
+    "name": "FS Truman Web",
+    "url": "http://fontdeck.com/typeface/fstrumanweb",
+    "slug": "fstrumanweb",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "Fontsmith",
+    "designer": [
+        "Jason Smith",
+        "Fernando Mello"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "sturdy",
+        "strong",
+        "human",
+        "british",
+        "rational",
+        "spirited",
+        "legible"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/fstrumanweb/light",
+            "css": {
+                "font-family": "FS Truman Web Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5572",
+                "slug": "light",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/fstrumanweb/lightitalic",
+            "css": {
+                "font-family": "FS Truman Web Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5573",
+                "slug": "lightitalic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/fstrumanweb/regular",
+            "css": {
+                "font-family": "FS Truman Web Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5574",
+                "slug": "regular",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/fstrumanweb/italic",
+            "css": {
+                "font-family": "FS Truman Web Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5571",
+                "slug": "italic",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/fstrumanweb/bold",
+            "css": {
+                "font-family": "FS Truman Web Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "5569",
+                "slug": "bold",
+                "price": "$18.75"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/fstrumanweb/bolditalic",
+            "css": {
+                "font-family": "FS Truman Web Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "5570",
+                "slug": "bolditalic",
+                "price": "$18.75"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1295",
+        "slug": "fstrumanweb"
+    },
+    "generatedAt": 1437610680700
+}

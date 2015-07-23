@@ -1,0 +1,40 @@
+{
+    "name": "ATL Ali",
+    "url": "http://fontdeck.com/typeface/atlali",
+    "slug": "atlali",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Experimental"
+    ],
+    "foundry": "Nouvelle Noire",
+    "designer": [
+        "Philippe Apeloig"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/atlali/regular",
+            "css": {
+                "font-family": "ATL Ali Regular",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "7690",
+                "slug": "regular",
+                "price": "$25.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1774",
+        "slug": "atlali"
+    },
+    "generatedAt": 1437611235067
+}

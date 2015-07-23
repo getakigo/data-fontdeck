@@ -1,0 +1,46 @@
+{
+    "name": "FT Dead Mans Diary",
+    "url": "http://fontdeck.com/typeface/ftdeadmansdiary",
+    "slug": "ftdeadmansdiary",
+    "use": "body",
+    "classification": [
+        "Script",
+        "Handwritten",
+        "Script",
+        "Casual"
+    ],
+    "foundry": "Fenotype",
+    "designer": [
+        "Emil Bertell"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "cursive",
+        "ink",
+        "handwriting"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/ftdeadmansdiary/regular",
+            "css": {
+                "font-family": "FT Dead Mans Diary Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2451",
+                "slug": "regular",
+                "price": "$8.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "597",
+        "slug": "ftdeadmansdiary"
+    },
+    "generatedAt": 1437609529443
+}

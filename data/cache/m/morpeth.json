@@ -1,0 +1,136 @@
+{
+    "name": "Morpeth",
+    "url": "http://fontdeck.com/typeface/morpeth",
+    "slug": "morpeth",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "G-Type",
+    "designer": [
+        "Nick Cooke"
+    ],
+    "opentype": [
+        "c2sc",
+        "dlig",
+        "lnum",
+        "onum",
+        "pnum",
+        "smcp",
+        "tnum"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "opentype",
+        "condensed",
+        "open forms",
+        "text",
+        "legible",
+        "large x-height",
+        "magazine",
+        "modern",
+        "compact",
+        "signage",
+        "corporate"
+    ],
+    "variations": [
+        {
+            "name": "Extra-light",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/morpeth/extralight",
+            "css": {
+                "font-family": "Morpeth Extra Light",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6792",
+                "slug": "extralight",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/morpeth/light",
+            "css": {
+                "font-family": "Morpeth Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6793",
+                "slug": "light",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Medium",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/morpeth/medium",
+            "css": {
+                "font-family": "Morpeth Medium",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6951",
+                "slug": "medium",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Semi-bold",
+            "description": "n6",
+            "url": "http://fontdeck.com/font/morpeth/semibold",
+            "css": {
+                "font-family": "Morpeth Semi Bold",
+                "font-weight": "600",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6794",
+                "slug": "semibold",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/morpeth/bold",
+            "css": {
+                "font-family": "Morpeth Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6791",
+                "slug": "bold",
+                "price": "$15.00"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/morpeth/black",
+            "css": {
+                "font-family": "Morpeth Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6790",
+                "slug": "black",
+                "price": "$15.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1545",
+        "slug": "morpeth"
+    },
+    "generatedAt": 1437611107984
+}

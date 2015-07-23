@@ -1,0 +1,138 @@
+{
+    "name": "Aviano Didone",
+    "url": "http://fontdeck.com/typeface/avianodidone",
+    "slug": "avianodidone",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Art Deco"
+    ],
+    "foundry": "Insigne",
+    "designer": [
+        "Jeremy Dooley"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "formal",
+        "serif",
+        "trajan",
+        "capitalis",
+        "latin",
+        "magazine",
+        "high-contrast",
+        "inscribed",
+        "french",
+        "glamour",
+        "aviano",
+        "swirls",
+        "caps only",
+        "fashionable",
+        "chic",
+        "ball terminals",
+        "model",
+        "valuable",
+        "display",
+        "wedding",
+        "invitation",
+        "feminine",
+        "hairlines",
+        "elegante",
+        "extended",
+        "didone",
+        "refined",
+        "decorative",
+        "script",
+        "elegant",
+        "italian",
+        "fashion",
+        "small caps",
+        "graceful",
+        "swash",
+        "versalitas",
+        "wide"
+    ],
+    "variations": [
+        {
+            "name": "Thin",
+            "description": "n1",
+            "url": "http://fontdeck.com/font/avianodidone/thin",
+            "css": {
+                "font-family": "Aviano Didone Thin",
+                "font-weight": "100",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "491",
+                "slug": "thin",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/avianodidone/light",
+            "css": {
+                "font-family": "Aviano Didone Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "490",
+                "slug": "light",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/avianodidone/regular",
+            "css": {
+                "font-family": "Aviano Didone Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "487",
+                "slug": "regular",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/avianodidone/bold",
+            "css": {
+                "font-family": "Aviano Didone Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "489",
+                "slug": "bold",
+                "price": "$7.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/avianodidone/black",
+            "css": {
+                "font-family": "Aviano Didone Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "488",
+                "slug": "black",
+                "price": "$7.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "198",
+        "slug": "avianodidone"
+    },
+    "generatedAt": 1437608997844
+}

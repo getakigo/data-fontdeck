@@ -1,0 +1,47 @@
+{
+    "name": "Annual",
+    "url": "http://fontdeck.com/typeface/annual",
+    "slug": "annual",
+    "use": "heading",
+    "classification": [
+        "Display",
+        "Decorative"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "URW Studio"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "decorative",
+        "american",
+        "naive",
+        "signage",
+        "funny",
+        "1990s"
+    ],
+    "variations": [
+        {
+            "name": "Normal",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/annual/normal",
+            "css": {
+                "font-family": "Annual Normal",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "2612",
+                "slug": "normal",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "633",
+        "slug": "annual"
+    },
+    "generatedAt": 1437609603241
+}

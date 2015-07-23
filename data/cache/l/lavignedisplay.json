@@ -1,0 +1,151 @@
+{
+    "name": "Lavigne Display",
+    "url": "http://fontdeck.com/typeface/lavignedisplay",
+    "slug": "lavignedisplay",
+    "superfamily": "Lavigne",
+    "use": "heading",
+    "classification": [
+        "Serif",
+        "Transitional",
+        "Display",
+        "Serif",
+        "Serif",
+        "Modern"
+    ],
+    "foundry": "ReType",
+    "designer": [
+        "Ramiro Espinoza"
+    ],
+    "opentype": [
+        "liga",
+        "lnum",
+        "onum",
+        "pnum",
+        "smcp",
+        "tnum"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "fine",
+        "opentype",
+        "serif",
+        "feminine",
+        "jewelry",
+        "elle",
+        "classic",
+        "optical sizes",
+        "cosmetics",
+        "vogue",
+        "perfume",
+        "neoclassical",
+        "didone",
+        "magazine",
+        "glossy",
+        "sophisticated",
+        "women",
+        "glamour",
+        "chic",
+        "modern serif",
+        "art",
+        "superfamily"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/lavignedisplay/light",
+            "css": {
+                "font-family": "Lavigne Display Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6154",
+                "slug": "light",
+                "price": "$16.99"
+            }
+        },
+        {
+            "name": "Light Italic",
+            "description": "i2",
+            "url": "http://fontdeck.com/font/lavignedisplay/lightitalic",
+            "css": {
+                "font-family": "Lavigne Display Light Italic",
+                "font-weight": "200",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6155",
+                "slug": "lightitalic",
+                "price": "$16.99"
+            }
+        },
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/lavignedisplay/regular",
+            "css": {
+                "font-family": "Lavigne Display Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6153",
+                "slug": "regular",
+                "price": "$16.99"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/lavignedisplay/italic",
+            "css": {
+                "font-family": "Lavigne Display Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6156",
+                "slug": "italic",
+                "price": "$16.99"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/lavignedisplay/bold",
+            "css": {
+                "font-family": "Lavigne Display Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6158",
+                "slug": "bold",
+                "price": "$16.99"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/lavignedisplay/bolditalic",
+            "css": {
+                "font-family": "Lavigne Display Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6157",
+                "slug": "bolditalic",
+                "price": "$16.99"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1422",
+        "slug": "lavignedisplay"
+    },
+    "generatedAt": 1437610837140
+}

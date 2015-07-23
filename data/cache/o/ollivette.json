@@ -1,0 +1,47 @@
+{
+    "name": "Ollivette",
+    "url": "http://fontdeck.com/typeface/ollivette",
+    "slug": "ollivette",
+    "use": "body",
+    "classification": [
+        "Slab Serif",
+        "Monospaced",
+        "Display",
+        "Computer-related"
+    ],
+    "foundry": "Chank Co",
+    "designer": [
+        "Chank Diesel"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "grunge",
+        "monospace",
+        "distressed",
+        "typewriter"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/ollivette/regular",
+            "css": {
+                "font-family": "Ollivette Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "470",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "190",
+        "slug": "ollivette"
+    },
+    "generatedAt": 1437608979710
+}

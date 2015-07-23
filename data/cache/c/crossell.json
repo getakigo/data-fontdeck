@@ -1,0 +1,121 @@
+{
+    "name": "Crossell",
+    "url": "http://fontdeck.com/typeface/crossell",
+    "slug": "crossell",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Hybrid"
+    ],
+    "foundry": "Emboss Fonts",
+    "designer": [
+        "Stephen Boss"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "linoleum cut",
+        "hand",
+        "headline",
+        "hybrid",
+        "sans serif"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/crossell/regular",
+            "css": {
+                "font-family": "Crossell Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6922",
+                "slug": "regular",
+                "price": "$8.00"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/crossell/italic",
+            "css": {
+                "font-family": "Crossell Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6921",
+                "slug": "italic",
+                "price": "$8.00"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/crossell/bold",
+            "css": {
+                "font-family": "Crossell Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6919",
+                "slug": "bold",
+                "price": "$8.00"
+            }
+        },
+        {
+            "name": "Bold Italic",
+            "description": "i7",
+            "url": "http://fontdeck.com/font/crossell/bolditalic",
+            "css": {
+                "font-family": "Crossell Bold Italic",
+                "font-weight": "700",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6920",
+                "slug": "bolditalic",
+                "price": "$8.00"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n8",
+            "url": "http://fontdeck.com/font/crossell/black",
+            "css": {
+                "font-family": "Crossell Black",
+                "font-weight": "800",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "6917",
+                "slug": "black",
+                "price": "$8.00"
+            }
+        },
+        {
+            "name": "Black Italic",
+            "description": "i8",
+            "url": "http://fontdeck.com/font/crossell/blackitalic",
+            "css": {
+                "font-family": "Crossell Black Italic",
+                "font-weight": "800",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "6918",
+                "slug": "blackitalic",
+                "price": "$8.00"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "1581",
+        "slug": "crossell"
+    },
+    "generatedAt": 1437611040044
+}

@@ -1,0 +1,76 @@
+{
+    "name": "Nimbus Sans Extended",
+    "url": "http://fontdeck.com/typeface/nimbussansextended",
+    "slug": "nimbussansextended",
+    "superfamily": "Nimbus",
+    "use": "heading",
+    "classification": [
+        "Sans Serif",
+        "Geometric"
+    ],
+    "foundry": "URW++",
+    "designer": [
+        "Max Miedinger"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "superfamily",
+        "dynamic",
+        "swiss",
+        "grotesque"
+    ],
+    "variations": [
+        {
+            "name": "Light",
+            "description": "n2",
+            "url": "http://fontdeck.com/font/nimbussansextended/light",
+            "css": {
+                "font-family": "Nimbus Sans Extended Light",
+                "font-weight": "200",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3743",
+                "slug": "light",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Bold",
+            "description": "n7",
+            "url": "http://fontdeck.com/font/nimbussansextended/bold",
+            "css": {
+                "font-family": "Nimbus Sans Extended Bold",
+                "font-weight": "700",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3744",
+                "slug": "bold",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Black",
+            "description": "n9",
+            "url": "http://fontdeck.com/font/nimbussansextended/black",
+            "css": {
+                "font-family": "Nimbus Sans Extended Black",
+                "font-weight": "900",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "3745",
+                "slug": "black",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "887",
+        "slug": "nimbussansextended"
+    },
+    "generatedAt": 1437610064921
+}

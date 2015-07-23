@@ -1,0 +1,60 @@
+{
+    "name": "Nicotine",
+    "url": "http://fontdeck.com/typeface/nicotine",
+    "slug": "nicotine",
+    "use": "body",
+    "classification": [
+        "Sans Serif",
+        "Grotesque",
+        "Display",
+        "Geometric"
+    ],
+    "foundry": "Chank Co",
+    "designer": [
+        "Chank Diesel"
+    ],
+    "language": [
+        "latin"
+    ],
+    "tags": [
+        "condensed",
+        "poster"
+    ],
+    "variations": [
+        {
+            "name": "Regular",
+            "description": "n4",
+            "url": "http://fontdeck.com/font/nicotine/regular",
+            "css": {
+                "font-family": "Nicotine Regular",
+                "font-weight": "400",
+                "font-style": "normal"
+            },
+            "fontdeck": {
+                "id": "468",
+                "slug": "regular",
+                "price": "$12.50"
+            }
+        },
+        {
+            "name": "Regular Italic",
+            "description": "i4",
+            "url": "http://fontdeck.com/font/nicotine/italic",
+            "css": {
+                "font-family": "Nicotine Italic",
+                "font-weight": "400",
+                "font-style": "italic"
+            },
+            "fontdeck": {
+                "id": "469",
+                "slug": "italic",
+                "price": "$12.50"
+            }
+        }
+    ],
+    "fontdeck": {
+        "id": "189",
+        "slug": "nicotine"
+    },
+    "generatedAt": 1437608979904
+}
