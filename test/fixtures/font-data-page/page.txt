@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=980" />
+    <title>${fontName} web font family | Fontdeck</title>
+    <!-- Link to fonts CSS is here, for non-JS users. -->
+    <link rel="stylesheet" href="http://f.fontdeck.com/s/css/2fAL9UCQZAZ0++LM6cNDY58oqYU/fontdeck.com/1669.css" type="text/css" />
+    <link rel="stylesheet" href="/stylesheets/core.css" />
+    <link rel="stylesheet" media="print" href="/stylesheets/print.css" />
+    <!--[if lt IE 9]>
+    <link rel="stylesheet" href="/stylesheets/ie.css" />
+  <![endif]-->
+    <link rel="stylesheet" href="http://f.fontdeck.com/s/css/AwCghQ85VvuHtsjb9yGYbE9CIaA/3/fontdeck.com/${fontSlug}/lightitalic.css" type="text/css" />
+    <link rel="stylesheet" href="http://f.fontdeck.com/s/css/8lFfNJZR7BC3d/LVmacM6VfWCW4/3/fontdeck.com/${fontSlug}/bold.css" type="text/css" />
+    <link rel="stylesheet" href="http://f.fontdeck.com/s/css/AtzgbcBjw7wVQeMzGXJZlbYjIec/3/fontdeck.com/${fontSlug}/italic.css" type="text/css" />
+    <link rel="stylesheet" href="http://f.fontdeck.com/s/css/PKJjyJQzAo1HmmdqRUSnuWdqNcg/3/fontdeck.com/${fontSlug}/mediumitalic.css" type="text/css" />
+    <link rel="stylesheet" href="http://f.fontdeck.com/s/css/gKLhNSPD91nHYKdIcbpq3PXNPQY/3/fontdeck.com/${fontSlug}/regular.css" type="text/css" />
+    <link rel="stylesheet" href="http://f.fontdeck.com/s/css/OaP2JD6PVk/ahuPniZSG1Lenj1U/3/fontdeck.com/${fontSlug}/bolditalic.css" type="text/css" />
+    <link rel="stylesheet" href="http://f.fontdeck.com/s/css/bkbh2qgJB8KnsZP6Upcw3s/ddtE/3/fontdeck.com/${fontSlug}/medium.css" type="text/css" />
+    <link rel="stylesheet" href="http://f.fontdeck.com/s/css/htKMVugCuUHzkwFlDohmy5js+kE/3/fontdeck.com/${fontSlug}/light.css" type="text/css" />
+    <style type="text/css">
+        .s_lightitalic,
+        .specimen h2 {
+            font-family: "${fontName} Light Italic", courier;
+            font-weight: 200;
+            font-style: italic;
+        }
+        .s_extrabold,
+        .specimen h2 {
+            font-family: "${fontName} Extra Bold", courier;
+            font-weight: bold;
+            font-style: normal;
+        }
+        .s_italic,
+        .specimen h2 {
+            font-family: "${fontName} Italic", courier;
+            font-weight: normal;
+            font-style: italic;
+        }
+        .s_mediumitalic,
+        .specimen h2 {
+            font-family: "${fontName} Medium Italic", courier;
+            font-weight: 600;
+            font-style: italic;
+        }
+        .s_regular,
+        .specimen h2 {
+            font-family: "${fontName} Regular", courier;
+            font-weight: normal;
+            font-style: normal;
+        }
+        .s_extrabolditalic,
+        .specimen h2 {
+            font-family: "${fontName} Extra Bold Italic", courier;
+            font-weight: bold;
+            font-style: italic;
+        }
+        .s_medium,
+        .specimen h2 {
+            font-family: "${fontName} Medium", courier;
+            font-weight: 600;
+            font-style: normal;
+        }
+        .s_light,
+        .specimen h2 {
+            font-family: "${fontName} Light", courier;
+            font-weight: 200;
+            font-style: normal;
+        }
+        .s_extrafancy,
+        .specimen h2 {
+            font-family: "${fontName} Extra Fancy", courier;
+            font-weight: 900;
+            font-style: oblique;
+        }
+    </style>
+</head>
+<body class="browse typeface">
+    <header>
+        <div class="header">
+            <div class="section logo">
+                <a href="/"><h1><img src="/images/logos/print-logo.png" alt="Fontdeck" /></h1></a>
+            </div>
+            <nav>
+                <div class="nav user-nav">
+                    <ol class="section">
+                        <li><a href="/register">Create an account</a></li>
+                        <li><a href="/login">Log in</a></li>
+                    </ol>
+                </div>
+            </nav>
+            <div class="section site-nav">
+                <div class="primary">
+                    <nav>
+                        <div class="nav">
+                            <ol>
+                                <li id="nav-fonts"><a href="/typefaces">Fonts</a></li>
+                                <li id="nav-about"><a href="/about">About</a></li>
+                                <li id="nav-pricing"><a href="/about/pricing">Pricing</a></li>
+                                <li id="nav-showcase"><a href="/showcase">Showcase</a></li>
+                            </ol>
+                        </div>
+                    </nav>
+                </div>
+                <div class="secondary">
+                    <form method="get" action="/search" class="search">
+                        <input id="search" type="search" name="q" placeholder="Search" value="" />
+                        <input class="submit" type="submit" value="Search" />
+                    </form>
+                </div>
+                <br style="clear:both" />
+            </div>
+            <!-- /.section -->
+        </div>
+        <!-- /.header -->
+    </header>
+    <div class="content">
+        <div id="notification" class="notification hidden">
+            <div class="section">
+            </div>
+        </div>
+        <section>
+            <div class="section typeface style_sansserif">
+                <p class="scoped">
+                </p>
+                <h1>${fontName}</h1>
+                <div class="primary">
+                    <div class="filter-container">
+                        <form class="require-js">
+                            <div>
+                                <label for="sample-text" class="sample-text-label">Sample Text:
+                                    <input type="text" class="sample-text" id="sample-text" name="sample-text" value="Why do pangolins dream of quiche" />
+                                </label>
+                                <select name="sample-select" id="sample-select" class="uniform-text">
+                                    <option value="0">Why pangolins dream of quiche</option>
+                                    <option value="1">AaBbCcDdEe&hellip;</option>
+                                    <option value="2">Font Name</option>
+                                    <option value="3">Enter your own text…</option>
+                                </select>
+                                <select id="sample-size-select" class="sample-size" name="sample-size">
+                                    <option value="1">12</option>
+                                    <option value="2">14</option>
+                                    <option value="3">16</option>
+                                    <option value="4">18</option>
+                                    <option value="5">21</option>
+                                    <option value="6">24</option>
+                                    <option value="7" selected="selected">30</option>
+                                    <option value="8">36</option>
+                                    <option value="9">48</option>
+                                    <option value="10">60</option>
+                                    <option value="11">72</option>
+                                    <option value="12">96</option>
+                                    <option value="13">144</option>
+                                </select>
+                            </div>
+                        </form>
+                    </div>
+                    <!-- /.filter-container -->
+                    <ul class="font-list">
+                        <li class="font-item">
+                            <div class="add-to-website">
+                                <a href="/license/123" class="add-to-website-link"><span>Add to website</span></a>
+                            </div>
+                            <!-- /.add-to-website -->
+                            <span class="font-price"><strong>$12.50</strong> per year</span>
+                            <span class="font-name"><a href="/font/${fontSlug}/light">${fontName} Light</a></span>
+                            <a href="/font/${fontSlug}/light" class="sample">
+                                <span class="s_light">Why pangolins dream of quiche</span>
+                            </a>
+                        </li>
+                        <li class="font-item">
+                            <div class="add-to-website">
+                                <a href="/license/124" class="add-to-website-link"><span>Add to website</span></a>
+                            </div>
+                            <!-- /.add-to-website -->
+                            <span class="font-price"><strong>$12.50</strong> per year</span>
+                            <span class="font-name"><a href="/font/${fontSlug}/lightitalic">${fontName} Light Italic</a></span>
+                            <a href="/font/${fontSlug}/lightitalic" class="sample">
+                                <span class="s_lightitalic">Why pangolins dream of quiche</span>
+                            </a>
+                        </li>
+                        <li class="font-item">
+                            <div class="add-to-website">
+                                <a href="/license/125" class="add-to-website-link"><span>Add to website</span></a>
+                            </div>
+                            <!-- /.add-to-website -->
+                            <span class="font-price"><strong>$12.50</strong> per year</span>
+                            <span class="font-name"><a href="/font/${fontSlug}/regular">${fontName} Regular</a></span>
+                            <a href="/font/${fontSlug}/regular" class="sample">
+                                <span class="s_regular">Why pangolins dream of quiche</span>
+                            </a>
+                        </li>
+                        <li class="font-item">
+                            <div class="add-to-website">
+                                <a href="/license/126" class="add-to-website-link"><span>Add to website</span></a>
+                            </div>
+                            <!-- /.add-to-website -->
+                            <span class="font-price"><strong>$12.50</strong> per year</span>
+                            <span class="font-name"><a href="/font/${fontSlug}/italic">${fontName} Italic</a></span>
+                            <a href="/font/${fontSlug}/italic" class="sample">
+                                <span class="s_italic">Why pangolins dream of quiche</span>
+                            </a>
+                        </li>
+                        <li class="font-item">
+                            <div class="add-to-website">
+                                <a href="/license/127" class="add-to-website-link"><span>Add to website</span></a>
+                            </div>
+                            <!-- /.add-to-website -->
+                            <span class="font-price"><strong>$12.50</strong> per year</span>
+                            <span class="font-name"><a href="/font/${fontSlug}/medium">${fontName} Medium</a></span>
+                            <a href="/font/${fontSlug}/medium" class="sample">
+                                <span class="s_medium">Why pangolins dream of quiche</span>
+                            </a>
+                        </li>
+                        <li class="font-item">
+                            <div class="add-to-website">
+                                <a href="/license/128" class="add-to-website-link"><span>Add to website</span></a>
+                            </div>
+                            <!-- /.add-to-website -->
+                            <span class="font-price"><strong>$12.50</strong> per year</span>
+                            <span class="font-name"><a href="/font/${fontSlug}/mediumitalic">${fontName} Medium Italic</a></span>
+                            <a href="/font/${fontSlug}/mediumitalic" class="sample">
+                                <span class="s_mediumitalic">Why pangolins dream of quiche</span>
+                            </a>
+                        </li>
+                        <li class="font-item">
+                            <div class="add-to-website">
+                                <a href="/license/129" class="add-to-website-link"><span>Add to website</span></a>
+                            </div>
+                            <!-- /.add-to-website -->
+                            <span class="font-price"><strong>$12.50</strong> per year</span>
+                            <span class="font-name"><a href="/font/${fontSlug}/extrabold">${fontName} Extra Bold</a></span>
+                            <a href="/font/${fontSlug}/extrabold" class="sample">
+                                <span class="s_extrabold">Why pangolins dream of quiche</span>
+                            </a>
+                        </li>
+                        <li class="font-item">
+                            <div class="add-to-website">
+                                <a href="/license/130" class="add-to-website-link"><span>Add to website</span></a>
+                            </div>
+                            <!-- /.add-to-website -->
+                            <span class="font-price"><strong>$12.50</strong> per year</span>
+                            <span class="font-name"><a href="/font/${fontSlug}/extrabolditalic">${fontName} Extra Bold Italic</a></span>
+                            <a href="/font/${fontSlug}/extrabolditalic" class="sample">
+                                <span class="s_extrabolditalic">Why pangolins dream of quiche</span>
+                            </a>
+                        </li>
+                        <li class="font-item">
+                            <div class="add-to-website">
+                                <a href="/license/131" class="add-to-website-link"><span>Add to website</span></a>
+                            </div>
+                            <!-- /.add-to-website -->
+                            <span class="font-price"><strong>$16.50</strong> per year</span>
+                            <span class="font-name"><a href="/font/${fontSlug}/extrafancy">${fontName} Extra Fancy</a></span>
+                            <a href="/font/${fontSlug}/extrafancy" class="sample">
+                                <span class="s_extrafancy">Why pangolins dream of quiche</span>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <!-- /.primary -->
+                <div class="secondary">
+                    <div class="message">
+                        <h4>${fontName} web font family</h4>
+                        <p class="sub">Fontdeck enables you to use ${fontName} as real text on your website, using CSS. Create an account with Fontdeck and try it for free!</p>
+                        <p><a href="/register" class="button bigger no-margin">Create a free account</a></p>
+                    </div>
+                    <h3>About this font family</h3>
+                    <table class="meta">
+                        <tr>
+                            <th>Classification</th>
+                            <td>
+                                <a href="/typefaces/nonlatin" class="classification nonlatin">Non-Latin</a> &raquo;
+                                <a href="/typefaces/nonlatin/greek">Greek</a>
+                                <br />
+                                <a href="/typefaces/sansserif" class="classification sansserif">Sans Serif</a> &raquo;
+                                <a href="/typefaces/sansserif/hybrid">Hybrid</a>
+                                <br />
+                                <a href="/typefaces/sansserif" class="classification sansserif">Sans Serif</a> &raquo;
+                                <a href="/typefaces/sansserif/geometric">Geometric</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <th>Foundry</th>
+                            <td><a href="/foundry/colophon">Reservoir Dogs</a></td>
+                        </tr>
+                        <tr>
+                            <th>Designer</th>
+                            <td>
+                                <a href="/designer/eddharrington">Mr. Blonde</a>,
+                                <a href="/designer/anthonysheret">Mr. Blue</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <th>Opentype</th>
+                            <td>
+                                <a href="/typefaces/all/tags/opentype:liga" rel="tag">liga</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <th>Superfamily</th>
+                            <td>
+                                <a href="/typefaces/all/tags/superfamily:${fontSlug}" rel="tag">${fontName}-super</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <th>Tags</th>
+                            <td>
+                                <ul class="tag-list">
+                                    <li class="tag"><a href="/typefaces/all/tags/simple" rel="tag">simple</a></li>
+                                    <li class="tag"><a href="/typefaces/all/tags/text" rel="tag">text</a></li>
+                                    <li class="tag"><a href="/typefaces/all/tags/legible" rel="tag">legible</a></li>
+                                    <li class="tag"><a href="/typefaces/all/tags/din" rel="tag">din</a></li>
+                                    <li class="tag"><a href="/typefaces/all/tags/superfamily" rel="tag">super family</a></li>
+                                    <li class="tag"><a href="/typefaces/all/tags/trueitalics" rel="tag">true italics</a></li>
+                                    <li class="tag"><a href="/typefaces/all/tags/magazine" rel="tag">magazine</a></li>
+                                    <li class="tag"><a href="/typefaces/all/tags/modern" rel="tag">modern</a></li>
+                                    <li class="tag"><a href="/typefaces/all/tags/1930s" rel="tag">1930s</a></li>
+                                    <li class="tag"><a href="/typefaces/all/tags/trendy" rel="tag">trendy</a></li>
+                                    <li class="tag"><a href="/typefaces/all/tags/grotesque" rel="tag">grotesque</a></li>
+                                    <li class="tag"><a href="/typefaces/all/tags/signage" rel="tag">signage</a></li>
+                                    <li class="tag"><a href="/typefaces/all/tags/corporate" rel="tag">corporate</a></li>
+                                    <li class="tag"><a href="/typefaces/all/tags/greek" rel="tag">greek</a></li>
+                                    <li class="tag"><a href="/typefaces/all/tags/clean" rel="tag">clean</a></li>
+                                </ul>
+                            </td>
+                        </tr>
+                    </table>
+                    <div class="sub">
+                        <p>Leberkas drumstick t-bone chuck shank picanha, short loin spare ribs pastrami tri-tip pork chop pancetta beef corned beef rump. Biltong cow bacon chuck, t-bone beef tail pig beef ribs pork tongue pastrami frankfurter ham brisket. Kevin bresaola t-bone capicola. Chicken jowl kielbasa bacon shankle corned beef strip steak kevin.</p>
+                        <p>Leberkas sirloin meatloaf biltong swine, pork pig shoulder landjaeger tail jowl picanha t-bone chuck. Chuck shoulder swine alcatra tri-tip meatball doner short loin fatback cow sirloin beef. Pastrami pork loin pancetta beef shank drumstick. Turkey shoulder venison chuck sirloin pork chop. Filet mignon t-bone pancetta pig jowl bacon.</p>
+                        <p>Andouille kielbasa venison t-bone, bacon swine pork chop pancetta tongue. Pork belly shank pork chop, turducken corned beef ham pork loin spare ribs meatloaf. Flank cow brisket meatball turkey spare ribs. Doner tri-tip pork belly pork chop tongue picanha sirloin. Swine jerky kielbasa beef ribeye. Shankle jowl boudin bresaola swine drumstick.</p>
+                    </div>
+                    <h3>Websites using ${fontName}</h3>
+                    <a class="showcase" href="http://www.example.com/" target="_blank"><img src="/images/example.jpg" width="120" height="120" alt="Example" title="Example is using ${fontName}"></a>
+                </div>
+                <!-- /.secondary -->
+            </div>
+            <!-- /.section -->
+        </section>
+    </div>
+    <footer>
+        <div class="footer">
+            <section>
+                <div class="section">
+                    <div class="primary">
+                        <nav>
+                            <div class="nav">
+                                <ol>
+                                    <li><a href="/foundries">Foundries</a></li>
+                                    <li><a href="/designers">Designers</a></li>
+                                    <li><a href="/support">Support</a></li>
+                                    <li><a href="/contact">Contact</a></li>
+                                    <li><a href="http://blog.fontdeck.com">Blog</a></li>
+                                    <li><a href="http://twitter.com/fontdeck" onclick="Fontdeck.Track.outboundLink(this, 'Outbound Links', 'Twitter');return false;" title="Fontdeck updated on Twitter">@fontdeck</a></li>
+                                </ol>
+                            </div>
+                        </nav>
+                        <p class="sub">&copy; 2009&ndash;2014 Fontdeck LLC &middot; <a href="/terms">Terms of Service</a> &middot; <a href="/privacy">Privacy</a> &middot; <a href="/cookies.html">Cookies</a></p>
+                    </div>
+                    <div class="secondary">
+                        <p class="sub"><strong>Fontdeck</strong>&reg; is proudly brought to you by <a href="http://clearleft.com">Clearleft</a>&nbsp;&amp;&nbsp;<a href="http://omniti.com/">OmniTI</a></p>
+                    </div>
+                </div>
+            </section>
+        </div>
+        <!-- /.footer -->
+    </footer>
+</body>
+</html>

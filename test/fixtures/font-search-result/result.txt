@@ -1,0 +1,35 @@
+{
+    "query": "apercu",
+    "total": 5,
+    "results": {
+        "tag": [
+            {
+                "url": "/typefaces/all/tags/superfamily:apercu",
+                "name": "superfamily:apercu",
+                "id": 1991
+            }
+        ],
+        "typeface": [
+            {
+                "url": "/typeface/apercumono",
+                "name": "Apercu Mono",
+                "id": "275"
+            },
+            {
+                "url": "${path}",
+                "name": "${query}",
+                "id": "${id}"
+            },
+            {
+                "url": "/typeface/apercumonopro",
+                "name": "Apercu Mono Pro",
+                "id": "1232"
+            },
+            {
+                "url": "/typeface/apercupro",
+                "name": "Apercu Pro",
+                "id": "1231"
+            }
+        ]
+    }
+}

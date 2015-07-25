@@ -1,0 +1,368 @@
+[
+    {
+        "name": "Apercu",
+        "url": "http://fontdeck.com/typeface/apercu",
+        "slug": "apercu",
+        "superfamily": "Apercu-super",
+        "use": "body",
+        "classification": [
+            "Sans Serif",
+            "Hybrid",
+            "Sans Serif",
+            "Geometric"
+        ],
+        "foundry": "Reservoir Dogs",
+        "designer": [
+            "Mr. Blonde",
+            "Mr. Blue"
+        ],
+        "opentype": [
+            "liga"
+        ],
+        "language": [
+            "latin",
+            "greek"
+        ],
+        "tags": [
+            "simple",
+            "text",
+            "legible",
+            "din",
+            "super family",
+            "true italics",
+            "magazine",
+            "modern",
+            "1930s",
+            "trendy",
+            "grotesque",
+            "signage",
+            "corporate",
+            "greek",
+            "clean"
+        ],
+        "variations": [
+            {
+                "name": "Light",
+                "description": "n2",
+                "url": "http://fontdeck.com/font/apercu/light",
+                "css": {
+                    "font-family": "Apercu Light",
+                    "font-weight": "200",
+                    "font-style": "normal"
+                },
+                "fontdeck": {
+                    "id": "123",
+                    "slug": "light",
+                    "price": "$12.50"
+                }
+            },
+            {
+                "name": "Light Italic",
+                "description": "i2",
+                "url": "http://fontdeck.com/font/apercu/lightitalic",
+                "css": {
+                    "font-family": "Apercu Light Italic",
+                    "font-weight": "200",
+                    "font-style": "italic"
+                },
+                "fontdeck": {
+                    "id": "124",
+                    "slug": "lightitalic",
+                    "price": "$12.50"
+                }
+            },
+            {
+                "name": "Regular",
+                "description": "n4",
+                "url": "http://fontdeck.com/font/apercu/regular",
+                "css": {
+                    "font-family": "Apercu Regular",
+                    "font-weight": "400",
+                    "font-style": "normal"
+                },
+                "fontdeck": {
+                    "id": "125",
+                    "slug": "regular",
+                    "price": "$12.50"
+                }
+            },
+            {
+                "name": "Regular Italic",
+                "description": "i4",
+                "url": "http://fontdeck.com/font/apercu/italic",
+                "css": {
+                    "font-family": "Apercu Italic",
+                    "font-weight": "400",
+                    "font-style": "italic"
+                },
+                "fontdeck": {
+                    "id": "126",
+                    "slug": "italic",
+                    "price": "$12.50"
+                }
+            },
+            {
+                "name": "Medium",
+                "description": "n6",
+                "url": "http://fontdeck.com/font/apercu/medium",
+                "css": {
+                    "font-family": "Apercu Medium",
+                    "font-weight": "600",
+                    "font-style": "normal"
+                },
+                "fontdeck": {
+                    "id": "127",
+                    "slug": "medium",
+                    "price": "$12.50"
+                }
+            },
+            {
+                "name": "Medium Italic",
+                "description": "i6",
+                "url": "http://fontdeck.com/font/apercu/mediumitalic",
+                "css": {
+                    "font-family": "Apercu Medium Italic",
+                    "font-weight": "600",
+                    "font-style": "italic"
+                },
+                "fontdeck": {
+                    "id": "128",
+                    "slug": "mediumitalic",
+                    "price": "$12.50"
+                }
+            },
+            {
+                "name": "Extra-bold",
+                "description": "n7",
+                "url": "http://fontdeck.com/font/apercu/extrabold",
+                "css": {
+                    "font-family": "Apercu Extra Bold",
+                    "font-weight": "700",
+                    "font-style": "normal"
+                },
+                "fontdeck": {
+                    "id": "129",
+                    "slug": "extrabold",
+                    "price": "$12.50"
+                }
+            },
+            {
+                "name": "Extra-bold Italic",
+                "description": "i7",
+                "url": "http://fontdeck.com/font/apercu/extrabolditalic",
+                "css": {
+                    "font-family": "Apercu Extra Bold Italic",
+                    "font-weight": "700",
+                    "font-style": "italic"
+                },
+                "fontdeck": {
+                    "id": "130",
+                    "slug": "extrabolditalic",
+                    "price": "$12.50"
+                }
+            },
+            {
+                "name": "Extra Fancy",
+                "description": "o9",
+                "url": "http://fontdeck.com/font/apercu/extrafancy",
+                "css": {
+                    "font-family": "Apercu Extra Fancy",
+                    "font-weight": "900",
+                    "font-style": "oblique"
+                },
+                "fontdeck": {
+                    "id": "131",
+                    "slug": "extrafancy",
+                    "price": "$16.50"
+                }
+            }
+        ],
+        "fontdeck": {
+            "id": "4",
+            "slug": "apercu"
+        }
+    },
+    {
+        "name": "Proximanova",
+        "url": "http://fontdeck.com/typeface/proximanova",
+        "slug": "proximanova",
+        "superfamily": "Proximanova-super",
+        "use": "body",
+        "classification": [
+            "Sans Serif",
+            "Hybrid",
+            "Sans Serif",
+            "Geometric"
+        ],
+        "foundry": "Reservoir Dogs",
+        "designer": [
+            "Mr. Blonde",
+            "Mr. Blue"
+        ],
+        "opentype": [
+            "liga"
+        ],
+        "language": [
+            "latin",
+            "greek"
+        ],
+        "tags": [
+            "simple",
+            "text",
+            "legible",
+            "din",
+            "super family",
+            "true italics",
+            "magazine",
+            "modern",
+            "1930s",
+            "trendy",
+            "grotesque",
+            "signage",
+            "corporate",
+            "greek",
+            "clean"
+        ],
+        "variations": [
+            {
+                "name": "Light",
+                "description": "n2",
+                "url": "http://fontdeck.com/font/proximanova/light",
+                "css": {
+                    "font-family": "Proximanova Light",
+                    "font-weight": "200",
+                    "font-style": "normal"
+                },
+                "fontdeck": {
+                    "id": "123",
+                    "slug": "light",
+                    "price": "$12.50"
+                }
+            },
+            {
+                "name": "Light Italic",
+                "description": "i2",
+                "url": "http://fontdeck.com/font/proximanova/lightitalic",
+                "css": {
+                    "font-family": "Proximanova Light Italic",
+                    "font-weight": "200",
+                    "font-style": "italic"
+                },
+                "fontdeck": {
+                    "id": "124",
+                    "slug": "lightitalic",
+                    "price": "$12.50"
+                }
+            },
+            {
+                "name": "Regular",
+                "description": "n4",
+                "url": "http://fontdeck.com/font/proximanova/regular",
+                "css": {
+                    "font-family": "Proximanova Regular",
+                    "font-weight": "400",
+                    "font-style": "normal"
+                },
+                "fontdeck": {
+                    "id": "125",
+                    "slug": "regular",
+                    "price": "$12.50"
+                }
+            },
+            {
+                "name": "Regular Italic",
+                "description": "i4",
+                "url": "http://fontdeck.com/font/proximanova/italic",
+                "css": {
+                    "font-family": "Proximanova Italic",
+                    "font-weight": "400",
+                    "font-style": "italic"
+                },
+                "fontdeck": {
+                    "id": "126",
+                    "slug": "italic",
+                    "price": "$12.50"
+                }
+            },
+            {
+                "name": "Medium",
+                "description": "n6",
+                "url": "http://fontdeck.com/font/proximanova/medium",
+                "css": {
+                    "font-family": "Proximanova Medium",
+                    "font-weight": "600",
+                    "font-style": "normal"
+                },
+                "fontdeck": {
+                    "id": "127",
+                    "slug": "medium",
+                    "price": "$12.50"
+                }
+            },
+            {
+                "name": "Medium Italic",
+                "description": "i6",
+                "url": "http://fontdeck.com/font/proximanova/mediumitalic",
+                "css": {
+                    "font-family": "Proximanova Medium Italic",
+                    "font-weight": "600",
+                    "font-style": "italic"
+                },
+                "fontdeck": {
+                    "id": "128",
+                    "slug": "mediumitalic",
+                    "price": "$12.50"
+                }
+            },
+            {
+                "name": "Extra-bold",
+                "description": "n7",
+                "url": "http://fontdeck.com/font/proximanova/extrabold",
+                "css": {
+                    "font-family": "Proximanova Extra Bold",
+                    "font-weight": "700",
+                    "font-style": "normal"
+                },
+                "fontdeck": {
+                    "id": "129",
+                    "slug": "extrabold",
+                    "price": "$12.50"
+                }
+            },
+            {
+                "name": "Extra-bold Italic",
+                "description": "i7",
+                "url": "http://fontdeck.com/font/proximanova/extrabolditalic",
+                "css": {
+                    "font-family": "Proximanova Extra Bold Italic",
+                    "font-weight": "700",
+                    "font-style": "italic"
+                },
+                "fontdeck": {
+                    "id": "130",
+                    "slug": "extrabolditalic",
+                    "price": "$12.50"
+                }
+            },
+            {
+                "name": "Extra Fancy",
+                "description": "o9",
+                "url": "http://fontdeck.com/font/proximanova/extrafancy",
+                "css": {
+                    "font-family": "Proximanova Extra Fancy",
+                    "font-weight": "900",
+                    "font-style": "oblique"
+                },
+                "fontdeck": {
+                    "id": "131",
+                    "slug": "extrafancy",
+                    "price": "$16.50"
+                }
+            }
+        ],
+        "fontdeck": {
+            "id": "6",
+            "slug": "proximanova"
+        }
+    }
+]

@@ -24,21 +24,23 @@ var requestStub = function(url, callback) {
   _.defer(() => callback(null, response, body));
 };
 
-env.stubs.request = sinon.spy(requestStub);
-
-var utils = proxyquire(`${root}/common/utils`, _.extend({
-  request: env.stubs.request
-}, utilsStubs));
-
-var fontList = proxyquire(`${root}/font-list`, {
-  '../../config/fontdeck': mockedConfig
-});
-
 // Test
 
 describe('Font List Generation Integration Test', function() {
+  beforeEach(function() {
+    env.stubs.request = sinon.spy(requestStub);
+
+    proxyquire(`${rootPath}/common/utils`, _.extend({
+      request: env.stubs.request
+    }, utilsStubs));
+
+    env.fontList = proxyquire(`${rootPath}/font-list`, {
+      '../../config/fontdeck': mockedConfig
+    });
+  });
+
   it('should make requests and parse response to create a font list', function(done) {
-    fontList.retrieve().done(function(fontList) {
+    env.fontList.retrieve().done(function(fontList) {
       expect(env.stubs.request).to.have.callCount(10);
       expect(fontList).to.deep.equal(fontListObjectFixture);
       done();
