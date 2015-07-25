@@ -1,0 +1,40 @@
+<li class="font-item">
+    <span class="font-name"><a href="/typeface/apercu">Apercu - ${id}</a> <em>8 styles</em></span>
+    <a href="/typeface/apercu" class="sample"><span class="s_apercuregular">Why pangolins dream of quiche</span></a>
+</li>
+<li class="font-item">
+    <span class="font-name"><a href="/typeface/proximanova">Proxima Nova - ${id}</a> <em>14 styles</em></span>
+    <a href="/typeface/proximanova" class="sample"><span class="s_proximanovaregular">Why pangolins dream of quiche</span></a>
+</li>
+<li class="font-item">
+    <span class="font-name"><a href="/typeface/bliss">Bliss - ${id}</a> <em>14 styles</em></span>
+    <a href="/typeface/bliss" class="sample"><span class="s_blissregular">Why pangolins dream of quiche</span></a>
+</li>
+<li class="font-item">
+    <span class="font-name"><a href="/typeface/fsalbertweb">FS Albert Web - ${id}</a> <em>9 styles</em></span>
+    <a href="/typeface/fsalbertweb" class="sample"><span class="s_fsalbertwebregular">Why pangolins dream of quiche</span></a>
+</li>
+<li class="font-item">
+    <span class="font-name"><a href="/typeface/maisonneue">Maison Neue - ${id}</a> <em>12 styles</em></span>
+    <a href="/typeface/maisonneue" class="sample"><span class="s_maisonneuebook">Why pangolins dream of quiche</span></a>
+</li>
+<li class="font-item">
+    <span class="font-name"><a href="/typeface/dintextpro">Din Text Pro - ${id}</a> <em>15 styles</em></span>
+    <a href="/typeface/dintextpro" class="sample"><span class="s_dintextproregular">Why pangolins dream of quiche</span></a>
+</li>
+<li class="font-item">
+    <span class="font-name"><a href="/typeface/futura">Futura - ${id}</a> <em>12 styles</em></span>
+    <a href="/typeface/futura" class="sample"><span class="s_futuramedium">Why pangolins dream of quiche</span></a>
+</li>
+<li class="font-item">
+    <span class="font-name"><a href="/typeface/museosans">Museo Sans - ${id}</a> <em>10 styles</em></span>
+    <a href="/typeface/museosans" class="sample"><span class="s_museosans300">Why pangolins dream of quiche</span></a>
+</li>
+<li class="font-item">
+    <span class="font-name"><a href="/typeface/reader">Reader - ${id}</a> <em>6 styles</em></span>
+    <a href="/typeface/reader" class="sample"><span class="s_readerregular">Why pangolins dream of quiche</span></a>
+</li>
+<li class="font-item">
+    <span class="font-name"><a href="/typeface/apercumono">Apercu Mono - ${id}</a> <em>1 style</em></span>
+    <a href="/typeface/apercumono" class="sample"><span class="s_apercumonoregular">Why pangolins dream of quiche</span></a>
+</li>
