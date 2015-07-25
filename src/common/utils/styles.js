@@ -1,13 +1,4 @@
-import fs from 'fs';
-import path from 'path';
-import Q from 'q';
 import _ from 'lodash';
-import requestLib from 'request';
-import mkdirpLib from 'mkdirp';
-
-const request = Q.denodeify(requestLib);
-const mkdirp = Q.denodeify(mkdirpLib);
-const writeFile = Q.denodeify(fs.writeFile);
 
 const fontStyles = [
   'normal',
@@ -34,54 +25,12 @@ const fontWeights = [
   'Ultra-black'
 ];
 
-const fontWeightsMapping = {};
-
-_.assign(fontWeightsMapping, _.reduce(fontWeights, (mapping, weight) => {
+const fontWeightsMapping = _.reduce(fontWeights, (mapping, weight) => {
   mapping[weight.replace('-', '').toLowerCase()] = weight;
   return mapping;
-}, {}));
+}, {});
 
 export default {
-  getInconsistentSmear({ skew, delay }) {
-    const percentageChange = Math.random() * skew / 100;
-    const additiveOrSubtractive = Math.random() < 0.5 ? -1 : 1;
-    const smear = delay + delay * percentageChange * additiveOrSubtractive;
-    return parseInt(smear, 10);
-  },
-
-  getFontDataPlaceholder() {
-    return {
-      name: null,
-      url: null,
-      slug: null,
-      superfamily: null,
-      use: null,
-      classification: [],
-      foundry: null,
-      designer: null,
-      opentype: null,
-      language: [],
-      tags: [],
-      variations: []
-    };
-  },
-
-  getFontVariationDataPlaceholder() {
-    return {
-      name: null,
-      description: null,
-      url: null,
-      css: {}
-    };
-  },
-
-  getFontProviderPlaceholder() {
-    return {
-      id: null,
-      slug: null
-    };
-  },
-
   normaliseCssDeclaration(declaration) {
     if (declaration.property === 'font-weight') {
       if (declaration.value === 'normal') {
@@ -110,7 +59,7 @@ export default {
     }
 
 
-    if (fontWeights.indexOf(normalisedName) === -1) {
+    if (!fontWeights.includes(normalisedName)) {
       normalisedName = fontWeightsMapping[normalisedName.replace(/\s+/g, '').toLowerCase()];
     }
 
@@ -144,34 +93,5 @@ export default {
       index = fontWeights.length;
     }
     return index + 1;
-  },
-
-  textFor(element) {
-    return element.text().trim();
-  },
-
-  makeRequest(url, action) {
-    const deferred = Q.defer();
-
-    request(url).done(([ response, body ]) => {
-      if (response.statusCode !== 200) {
-        return deferred.reject(new Error('Unknown status code', response.statusCode));
-      }
-
-      Q.when(action(response, body)).done(deferred.resolve);
-    });
-
-    return deferred.promise;
-  },
-
-  writeJSON(filePath, data) {
-    const deferred = Q.defer();
-    const directory = path.dirname(filePath);
-
-    mkdirp(directory).then(() => {
-      return writeFile(filePath, JSON.stringify(data, null, 4));
-    }).done(deferred.resolve);
-
-    return deferred.promise;
   }
 };

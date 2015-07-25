@@ -2,7 +2,7 @@ import Q from 'q';
 import _ from 'lodash';
 import cheerio from 'cheerio';
 import cssParser from 'css';
-import utils from '../common/utils';
+import { dom, placeholders, styles, io } from '../common/utils';
 import config from '../../config/fontdeck';
 
 let allFontData = [];
@@ -17,11 +17,11 @@ const getFontMetaData = ($) => {
   const metaTable = $('.meta tr');
 
   metaTable.each(function() {
-    const metaProperty = utils.textFor($(this).find('th').first()).toLowerCase();
+    const metaProperty = dom.textFor($(this).find('th').first()).toLowerCase();
     let languageClassification = false;
 
     const metaValue = _.reduce($(this).find('td a'), (list, link) => {
-      const value = utils.textFor($(link));
+      const value = dom.textFor($(link));
       if (metaProperty === 'classification' && value === 'Non-Latin') {
         languageClassification = true;
       } else if (languageClassification) {
@@ -54,7 +54,7 @@ const getFontVariationCssData = (declarations) => {
       return;
     }
 
-    const { property, value } = utils.normaliseCssDeclaration(declaration);
+    const { property, value } = styles.normaliseCssDeclaration(declaration);
     cssData[property] = value;
   });
 
@@ -66,7 +66,7 @@ const getFontVariationCssData = (declarations) => {
  *
  */
 const getFontStyleData = ($) => {
-  const fontStyleData = utils.textFor($('head style').last());
+  const fontStyleData = dom.textFor($('head style').last());
   const { stylesheet: { rules } } = cssParser.parse(fontStyleData);
 
   return _.filter(rules, (rule) => rule.type === 'rule');
@@ -79,18 +79,18 @@ const getFontVariationData = (fontItem, fontData, cssDeclarations) => {
   const fontDeckId = licenseLink.attr('href').split('/')[2];
   const price = fontItem.find('.font-price strong').first();
 
-  const fontVariationData = utils.getFontVariationDataPlaceholder();
-  fontVariationData.name = utils.normaliseVariationName(utils.textFor(fontLink)
+  const fontVariationData = placeholders.getFontVariationDataPlaceholder();
+  fontVariationData.name = styles.normaliseVariationName(dom.textFor(fontLink)
                                 .replace(new RegExp(fontData.name + '\\s+'), ''));
   fontVariationData.url = config.fontData.baseURL + fontLink.attr('href');
   fontVariationData.css = getFontVariationCssData(cssDeclarations);
   const { 'font-style': [ fontStyle ], 'font-weight': [ fontWeight ] } = fontVariationData.css;
   fontVariationData.description = `${fontStyle}${fontWeight}`;
 
-  fontVariationData.fontdeck = utils.getFontProviderPlaceholder();
+  fontVariationData.fontdeck = placeholders.getFontProviderPlaceholder();
   fontVariationData.fontdeck.id = fontDeckId;
   fontVariationData.fontdeck.slug = fontSlugs[3];
-  fontVariationData.fontdeck.price = utils.textFor(price);
+  fontVariationData.fontdeck.price = dom.textFor(price);
 
   return fontVariationData;
 };
@@ -100,7 +100,7 @@ const getFontVariationData = (fontItem, fontData, cssDeclarations) => {
  *
  */
 const getFontUse = ({ url }) => {
-  return utils.makeRequest(url, (response, body) => {
+  return io.makeRequest(url, (response, body) => {
     const $ = cheerio.load(body);
     return $('#show-smaller').length === 0 ? 'body' : 'heading';
   });
@@ -117,7 +117,7 @@ const getFontDeckId = ({ name, url }) => {
     fontName = `${name}__`.slice(0, 3);
   }
   const requestUrl = baseURL + search.replace('{name}', fontName.replace(/\s+/g, '+'));
-  return utils.makeRequest(requestUrl, (response, body) => {
+  return io.makeRequest(requestUrl, (response, body) => {
     const { results: { typeface } } = JSON.parse(body);
     const matchingResult = _.find(typeface, (result) => result.url === url.replace(baseURL, ''));
     return matchingResult.id;
@@ -132,12 +132,12 @@ const getDataFromPage = ({ req: { path } }, body) => {
   const deferred = Q.defer();
   const $ = cheerio.load(body);
 
-  let fontData = utils.getFontDataPlaceholder();
-  fontData.name = utils.textFor($('.content .typeface h1').first());
+  let fontData = placeholders.getFontDataPlaceholder();
+  fontData.name = dom.textFor($('.content .typeface h1').first());
   fontData.slug = path.split('/')[2];
   fontData.url = config.fontData.baseURL + path;
   fontData.language.push('latin');
-  fontData.fontdeck = utils.getFontProviderPlaceholder();
+  fontData.fontdeck = placeholders.getFontProviderPlaceholder();
   fontData.fontdeck.slug = fontData.slug;
 
   const metaData = getFontMetaData($);
@@ -153,8 +153,8 @@ const getDataFromPage = ({ req: { path } }, body) => {
   });
 
   fontData.variations = _.sortByAll(fontData.variations, [
-    ({ name }) => utils.fontWeightPriority(name),
-    ({ css }) => utils.fontStylePriority(css['font-style'])
+    ({ name }) => styles.fontWeightPriority(name),
+    ({ css }) => styles.fontStylePriority(css['font-style'])
   ]);
 
   Q.all([ getFontUse(fontData.variations[0]), getFontDeckId(fontData) ])
@@ -191,7 +191,7 @@ const requestBatch = (deferred, fontList) => {
   });
 
   const requestPromises = fontsToPopulate.map((font) => {
-    return utils.makeRequest(baseURL + font.url, getDataFromPage);
+    return io.makeRequest(baseURL + font.url, getDataFromPage);
   });
 
   Q.all(requestPromises).done((requestResponses) => {
@@ -206,7 +206,7 @@ const requestBatch = (deferred, fontList) => {
       return deferred.resolve(_.sortBy(allFontData, 'name'));
     }
 
-    const smear = utils.getInconsistentSmear(config.smear);
+    const smear = io.getInconsistentSmear(config.smear);
     deferred.notify({ type: 'delay-batch', smear: smear / 1000 });
     setTimeout(() => requestBatch(deferred, fontList), smear);
   });

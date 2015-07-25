@@ -1,7 +1,7 @@
 import Q from 'q';
 import _ from 'lodash';
 import cheerio from 'cheerio';
-import utils from '../common/utils';
+import { io } from '../common/utils';
 import config from '../../config/fontdeck';
 
 let listOfFonts = [];
@@ -55,7 +55,7 @@ const requestBatch = (deferred) => {
   const timer = +new Date();
 
   const requestPromises = _.range(startPage, endPage).map((page) => {
-    return utils.makeRequest(config.fontList.baseURL.replace('{n}', page), getDataFromPage);
+    return io.makeRequest(config.fontList.baseURL.replace('{n}', page), getDataFromPage);
   });
 
   Q.all(requestPromises).done((requestResponses) => {
@@ -66,7 +66,7 @@ const requestBatch = (deferred) => {
       return deferred.resolve(listOfFonts);
     }
 
-    const smear = utils.getInconsistentSmear(config.smear);
+    const smear = io.getInconsistentSmear(config.smear);
     deferred.notify({ type: 'delay-batch', smear: smear / 1000 });
     setTimeout(() => requestBatch(deferred), smear);
   });

@@ -30,11 +30,11 @@ describe('Font List Generation Integration Test', function() {
   beforeEach(function() {
     env.stubs.request = sinon.spy(requestStub);
 
-    proxyquire(`${rootPath}/common/utils`, _.extend({
+    proxyquire(`${env.rootPath}/common/utils/io`, _.extend({
       request: env.stubs.request
-    }, utilsStubs));
+    }, env.ioStubs));
 
-    env.fontList = proxyquire(`${rootPath}/font-list`, {
+    env.fontList = proxyquire(`${env.rootPath}/font-list`, {
       '../../config/fontdeck': mockedConfig
     });
   });

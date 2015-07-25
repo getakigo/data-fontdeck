@@ -1,7 +1,7 @@
 import Q from 'q';
 import config from '../config/fontdeck';
 import logger from './common/logger';
-import utils from './common/utils';
+import { io } from './common/utils';
 import fontList from './font-list';
 import fontData from './font-data';
 
@@ -31,7 +31,7 @@ const retrieveFontList = () => {
   })
   .done((listOfFonts) => {
     logger.finish(`Found ${listOfFonts.length} fonts in total`);
-    utils.writeJSON(config.fontList.cacheLocation, listOfFonts).done(() => {
+    io.writeJSON(config.fontList.cacheLocation, listOfFonts).done(() => {
       logger.cacheWritten(config.fontList.cacheLocation);
       deferred.resolve(listOfFonts);
     });
@@ -64,7 +64,7 @@ const retrieveFontData = (fonts) => {
       case 'font-data':
         const cacheDirectory = config.fontData.cacheLocation + value.name.toLowerCase()[0];
         const cacheLocation = `${cacheDirectory}/${value.slug}.json`;
-        utils.writeJSON(cacheLocation, value).done(() => {
+        io.writeJSON(cacheLocation, value).done(() => {
           //logger.cacheWritten(cacheLocation);
         });
         break;
@@ -89,7 +89,7 @@ export default {
       return retrieveFontData(fonts);
     }).done((data) => {
       logger.out('Data generation complete, outputting final file...');
-      utils.writeJSON(config.outputLocation, data).done(() => {
+      io.writeJSON(config.outputLocation, data).done(() => {
         logger.out(`Data saved to ${config.outputLocation}`);
       });
     });

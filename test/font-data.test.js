@@ -44,11 +44,11 @@ describe('Font Data Generation Integration Test', function() {
   beforeEach(function() {
     env.stubs.request = sinon.spy(requestStub);
 
-    proxyquire(`${rootPath}/common/utils`, _.extend({
+    proxyquire(`${env.rootPath}/common/utils/io`, _.extend({
       request: env.stubs.request
-    }, utilsStubs));
+    }, env.ioStubs));
 
-    env.fontData = proxyquire(`${rootPath}/font-data`, {
+    env.fontData = proxyquire(`${env.rootPath}/font-data`, {
       '../../config/fontdeck': mockedConfig
     });
   });
